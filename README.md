@@ -13,16 +13,15 @@
 <p>A falecida mãe de Kunisaki Yukito deixou-o com a boneca e seu último desejo é que Yukito procurasse a "garota dos céus" porque é seu destino salvá-la. Entendendo apenas parcialmente o que sua mãe quis dizer, Yukito tem viajado pelo Japão, procurando em vão por essa garota mítica de quem sua mãe lhe contou. Seu último destino é uma cidade pequena e pacata onde o verão acaba de chegar; e seu encontro com uma jovem chamada Misuzu faz girar as rodas do destino....</p>
 <br/>
 
-<h3>Progresso da tradução - Higanbana no Saku Yoru ni - A Primeira Noite</h3>
+<h3>Progresso da tradução</h3>
 
-<ul>
-    <li>💚 Rota comum: 100%</li>
-    <li>💚 Rota da Misuzu: 100%</li>
-    <li>💙 Rota da Kano: 10%</li>
-    <li>💙 Rota da Minagi: 0%</li>
-    <li>💙 Rota Summer: 0%</li>
-    <li>💙 Rota Air: 0%</li>
-</ul>
+    💚 Rota comum: 100%
+    💚 Rota da Misuzu: 100%
+    💙 Rota da Kano: 10%
+    💙 Rota da Minagi: 0%
+    💙 Rota Summer: 0%
+    💙 Rota Air: 0%
+
 <br/>
 
 <h3>Lançamento:</h3>
