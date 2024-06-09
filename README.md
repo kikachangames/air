@@ -54,16 +54,21 @@
 <h3>Membros da Equipe</h3>
 
 <p><b>Div-lu</b></p>
-<p>Olá! Sou o Div-lu, mas podem chamar-me só de Div. Amo RPGs, novels e cultura japonesa em geral, especialmente obras como Chaos Head, Air, Clannad, Rewrite e Ace Attorney. Sou fã de traduções feitas por fãs, pois transmitem um carinho especial pela obra.</p>
+<img src="https://kikachangames.github.io/air/div.png">
 <p>Tradução, edição de imagens e revisão.</p> 
+<p>Olá! Sou o Div-lu, mas podem chamar-me só de Div. Amo RPGs, novels e cultura japonesa em geral, especialmente obras como Chaos Head, Air, Clannad, Rewrite e Ace Attorney. Sou fã de traduções feitas por fãs, pois transmitem um carinho especial pela obra.</p>
+
 
 <p><b>Hinrong</b></p>
-<p></p>Gosto de Suzumiya Haruhi, Scott Pilgrim, Rewrite, Little Busters! e Danganronpa. Faço de tudo e mais um pouco nos projetos e sou apaixonado por fã-traduções. Prazer te conhecer!</p>
+<img src="https://kikachangames.github.io/air/hin.png">
 <p>Game hacking e revisão.</p>
+<p></p>Gosto de Suzumiya Haruhi, Scott Pilgrim, Rewrite, Little Busters! e Danganronpa. Faço de tudo e mais um pouco nos projetos e sou apaixonado por fã-traduções. Prazer te conhecer!</p>
 
 <p><b>Manolo-chan</b></p>
-<p>Olá! Tenho uma paixão por Visual Novels! Cheguei nesse universo ao aprender Renpy com o objetivo de criar meu próprio jogo! Curto romances, terror e histórias com múltiplos finais, especialmente aquelas ambientadas em escolas! Admiro o trabalho da Key e da 07th Expansion, e meu desejo é reavivar o amor pela leitura por meio das VNs.</p>
+<img src="https://kikachangames.github.io/air/manolo.png">
 <p>Líder de projeto, tradução e programação.</p>
+<p>Olá! Tenho uma paixão por Visual Novels! Cheguei nesse universo ao aprender Renpy com o objetivo de criar meu próprio jogo! Curto romances, terror e histórias com múltiplos finais, especialmente aquelas ambientadas em escolas! Admiro o trabalho da Key e da 07th Expansion, e meu desejo é reavivar o amor pela leitura por meio das VNs.</p>
+
 <br/>
 
 <h3>Agradecimentos</h3>
@@ -85,10 +90,10 @@
 <div id="projects">
 <h3>Outros projetos</h3>
 <br/>
-<img src="https://kikachangames.github.io/higanbana1-pt-br/cover_air.jpg">    
-<p><a href="https://vndb.org/v36" target="_blank">AIR</a> (Standard Edition): 30%.</p>
+<img src="https://kikachangames.github.io/air/higanbana.jpg">    
+<p><a href="https://kikachangames.github.io/higanbana1-pt-br/">Higanbana no Saku Yoru Ni</a></p>
 <img src="https://kikachangames.github.io/higanbana1-pt-br/cover_sayooshi.jpg">    
-<p><a href="https://vndb.org/v1200" target="_blank">Sayonara o Oshiete ~Comment te Dire Adieu</a>: 1%.</p>
+<p><a href="https://vndb.org/v1200" target="_blank">Sayonara o Oshiete</a></p>
 
 </div>    
 
