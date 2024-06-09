@@ -10,18 +10,18 @@
 <br/>
 
 <h3>Sinopse</h3>
-<p>A falecida mãe de Kunisaki Yukito deixou-o com a boneca e seu último desejo é que Yukito procurasse a "garota dos céus" porque é seu destino salvá-la. Entendendo apenas parcialmente o que sua mãe quis dizer, Yukito tem viajado pelo Japão, procurando em vão por essa garota mítica de quem sua mãe lhe contou. Seu último destino é uma cidade pequena e pacata onde o verão acaba de chegar; e seu encontro com uma jovem chamada Misuzu faz girar as rodas do destino....</p>
+<p>A falecida mãe de Kunisaki Yukito deixou-lhe como herança um antigo boneco de pano, uma habilidade peculiar e a missão de encontrar e salvar a "garota dos céus". Sem compreender ao certo o último desejo de sua mãe, Yukito tem viajado pelo Japão, procurando em vão por essa garota mítica. Sua jornada culmina em uma pequena e pacata cidade onde o verão acaba de chegar e seu encontro com a jovem Misuzu dá início ao curso dos acontecimentos do destino...</p>
 <br/>
 
 <h3>Progresso da tradução</h3>
-
+<p>
     💚 Rota comum: 100%
     💚 Rota da Misuzu: 100%
     💙 Rota da Kano: 10%
     💙 Rota da Minagi: 0%
     💙 Rota Summer: 0%
     💙 Rota Air: 0%
-
+</p>
 <br/>
 
 <h3>Lançamento:</h3>
