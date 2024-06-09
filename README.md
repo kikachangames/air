@@ -6,7 +6,7 @@
 <br/>
 
 <h3>Os dias que estavam envoltos no cenário de verão passavam suavemente</h3>
-<p>Nesta página você poderá acompanhar o progresso da tradução, para a língua portuguesa, da visual novel <a href="https://vndb.org/v36" target="_blank"> AIR</a>, lançada pela Key em 2000.</p>
+<p>Nesta página você poderá acompanhar o progresso da tradução PT-BR da visual novel <a href="https://vndb.org/v36" target="_blank"> AIR</a>, lançada pela Key em 2000.</p>
 <br/>
 
 <h3>Sinopse</h3>
