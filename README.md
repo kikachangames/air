@@ -15,11 +15,11 @@
 
 <h3>Progresso da tradução</h3>
 <p>
-    💚 Rota comum: 100%
-    💚 Rota da Misuzu: 100%
-    💙 Rota da Kano: 10%
-    💙 Rota da Minagi: 0%
-    💙 Rota Summer: 0%
+    💚 Rota comum: 100%<br/>
+    💚 Rota da Misuzu: 100%<br/>
+    💙 Rota da Kano: 10%<br/>
+    💙 Rota da Minagi: 0%<br/>
+    💙 Rota Summer: 0%<br/>
     💙 Rota Air: 0%
 </p>
 <br/>
