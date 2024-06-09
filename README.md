@@ -51,7 +51,7 @@
 <br/>
 <br/>
 
-<h3>Membros da Equipe</h3>
+<h3>Membros do projeto</h3>
 
 <h3>Div-lu</h3>
 <img src="https://kikachangames.github.io/air/div.png">
@@ -90,10 +90,15 @@
 <div id="projects">
 <h3>Outros projetos</h3>
 <br/>
+    
+<a href="https://kikachangames.github.io/higanbana1-pt-br/">
 <img src="https://kikachangames.github.io/air/higanbana.jpg">    
-<p><a href="https://kikachangames.github.io/higanbana1-pt-br/">Higanbana no Saku Yoru Ni</a></p>
+Higanbana no Saku Yoru Ni</a>
+<br/>
+    
+<a href="https://vndb.org/v1200" target="_blank">
 <img src="https://kikachangames.github.io/higanbana1-pt-br/cover_sayooshi.jpg">    
-<p><a href="https://vndb.org/v1200" target="_blank">Sayonara o Oshiete</a></p>
+Sayonara o Oshiete</a>
 
 </div>    
 
