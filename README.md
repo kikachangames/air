@@ -62,7 +62,7 @@
 <p><b>Hinrong</b></p>
 <img src="https://kikachangames.github.io/air/hin.png">
 <p>Game hacking e revisão.</p>
-<p></p>Gosto de Suzumiya Haruhi, Scott Pilgrim, Rewrite, Little Busters! e Danganronpa. Faço de tudo e mais um pouco nos projetos e sou apaixonado por fã-traduções. Prazer te conhecer!</p>
+<p>Gosto de Suzumiya Haruhi, Scott Pilgrim, Rewrite, Little Busters! e Danganronpa. Faço de tudo e mais um pouco nos projetos e sou apaixonado por fã-traduções. Prazer te conhecer!</p>
 
 <p><b>Manolo-chan</b></p>
 <img src="https://kikachangames.github.io/air/manolo.png">
