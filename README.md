@@ -53,22 +53,22 @@
 
 <h3>Membros da Equipe</h3>
 
-<p><b>Div-lu</b></p>
+<h3>Div-lu</h3>
 <img src="https://kikachangames.github.io/air/div.png">
-<p>Tradução, edição de imagens e revisão.</p> 
+<p><b>Tradução, edição de imagens e revisão</b></p> 
 <p>Olá! Sou o Div-lu, mas podem chamar-me só de Div. Amo RPGs, novels e cultura japonesa em geral, especialmente obras como Chaos Head, Air, Clannad, Rewrite e Ace Attorney. Sou fã de traduções feitas por fãs, pois transmitem um carinho especial pela obra.</p>
+<br/>
 
-
-<p><b>Hinrong</b></p>
+<h3>Hinrong</h3>
 <img src="https://kikachangames.github.io/air/hin.png">
-<p>Game hacking e revisão.</p>
+<p><b>Game hacking e revisão</b></p>
 <p>Gosto de Suzumiya Haruhi, Scott Pilgrim, Rewrite, Little Busters! e Danganronpa. Faço de tudo e mais um pouco nos projetos e sou apaixonado por fã-traduções. Prazer te conhecer!</p>
+<br/>
 
-<p><b>Manolo-chan</b></p>
+<h3>Manolo-chan</h3>
 <img src="https://kikachangames.github.io/air/manolo.png">
-<p>Líder de projeto, tradução e programação.</p>
-<p>Olá! Tenho uma paixão por Visual Novels! Cheguei nesse universo ao aprender Renpy com o objetivo de criar meu próprio jogo! Curto romances, terror e histórias com múltiplos finais, especialmente aquelas ambientadas em escolas! Admiro o trabalho da Key e da 07th Expansion, e meu desejo é reavivar o amor pela leitura por meio das VNs.</p>
-
+<p><b>Líder de projeto, tradução e programação<b></p>
+<p>Tenho uma paixão por Visual Novels! Cheguei nesse universo ao aprender Renpy com o objetivo de criar meu próprio jogo! Curto romances, terror e histórias com múltiplos finais, especialmente aquelas ambientadas em escolas! Admiro o trabalho da Key e da 07th Expansion, e meu desejo é reavivar o amor pela leitura por meio das VNs.</p>
 <br/>
 
 <h3>Agradecimentos</h3>
