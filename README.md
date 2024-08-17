@@ -17,7 +17,7 @@
 <p>
     💚 Rota comum: 100%<br/>
     💚 Rota da Misuzu: 100%<br/>
-    💙 Rota da Kano: 100%<br/>
+    💚 Rota da Kano: 100%<br/>
     💙 Rota da Minagi: 5%<br/>
     💙 Rota Summer: 0%<br/>
     💙 Rota Air: 0%
