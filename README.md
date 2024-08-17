@@ -10,7 +10,7 @@
 <br/>
 
 <h3>Sinopse</h3>
-<p>A falecida mãe de Kunisaki Yukito deixou-lhe como herança um antigo boneco de pano, uma habilidade peculiar e a missão de encontrar e salvar a "garota dos céus". Sem compreender ao certo o último desejo de sua mãe, Yukito tem viajado pelo Japão, procurando em vão por essa garota mítica. Sua jornada culmina em uma pequena e pacata cidade onde o verão acaba de chegar e seu encontro com a jovem Misuzu dá início ao curso dos acontecimentos do destino...</p>
+<p>A falecida mãe de Kunisaki Yukito deixou-lhe como herança um antigo boneco de pano, uma habilidade peculiar e a missão de encontrar a "garota dos céus". Sem compreender ao certo o último desejo de sua mãe, Yukito tem viajado pelo Japão, procurando em vão por essa garota mítica. Sua jornada culmina em uma pequena e pacata cidade onde o verão acaba de chegar e seu encontro com a jovem Misuzu dá início ao curso dos acontecimentos do destino...</p>
 <br/>
 
 <h3>Progresso da tradução</h3>
