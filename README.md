@@ -18,7 +18,7 @@
     💚 Rota comum: 100%<br/>
     💚 Rota da Misuzu: 100%<br/>
     💚 Rota da Kano: 100%<br/>
-    💙 Rota da Minagi: 5%<br/>
+    💙 Rota da Minagi: 15%<br/>
     💙 Rota Summer: 0%<br/>
     💙 Rota Air: 0%
 </p>
@@ -87,5 +87,5 @@
 <br/>
 
 <hr>
-<p><small>Última atualização: 13/08/2024.</small></p>
+<p><small>Última atualização: 24/08/2024.</small></p>
 <p><small>2024 - <a href="https://kikachangames.github.io/projetos/">Projetos</a> - <a href="https://kikachan-games.itch.io/" target="_blank">kikachan-games</a> - <a href="https://twitter.com/kikachangames/" target="_blank">X</a> - <a href="https://discord.gg/jsm8yKtu2E" target="_blank">Discord</a></small></p>
