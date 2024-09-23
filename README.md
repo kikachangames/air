@@ -22,7 +22,7 @@
     💙 Arco Summer: 25%<br/>
     💙 Arco Air: 0%<br/>
     <br/>
-    Progresso Total: 71,43%
+    Progresso Total: 72,73%
 </p>
 <br/>
 
