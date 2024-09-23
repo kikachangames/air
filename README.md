@@ -15,12 +15,12 @@
 
 <h3>Progresso da tradução</h3>
 <p>
-    💚 Rota comum: 100%<br/>
-    💚 Rota da Misuzu: 100%<br/>
-    💚 Rota da Kano: 100%<br/>
-    💚 Rota da Minagi: 100%<br/>
-    💙 Rota Summer: 0%<br/>
-    💙 Rota Air: 0%<br/>
+    💚 Arco Dream - Rota comum: 100%<br/>
+    💚 Arco Dream - Rota da Misuzu: 100%<br/>
+    💚 Arco Dream - Rota da Kano: 100%<br/>
+    💚 Arco Dream - Rota da Minagi: 100%<br/>
+    💙 Arco Summer: 25%<br/>
+    💙 Arco Air: 0%<br/>
     <br/>
     Progresso Total: 71,43%
 </p>
@@ -89,5 +89,5 @@
 <br/>
 
 <hr>
-<p><small>Última atualização: 14/09/2024.</small></p>
+<p><small>Última atualização: 23/09/2024.</small></p>
 <p><small>2024 - <a href="https://kikachangames.github.io/projetos/">Projetos</a> - <a href="https://kikachan-games.itch.io/" target="_blank">kikachan-games</a> - <a href="https://twitter.com/kikachangames/" target="_blank">X</a> - <a href="https://discord.gg/jsm8yKtu2E" target="_blank">Discord</a></small></p>
