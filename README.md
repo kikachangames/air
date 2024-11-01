@@ -20,7 +20,7 @@
     💚 Arco Dream - Rota da Kano: 100%<br/>
     💚 Arco Dream - Rota da Minagi: 100%<br/>
     💚 Arco Summer: 100%<br/>
-    💚 Arco Air: 1000%<br/>
+    💚 Arco Air: 100%<br/>
     <br/>
     Progresso total da tradução: 100%.<br/>
     Status: Em revisão, quality check e edição de imagens.
