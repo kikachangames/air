@@ -22,7 +22,7 @@
     💚 Arco Summer: 100%<br/>
     💚 Arco Air: 1000%<br/>
     <br/>
-    Progresso total da tradução: 100%.
+    Progresso total da tradução: 100%.<br/>
     Status: Em revisão, quality check e edição de imagens.
 </p>
 <br/>
@@ -56,19 +56,19 @@
 
 <h3>Membros do projeto</h3>
 
-<h3>Manolo-chan</h3>
+<b>Manolo-chan</b>
 <img src="https://kikachangames.github.io/air/manolo.png">
-<p><b>Líder de projeto, tradução e programação</b></p>
+<p>Líder de projeto, tradução e programação</p>
 <br/>
 
-<h3>Div-lu</h3>
+<b>Div-lu</b>
 <img src="https://kikachangames.github.io/air/div.png">
-<p><b>Tradução, edição de imagens e revisão</b></p> 
+<p>Tradução, edição de imagens e revisão</p> 
 <br/>
 
-<h3>Hinrong</h3>
+<b>Hinrong</b>
 <img src="https://kikachangames.github.io/air/hin.png">
-<p><b>Game hacking e revisão</b></p>
+<p>Game hacking e revisão</p>
 <br/>
 
 <h3>Agradecimentos</h3>
