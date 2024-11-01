@@ -56,18 +56,18 @@
 
 <h3>Membros do projeto</h3>
 
-<b>Manolo-chan</b>
 <img src="https://kikachangames.github.io/air/manolo.png">
+<b>Manolo-chan</b>
 <p>Líder de projeto, tradução e programação</p>
 <br/>
 
-<b>Div-lu</b>
 <img src="https://kikachangames.github.io/air/div.png">
+<b>Div-lu</b>
 <p>Tradução, edição de imagens e revisão</p> 
 <br/>
 
-<b>Hinrong</b>
 <img src="https://kikachangames.github.io/air/hin.png">
+<b>Hinrong</b>
 <p>Game hacking e revisão</p>
 <br/>
 
