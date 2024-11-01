@@ -19,10 +19,10 @@
     💚 Arco Dream - Rota da Misuzu: 100%<br/>
     💚 Arco Dream - Rota da Kano: 100%<br/>
     💚 Arco Dream - Rota da Minagi: 100%<br/>
-    💙 Arco Summer: 50%<br/>
-    💙 Arco Air: 0%<br/>
+    💚 Arco Summer: 100%<br/>
+    💚 Arco Air: 1000%<br/>
     <br/>
-    Progresso Total: 72,73%
+    Progresso Total: 100% (Status: Completo)
 </p>
 <br/>
 
@@ -85,9 +85,9 @@
 <br/>
 
 <h3>Download</h3>
-<p><b>Em breve!</b></p>
+<p><b>A partir de 01/01/2025 (meio-dia)!</b></p>
 <br/>
 
 <hr>
-<p><small>Última atualização: 30/09/2024.</small></p>
+<p><small>Última atualização: 01/11/2024.</small></p>
 <p><small>2024 - <a href="https://kikachangames.github.io/projetos/">Projetos</a> - <a href="https://kikachan-games.itch.io/" target="_blank">kikachan-games</a> - <a href="https://twitter.com/kikachangames/" target="_blank">X</a> - <a href="https://discord.gg/jsm8yKtu2E" target="_blank">Discord</a></small></p>
