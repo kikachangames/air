@@ -72,7 +72,7 @@
 <br/>
 
 <img src="https://kikachangames.github.io/higanbana1-pt-br/ceuipsolon.png">
-<p>Ceuipsolon</p>
+<p><b>Ceuipsolon</b></p>
 <p>Edição de imagens.</p>
 <br/>
 
