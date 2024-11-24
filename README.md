@@ -61,14 +61,19 @@
 <p>Líder de projeto, tradução e programação.</p>
 <br/>
 
-<img src="https://kikachangames.github.io/air/div.png">
-<p><b>Div-lu</b></p>
-<p>Tradução, edição de imagens e revisão.</p> 
-<br/>
-
 <img src="https://kikachangames.github.io/air/hin.png">
 <p><b>Hinrong</b></p>
 <p>Game hacking e revisão.</p>
+<br/>
+
+<img src="https://kikachangames.github.io/air/div.png">
+<p><b>Div-lu</b></p>
+<p>Tradução e edição de imagens.</p> 
+<br/>
+
+<img src="https://kikachangames.github.io/higanbana1-pt-br/ceuipsolon.png">
+<p>Ceuipsolon</p>
+<p>Edição de imagens.</p>
 <br/>
 
 <h3>Agradecimentos</h3>
@@ -87,5 +92,5 @@
 <br/>
 
 <hr>
-<p><small>Última atualização: 01/11/2024.</small></p>
+<p><small>Última atualização: 23/11/2024.</small></p>
 <p><small>2024 - <a href="https://kikachangames.github.io/projetos/">Projetos</a> - <a href="https://kikachan-games.itch.io/" target="_blank">kikachan-games</a> - <a href="https://twitter.com/kikachangames/" target="_blank">X</a> - <a href="https://discord.gg/jsm8yKtu2E" target="_blank">Discord</a></small></p>
