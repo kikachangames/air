@@ -23,7 +23,7 @@ Ordem recomendada da rota Dream: Rota Comum (Final Ruim) → Minagi → Kano →
 Dream / Rota Comum (Final Ruim)
 
 18 de Julho
-  Encontrar outra coisa
+  	Encontrar outra coisa
 	Sair correndo
 	Contar pra ela
 	Fugir
@@ -36,7 +36,7 @@ Dream / Rota Comum (Final Ruim)
 	Por favor, faça isso
 
 19 de Julho	
-  Tentar novamente
+ 	Tentar novamente
 	Entrar na escola
 	Agir com indiferença
 	Na mesa de jantar
@@ -49,7 +49,7 @@ Dream / Rota Comum (Final Ruim)
 	Peça detalhes a ela (Cena Não-H) / Tô cansado. Vou dormir (Cena H / Essa cena não estará presente se você estiver usando o patch Para todas as idades)
 
 20 de Julho	
-  Corda de pular
+  	Corda de pular
 	Vá para o local no lado direito do mapa
 	Tentar falar com isso
 	Fazer um favor, qualquer favor
@@ -64,7 +64,7 @@ Dream / Rota Comum (Final Ruim)
 	Me apresente o trabalho
 
 21 de Julho	
-  Dar a preguiça pra Misuzu após comprar
+  	Dar a preguiça pra Misuzu após comprar
 	Mostrar pra ela sua força física
 	(Salvar o jogo: A)
 	Não, obrigado
@@ -72,7 +72,7 @@ Dream / Rota Comum (Final Ruim)
 	Sem chance
 
 22 de Julho	
-  Vá brincar com seus amigos
+  	Vá brincar com seus amigos
 	Partir para o contra-ataque
 	Jogar ela pra fora do ringue
 	Tô apenas matando o tempo
@@ -85,7 +85,7 @@ Dream / Rota Comum (Final Ruim)
 	Tentar explicar a situação
 
 23 de Julho	
-  Vou vestir a camiseta com o estegossauro
+  	Vou vestir a camiseta com o estegossauro
 	Trocar pela camiseta molhada
 	Distrito comercial
 	Dentro da clínica
@@ -107,30 +107,30 @@ Dream / Minagi
 	Fazer isso
 
 24 de Julho
-  Provar o osso
+  	Provar o osso
 	(Salvar o jogo: C)
 	Eu vou passar
 
 25 de Julho	
-  Ajudar a senhora
+  	Ajudar a senhora
 	Entregar o boneco
 	Reclamar que tá muito quente pra passear
 	Falar pra ela subir
 	Parar de perguntar sobre a bandana
 
 26 de Julho	
-  Encontrar Misuzu
+  	Encontrar Misuzu
 
 27 de Julho	
-  Aceitar com gratidão
+  	Aceitar com gratidão
 
 29 de Julho
-  Linha ”Ta”
+  	Linha ”Ta”
 	Continuar lendo o dicionário
 	Agir com ciúmes
 
 7 de Agosto
-  (Salvar o jogo: D)
+  	(Salvar o jogo: D)
 	Me dê um beijo de bom dia (Cena H / Essa cena não estará presente se você estiver usando o patch Para todas as idades)
 	(FINAL NORMAL)
 	(Carregar o jogo: D)
@@ -146,35 +146,35 @@ Dream / Kano
 	Comer antes de sair
 
 25 de Julho
-  Ela que se vire
+  	Ela que se vire
 	Acompanhar ela até o fim
 	Zoar ela mais um pouco
 	Parar de perguntar sobre a bandana
 
 27 de Julho	
-  Ir para o distrito comercial
+  	Ir para o distrito comercial
 	Procurar por Kano
 	Praticar meu show de marionete
 
 28 de Julho
-  Aceitar
+  	Aceitar
 
 29 de Julho
-  Acompanhar Kano na busca por Potato
+ 	Acompanhar Kano na busca por Potato
 
 30 de Julho
-  Jaleco branco / (O que você achar mais engraçado)
-  Abrir o armário
+  	Jaleco branco / (O que você achar mais engraçado)
+  	Abrir o armário
 	Elas têm que ser mais novas que eu
 	Escutar mais um pouco
 	Miar como um gato
-  Continuar escutando (Cena H / Essa cena não estará presente se você estiver usando o patch Para todas as idades)
+  	Continuar escutando (Cena H / Essa cena não estará presente se você estiver usando o patch Para todas as idades)
 
 2 de Agosto
-  Usar o Houjutsu para abrir a fechadura
+  	Usar o Houjutsu para abrir a fechadura
 
 3 de Agosto
-  Não entrar no ônibus
+  	Não entrar no ônibus
 	Eu vou continuar com a Kano
 	Santuário
 	Ponto de ônibus
@@ -192,7 +192,7 @@ Dream / Misuzu
 	Com certeza
 
 22 de Julho
-  Tudo bem
+  	Tudo bem
 	Deixar ela empurrar meu peito
 	Dar o empurrão final
 	Tô esperando a Misuzu
@@ -201,7 +201,7 @@ Dream / Misuzu
 	Ir dormir
 
 23 de Julho	
-  Vou vestir a camiseta com o estegossauro
+  	Vou vestir a camiseta com o estegossauro
 	Continuar com a camiseta do estegossauro
 	Pode deixar por minha conta
 	Movido a energia solar / (O que você achar mais engraçado)
@@ -213,16 +213,16 @@ Dream / Misuzu
 	Brincar com Misuzu
 
 26 de Julho	
-  Ficar aqui
+  	Ficar aqui
 
 27 de Julho
-  Eu entendo
+  	Eu entendo
 
 29 de Julho
-  Abraçar ela
+  	Abraçar ela
 	Se acalmar (Cena Não-H)
-  Desejar o corpo dela (Cena H)
-  Sem escolha (Estas escolhas não aparecerão se você estiver jogando com o patch Para todas as idades)
+  	Desejar o corpo dela (Cena H)
+  	Sem escolha (Estas escolhas não aparecerão se você estiver jogando com o patch Para todas as idades)
 	(FINAL DA MISUZU)
 
 
@@ -237,33 +237,33 @@ Summer
 Air
 
 16 de Julho	
-  Seguir a garota
+  	Seguir a garota
 
 17 de Julho
-  Lutar
+  	Lutar
 
 19 de Julho
-  Seguir Misuzu → Entrar na escola (Cena com Kano)
-  Seguir o homem (Cena com Yukito)
+  	Seguir Misuzu → Entrar na escola (Cena com Kano)
+  	Seguir o homem (Cena com Yukito)
 	Sair do quarto
 	Se defender
 
 20 de Julho
-  Sair para caminhar
+  	Sair para caminhar
 	Percorrer o caminho estreito
 	Lutar
 	Se esquivar
 	Conferir
 
 21 de Julho
-  Seguir o homem
+  	Seguir o homem
 	Pegar a folha
 
 22 de Julho	 
-  Pensar novamente sobre o passado
+  	Pensar novamente sobre o passado
 
 23 de Julho	
-  Ficar com a garota
+  	Ficar com a garota
 	Caminhar em linha reta
 	(FINAL DE AIR)
 
@@ -444,7 +444,6 @@ Dream / Kano
 ================================================================================
 
 Dream / Misuzu
-
 
     (Carregar Save A)
     書き足してもらう
