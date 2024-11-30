@@ -1,43 +1,303 @@
-AIR: Standard Edition (2005) Walkthrough
 
-Based off Foolmaker's walkthrough, with tweaks by Sheeta.
+AIR: Standard Edition (2005) - Guia de Rotas
 
-The original walkthrough was written for Winter Confetti translation.
-In this version all three translations are available.
+Baseado no passo a passo do Foolmaker, ajustado por Sheeta e codificado por erengy.
 
-Recommended Dream route order: Bad -> Minagi -> Kano -> Misuzu
+O passo a passo original foi escrito para a tradução da Winter Confetti.
+Nesta versão, adaptamos para o patch pt-br da Kikachan Games.
 
-================================================================================
-  ___       _       _             _
- / _ \ _ __(_) __ _(_)_ __   __ _| |
-| | | | '__| |/ _` | | '_ \ / _` | |
-| |_| | |  | | (_| | | | | | (_| | |
- \___/|_|  |_|\__, |_|_| |_|\__,_|_|
-              |___/
-     _
-    | | __ _ _ __   __ _ _ __   ___  ___  ___
- _  | |/ _` | '_ \ / _` | '_ \ / _ \/ __|/ _ \
-| |_| | (_| | |_) | (_| | | | |  __/\__ \  __/
- \___/ \__,_| .__/ \__,_|_| |_|\___||___/\___|
-            |_|
+Ordem recomendada da rota Dream: Rota Comum (Final Ruim) → Minagi → Kano → Misuzu
+
 
 ================================================================================
+  _  ___ _              _                    _____                           
+ | |/ (_) |            | |                  / ____|                          
+ | ' / _| | ____ _  ___| |__   __ _ _ __   | |  __  __ _ _ __ ___   ___  ___ 
+ |  < | | |/ / _` |/ __| '_ \ / _` | '_ \  | | |_ |/ _` | '_ ` _ \ / _ \/ __|
+ | . \| |   < (_| | (__| | | | (_| | | | | | |__| | (_| | | | | | |  __/\__ \
+ |_|\_\_|_|\_\__,_|\___|_| |_|\__,_|_| |_|  \_____|\__,_|_| |_| |_|\___||___/
+                                                                             
+================================================================================
 
-Dream / Common (Bad End)
 
-18th July
+Dream / Rota Comum (Final Ruim)
+
+18 de Julho
+  Encontrar outra coisa
+	Sair correndo
+	Contar pra ela
+	Fugir
+	Transferir a dor de volta pra garota
+	Pegar o telefone e fazer uma chamada (Para a opção divertida) / Comportar-se (Para a opção séria)
+	Ligar pra loja de ramen novamente (Se escolheu a primeira opção acima) / Ligar pros meus amigos (Se escolheu a segunda opção acima)
+	Questionar
+	Ser sincero com ela
+	Eu posso beber
+	Por favor, faça isso
+
+19 de Julho	
+  Tentar novamente
+	Entrar na escola
+	Agir com indiferença
+	Na mesa de jantar
+	Responder da melhor forma possível
+	Ajudar ela
+	”É super fofo”
+	Não mostrar pra elas a apresentação
+	Perguntar pra ela
+	Que tipo de punição?
+	Peça detalhes a ela (Cena Não-H) / Tô cansado. Vou dormir (Cena H / Essa cena não estará presente se você estiver usando o patch Para todas as idades)
+
+20 de Julho	
+  Corda de pular
+	Vá para o local no lado direito do mapa
+	Tentar falar com isso
+	Fazer um favor, qualquer favor
+	Perguntar sobre sua bandana
+	Sim, me conte
+	Não pagar um suco pra ela
+	Pôr a ideia em prática
+	Loja Takeda
+	Fazer uma apresentação para o cachorro
+	Provavelmente sim
+	Vou pensar sobre isso
+	Me apresente o trabalho
+
+21 de Julho	
+  Dar a preguiça pra Misuzu após comprar
+	Mostrar pra ela sua força física
+	(Salvar o jogo: A)
+	Não, obrigado
+	Subir na motocicleta
+	Sem chance
+
+22 de Julho	
+  Vá brincar com seus amigos
+	Partir para o contra-ataque
+	Jogar ela pra fora do ringue
+	Tô apenas matando o tempo
+	Apresentar o show de marionetes pra ela
+	Ir pra escola
+	Eu não odeio elas
+	Sair para uma caminhada
+	Atravessar a ponte
+	Conferir
+	Tentar explicar a situação
+
+23 de Julho	
+  Vou vestir a camiseta com o estegossauro
+	Trocar pela camiseta molhada
+	Distrito comercial
+	Dentro da clínica
+	Tentar matar o tempo
+	(Salvar o jogo: B)
+	Caminhar em direção ao paredão
+	Ir pro ponto de ônibus
+	Deixar a cidade
+	(FINAL RUIM)
+
+
+================================================================================
+
+Dream / Minagi
+
+	(Carregar o jogo: B)
+	Caminhar em direção à estação
+	Pegar o canudinho e devolver pra ela
+	Fazer isso
+
+24 de Julho
+  Provar o osso
+	(Salvar o jogo: C)
+	Eu vou passar
+
+25 de Julho	
+  Ajudar a senhora
+	Entregar o boneco
+	Reclamar que tá muito quente pra passear
+	Falar pra ela subir
+	Parar de perguntar sobre a bandana
+
+26 de Julho	
+  Encontrar Misuzu
+
+27 de Julho	
+  Aceitar com gratidão
+
+29 de Julho
+  Linha ”Ta”
+	Continuar lendo o dicionário
+	Agir com ciúmes
+
+7 de Agosto
+  (Salvar o jogo: D)
+	Me dê um beijo de bom dia (Cena H / Essa cena não estará presente se você estiver usando o patch Para todas as idades)
+	(FINAL NORMAL)
+	(Carregar o jogo: D)
+	Tente novamente amanhã
+	(FINAL BOM DA MINAGI)
+
+
+================================================================================
+
+Dream / Kano
+
+	(Carregar o jogo: C)
+	Comer antes de sair
+
+25 de Julho
+  Ela que se vire
+	Acompanhar ela até o fim
+	Zoar ela mais um pouco
+	Parar de perguntar sobre a bandana
+
+27 de Julho	
+  Ir para o distrito comercial
+	Procurar por Kano
+	Praticar meu show de marionete
+
+28 de Julho
+  Aceitar
+
+29 de Julho
+  Acompanhar Kano na busca por Potato
+
+30 de Julho
+  Jaleco branco / (O que você achar mais engraçado)
+  Abrir o armário
+	Elas têm que ser mais novas que eu
+	Escutar mais um pouco
+	Miar como um gato
+  Continuar escutando (Cena H / Essa cena não estará presente se você estiver usando o patch Para todas as idades)
+
+2 de Agosto
+  Usar o Houjutsu para abrir a fechadura
+
+3 de Agosto
+  Não entrar no ônibus
+	Eu vou continuar com a Kano
+	Santuário
+	Ponto de ônibus
+	(FINAL DA KANO)
+
+
+================================================================================
+
+Dream / Misuzu
+
+	(Carregar o jogo: A)
+	Permitir que ela melhore o mapa
+	Ter fé no mapa de Misuzu
+	Subir no carrinho de mão / (Essa escolha não aparecerá se você não tiver aceitado a ajuda da Haruko para conseguir um emprego)
+	Com certeza
+
+22 de Julho
+  Tudo bem
+	Deixar ela empurrar meu peito
+	Dar o empurrão final
+	Tô esperando a Misuzu
+	Ir pra Residência Kamio
+	Sim, claro que irei
+	Ir dormir
+
+23 de Julho	
+  Vou vestir a camiseta com o estegossauro
+	Continuar com a camiseta do estegossauro
+	Pode deixar por minha conta
+	Movido a energia solar / (O que você achar mais engraçado)
+	Distrito comercial
+	Esperar Misuzu sair
+	Esperar pacientemente
+	Ir pro quarto de Misuzu
+	Tentar
+	Brincar com Misuzu
+
+26 de Julho	
+  Ficar aqui
+
+27 de Julho
+  Eu entendo
+
+29 de Julho
+  Abraçar ela
+	Se acalmar (Cena Não-H)
+  Desejar o corpo dela (Cena H)
+  Sem escolha (Estas escolhas não aparecerão se você estiver jogando com o patch Para todas as idades)
+	(FINAL DA MISUZU)
+
+
+================================================================================
+
+Summer
+
+   	(Não há escolhas neste arco.)
+
+================================================================================
+
+Air
+
+16 de Julho	
+  Seguir a garota
+
+17 de Julho
+  Lutar
+
+19 de Julho
+  Seguir Misuzu → Entrar na escola (Cena com Kano)
+  Seguir o homem (Cena com Yukito)
+	Sair do quarto
+	Se defender
+
+20 de Julho
+  Sair para caminhar
+	Percorrer o caminho estreito
+	Lutar
+	Se esquivar
+	Conferir
+
+21 de Julho
+  Seguir o homem
+	Pegar a folha
+
+22 de Julho	 
+  Pensar novamente sobre o passado
+
+23 de Julho	
+  Ficar com a garota
+	Caminhar em linha reta
+	(FINAL DE AIR)
+
+
+
+================================================================================
+
+   ____       _       _             _        _                          //\      
+  / __ \     (_)     (_)           | |      | |                        |/ \|     
+ | |  | |_ __ _  __ _ _ _ __   __ _| |      | | __ _ _ __   ___  _ __   ___  ___ 
+ | |  | | '__| |/ _` | | '_ \ / _` | |  _   | |/ _` | '_ \ / _ \| '_ \ / _ \/ __|
+ | |__| | |  | | (_| | | | | | (_| | | | |__| | (_| | |_) | (_) | | | |  __/\__ \
+  \____/|_|  |_|\__, |_|_| |_|\__,_|_|  \____/ \__,_| .__/ \___/|_| |_|\___||___/
+                 __/ |                              | |                          
+                |___/                               |_|                          
+
+================================================================================
+
+Dream / Rota Comum (Final Ruim)
+
+18 de Julho
     別の手を考える
     走り出す
     話してみる
     走り出す
     さらに少女に移す
-    試しにかけてみる (For the lulzy option)    /    大人しくしておく (For the plot option)
-    もう一度ラーメン屋に電話する (If you picked the first choice above)    /    友達に電話をかけてみる (If you picked the second choice above)
+    試しにかけてみる   /   大人しくしておく 
+    もう一度ラーメン屋に電話する   /  友達に電話をかけてみる 
     反抗してみせる
     正直に答える
     飲める
     お願いします
-19th July
+
+19 de Julho
     リトライ
     学校の中に入る
     なんでもない振りをする
@@ -48,8 +308,9 @@ Dream / Common (Bad End)
     見せない
     聞く
     お仕置きってなんだ
-    訊いてみる (Non-H scene)    /    眠いので寝る (H scene / This H scene is not present if you are using All ages patch)
-20th July
+    訊いてみる (Cena Não-H)    /    眠いので寝る (Cena H)
+
+20 de Julho
     なわとび
     地図の右へ
     とりあえず、声をかけてみる
@@ -63,14 +324,16 @@ Dream / Common (Bad End)
     たぶんそうなるだろう
     考えておく
     紹介してもらう
-21st July
+
+21 de Julho
     買い取ったら観鈴にやる
     力自慢なところを見せつける
-    (Create Save A)
+    (Criar Save A)
     遠慮する
     バイクに乗る
     断じて違う
-22nd July
+
+22 de Julho
     友達と遊べ
     反撃する
     豪快に投げ飛ばす
@@ -82,13 +345,14 @@ Dream / Common (Bad End)
     先に進んでみる
     様子を見る
     どうにか説明する
-23rd July
+
+23 de Julho
     敢えてステゴザウルスＴシャツを借りる
     濡れたＴシャツに着替える
     商店街
     診療所の中
     意味もなく間を埋める
-    (Create Save B)
+    (Criar Save B)
     堤防のほうへ歩いてゆく
     バス停へ
     町を出ることにする
@@ -99,33 +363,39 @@ Dream / Common (Bad End)
 Dream / Minagi
 
 
-    (Load Save B)
+    (Carregar Save B)
     駅のほうへ歩いていく
     拾って、返してやる
     やっちゃう
-24th July
+
+24 de Julho
     骨を味わってみる
-    (Create Save C)
+    (Criar Save C)
     やめておく
-25th July
+
+25 de Julho
     手を貸す
     人形を渡す
     暑いからやめようと懇願する
     上がってこいと言う
     バンダナにはもう触れない
-26th July
+
+26 de Julho
     観鈴を迎えに行く
-27th July
+
+27 de Julho
     素直に受け取る
-29th July
+
+29 de Julho
     タ行
     それでも辞書
     嫉妬してみる
-7th August
-    (Create Save D)
-    おはようのキスをしてくれ (H scene / This H scene is not present if you are using All ages patch)
-    (NORMAL END)
-    (Load Save D)
+
+7 de Agosto
+    (Criar Save D)
+    おはようのキスをしてくれ (Cena H)
+    (FINAL NORMAL)
+    (Carregar Save D)
     明日まで我慢してくれ
     (MINAGI GOOD END)
 
@@ -134,48 +404,55 @@ Dream / Minagi
 Dream / Kano
 
 
-    (Load Save C)
+    (Carregar Save C)
     食べていく
-25th July
+
+25 de Julho
     放っておく
     こうなったらとことんつき合う
     もう少しからかう
     バンダナにはもう触れない
-26th July
+
+26 de Julho
     金を稼ぎに商店街へ
     自力で探す
     人形劇の練習
-28th July
+
+28 de Julho
     承諾する
-29th July
+
+29 de Julho
     一緒に探してやると言う
-30th July
+
+30 de Julho
     白衣
-    Whichever you find the funniest
     開けてみる
     年下でないと嫌だ
     まだ盗み聞きをする
-    猫の鳴き真似をしてみる (Non-H scene)    /    まだ聞き耳を立てる (H scene)    /    No choice (This choice is not present if you are using All ages patch)
-2nd August
+    猫の鳴き真似をしてみる (Cena Não-H)    /    まだ聞き耳を立てる (Cena H scene)    /    
+
+2 de Agosto
     法術を使って錠前を外す
-3rd August
+
+3 de Agosto
     乗らない
     これからも佳乃の側にいる
     神社
     バス停
-    (KANO END)
+    (FINAL DA KANO)
 
 ================================================================================
 
 Dream / Misuzu
 
 
-    (Load Save A)
+    (Carregar Save A)
     書き足してもらう
     観鈴を信じる
     リヤカーに乗る
     その通りだ
-22nd July
+
+22 de Julho
     わかったよ
     胸を貸してやる
     とどめのひと突き
@@ -183,517 +460,65 @@ Dream / Misuzu
     神尾家へ
     ああ、そうする
     寝てしまう
-23rd July
+
+23 de Julho
     敢えてステゴザウルスＴシャツを借りる
     敢えて着続けてみる
     俺のおごりだ
-    Whichever you find the funniest
     商店街
     中に入る
     大人しく待つ
     観鈴の部屋にいく
     試してみる
     遊ぶ
-26th July
+
+26 de Julho
     ここにいる
-27th July
+
+27 de Julho
     …わかった
-29th July
+
+29 de Julho
     抱きしめる
-    このままでいる (Non-H scene)    /    体を求める (H scene)    /    No choice (This choice is not present if you are using All ages patch)
-    (MISUZU END)
+    このままでいる (Cena Não-H)    /    体を求める (Cena H)    /    
+    (FINAL DA MISUZU)
 
 ================================================================================
 
 Summer
 
-
-    (There are no choices in this segment.)
+    (Não há escolhas nesse arco.)
 
 ================================================================================
 
 Air
 
-16th July
+16 de Julho
     女の子を追う
-17th July
+
+17 de Julho
     戦う
-19th July
-    みすずについてゆく -> 中に入ってみる (Kano scene)    /    男についてゆく (Yukito scene)
+
+19 de Julho
+    みすずについてゆく -> 中に入ってみる (Cena da Kano)    /    男についてゆく (Cena do Yukito)
     外にでる
     防御
-20th July
+
+20 de Julho
     散歩に出る
     せまい道に入ってみる
     戦う
     迂回する
     確かめにいく
-21st July
+
+21 de Julho
     男についてゆく
     紙切れを奪う
-22nd July
+
+22 de Julho
     もう一度遠い日のことを考える
-23rd July
+
+23 de Julho
     彼女のそばにいる
     真っ直ぐいく
-    (AIR END)
-
-================================================================================
-__        ___       _               ____             __      _   _   _
-\ \      / (_)_ __ | |_ ___ _ __   / ___|___  _ __  / _| ___| |_| |_(_)
- \ \ /\ / /| | '_ \| __/ _ \ '__| | |   / _ \| '_ \| |_ / _ \ __| __| |
-  \ V  V / | | | | | ||  __/ |    | |__| (_) | | | |  _|  __/ |_| |_| |
-   \_/\_/  |_|_| |_|\__\___|_|     \____\___/|_| |_|_|  \___|\__|\__|_|
-
- _                       _       _   _
-| |_ _ __ __ _ _ __  ___| | __ _| |_(_) ___  _ __
-| __| '__/ _` | '_ \/ __| |/ _` | __| |/ _ \| '_ \
-| |_| | | (_| | | | \__ \ | (_| | |_| | (_) | | | |
- \__|_|  \__,_|_| |_|___/_|\__,_|\__|_|\___/|_| |_|
-
-================================================================================
-
-Dream / Common (Bad End)
-
-18th July
-    Think of another way
-    Run away
-    Tell her
-    Run away
-    Transfer it to the girl
-    Let's find out! (For the lulzy option)    /    Behave yourself (For the plot option)
-    Call the ramen shop again (If you picked the first choice above)    /    Try calling her friends (If you picked the second choice above)
-    Try resisting
-    Be honest
-    Drink
-    Please do
-19th July
-    Try again
-    Go inside the school
-    Pretend it's nothing
-    Dining table
-    Give her a straight answer
-    Help her
-    It's unbearably adorable
-    Don't
-    Listen
-    How does she punish you?
-    Ask about it (Non-H scene)    /    Go to sleep (H scene / This H scene is not present if you are using All ages patch)
-20th July
-    A skipping rope
-    Head to the right side of the map
-    Try calling out to it
-    Give it something, anything!
-    Ask about the bandana
-    Sure
-    Don't treat her
-    Give it a go
-    The Takeda Store
-    Show them
-    Probably
-    Think about it
-    Yeah, okay
-21st July
-    I'll give it to Misuzu once I'm debt-free
-    Show them my muscles
-    (Create Save A)
-    No thanks
-    Get on the bike
-    Absolutely not
-22nd July
-    Play with your friends
-    Counter-attack
-    Send her flying!
-    Had time to kill
-    Let her see the puppet show
-    Head to the school
-    I don't exactly hate them
-    Go out for a walk
-    Go a little further
-    Wait and see
-    Try to explain it somehow
-23rd July
-    I'll go out of my way to borrow the Stegosaurus one
-    Change into the wet t-shirt
-    High street
-    Inside the clinic
-    Make use of this meaningless time
-    (Create Save B)
-    Walk towards the embankment
-    Head towards the bus stop
-    Leave town
-    (BAD END)
-
-================================================================================
-
-Dream / Minagi
-
-
-    (Load Save B)
-    Walk towards the station
-    Pick it up and give it back
-    Stick it in
-24th July
-    Yum yum!
-    (Create Save C)
-    There's a lunchbox waiting for me
-25th July
-    Lend a hand
-    Hand over the puppet
-    It's too hot, so ask to go home
-    Tell her to come up
-    Don't bring up the bandana anymore
-26th July
-    Go meet Misuzu
-27th July
-    Obediently accept it
-29th July
-    Letter S
-    But the dictionary!
-    I guess I'm a little jealous
-7th August
-    (Create Save D)
-    Ask for a good morning kiss (H scene / This H scene is not present if you are using All ages patch)
-    (NORMAL END)
-    (Load Save D)
-    She'll just have to wait until tomorrow
-    (MINAGI GOOD END)
-
-================================================================================
-
-Dream / Kano
-
-
-    (Load Save C)
-    Eat with them
-25th July
-    Leave her alone
-    Keep walking with her until the end
-    Tease her a little more
-    Don't bring up the bandana anymore
-26th July
-    Go make money on the high street
-    Search by yourself
-    Practise your puppet show
-28th July
-    Accept
-29th July
-    Offer to go with Kano
-30th July
-    Robe
-    Whichever you find the funniest
-    Open it
-    They have to be younger than me
-    Eavesdrop for a bit longer
-    Meow (Non-H scene)    /    Listen some more (H scene)    /    No choice (This choice is not present if you are using All ages patch)
-2nd August
-    Pick the lock with Houjutsu
-3rd August
-    Stay here
-    I want to be with Kano
-    Shrine
-    Bus stop
-    (KANO END)
-
-================================================================================
-
-Dream / Misuzu
-
-
-    (Load Save A)
-    Have her add stuff to it
-    Believe in Misuzu
-    Get on the cart
-    Indeed we are
-22nd July
-    Fine, I'll play with you
-    Let her practise
-    Finish her!
-    Am waiting for Misuzu
-    Head to the Kamio house
-    Yeah, I would
-    Sleep
-23rd July
-    I'll go out of my way to borrow the Stegosaurus one
-    Continue wearing it
-    It'll be my treat
-    Whichever you find the funniest
-    High street
-    Go inside
-    Wait quietly
-    Go to Misuzu's room
-    Give it a try
-    Play with Misuzu
-26th July
-    Stay here
-27th July
-    ...I understand
-29th July
-    Hug her
-    Stay like this (Non-H scene)    /    Make love to her (H scene)    /    No choice (This choice is not present if you are using All ages patch)
-    (MISUZU END)
-
-================================================================================
-
-Summer
-
-
-    (There are no choices in this segment.)
-
-================================================================================
-
-Air
-
-16th July
-    Follow the girl
-17th July
-    Attack
-19th July
-    Follow Misuzu -> Try going inside (Kano scene)    /    Follow the man (Yukito scene)
-    Go outside
-    Defend
-20th July
-    Go on a walk
-    Try the small path
-    Attack
-    Move behind it
-    Go have a look
-21st July
-    Follow the man
-    Snatch the paper!
-22nd July
-    Try thinking about the past again
-23rd July
-    Stay near her
-    Straight ahead
-    (AIR END)
-
-================================================================================
-  ____                ____
- / ___| __ _  ___    / ___| __ _  ___
-| |  _ / _` |/ _ \  | |  _ / _` |/ _ \
-| |_| | (_| | (_) | | |_| | (_| | (_) |
- \____|\__,_|\___/   \____|\__,_|\___/
-
- _                       _       _   _
-| |_ _ __ __ _ _ __  ___| | __ _| |_(_) ___  _ __
-| __| '__/ _` | '_ \/ __| |/ _` | __| |/ _ \| '_ \
-| |_| | | (_| | | | \__ \ | (_| | |_| | (_) | | | |
- \__|_|  \__,_|_| |_|___/_|\__,_|\__|_|\___/|_| |_|
-
-================================================================================
-
-Dream / Common (Bad End)
-
-18th July
-    Find other ways
-    Run away
-    Tell her
-    Run away
-    Transfer the pain back to the girl
-    Use it to make a call (For the lulzy option)    /    Behave myself (For the plot option)
-    Call the ramen shop again (If you picked the first choice above)    /    Call my friends (If you picked the second choice above)
-    Show defiance
-    Be honest with her
-    I can drink
-    Please do
-19th July
-    Retry
-    Enter the school
-    Act nonchalant
-    The dining table
-    Answer her to the best of my ability
-    Help her
-    ”It's super pretty”
-    Don't show them my puppet act
-    Ask her
-    What kind of punishment?
-    Ask her for details (Non-H scene)    /    I'm tired. I'm going to sleep (H scene / This H scene is not present if you are using All ages patch)
-20th July
-    Jump rope
-    Go to the place at right side of the map
-    Try talking to it
-    Do it a favor, any favor
-    Ask her about her bandana
-    Yeah, tell me
-    Don't treat her
-    Put the idea to practice
-    Takeda Store
-    Perform for the dog
-    Probably so
-    Let me think about it
-    Introduce me to a job
-21st July
-    Give it to Misuzu after I bought it
-    Show her your physical strength
-    (Create Save A)
-    No thanks
-    Get on the bike
-    No way
-22nd July
-    Go play with your friends
-    Retaliate
-    Throw her out
-    I was just killing time
-    Do a puppet show for her
-    Go to the school
-    I don't hate them
-    Go out for a walk
-    Go further
-    Check it out
-    Try to explain to Hijiri
-23rd July
-    Take on the dare with the stegosaurus T-shirt
-    Change back to the wet T-shirt
-    Shopping district
-    Inside the clinic
-    Try to kill time
-    (Create Save B)
-    Walk towards the seawall
-    Go to the bus stop
-    Leave the town
-    (BAD END)
-
-================================================================================
-
-Dream / Minagi
-
-
-    (Load Save B)
-    Walk towards the station
-    Pick up the straw and return it
-    Do it
-24th July
-    Taste the bone
-    (Create Save C)
-    I'll pass
-25th July
-    Lend her a hand
-    Hand over the puppet
-    Complain that it's too hot for a walk
-    Tell her to come up
-    Stop asking about the bandana
-26th July
-    Meet up with Misuzu
-27th July
-    Accept it meekly
-29th July
-    ”Ta” row
-    Continue reading the dictionary
-    Act jealous
-7th August
-    (Create Save D)
-    Give me a good morning kiss (H scene / This H scene is not present if you are using All ages patch)
-    (NORMAL END)
-    (Load Save D)
-    Try again tomorrow
-    (MINAGI GOOD END)
-
-================================================================================
-
-Dream / Kano
-
-
-    (Load Save C)
-    Eat before leaving
-25th July
-    Leave her alone
-    Accompany her till the very end
-    Tease her more
-    Stop asking about the bandana
-26th July
-    Go make money at the shopping district
-    Look for Kano myself
-    Practice my puppet show
-28th July
-    Accept
-29th July
-    Tell her we'll go look for Potato together
-30th July
-    White coat
-    Whichever you find the funniest
-    Open it
-    They have to be younger than me
-    Eavesdrop some more
-    Meow like a cat (Non-H scene)    /    Continue listening (H scene)    /    No choice (This choice is not present if you are using All ages patch)
-2nd August
-    Use Houjutsu to open the lock
-3rd August
-    Don't get on
-    I'll continue to be with Kano
-    Shrine
-    Bus stop
-    (KANO END)
-
-================================================================================
-
-Dream / Misuzu
-
-
-    (Load Save A)
-    Allow her to improve my map
-    Have faith in Misuzu
-    Get on the trolley
-    Damn right
-22nd July
-    All right
-    Just let her push my chest
-    Deliver the finishing push
-    I'm waiting for Misuzu
-    Go to the Kamio Residence
-    Yeah, of course
-    Go to sleep
-23rd July
-    Take on the dare with the stegosaurus T-shirt
-    Continue to wear it like a man
-    It's my treat
-    Whichever you find the funniest
-    Shopping district
-    Go inside
-    Wait patiently
-    Go to Misuzu's room
-    Try it
-    Play with Misuzu
-26th July
-    Stay here
-27th July
-    I understand
-29th July
-    Embrace her
-    Stay like this (Non-H scene)    /    Desire her body (H scene)    /    No choice (This choice is not present if you are using All ages patch)
-    (MISUZU END)
-
-================================================================================
-
-Summer
-
-
-    (There are no choices in this segment.)
-
-================================================================================
-
-Air
-
-16th July
-    Follow the girl
-17th July
-    Fight
-19th July
-    Go with Misuzu -> Go inside (Kano scene)    /    Go with the man (Yukito scene)
-    Go outside
-    Defend
-20th July
-    Go for a walk
-    Walk the narrow path
-    Fight
-    Flank
-    Check it out
-21st July
-    Follow the man
-    Snatch the piece of paper
-22nd July
-    Think about the past again
-23rd July
-    Stay with the girl
-    Walk straight
-    (AIR END)
+    (AIR FINAL)
