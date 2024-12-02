@@ -3,7 +3,6 @@
 <br/>
 <img src="https://kikachangames.github.io/air/cover.jpeg">
 <br/>
-<br/>
 
 <h3>Os dias que estavam envoltos no cenário de verão passavam suavemente</h3>
 <p>Nesta página você poderá acompanhar o progresso da tradução PT-BR da visual novel <a href="https://vndb.org/v36" target="_blank"> AIR</a>, lançada pela Key em 2000.</p>
