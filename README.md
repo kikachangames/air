@@ -4,7 +4,6 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="author" content="Kikachan">
-    <title>AIR: Standard Edition (2005) Guia</title>
     <link rel="stylesheet" href="data/style.css">
     <link rel="icon" href="favicon.ico">
   </head>
