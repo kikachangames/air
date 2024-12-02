@@ -1,6 +1,5 @@
 <h1>AIR</h1>
 <p>Patch Pt-Br (Standard Edition)</p>
-<br/>
 <img src="https://kikachangames.github.io/air/cover.jpeg">
 
 <h3>Os dias que estavam envoltos no cenário de verão passavam suavemente</h3>
