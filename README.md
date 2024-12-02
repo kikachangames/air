@@ -38,7 +38,6 @@
 <p>01 de janeiro de 2025.</p>
 <br/>
 
-<h3>Imagens</h3>
 <img src="https://kikachangames.github.io/air/air01.png">
 <br/>
 <img src="https://kikachangames.github.io/air/air02.png">
