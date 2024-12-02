@@ -32,7 +32,6 @@
     Progresso total da tradução: 100%.<br/>
     Status: Em revisão, quality check e edição de imagens.
 </p>
-<br/>
 
 <h3>Lançamento</h3>
 <p>01 de janeiro de 2025.</p>
