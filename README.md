@@ -1,3 +1,15 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="author" content="Kikachan">
+    <title>AIR: Standard Edition (2005) Guia</title>
+    <link rel="stylesheet" href="data/style.css">
+    <link rel="icon" href="favicon.ico">
+  </head>
+
+  <body>
 <h1>AIR</h1>
 <p>Patch Pt-Br (Standard Edition)</p>
 <img src="https://kikachangames.github.io/air/cover.jpeg">
@@ -91,3 +103,6 @@
 <hr>
 <p><small>Última atualização: 23/11/2024.</small></p>
 <p><small>2024 - <a href="https://kikachangames.github.io/projetos/">Projetos</a> - <a href="https://kikachan-games.itch.io/" target="_blank">kikachan-games</a> - <a href="https://twitter.com/kikachangames/" target="_blank">X</a> - <a href="https://discord.gg/jsm8yKtu2E" target="_blank">Discord</a></small></p>
+
+</body>
+</html>
