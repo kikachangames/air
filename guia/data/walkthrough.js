@@ -1026,7 +1026,7 @@ var data = {
             "Partir para o contra-ataque",
             "Jogar ela pra fora do ringue",
             "Tô apenas matando o tempo",
-            "Apresentar o show de marionetes pra ela",
+            "Apresentar o show de marionete pra ela",
             "Ir pra escola",
             "Eu não odeio elas",
             "Sair para uma caminhada",
