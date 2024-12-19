@@ -1108,10 +1108,10 @@ var data = {
 		  {
             "choice":"Linha ”Ta”",
 		  "comment": "Cena H / Essa cena não estará presente se você estiver usando o patch Para todas as idades"
-		  }
+		  },
 		  {
             "choice":"Continuar lendo o dicionário",
-			  }
+			  },
 			  {
             "choice":"Agir com ciúmes"
 				  }
