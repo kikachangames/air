@@ -1105,16 +1105,9 @@ var data = {
         {
           "date": "29 de Julho",
           "choices": [
-		  {
-            "choice":"Linha ”Ta”",
-		  "comment": "Cena H / Essa cena não estará presente se você estiver usando o patch Para todas as idades"
-		  },
-		  {
-            "choice":"Continuar lendo o dicionário",
-			  },
-			  {
-            "choice":"Agir com ciúmes"
-				  }
+            "Linha ”Ta”",
+            "Continuar lendo o dicionário",
+            "Agir com ciúmes"
           ]
         },
         {
