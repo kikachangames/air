@@ -1110,10 +1110,10 @@ var data = {
 		  "comment": "Cena H / Essa cena não estará presente se você estiver usando o patch Para todas as idades"
 		  }
 		  {
-            "choices":"Continuar lendo o dicionário",
+            "choice":"Continuar lendo o dicionário",
 			  }
 			  {
-            "choices":"Agir com ciúmes"
+            "choice":"Agir com ciúmes"
 				  }
           ]
         },
