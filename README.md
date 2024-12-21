@@ -8,16 +8,15 @@
   </head>
 
   <body>
-<p>Patch Pt-Br (Standard Edition)</p>
-<div id="menu">
-<ul>
-  <li><a href="#">Sobre o Projeto</a></li>
-  <li><a href="#">Guia de Rotas</a></li>
-  <li><a href="#">Equipe</a></li>
-  <li><a href="#">Download</a></li>
-  </ul>
-</div>    
-
+    <p>Patch Pt-Br (Standard Edition)</p>
+    <div id="menu">
+      <ul>
+        <li><a href="#">Sobre o Projeto</a></li>
+        <li><a href="#">Guia de Rotas</a></li>
+        <li><a href="#">Equipe</a></li>
+        <li><a href="#">Download</a></li>
+      </ul>
+    </div>    
 
 <img src="https://kikachangames.github.io/air/cover.jpeg">
 
