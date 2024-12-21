@@ -21,6 +21,6 @@ list-style:none;
 }
 
 #menu ul li a:hover {
- background:#CCC;
+ text-decoration:underline;
  display:block;   
 }
