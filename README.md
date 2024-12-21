@@ -8,7 +8,18 @@
   </head>
 
   <body>
-<h1>AIR</h1>
+
+<div id="menu">
+  <h1>AIR</h1>
+<ul>
+  <li><a href="#">Sobre o Projeto</a></li>
+  <li><a href="#">Guia de Rotas</a></li>
+  <li><a href="#">Equipe</a></li>
+  <li><a href="#">Download</a></li>
+  </ul>
+    
+</div>    
+
 <p>Patch Pt-Br (Standard Edition)</p>
 <img src="https://kikachangames.github.io/air/cover.jpeg">
 
@@ -62,7 +73,7 @@
 <br/>
 <br/>
 
-<h3>Membros do projeto</h3>
+<h3>Equipe</h3>
 
 <img src="https://kikachangames.github.io/air/manolo.png">
 <p><b>Manolo-chan</b></p>
