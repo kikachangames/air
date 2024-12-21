@@ -11,10 +11,10 @@
     <p>Patch Pt-Br (Standard Edition)</p>
     <div id="menu">
       <ul>
-        <li><a href="#">Sobre o Projeto</a></li>
-        <li><a href="#">Guia de Rotas</a></li>
-        <li><a href="#">Equipe</a></li>
-        <li><a href="#">Download</a></li>
+        <li><a href="#sinopse">Sobre o Projeto</a></li>
+        <li><a href="#guia-de-rotas">Guia de Rotas</a></li>
+        <li><a href="#equipe">Equipe</a></li>
+        <li><a href="#download">Download</a></li>
       </ul>
     </div>    
 
