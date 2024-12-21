@@ -1,0 +1,30 @@
+*{
+ margin-top:10px;
+}
+
+#menu{
+  text-align:center;
+  font-family:arial;
+    }
+
+#menu ul{
+list-style:none;
+  }
+
+#menu ul li{
+ 
+  float:left;
+  padding:10px;
+  border: 1px solid #CCC;
+  border-radius:5px;
+  text-decoration:none;
+  }
+
+#menu ul li a {
+ text-decoration:none;
+}
+
+#menu ul li a:hover {
+ background:#CCC;
+ display:block;   
+}
