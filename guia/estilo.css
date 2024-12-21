@@ -9,6 +9,7 @@
 #menu ul li{
   float:left;
   padding:15px;
+  margin:15px;
   border: 1px solid #CCC;
   border-radius:5px;
   }
