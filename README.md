@@ -3,8 +3,8 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="author" content="Kikachan">
-    <link rel="stylesheet" href="data/style.css">
-    <link rel="icon" href="favicon.ico">
+    <link rel="stylesheet" href="guia/estilo.css">
+    <link rel="icon" href="guia/favicon.ico">
   </head>
 
   <body>
