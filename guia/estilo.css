@@ -1,14 +1,12 @@
-
 #menu{
   text-align:center;
-    }
+  }
 
 #menu ul{
-list-style:none;
+  list-style:none;
   }
 
 #menu ul li{
- 
   float:left;
   padding:10px;
   border: 1px solid #CCC;
@@ -17,10 +15,10 @@ list-style:none;
   }
 
 #menu ul li a {
- text-decoration:none;
-}
+  text-decoration:none;
+  }
 
 #menu ul li a:hover {
- text-decoration:underline;
- display:block;   
-}
+  text-decoration:underline;
+  display:block;   
+  }
