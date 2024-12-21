@@ -34,7 +34,7 @@
 </p>
 
 <h3>Guia de Rotas</h3>
-<p>☀️<a href="https://kikachangames.github.io/air/guia/guia.html">Clique aqui.</a></p>
+<p>☀️ <a href="https://kikachangames.github.io/air/guia/guia.html">Clique aqui.</a></p>
 
 <h3>Lançamento</h3>
 <p>01 de janeiro de 2025.</p>
