@@ -15,22 +15,20 @@ body {
 
 header {
   font-size: 1rem;
-  color: #666;
-	display: flex;
+  display: flex;
   text-align: center;
   justify-content: center;
   align-items: center;
 }
 
 nav {
-  color: #666;
-	font-size:0.9rem;
+  font-size:0.9rem;
   display: flex;
   justify-content: center;
 }
 
 main {
-  color: #666;
+  
 	padding-left:50px;
 	padding-right: 50px;
 	padding-bottom: 50px;
@@ -58,7 +56,6 @@ li {
 
 li a {
   display: block;
-  color: #666;
   text-align: center;
   padding: 20px 35px;
   text-decoration: none;
