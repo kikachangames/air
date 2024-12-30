@@ -21,7 +21,7 @@
 <img src="https://kikachangames.github.io/air/cover.jpeg">
 
 <h3>Os dias que estavam envoltos no cenário de verão passavam suavemente</h3>
-<p>Nesta página você poderá acompanhar o progresso da tradução PT-BR da Visual Novel <a href="https://vndb.org/v36" target="_blank"> AIR</a>, lançada pela Key em 2000.</p>
+<p>Nesta página você poderá acompanhar o progresso da tradução PT-BR da Visual Novel <a href="https://vndb.org/v36" target="_blank"> AIR</a>, lançada pela Key em 2000. Esse projeto é uma iniciativa da Kikachan Games com o apoio da Taiyaki Club.</p>
 <br/>
 
 <h3>Sinopse</h3>
