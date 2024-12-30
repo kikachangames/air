@@ -82,7 +82,7 @@
 <p>Tradução e edição de imagens.</p> 
 <br/>
 
-<img src="https://kikachangames.github.io/higanbana1-pt-br/ceuipsolon.png">
+<img src="https://kikachangames.github.io/air/ceuipsolon.png">
 <p><b>Ceuipsolon</b></p>
 <p>Edição de imagens.</p>
 <br/>
