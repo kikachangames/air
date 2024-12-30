@@ -12,7 +12,7 @@
     <div id="menu">
       <ul>
         <li><a href="#sinopse">Sobre o Projeto</a></li>
-        <li><a href="#guia-de-rotas">Guia de Rotas</a></li>
+        <li><a href="https://kikachangames.github.io/air/guia/guia.html" target="blank">Guia de Rotas</a></li>
         <li><a href="#equipe">Equipe</a></li>
         <li><a href="#download">Download</a></li>
       </ul>
@@ -37,15 +37,10 @@
     💚 Arco Summer: 100%<br/>
     💚 Arco Air: 100%<br/>
     <br/>
-    Progresso total da tradução: 100%.<br/>
-    Status: Em revisão, quality check e edição de imagens.
 </p>
 
-<h3>Guia de Rotas</h3>
-<p>☀️ <a href="https://kikachangames.github.io/air/guia/guia.html">Clique aqui.</a></p>
-
 <h3>Lançamento</h3>
-<p>01 de janeiro de 2025.</p>
+<p>☀️ 01 de janeiro de 2025.</p>
 <br/>
 
 <img src="https://kikachangames.github.io/air/air01.png">
@@ -108,7 +103,7 @@
 <br/>
 
 <hr>
-<p><small>Última atualização: 23/11/2024.</small></p>
+<p><small>Última atualização: 30/12/2024.</small></p>
 <p><small>2024 - <a href="https://kikachangames.github.io/projetos/">Projetos</a> - <a href="https://kikachan-games.itch.io/" target="_blank">kikachan-games</a> - <a href="https://twitter.com/kikachangames/" target="_blank">X</a> - <a href="https://discord.gg/jsm8yKtu2E" target="_blank">Discord</a></small></p>
 
 </body>
