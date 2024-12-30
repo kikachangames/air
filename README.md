@@ -11,7 +11,7 @@
     <p>Patch Pt-Br (Standard Edition)</p>
     <div id="menu">
       <ul>
-        <li><a href="#sinopse">Sobre o Projeto</a></li>
+        <li><a href="##os-dias-que-estavam-envoltos-no-cen%C3%A1rio-de-ver%C3%A3o-passavam-suavem">Sobre o Projeto</a></li>
         <li><a href="https://kikachangames.github.io/air/guia/guia.html" target="blank">Guia de Rotas</a></li>
         <li><a href="#equipe">Equipe</a></li>
         <li><a href="#download">Download</a></li>
@@ -21,7 +21,7 @@
 <img src="https://kikachangames.github.io/air/cover.jpeg">
 
 <h3>Os dias que estavam envoltos no cenário de verão passavam suavemente</h3>
-<p>Nesta página você poderá acompanhar o progresso da tradução PT-BR da visual novel <a href="https://vndb.org/v36" target="_blank"> AIR</a>, lançada pela Key em 2000.</p>
+<p>Nesta página você poderá acompanhar o progresso da tradução PT-BR da Visual Novel <a href="https://vndb.org/v36" target="_blank"> AIR</a>, lançada pela Key em 2000.</p>
 <br/>
 
 <h3>Sinopse</h3>
