@@ -11,7 +11,7 @@
     <p>Patch Pt-Br (Standard Edition)</p>
     <div id="menu">
       <ul>
-        <li><a href="##os-dias-que-estavam-envoltos-no-cen%C3%A1rio-de-ver%C3%A3o-passavam-suavem">Sobre o Projeto</a></li>
+        <li><a href="#os-dias-que-estavam-envoltos-no-cen%C3%A1rio-de-ver%C3%A3o-passavam-suavem">Sobre o Projeto</a></li>
         <li><a href="https://kikachangames.github.io/air/guia/guia.html" target="blank">Guia de Rotas</a></li>
         <li><a href="#equipe">Equipe</a></li>
         <li><a href="#download">Download</a></li>
