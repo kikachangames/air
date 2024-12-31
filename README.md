@@ -99,7 +99,7 @@
 <br/>
 
 <h3>Download</h3>
-<p>Disponíveis a partir de 01/01/2025 (meio-dia)!</p>
+<p>Disponível a partir de 01/01/2025 (meio-dia)!</p>
 <img src="https://kikachangames.github.io/air/bt1.png">
 <img src="https://kikachangames.github.io/air/bt2.png">
 <img src="https://kikachangames.github.io/air/bt3.png">
