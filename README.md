@@ -100,7 +100,7 @@
 
 <h3>Download</h3>
 <p><b>Atenção:</b> Certifique-se de ter uma cópia do jogo para aplicar o patch.<p/>
-<p><b>Instalação:</b> Para as versões PC, execute o instalador e siga as instruções. Android: Siga as instruções do arquivo LEIAME, incluído no patch.</p>
+<p><b>Instalação:</b> PC: execute o instalador e siga as instruções. Android: Siga as instruções do arquivo LEIAME, incluído no patch.</p>
 
 <p>☀️ Disponível a partir de 01/01/2025 (meio-dia)!</p>
 <br/>
