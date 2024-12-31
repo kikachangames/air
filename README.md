@@ -99,6 +99,9 @@
 <br/>
 
 <h3>Download</h3>
+<p><b>Atenção:</b> Certifique-se de ter uma cópia do jogo para aplicar o patch.<br/>
+Instruções para instalação estão no arquivo LEIAME, incluído no patch.</p>
+
 <p>Disponível a partir de 01/01/2025 (meio-dia)!</p>
 <img src="https://kikachangames.github.io/air/bt1.png">
 <img src="https://kikachangames.github.io/air/bt2.png">
