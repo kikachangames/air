@@ -103,7 +103,7 @@
 <b>Instalação:</b>Para as versões PC, execute o instalador e siga as instruções.<br/>
 Android: Siga as instruções do arquivo LEIAME, incluído no patch.</p>
 
-<p>Disponível a partir de 01/01/2025 (meio-dia)!</p>
+<p>☀️ Disponível a partir de 01/01/2025 (meio-dia)!</p>
 <img src="https://kikachangames.github.io/air/bt1.png">
 <img src="https://kikachangames.github.io/air/bt2.png">
 <img src="https://kikachangames.github.io/air/bt3.png">
