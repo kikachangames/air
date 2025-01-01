@@ -1,3 +1,25 @@
+
+      <html lang="pt-BR">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="author" content="Kikachan" />
+    <link rel="stylesheet" href="guia/estilo.css" />
+    <link rel="icon" href="guia/favicon.ico" />
+  </head>
+
+  <body>
+    <p>Patch Pt-Br (Standard Edition)</p>
+    <div id="menu">
+      <ul>
+        <li><a href="#os-dias-que-estavam-envoltos-no-cen%C3%A1rio-de-ver%C3%A3o-passavam-suavem">Sobre o Projeto</a></li>
+        <li><a href="https://kikachangames.github.io/air/guia/guia.html" target="blank">Guia de Rotas</a></li>
+        <li><a href="#equipe">Equipe</a></li>
+        <li><a href="#download">Download</a></li>
+      </ul>
+    </div>    
+
+<img src="https://kikachangames.github.io/air/cover.jpeg" />
 <img src="https://kikachangames.github.io/air/cover.jpeg">
 
 <h3>Os dias que estavam envoltos no cenário de verão passavam suavemente</h3>
