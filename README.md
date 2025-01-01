@@ -102,16 +102,15 @@
 <p><b>Atenção:</b> Certifique-se de ter uma cópia do jogo instalada antes de aplicar o patch.<p/>
 <p><b>Instalação:</b> PC: execute o instalador e siga as instruções. Android: Siga as instruções do arquivo LEIAME, incluído no patch.</p>
 
-<p>☀️ Disponível a partir de 01/01/2025 (meio-dia)!</p>
 <br/>
 
-<img src="https://kikachangames.github.io/air/bt1.png">
-<img src="https://kikachangames.github.io/air/bt2.png">
-<img src="https://kikachangames.github.io/air/bt3.png">
-<img src="https://kikachangames.github.io/air/bt4.png">
+<a href="https://github.com/kikachangames/air/releases/download/v1.0/Air.-.Patch.de.Traducao.AA.v1.0.exe"<img src="https://kikachangames.github.io/air/bt1.png"></a>
+<a href="https://github.com/kikachangames/air/releases/download/v1.0/Air.-.Patch.de.Traducao.18+.v1.0.exe"<img src="https://kikachangames.github.io/air/bt2.png"></a>
+<a href="https://github.com/kikachangames/air/releases/download/v1.0/AIR-Android-AA.zip"<img src="https://kikachangames.github.io/air/bt3.png"></a>
+<a href="https://github.com/kikachangames/air/releases/download/v1.0/AIR-Android-18+.zip"<img src="https://kikachangames.github.io/air/bt4.png"></a>
 <br/>
 
 <hr>
-<p><small>Última atualização: 31/12/2024.</small></p>
+<p><small>Última atualização: 01/01/2025.</small></p>
 <p><small>Kikachan Games (Desde 2024) <a href="https://kikachangames.github.io/projetos/">Projetos</a> - <a href="https://twitter.com/kikachangames/" target="_blank">X</a> - <a href="https://discord.gg/jsm8yKtu2E" target="_blank">Discord</a> - <a href="https://kikachan-games.itch.io/" target="_blank">Itch</a></small></p>
 
