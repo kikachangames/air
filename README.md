@@ -104,8 +104,8 @@
 
 <br/>
 
-<a href="https://github.com/kikachangames/air/releases/download/v1.0/Air.-.Patch.de.Traducao.AA.v1.0.exe"<img src="https://kikachangames.github.io/air/bt1.png"></a>
-<a href="https://github.com/kikachangames/air/releases/download/v1.0/Air.-.Patch.de.Traducao.18+.v1.0.exe"<img src="https://kikachangames.github.io/air/bt2.png"></a>
+<a href="https://github.com/kikachangames/air/releases/download/v1.0/Air-PC-AA.exe"<img src="https://kikachangames.github.io/air/bt1.png"></a>
+<a href="https://github.com/kikachangames/air/releases/download/v1.0/Air-PC-18+.exe"<img src="https://kikachangames.github.io/air/bt2.png"></a>
 <a href="https://github.com/kikachangames/air/releases/download/v1.0/AIR-Android-AA.zip"<img src="https://kikachangames.github.io/air/bt3.png"></a>
 <a href="https://github.com/kikachangames/air/releases/download/v1.0/AIR-Android-18+.zip"<img src="https://kikachangames.github.io/air/bt4.png"></a>
 <br/>
