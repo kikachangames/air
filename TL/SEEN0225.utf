@@ -1,0 +1,998 @@
+﻿// Resources for SEEN0225.TXT
+
+#character '*Ａ'
+#character '?'
+#character 'Potato'
+#character 'Garota'
+#character 'Voz'
+#character 'Hijiri'
+
+<0000> O vento noturno soprava, trazendo o cheiro do mar.
+// 潮の香りを含んだ夜風が流れていた.
+<0001> Caminhei sozinho pelas ruas desertas.
+// 人気のない道を、一人歩いた.
+<0002> Até mesmo o asfalto, anteriormente aquecido pelo sol a altas temperaturas, agora tava frio ao toque.
+// 日中、溶けそうなくらい熱くなっていたアスファルトも、今は冷たい.
+<0003> Eu não tinha nenhum destino em mente.
+// どこを目指すわけでもない.
+<0004> Minha vaga memória era quem me guiava.
+// おぼろげな記憶に任せて、俺はただ歩いていた.
+<0005> Logo cheguei a uma pequena ponte.
+// 気がつけば、小さな橋のたもとに来ていた.
+<0006> Os insetos zumbiam nos arbustos próximos.
+// 周囲の草むらから、虫の音がうるさいぐらいに響く.
+<0007> Eu vi uma cena diferente além da ponte.
+// 橋を渡った、その向こう.
+<0008> Vários postes de luz me mostraram uma trilha.
+// いくつかの常夜灯が、ぼおっと道を示している.
+<0009> Além dela, só havia a escuridão.
+// さらにその先は、闇の中へと続く.
+<0010> Algumas nuvens apareceram no céu.
+// 空には、少し雲が出てきたようだった.
+<0011> A repentina rajada de vento que passou cheirava levemente a umidade.
+// 不意に流れた風に、わずかに湿った匂いを感じた.
+<0012> Eu deveria ir pra casa agora.
+// そろそろ戻っておくか.
+<0013> Eu só ficaria mais cansado se continuasse.
+// これ以上歩いたところで、疲れが増すだけだ.
+<0014> Eu me virei e olhei pro caminho de onde vim.
+// 俺は闇に背を向けると、来た道を戻った.
+<0015> Voltar para casa
+// そろそろ戻る
+<0016> Atravessar a ponte
+// 先に進んでみる
+<0017> A escuridão apareceu diante de mim.
+// 目の前に続くのは闇.
+<0018> Este mundo silencioso parecia durar pra sempre.
+// どこまでも続きそうな無音の世界.
+<0019> Qual é o sentido de prosseguir?
+// これ以上進んで何があるというんだ.
+<0020> Eu me virei e recuei pelo caminho de onde vim.
+// 俺は踵を返しその闇に背を向けると、来た道を戻った.
+<0021> Decidi ir mais longe.
+// 先に進んでみることにした.
+<0022> Atravessei a ponte e continuei andando.
+// 俺は橋を渡り、その向こうに足を踏み出した.
+<0023> O caminho de repente se transformou em uma encosta íngreme.
+// 道はすぐに、急な登りになった.
+<0024> As copas das árvores bloqueavam a luz de ambos os lados, impossibilitando ver o que tava em volta.
+// 左右には梢が覆いかぶさり、ほとんど前が見えない.
+<0025> Diante de mim tava uma imensa massa de escuridão.
+// 目の前に、闇のかたまりがある.
+<0026> O ar tava denso com o cheiro da noite que emanava das folhas.
+// 木々の葉から染み出す夜気が、幾重にも重なり合っている.
+<0027> Eu tava começando a me arrepender da minha decisão.
+// 俺は後悔しはじめていた.
+<0028> Não que eu tivesse medo de andar no escuro à noite.
+// 夜道を通るのが怖いわけではない.
+<0029> Durante minha jornada, acampei sozinho nas montanhas diversas vezes.
+// 旅の途中、俺はいくらでも山中で野宿したことがある.
+<0030> Mas aqui é como se eu sentisse uma presença.
+// そんな時、気配を感じることがあった.
+<0031> Uma presença sobrenatural que passou por mim.
+// 本来会えるはずのない存在が、ごく近くを通る気配.
+<0032> Foi uma leve sensação de desconforto que facilmente poderia ser considerada uma alucinação.
+// 錯覚だと言ってしまえばそれまでの、ごくわずかな違和感.
+<0033> \{Yukito}"........."
+// \{Yukito}「………」
+<0034> Mas isso não foi uma alucinação.
+// いや、錯覚ではない.
+<0035> Eu definitivamente ouvi alguma coisa.
+// 何か、音がする.
+<0036> Um som que não pertencia a este mundo.
+// この世のものならざる音.
+<0037> Não era nem o som de passos nem uma voz.
+// 足音でもなければ、声でもない.
+<0038> Era um som estranho que vinha da escuridão atrás de mim.
+// 奇怪としか言いようがない音が、背後の闇から響いてくる.
+<0039> \{Yukito}"........."
+// \{Yukito}「………」
+<0040> Fugir
+// 逃げ出す
+<0041> Conferir
+// 様子を見る
+<0042> Devo ter sentido medo.
+// その時感じたのは恐怖なのかも知れない.
+<0043> Porque meu corpo começou a se mover antes que meu cérebro mandasse.
+// 頭が理解するより先に身体は動いていた.
+<0044> Acelerei o passo pra sair o mais rápido possível daqui.
+// 足場の悪い地面を力一杯蹴り、その場から逃げ出す.
+<0045> O som ecoou na escuridão. A visibilidade era fraca.
+// 見通しの悪い視界のなか、その音は闇に反響していた.
+<0046> Eu não consegui determinar com precisão a sua posição.
+// 正しい位置がつかめない.
+<0047> Mas eu tinha certeza de que algo tava vindo em minha direção.
+// でも確実にこちらへと近付いてきている.
+<0048> Isso eu sabia.
+// それだけはわかる.
+<0049> Cerrando os punhos suados, corri mais fundo na escuridão em busca de uma saída.
+// 汗ばんだ手を握りしめ、闇の深みへと逃げ場を求め走った.
+<0050> Minha garganta latejava de dor.
+// 喉の奥がズキズキと痛む.
+<0051> Eu vou conseguir fugir disso?
+// 逃げ切れるか…？
+<0052> Embora estivesse correndo, o som não mostrava sinais de estar sendo deixado pra trás.
+// こちらが走っているにも関わらず、音は遠ざかる気配を見せない.
+<0053> Aliás, isso tava se aproximando cada vez mais.
+// やはり近付いてきている.
+<0054> E vindo na minha direção.
+// 俺を追ってきている.
+<0055> Nesse ritmo, eventualmente me alcançaria.
+// このままじゃ、いずれ追いつかれる.
+<0056> Eu não sabia o que ele queria, mas se me atacasse quando estivesse exausto de tanto correr, não teria chance de revidar.
+// 何が目的かはわからないが、走り疲れてへばった所を襲われてしまっては抵抗する事も出来ない.
+<0057> Reforcei meus nervos e parei de correr.
+// 俺は覚悟を決めると、足を止めた.
+<0058> Recuperando o fôlego, me virei lentamente.
+// そして呼吸を整えながら、ゆっくりと背後を振り返る.
+<0059> Eu decidi encarar.
+// 様子を見ることにした.
+<0060> Fiquei parado.
+// 俺は立ち止まった.
+<0061> A escuridão total me cercou, como um predador pronto pra devorar sua presa.
+// 獲物を捕らえたかのように、暗闇が俺を包み込む.
+<0062> Eu me virei pra outro lado...
+// 背後を振り返る.
+<0063> Tentando enxergar algo nessa escuridão.
+// じっと目を凝らす.
+<0064> O suor escorria da minha testa.
+// 自分の額を汗が伝わったのを感じた.
+<0065> Havia alguma coisa ali.
+// 何かが、ある.
+<0066> Um objeto esférico branco se tornou lentamente visível nas trevas.
+// 白い球状のものが、闇の中央にぼおっと浮かびあがっている.
+<0067> Observei em transe enquanto tentava determinar sua identidade.
+// ただ魅入られるように、その正体を定めようとする.
+<0068> Eu já tinha visto isso antes.
+// 俺は、あれに会ったことがある.
+<0069> Era...
+// あれは….
+<0070> Naquele exato momento...
+// その時だった.
+<0071> O objeto branco voou rapidamente em minha direção.
+// 白い物体が一気に迫ってきた.
+<0072> Não tive tempo de reagir.
+// 逃げ出す隙さえなかった.
+<0073> No instante seguinte, ele agarrou meu pé direito.
+// 次の瞬間、俺は右足をがっちりと捕らえられていた.
+<0074> Um som misterioso perfurou a escuridão.
+// 奇怪な音が、暗闇にけたたましく響いた.
+<0075> \{?}"Piko pikooo!"
+// \{？}「ぴこぴこ～っ!」
+<0076> \{Yukito}"........."
+// \{Yukito}「………」
+<0077> \{Yukito}"Haa..."
+// \{Yukito}「はぁ…」
+<0078> \{Yukito}"O que você tá fazendo aqui?"
+// \{Yukito}「なにやってるんだ、おまえ」
+<0079> \{Potato}"Piko piko piko."
+// \{ポテト}「ぴこぴこぴこ♪」
+<0080> A bola de pelo abanou o rabo enquanto ainda mordia minha perna.
+// 白い妖怪が、俺の足にかぶりついたまま尻尾を振っていた.
+<0081> \{Yukito}"Não saia pra brincar à noite. Volte pra casa!"
+// \{Yukito}「夜遊びしてないで、とっとと寝床へ帰れよ」
+<0082> Balancei minha perna pra me desgrudar do Potato.
+// 足をぶんぶん動かして、毛玉を引きはがす.
+<0083> \{Potato}"Piko!"
+// \{ポテト}「ぴこっ!」
+<0084> *Shok shok...*
+// くいくい.
+<0085> \{Yukito}"Ei, pare de puxar minhas calças!"
+// \{Yukito}「こら、ズボンを引っ張るな」
+<0086> *Shok shok shok shok...*
+// くいくいくいくい.
+<0087> \{Yukito}"Desculpe, mas não tenho tempo pra brincar com você."
+// \{Yukito}「悪いが、俺はおまえにかまってられるほど暇な人間じゃない」
+<0088> *Shok shok shok shok...*
+// くいくいくいくい.
+<0089> \{Yukito}"Ei, olhe lá..."
+// \{Yukito}「いや、だから…」
+<0090> *Shok shok shok shok shok shok shok shok...*
+// くいくいくいくいくいくいくいくい.
+<0091> \{Yukito}"Tudo bem, tudo bem. Me diga o que você quer."
+// \{Yukito}「…わかったから、早く用件を言え」
+<0092> \{Potato}"Piko!"
+// \{ポテト}「ぴこっ!」
+<0093> Ele saiu correndo.
+// いきなり走り出す.
+<0094> \{Yukito}"Ei, espere um minuto!"
+// \{Yukito}「おい、ちょっと待てっ」
+<0095> Eu não tive escolha a não ser seguir a bola de pelo.
+// 私には彼に従う以外に選択肢はありませんでした。
+<0096> Chegamos ao que parecia ser o topo da montanha.
+// 山道を登りきったらしい.
+<0097> Através dos espaços entre as árvores, vi as luzes da cidade.
+// 行く手の木々の間に、町灯かりが見えた.
+<0098> Um vento forte e úmido soprava de lado.
+// 湿り気を増した風が、まともに横から吹きつける.
+<0099> O caminho à minha frente se transformou em um lance de escadas de pedra.
+// 道の先が石段になっていた.
+<0100> Acima dele, o \g{torii}={Portal encontrado na entrada de templos xintoístas, que representa a transição do mundano para o sagrado.} do santuário era visível.
+// その上に、鳥居らしきものが浮かびあがっていた.
+<0101> \{Yukito}"Mais subida...?"
+// \{Yukito}「まだ登るのかよ…」
+<0102> \{Potato}"Piko piko."
+// \{ポテト}「ぴこぴこ～」
+<0103> Eu já tinha chegado até aqui. Não poderia voltar atrás agora.
+// ここまで来たら、もう後には退けない.
+<0104> Continuei seguindo o Potato e subi correndo as escadas de pedra.
+// 俺はポテトに続き、石段を駆け登った.
+<0105> A atmosfera mudou assim que passei pelo torii do santuário.
+// 鳥居をくぐったとたん、空気が変わった.
+<0106> O templo repousava em profundo silêncio.
+// 静寂にみたされた境内.
+<0107> O vento noturno acariciava o pavimento de pedra.
+// 参道の石畳を、夜風が撫でていく.
+<0108> Atrás de mim, a floresta farfalhava e tremia.
+// 背後の森が、ざわざわと震える.
+<0109> Olhei pro céu da noite.
+// 夜空を見上げる.
+<0110> As estrelas piscavam através das nuvens dispersas.
+// ちぎれた雲を透かすように、星が輝いている.
+<0111> Acima delas, havia um nada profundo.
+// その上には、もう何もない.
+<0112> \{Potato}"Piko."
+// \{ポテト}「ぴこ」
+<0113> *Shok!*
+// くい.
+<0114> \{Yukito}"O que foi agora? O que mais você quer de mim?"
+// \{Yukito}「…なんだよ.まだなにかあるのか？」
+<0115> Olhei pro santuário que ficava escondido nas sombras.
+// 夜闇の中にたたずむ社に視線を投げた.
+<0116> \{Yukito}"........."
+// \{Yukito}「………」
+<0117> \{Yukito}"Hm?"
+// \{Yukito}「ん？」
+<0118> Eu estreitei meus olhos.
+// 目を凝らしてみる.
+<0119> Havia uma figura na lateral da calçada.
+// 参道の脇に、小さな人影が見えた.
+<0120> Era a garota que encontrei no paredão durante o dia.
+// それは昼間、堤防で会ったあの少女だった.
+<0121> Ela tava vestida com uma roupa branca sem mangas.
+// 袖のない、真っ白な上衣.
+<0122> O luar iluminou seus ombros nus.
+// むき出しの肩に、月光が照り映えている.
+<0123> A garota tava na escuridão com a cabeça inclinada pro lado.
+// 少女は首を傾げるようにして、闇の中にたたずんでいる.
+<0124> Imaginei que ela estivesse olhando as estrelas.
+// 星を見ているのかと思った.
+<0125> Mas havia algo estranho nela...
+// だが、どこか様子がおかしい.
+<0126> Fui me aproximando lentamente.
+// ゆっくりと近づいてみる.
+<0127> Bem quando eu tava prestes a chamar ela...
+// 声をかけようとした時.
+<0128> Seus lábios se moveram.
+// 少女の唇が動いた.
+<0129> \{Garota}"...assim como... as estrelas no céu..."
+// \{少女}「…たとえば…ほしのかず」
+<0130> \{Garota}"...assim como... as árvores na montanha..."
+// \{少女}「やまではきのかず…かやの…」
+<0131> As palavras que saíram de sua boca pareciam uma espécie de encantamento, ou talvez a letra de uma música.
+// かすかに漏れてきた言葉は、呪文にも、歌の一節にも聞こえた.
+<0132> De qualquer forma, elas não faziam nenhum sentido pra mim.
+// どちらにせよ、俺には全く意味がわからない.
+<0133> \{Garota}"Poeira estelar... vegetação dos alpes..."
+// \{少女}「…おばな…かる…や…」
+<0134> \{Garota}"Trevos... Guizos..."
+// \{少女}「…はぎ…き…」
+<0135> Sua voz vacilou e finalmente parou.
+// 口調がよどみ、やがて途切れた.
+<0136> *Plaft!*
+// どさっ….
+<0137> \{Yukito}"...?!"
+// \{Yukito}「…っ!？」
+<0138> Como uma marionete, cujos fios acabaram de ser cortados, a garota desabou.
+// 糸が切れた人形のように、少女がその場に倒れた.
+<0139> \{Yukito}"E-Ei!"
+// \{Yukito}「お、おいっ」
+<0140> Corri em direção dela.
+// 駆け寄っていた.
+<0141> Eu a segurei em meus braços.
+// 倒れた少女を抱き起こす.
+<0142> A bandana em seu pulso roçou minha mão.
+// 手首に巻かれたバンダナが、俺の腕をふわりと撫でた.
+<0143> \{Yukito}"Você tá bem?"
+// \{Yukito}「大丈夫か」
+<0144> *Tap tap!*
+// ぱしっ.
+<0145> Eu bati levemente em sua bochecha enquanto a segurava perto de mim.
+// 少女を胸の中におさめながら、軽くその頬を叩いた.
+<0146> \{Garota}"Uuh..."
+// \{少女}「ぅ…」
+<0147> *Tap tap!*
+// ぱしぱしっ.
+<0148> \{Garota}"Uuh... Uhn..."
+// \{少女}「うぅ…ん…」
+<0149> \{Yukito}"Acorde!"
+// \{Yukito}「しっかりしろっ」
+<0150> *Tap tap!!*
+// ぱしぱしっ.
+<0151> \{Garota}"Hmm... isso dói..."
+// \{少女}「んん…痛いよぉ…」
+<0152> \{Garota}"Onee-chan..."
+// \{少女}「お姉ちゃん…」
+<0153> Ela gemeu de dor enquanto seus olhos ainda permaneciam fechados.
+// 目を閉じたまま、苦しそうにうめく.
+<0154> \{Yukito}"Onee-chan?"
+// \{Yukito}「…お姉ちゃん？」
+<0155> \{Garota}"Uhn..."
+// \{少女}「…ぅん…」
+<0156> \{Yukito}"........."
+// \{Yukito}「………」
+<0157> \{Yukito}"Eu sou seu \g{onii-chan}={Irmão mais velho em japonês.}."
+// \{Yukito}「俺はお兄ちゃんだ」
+<0158> \{Garota}"Hm... Onii-chan...?"
+// \{少女}「…ん…お兄ちゃん…？」
+<0159> \{Yukito}"O que foi, irmãzinha?"
+// \{Yukito}「なんだ、妹」
+<0160> \{Garota}"Hmm... eu... não tenho irmão..."
+// \{少女}「んん～…あたしに…お兄ちゃんいないぃ…」
+<0161> \{Yukito}"Eu sou o seu irmão que há muito tempo tava desaparecido e que você não conhecia."
+// \{Yukito}「おまえの知らない生き別れの兄だ」
+<0162> \{Garota}"Eh? Sem chance..."
+// \{少女}「えっ…うそぉ…」
+<0163> \{Yukito}"Tá , isso foi uma mentira."
+// \{Yukito}「大ウソだ」
+<0164> \{Garota}"Ah... eu sabia..."
+// \{少女}「あ～…やっぱりぃ…」
+<0165> \{Yukito}"De qualquer forma, levante-se rápido."
+// \{Yukito}「とにかく早く起きろ」
+<0166> \{Garota}"Unnn... estou me levantando..."
+// \{少女}「ぅんん…起きるぅ…」
+<0167> A garota abriu lentamente os olhos.
+// そして、ゆっくりと少女の目が開いた.
+<0168> \{Garota}"........."
+// \{少女}「………」
+<0169> \{Yukito}"........."
+// \{Yukito}「………」
+<0170> Nós nos encaramos por alguns minutos.
+// 見つめ合ったまま、奇妙な間が空く.
+<0171> \{Garota}"Eh..."
+// \{少女}「え…」
+<0172> \{Yukito}"Então você finalmente acordou."
+// \{Yukito}「やっと気づいたな」
+<0173> \{Garota}"Huh? Huh?"
+// \{少女}「あれ？ あれ？」
+<0174> \{Garota}"Onde estou? Quem é você?"
+// \{少女}「ここ…どこ？ キミは？」
+<0175> Ela olhou ao seu redor com perplexidade.
+// わけがわからない様子で、きょろきょろと辺りを見回す.
+<0176> \{Yukito}"Por enquanto, parece que você tá bem."
+// \{Yukito}「とりあえず、大丈夫みたいだな」
+<0177> \{Garota}"Eh...?"
+// \{少女}「ふぇ？」
+<0178> \{Yukito}"Você me deu um susto danado. Você desmaiou de repente."
+// \{Yukito}「驚いたぞ.急に倒れるから」
+<0179> \{Garota}"Desmaiou...? Quem desmaiou?"
+// \{少女}「…倒れた？ だれが？」
+<0180> \{Yukito}"........."
+// \{Yukito}「………」
+<0181> Eu apontei pra ela.
+// 人差し指で、びしっと少女を示してやる.
+<0182> \{Garota}"Eh... Eu?"
+// \{少女}「え…あたし？」
+<0183> \{Yukito}"Sim."
+// \{Yukito}「ああ」
+<0184> \{Garota}"Desmaiei?"
+// \{少女}「…倒れたの？」
+<0185> \{Yukito}"Isso mesmo."
+// \{Yukito}「そうだ」
+<0186> \{Garota}"Quem?"
+// \{少女}「だれが？」
+<0187> \{Yukito}"........."
+// \{Yukito}「………」
+<0188> Minhas palavras não pareciam tá chegando nela.
+// どうも会話が噛み合わない.
+<0189> \{Yukito}"Você não se lembra de nada?"
+// \{Yukito}「覚えてないのか？」
+<0190> \{Garota}"N-Não..."
+// \{少女}「う、うん…」
+<0191> Ela sacudiu a cabeça.
+// 困ったように頷く.
+<0192> \{Garota}"Me... desculpe..."
+// \{少女}「ごめん、なさい…」
+<0193> \{Yukito}"Não, você não precisa se desculpar."
+// \{Yukito}「いや、べつに謝る必要はないけどな」
+<0194> Ela tava tão ruim assim, ao ponto de não ter mesmo nenhuma lembrança?
+// 前後不覚になるほど、体調不良なのだろうか？
+<0195> Ou será que ela é sonâmbula?
+// それとも、夢遊病の気でもあるのか？
+<0196> Esqueça isso.
+// …まあいい.
+<0197> O mais importante agora era cuidar dela.
+// 今はこいつを介抱するのが先だ.
+<0198> \{Yukito}"Você aguenta ficar em pé? Você tá bem, não tá?"
+// \{Yukito}「立てるか？ 具合悪いんだろ」
+<0199> \{Garota}"Umm..."
+// \{少女}「んっと…」
+<0200> \{Garota}"Um, dois..."
+// \{少女}「うんしょっ」
+<0201> Quando ela tentou se levantar, apoiei seu peso com as duas mãos.
+// 立ち上がろうとする少女を、両腕で支える.
+<0202> Ela se equilibrou no meu ombro e aos poucos foi se levantando.
+// 少女は俺の肩に手をおき、ゆっくり身を起こそうとした…
+<0203> \{Garota}"Huh?"
+// \{少女}「ありゃ？」
+<0204> \{Garota}"Eu estou tonta..."
+// \{少女}「くらくら～」
+<0205> \{Yukito}"Ei!"
+// \{Yukito}「おいっ」
+<0206> Ela cambaleou, então eu rapidamente a agarrei pelos ombros.
+// ふらついた肩を、あわててつかむ.
+<0207> \{Garota}"D-Desculpe..."
+// \{少女}「ご、ごめんなさい…」
+<0208> \{Yukito}"Você tem certeza de que tá bem?"
+// \{Yukito}「本当に大丈夫か？」
+<0209> \{Garota}"Estou bem. Só estou me sentindo um pouquinho tonta."
+// \{少女}「だいじょうぶ、ただの立ちくらみだよぉ」
+<0210> Ela tocou minha mão que tava em seu ombro e sorriu pra mim.
+// 肩にそえた俺の手に触れながら、微笑みを返してくる.
+<0211> Seu rosto parecia estranhamente pálido.
+// だが、月明かりのせいだろうか.
+<0212> Será que era por causa do luar?
+// 少女の顔色が、少し蒼いように思えた.
+<0213> \{Garota}"?"
+// \{少女}「？」
+<0214> Continuei observando ela.
+// そのまま、少女を見つめる.
+<0215> \{Yukito}"........."
+// \{Yukito}「………」
+<0216> \{Garota}"........."
+// \{少女}「………」
+<0217> \{Potato}"Piko piko."
+// \{ポテト}「ぴこぴこ」
+<0218> \{Garota}"Huh? Potato?"
+// \{少女}「あれっ.ポテト？」
+<0219> \{Potato}"Piko."
+// \{ポテト}「ぴこ♪」
+<0220> \{Garota}"O que você está fazendo aqui?"
+// \{少女}「どうしたの、こんなところで」
+<0221> \{Potato}"Piko piko piko."
+// \{ポテト}「ぴこぴこぴこ」
+<0222> \{Garota}"Huh? O que... o quê?"
+// \{少女}「え、なになに？」
+<0223> \{Garota}"Ah, entendi!"
+// \{少女}「あっ、そうなんだぁ」
+<0224> \{Potato}"Pikkori."
+// \{ポテト}「ぴっこり」
+<0225> \{Yukito}"Ok, o que essa coisa acabou de dizer?"
+// \{Yukito}「…一応聞くが、そいつはなんと言ってる？」
+<0226> \{Garota}"Ele disse que está com fome."
+// \{少女}「お腹減ったって」
+<0227> \{Yukito}"........."
+// \{Yukito}「………」
+<0228> Que coincidência. Eu também tô com fome.
+// …奇遇だな、俺もだ.
+<0229> \{Garota}"Vamos para casa, Pot..."
+// \{少女}「帰ろっ、ポテ…」
+<0230> Justo quando ela tava prestes a chamar seu nome...
+// いつも通りに呼びかけようとして.
+<0231> ...ela percebeu a coisa mais importante.
+// 少女は最も重要なことに気づいた.
+<0232> \{Garota}"Huh?!"
+// \{少女}「あれっ？」
+<0233> \{Garota}"O que estou fazendo aqui?"
+// \{少女}「あたし、なんでここにいるの？」
+<0234> \{Yukito}"Isso é o que eu também gostaria de saber."
+// \{Yukito}「こっちが聞きたいぞ」
+<0235> Um santuário abandonado em uma colina nos arredores da cidade.
+<0236> Já era bem tarde.
+// 時間はもう夜遅い.
+<0237> Este não era o tipo de lugar onde uma garota deveria tá sozinha.
+// どう考えても、少女が一人で来るような場所ではない.
+<0238> \{Garota}"........."
+// \{少女}「………」
+<0239> \{Garota}"O que devo fazer...?"
+// \{少女}「どうしよう…」
+<0240> \{Garota}"Talvez eu esteja sofrendo de perda de memória..."
+// \{少女}「記憶喪失になっちゃった、あたし…」
+<0241> A garota parecia profundamente perturbada.
+// 少女の中では、かなり深刻な事態になっているようだった.
+<0242> \{Garota}"Ununu. Isto é uma crise!"
+// \{少女}「うぬぬ.これは一大事」
+<0243> \{Garota}"Preciso chegar em casa e pedir para minha irmã dar uma olhada em mim."
+// \{少女}「帰って、さっそくお姉ちゃんに治してもらわないと」
+<0244> \{Yukito}"Sua irmã deve ser realmente incrível se puder curar a perda de memória."
+// \{Yukito}「すごい姉ちゃんだな.記憶喪失が治せるのか」
+<0245> \{Garota}"Sim!"
+// \{少女}「うんっ」
+<0246> \{Garota}"Ela é..."
+// \{少女}「あのね…」
+<0247> Ela olhou pra mim como se fosse me contar tudo sobre sua vida.
+// とっておきの打ち明け話をする顔で言う.
+<0248> \{Garota}"Minha irmã é médica."
+// \{少女}「あたしのお姉ちゃん、お医者さんなんだよぉ」
+<0249> \{Yukito}"Médica?"
+// \{Yukito}「医者？」
+<0250> \{Garota}"Isso mesmo, ela é uma médica muito talentosa."
+// \{少女}「そう、すっごく腕のいいお医者さんなんだぁ」
+<0251> \{Garota}"Ela pode arrumar qualquer coisa, até carros e tratores."
+// \{少女}「車からトラクターまで、何でも治せるんだよぉ」
+<0252> \{Yukito}"Uau, isso é realmente incrível em mais de um aspecto."
+// \{Yukito}「それは、ある意味ものすごいな」
+<0253> \{Garota}"Sim! Ela é incrível!"
+// \{少女}「そうっ! ものすごいんだよっ!」
+<0254> \{Garota}"É por isso que curar uma perda de memória será muito fácil para ela!"
+// \{少女}「だからね、記憶喪失なんてヘのカッパっ!」
+<0255> \{Yukito}"Entendi."
+// \{Yukito}「なるほど」
+<0256> \{Garota}"Fraturas expostas e rupturas de órgãos internos também não são problemas para ela!"
+// \{少女}「複雑骨折も内臓破裂もヘのカッパっ!」
+<0257> \{Yukito}"Você tá falando sério?"
+// \{Yukito}「そうか」
+<0258> \{Garota}"Disparar raios com os olhos e mísseis com os punhos também não são problemas para ela!"
+// \{少女}「目から光線も膝からミサイルもロケットパンチもヘのカッパっ!」
+<0259> \{Yukito}"........."
+// \{Yukito}「………」
+<0260> Fiquei tentando imaginar o quão incrível seria a irmã dessa garota.
+// 少女の姉だという天才医師の姿を、俺は想像してみた.
+<0261> Ela provavelmente usava um jaleco branco surrado.
+// 当然、白衣はボロボロだろう.
+<0262> Tinha um tapa-olho preto em um dos olhos.
+// 片目に黒い眼帯をしているだろう.
+<0263> E certamente coordenava o laboratório de modificações corporais de alguma organização maligna.
+// 悪の組織で人体改造を担当しているだろう.
+<0264> \{Yukito}"........."
+// \{Yukito}「………」
+<0265> \{Voz}"Ah, eu sabia que você estaria aqui."
+// \{声}「おっ.やはりここにいたのか」
+<0266> A garota se virou em direção da voz.
+// 突然の声に、少女が振り返る.
+<0267> \{Garota}"Eh?"
+// \{少女}「え…」
+<0268> \{Garota}"Ah, Onee-chan!"
+// \{少女}「あっ、お姉ちゃん」
+<0269> \{Yukito}"Hm...?"
+// \{Yukito}「ん…？」
+<0270> Eu também me virei.
+// 振り向くと、そこに立っていたのは….
+<0271> Essa mulher se chama Kirishima Hijiri, se bem me lembro.
+// たしか、霧島聖とかいったか.
+<0272> \{Hijiri}"Você me deixou preocupada. Eu estava esperando você voltar para casa."
+// \{聖}「心配したじゃないか.なかなか帰ってこないから」
+<0273> \{Garota}"Desculpe. Fiquei um pouco distraída."
+// \{少女}「ごめーん.ちょっと、とりこんでましたぁ」
+<0274> \{Garota}"Certo, Potato?"
+// \{少女}「ねっ、ポテト」
+<0275> \{Potato}"Piko."
+// \{ポテト}「ぴこ」
+<0276> \{Hijiri}"Bem, contanto que você esteja bem..."
+// \{聖}「まあ、無事で何よりだ」
+<0277> As duas sorriram calorosamente uma pra outra.
+// 互いにほんわり微笑みあう.
+<0278> Um par de luz brilhante na escuridão.
+// しんとした夜気の中に、明かりが灯ったような光景.
+<0279> Mas...
+// しかし.
+<0280> Isso não era importante agora.
+// そんなことは問題ではなかった.
+<0281> Meus olhos tavam nos peitos da médica.
+// 俺はただ、女医の胸元を見つめていた.
+<0282> Eu não tinha notado quando a conheci durante o dia, mas ela tem seios enormes.
+// 昼間会った時は気づかなかった、かなりふくよかな膨らみ.
+<0283> Em sua camiseta tá escrito: "Porta para o paraíso...".
+// その上に書かれた、通…
+<0284> \{Hijiri}"Hm?"
+// \{聖}「ん？」
+<0285> \{Hijiri}"Oh, olha só o marionetista! O que você está fazendo aqui?"
+// \{聖}「おっ、人形使い君じゃないか.なんで君がここに？」
+<0286> \{Yukito}"........."
+// \{Yukito}「………」
+<0287> \{Hijiri}"Qual é o problema? Você parece meio inseguro."
+// \{聖}「どうした？ やけに不景気な顔をして」
+<0288> \{Yukito}"........."
+// \{Yukito}「………」
+<0289> Eu não tinha certeza se seria uma boa ideia perguntar a ela sobre sua camiseta...
+// …ツッコむべきなのか、あえて触れない方がいいのか.
+<0290> \{Garota}"Huh? Onee-chan, você conhece ele?"
+// \{少女}「あれれ？ お姉ちゃん、この人とお知り合いなの？」
+<0291> \{Hijiri}"Tipo isso."
+// \{聖}「まあな」
+<0292> \{Garota}"Eh? É raro você ter um amigo homem."
+// \{少女}「へえー、お姉ちゃんが男の人とお知り合いなんて、珍しいねぇ」
+<0293> \{Hijiri}"Você acha?"
+// \{聖}「そうか？」
+<0294> \{Garota}"Sim."
+// \{少女}「うんっ」
+<0295> \{Hijiri}"Entendo... Você tem razão."
+// \{聖}「そうか…言われてみれば、そうだな」
+<0296> \{Garota}"Ele é seu namorado?"
+// \{少女}「彼氏？」
+<0297> \{Hijiri}"Definitivamente não."
+// \{聖}「大ハズレだ」
+<0298> \{Garota}"Ah, que pena."
+// \{少女}「なんだぁ.ちがうのかぁ」
+<0299> \{Hijiri}"Por que você ficou tão desapontada?"
+// \{聖}「なぜそんな残念そうな顔をする？」
+<0300> \{Garota}"Se ele fosse seu namorado, então significaria que você tem bom gosto..."
+// \{少女}「だって、彼氏だったら、お姉ちゃん見る目あると思ったのに…」
+<0301> \{Hijiri}"Bom gosto?"
+// \{聖}「見る目って？」
+<0302> \{Garota}"Claro! Esse cara é muito legal!"
+// \{少女}「あのねあのね、この人ね、すっごくいい人なんだよぉ」
+<0303> \{Garota}"Ele esteve cuidando de mim aqui todo esse tempo."
+// \{少女}「あたし、この人にすっごくお世話になったんだぁ」
+<0304> A garota me agarrou pelo braço e me apresentou diante da irmã.
+// ぐいっと俺の腕を引っ張り、姉の前に据える.
+<0305> \{Hijiri}"Cuidando de você?"
+// \{聖}「…お世話？」
+<0306> Ela me examinou com um olhar frio e desconfiado, da cabeça aos pés.
+// 瞳の中に、何か冷たい光を感じた.
+<0307> \{Yukito}"Olha, eu não fiz nada com ela..."
+// \{Yukito}「いや、だから、俺はなにもしてないって」
+<0308> \{Garota}"Fez sim!"
+// \{少女}「そんなことないよぉ」
+<0309> Ela sorriu feliz enquanto ignorava completamente o que eu disse.
+// 俺の言うことも聞かず、楽しそうな笑顔を振りまく.
+<0310> \{Garota}"Eu desmaiei aqui agora há pouco."
+// \{少女}「さっきね.あたしここでバッタリ倒れたんだって」
+<0311> \{Garota}"Quando acordei, ele estava me abraçando."
+// \{少女}「気がついたら、この人にだっこしてもらってたの」
+<0312> \{Garota}"Não me lembro do que aconteceu antes disso, mas ele foi muito gentil comigo."
+// \{少女}「その前のことサッパリ覚えてないけど、すっごくやさしかったんだよぉ」
+<0313> \{Hijiri}"........."
+// \{聖}「………」
+<0314> \{Garota}"E esta tarde lutamos sumô juntos."
+// \{少女}「それからねー、昼間は一緒にお相撲ごっこもしたよ」
+<0315> \{Garota}"Foi a maior pegação!"
+// \{少女}「組んずほぐれつの大熱戦だったんだよぉ」
+<0316> \{Garota}"E então ele tirou uma coisa da calça e me mostrou!"
+// \{少女}「それからねー、すっごいものを見せてくれたんだよぉ」
+<0317> \{Garota}"Uma coisa realmente incrível! Eu nunca tinha visto nada parecido na minha vida."
+// \{少女}「あんなの見たの、生まれてはじめてだったよぉ」
+<0318> \{Garota}"Certo, Potato?"
+// \{少女}「ねーポテトっ」
+<0319> \{Potato}"Piko piko."
+// \{ポテト}「ぴこぴこー」
+<0320> \{Hijiri}"........."
+// \{聖}「………」
+<0321> A história dela tava correta.
+// 少女が伝えた話には、ひとつの誤りもない.
+<0322> Mas por que eu tinha a impressão que tava parecendo o pior canalha do universo?
+// それなのに、自分が人間の屑になったような気がしてくるのはなぜだ？
+<0323> \{Yukito}"........."
+// \{Yukito}「………」
+<0324> Tentar sair de fininho
+// ごまかして逃げる
+<0325> Tentar explicar a situação
+// どうにか説明する
+<0326> \{Yukito}"Ei, espere um minuto."
+// \{Yukito}「いいか、よく聞け」
+<0327> Estufei um pouco o peito pra começar minha defesa.
+// 少し胸を張って口火を切る.
+<0328> \{Yukito}"É verdade que eu te abracei."
+// \{Yukito}「確かに、だっこをした」
+<0329> \{Yukito}"E também tô preocupado com o fato de você não se lembrar do que aconteceu antes disso."
+// \{Yukito}「その前に何があったのかを憶えていないと言うのには、俺も困っている」
+<0330> \{Yukito}"Mas fico feliz em saber que ao menos você tenha se lembrado que fui legal com você."
+// \{Yukito}「まあ、優しくした事を憶えているのは良いことだ」
+<0331> \{Yukito}"Vendo desse modo, valeu a pena ser gentil com você."
+// \{Yukito}「こちらも優しくした甲斐が有ったというもの」
+<0332> \{Hijiri}"........."
+// \{聖}「………」
+<0333> \{Yukito}"Sobre a nossa batalha de sumô, foi realmente muito intensa."
+// \{Yukito}「お相撲ごっこはなかなか白熱したぞ」
+<0334> \{Yukito}"Os corpos suados se esfregando, cabelo bagunçado... A idade nem importou naquele momento."
+// \{Yukito}「ぶつかり合う身体、乱れる髪、飛び散る汗、年甲斐もなく熱くなってしまった」
+<0335> \{Yukito}"Definitivamente não foi uma maneira ruim de se exercitar."
+// \{Yukito}「ああやって体を動かしてかく汗も悪くない」
+<0336> \{Hijiri}"........."
+// \{聖}「………」
+<0337> \{Yukito}"Quanto à minha coisa incrível, sim, de fato, ela é incrível!"
+// \{Yukito}「すっごいもののことだが、まあ俺のは特別すごいからな」
+<0338> \{Yukito}"Posso garantir que não é todo mundo que tem algo parecido."
+// \{Yukito}「どれだけすごいかと言うと、まず普通の人は持ち合わせていないくらいすごいものだ」
+<0339> \{Yukito}"Se eu tiver outra oportunidade, mostrarei com prazer pra você novamente."
+// \{Yukito}「機会があれば、またあんたにも見せてやろう」
+<0340> \{Hijiri}"........."
+// \{聖}「………」
+<0341> \{Yukito}"Tá vendo? Na verdade, fiz muitas coisas por ela pelas quais você deveria tá me agradecendo."
+// \{Yukito}「どうだ、むしろ、本来なら感謝されるべき事を沢山したんだぞ」
+<0342> \{Yukito}"Saiba que demonstrar um pouco de gratidão pelos outros não arranca pedaço de ninguém."
+// \{Yukito}「感謝の言葉と誠意の気持ちを形にして俺に差し出せ」
+<0343> \{Hijiri}"........."
+// \{聖}「………」
+<0344> \{Yukito}"Ei..."
+// \{Yukito}「…おい？」
+<0345> \{Hijiri}"........."
+// \{聖}「………」
+<0346> A aura perigosa em torno da irmã mais velha aumentava vertiginosamente.
+// 姉の背中から発せられる危険なオーラはその濃さを増していた.
+<0347> Não entendi o porquê, mas minha explicação de defesa parecia ter falhado.
+// どうやら説明失敗らしい.
+<0348> É impressão minha ou eu tinha piorado a situação...?
+// 事態は悪化してしまった.
+<0349> Agora só restava uma opção.
+// こうなってしまったら、取る手段は一つだ.
+<0350> \{Yukito}"Bem, o papo tá bom mas agora eu vou nessa."
+// \{Yukito}「じゃっ、そういうことで」
+<0351> Levantei minha mão direita em um esforço pra parecer descolado.
+// 陽気な兄キを装い、しゅたっと右手を上げる.
+<0352> Quando me virei pra sair com um sorriso estampado no rosto...
+// そのままにこやかに、この場を立ち去ろうとする…
+<0353> \{Hijiri}"Espere!"
+// \{聖}「待てい」
+<0354> Como pensei, as coisas não saíram como o esperado.
+// やはり、そうはいかなかった.
+<0355> \{Hijiri}"Então, você drogou minha irmãzinha e praticou atos indecentes com ela."
+// \{聖}「私の妹にいかがわしい薬をかがせて、ふらちな行為に及んだな」
+<0356> \{Hijiri}"Sob o pretexto de praticar sumô, você se aproveitou para ficar passando a mão nela."
+// \{聖}「組み手の稽古だと偽って、嫌がる妹にあんなことやこんなことを強要したんだな」
+<0357> \{Hijiri}"E então você tirou seu bem precioso das calças e..."
+// \{聖}「そうして、やおらズボンから自慢の…」
+<0358> \{Yukito}"E-Espere um segundo!"
+// \{Yukito}「ちょ、ちょっと待てッ!」
+<0359> Eu rapidamente tentei cobrir a boca de Hijiri.
+// あわてて姉の口を塞ぐ.
+<0360> No entanto, ela se libertou imediatamente sem nenhuma dificuldade.
+// が、渾身の力ですぐに振り解かれる.
+<0361> \{Hijiri}"Eu vou te matar!"
+// \{聖}「…殺す」
+<0362> \{Yukito}"O quê?"
+// \{Yukito}「はいっ？」
+<0363> \{Hijiri}"Droga! Eu sabia que não deveria ter confiado em um artista de rua pervertido!"
+// \{聖}「くそっ! 食い詰め者の旅芸人だと情けをかけた私がバカだった」
+<0364> \{Hijiri}"Vou transformar você em carne picada!"
+// \{聖}「貴様だけは私がたたき斬ってやるっ!」
+<0365> \{Yukito}"D-Do que você tá falando?"
+// \{Yukito}「な、なにを言ってるんだ、あんた」
+<0366> \{Hijiri}"Cala essa boca!!"
+// \{聖}「黙れっ!」
+<0367> \{Hijiri}"Não pense que você pode corromper minha irmãzinha!"
+// \{聖}「私の大切な妹を傷物にして、無事で済むと思うなっ」
+<0368> \{Hijiri}"Prepare-se para morrer, seu safado!!"
+// \{聖}「観念しやがれいっ!」
+<0369> \{Garota}"O-Onee-chan, você não deveria falar assim..."
+// \{少女}「お、お姉ちゃん、言葉遣いがべらんめぇになってるよぉ」
+<0370> Esse não é o problema aqui.
+// そんな問題じゃない.
+<0371> \{Yukito}"Sua irmã tá entendendo tudo errado por causa do que você disse!"
+// \{Yukito}「おまえのせいで完璧に勘違いしてるぞ」
+<0372> \{Yukito}"Ajuda aí a esclarecer esse mal-entendido!"
+// \{Yukito}「ちゃんと説明しろっ」
+<0373> \{Hijiri}"Eeh! Homens de verdade não inventam desculpas para si mesmos!"
+// \{聖}「ええいっ! 男のくせにごちゃごちゃと言い訳をするなっ!」
+<0374> *Schwing!*
+// しゃきーんっ!
+<0375> A médica tinha algo brilhante na mão.
+// 女医の指先で、何かが光った.
+<0376> Era um bisturi afiado, do tipo usado em cirurgias.
+// 手術用らしい、鋭利なメスだった.
+<0377> \{Yukito}"Você tá falando sério?"
+// \{Yukito}「マジか…」
+<0378> \{Hijiri}"Morra!"
+// \{聖}「死ねーーーっ」
+<0379> \shake{2}*Swish!*
+// しゅっ!
+<0380> \{Hijiri}"Ei! Pare de se esquivar!"
+// \{聖}「こらっ、避けるんじゃないっ!」
+<0381> Ah, tá! Conta outra!
+// 無茶なことを言う.
+<0382> \{Yukito}"Ei, irmãzinha! Faça alguma coisa!"
+// \{Yukito}「おい妹なんとかしろ!」
+<0383> \{Garota}"Eh? E-Eu?"
+// \{少女}「えっ、あ、あたし？」
+<0384> \{Yukito}"Sim, você mesma!"
+// \{Yukito}「そうだっ」
+<0385> \{Yukito}"Socorro!!!"
+// \{Yukito}「助け…」
+<0386> \shake{2}*Whoosh!*
+// しゅぱっ!
+<0387> Alguns fios do meu cabelo voaram no ar.
+// 髪が数本、宙を舞う.
+<0388> \{Hijiri}"Tch! Você se esquivou de novo!"
+// \{聖}「チッ、また避けやがったかっ」
+<0389> Era só uma questão de tempo até que meu sangue ficasse manchado naquele bisturi.
+// あのメスが俺の血を吸うのは時間の問題かも知れない.
+<0390> Olhei pra garota em busca de ajuda.
+// 救いを求める視線を少女に向ける.
+<0391> \{Garota}"O-Ok, entendi. Eu vou te salvar."
+// \{少女}「う、うん、わかった.助けるね」
+<0392> \{Garota}"Hm... Hmm... espere um segundo... Vamos ver..."
+// \{少女}「えっと、えっと、ちょっと待ってね、えーっと」
+<0393> \shake{2}*Swoosh!* \wait{500}\shake{2}*Swish!*
+// しゅぱしゅぱっ!
+<0394> \{Yukito}"Eita...!!"
+// \{Yukito}「うぉっ…!!」
+<0395> \{Hijiri}"Fique parado!"
+// \{聖}「じっとしてろっ!」
+<0396> Eu não poderia fazer isso porque ainda quero viver.
+// まだ命は惜しいので、できるわけがない.
+<0397> \{Garota}"Uou uou! Isso já está ficando fora de controle! O que eu posso fazer...?"
+// \{少女}「うわわっ、なんかスゴイことになってる.ど、どうしよ…」
+<0398> \{Garota}"Ah! Já sei! Potato!"
+// \{少女}「あっ! そうだっ、ポテト」
+<0399> \{Potato}"Piko?"
+// \{ポテト}「ぴこ？」
+<0400> \{Garota}"Por favor!"
+// \{少女}「お願いっ」
+<0401> Ela pegou o Potato, que tava perto de seus pés.
+// むんず、と足下にいたポテトをつまみ上げる.
+<0402> \{Garota}"Pare a minha onee-chan!"
+// \{少女}「お姉ちゃんを止めてきてーーーっ」
+<0403> *Fwoomp!*
+// ぶんっ!
+<0404> \{Potato}"Pikooooooooooooo!!"
+// \{ポテト}「ぴこーーーーーーーーーっっっ!!」
+<0405> Ela arremessou o cachorro.
+// 投げた.
+<0406> *Boing!*\shake{7}
+// ごいーんっ!\shake{1}
+<0407> \{Hijiri}"Gwaah!!"
+// \{聖}「ぐはっ」
+<0408> O cachorro acertou a doutora em cheio.
+// 命中.
+<0409> Na parte de trás da cabeça, pra ser mais exato.
+// しかも後頭部に.
+<0410> A furiosa médica Kirishima Hijiri caiu no chão, com os olhos girando.
+// 暴走女医こと霧島聖は、目を回してその場に倒れこんだ.
+<0411> \{Yukito}"Eu não morri..."
+// \{Yukito}「…助かった…」
+<0412> Deixei escapar um suspiro de alívio.
+// 俺はようやく安堵の息をもらした.
+<0413> Eu não posso acreditar que consegui...
+// 生きてるって、素晴らしい…
+<0414> Por essa eu não esperava...
+// 心から、そう思った.
+<0415> .........
+// ……….
+<0416> \{Hijiri}"Não acredito que você realmente jogou o Potato em mim."
+// \{聖}「まさか、あそこでポテトを投げてくるとは思わなかったぞ」
+<0417> \{Garota}"D-Desculpe... Mas essa foi a única coisa em que consegui pensar..."
+// \{少女}「ご、ごめん…とっさのことだったから…」
+<0418> \{Hijiri}"Não, foi um ataque esplêndido. Estou impressionada."
+// \{聖}「いや、なかなか見事な攻撃だった.感服したぞ」
+<0419> As irmãs sorriram uma pra outra.
+// にこやかに語らう姉と妹.
+<0420> \{Yukito}"........."
+// \{Yukito}「………」
+<0421> \{Potato}"........."
+// \{ポテト}「………」
+<0422> Potato e eu ainda estávamos tentando processar todas essas informações.
+// 心中穏やかではない俺とポテト.
+<0423> \{Hijiri}"De qualquer forma..."
+// \{聖}「それにしても…」
+<0424> Hijiri lentamente se virou pra mim.
+// 聖がゆっくりと俺の方に振り向く.
+<0425> \{Hijiri}"Me desculpe por isso, Kunisaki-kun."
+// \{聖}「すまなかったな、Kunisaki君」
+<0426> \{Hijiri}"Acho que tive algum mal-entendido sobre você."
+// \{聖}「まさか、そんな事情があったとは思わなかったんでな」
+<0427> \{Hijiri}"Exagerei um pouco, considerando minha idade."
+// \{聖}「年甲斐もなく、少し取り乱してしまった」
+<0428> Um pouco? Para uma bruxa velha como você...?
+// …あれを少しと言うのか、この大年増は.
+<0429> \{Hijiri}"Você disse alguma coisa?"
+// \{聖}「何か言ったか？」
+<0430> \{Yukito}"Deve ter sido sua imaginação."
+// \{Yukito}「空耳だろ」
+<0431> \{Garota}"Ah, eu deveria me desculpar também."
+// \{少女}「あっ、あたしからも謝るよぉ」
+<0432> \{Garota}"Desculpe... Hmm... Kunisaki-kun, não é?"
+// \{少女}「ごめんねぇ、えっと…Kunisakiくん、だっけ？」
+<0433> \{Yukito}"Isso mesmo. Eu sou Kunisaki-kun."
+// \{Yukito}「そう.Kunisakiくんだ」
+<0434> \{Garota}"Qual é o seu primeiro nome?"
+// \{少女}「下の名前は？」
+<0435> \{Yukito}"Yukito."
+// \{Yukito}「Yukito」
+<0436> \{Garota}"Yukito-kun, huh?"
+// \{少女}「Yukitoくんかぁ」
+<0437> \{Garota}"Esse é um belo nome. Tem uma qualidade tonal doce."
+// \{少女}「いい名前だねぇ.そこはかとなく甘美な響きを醸し出してるよぉ」
+<0438> \{Yukito}"Obrigado pelo elogio."
+// \{Yukito}「…そらどうも」
+<0439> \{Garota}"Hm... Ahem!"
+// \{少女}「えっと…こほんっ」
+<0440> \{Garota}"Por favor, aceite minhas desculpas novamente, Yukito-kun."
+// \{少女}「じゃあ、あらためて.ごめんなさいでした、Yukitoくん」
+<0441> Ela se curvou pra mim.
+// ぺこりと頭を下げる.
+<0442> \{Garota}"Vamos, Onee-chan. Peça desculpas a ele novamente."
+// \{少女}「ほら、お姉ちゃんも、もう一回ちゃんと謝って」
+<0443> \{Hijiri}"Hum? Oh, me desculpe."
+// \{聖}「ん？ ああ、すまなかったな」
+<0444> Eu não consegui sentir nenhuma sinceridade dela.
+// …誠意が感じられない.
+<0445> \{Hijiri}"Você disse alguma coisa?"
+// \{聖}「何か言っただろ？」
+<0446> \{Yukito}"Você tá imaginando coisas."
+// \{Yukito}「空耳だ」
+<0447> \{Garota}"Tudo bem, Onee-chan. Vamos para casa."
+// \{少女}「じゃあ、そろそろ帰ろっか、お姉ちゃん」
+<0448> \{Hijiri}"Você tem razão."
+// \{聖}「そうだな」
+<0449> As duas se levantaram ao mesmo tempo.
+// 二人そろって立ち上がる.
+<0450> Eu me levantei também.
+// 俺も腰を上げた.
+<0451> \{Garota}"E você, Yukito-kun? Venha conosco."
+// \{少女}「Yukitoくんは？ 一緒に帰ろうよぉ」
+<0452> \{Yukito}"Hm..."
+// \{Yukito}「ん…」
+<0453> \{Yukito}"Não, acho que vou ficar aqui mais um pouco."
+// \{Yukito}「いや、俺はもう少しここにいる」
+<0454> \{Garota}"Sério?"
+// \{少女}「そう…？」
+<0455> \{Yukito}"Sim."
+// \{Yukito}「ああ」
+<0456> \{Garota}"Que pena. Imaginei que nós quatro poderíamos voltar para casa juntos."
+// \{少女}「残念っ.四人で帰れると思ったのに」
+<0457> \{Garota}"Certo, Potato?"
+// \{少女}「ねー？ ポテト」
+<0458> \{Potato}"Piko..."
+// \{ポテト}「ぴこ～…」
+<0459> Não deveria ser: "Nós três mais um cachorro"?
+// 四人ではなく、三人と一匹だと思うが.
+<0460> \{Yukito}"Desculpe por frustrar sua expectativa."
+// \{Yukito}「悪いな、期待を裏切って」
+<0461> \{Garota}"Não, está tudo bem."
+// \{少女}「ううん.そんなことないよぉ」
+<0462> Ela sorriu novamente.
+// にっこりと笑う.
+<0463> Aqueles olhos pareciam tá olhando diretamente pra mim.
+// その瞳が、なぜだか俺を覗きこんできた.
+<0464> \{Garota}"Oh? Mas Yukito-kun, onde você está morando agora?"
+// \{少女}「あれれ？ でも、Yukitoくんって、どこに住んでるのぉ？」
+<0465> \{Garota}"Você não parece ser desta cidade."
+// \{少女}「なんか、この町の人じゃない感じがするけど」
+<0466> \{Yukito}"Isso mesmo."
+// \{Yukito}「正解だ」
+<0467> \{Yukito}"Tô no meio de uma jornada. Só tô nesta cidade de passagem."
+// \{Yukito}「俺は旅の途中で、この町にはちょっと寄っただけだからな」
+<0468> \{Garota}"Uau, isso parece incrível. Você é um nômade?"
+// \{少女}「へぇー、すごいねぇ、旅人さんなんだぁ」
+<0469> \{Yukito}"Exatamente."
+// \{Yukito}「そのとおり」
+<0470> \{Garota}"Então, você tem um lugar para ficar? Onde você está dormindo?"
+// \{少女}「それじゃあさぁ、寝る場所とかは？ どうしてるの？」
+<0471> \{Yukito}"Hmm... Tem uma família gentil que conheci."
+// \{Yukito}「ん…まあ、一人奇特な奴がいてな」
+<0472> \{Yukito}"Eles tão me deixando ficar na casa deles."
+// \{Yukito}「そいつの家に、今は厄介になってる」
+<0473> \{Garota}"Entendi. Então não preciso me preocupar com você."
+// \{少女}「そうなんだぁ.じゃあ、安心だねぇ」
+<0474> \{Yukito}"Fique tranquila."
+// \{Yukito}「まあな」
+<0475> \{Hijiri}"Ei, vamos voltar."
+// \{聖}「おいっ、帰るぞ」
+<0476> \{Garota}"Oh, vamos..."
+// \{少女}「あっ、うん.わかったよぉ」
+<0477> \{Garota}"Nós vamos indo então. Tome cuidado no caminho para casa, Yukito-kun."
+// \{少女}「それじゃあ、あたしたちは先に帰るから、Yukitoくんも気をつけて帰ってね」
+<0478> \{Yukito}"Pode deixar."
+// \{Yukito}「ああ」
+<0479> \{Garota}"Vamos, Potato."
+// \{少女}「行こっ、ポテト」
+<0480> \{Potato}"Piko."
+// \{ポテト}「ぴこ」
+<0481> A garota se virou.
+// くるり、と俺に背を向ける.
+<0482> \{Garota}"Ah, a propósito..."
+// \{少女}「あっ、そうだ」
+<0483> Ela me encarou novamente.
+// 振り返る.
+<0484> \{Garota}"Eu sou a Kano."
+// \{少女}「あたし、佳乃だよ」
+<0485> \{Yukito}"O quê?"
+// \{Yukito}「なにが？」
+<0486> \{Garota}"Esse é o meu nome."
+// \{少女}「名前」
+<0487> \{Garota}"Eu sou Kirishima Kano. Prazer em te conhecer, Yukito-kun."
+// \{少女}「霧島佳乃.よろしくね、Yukitoくん」
+<0488> A garota chamada Kano desapareceu lentamente de vista enquanto acenava pra mim.
+// 少女…佳乃は元気に手を振りながら、俺の前から姿を消した.
+<0489> Fiquei sozinho no terreno do santuário.
+// ひとり境内に残る.
+<0490> O vento aumentou e farfalhou as árvores próximas.
+// 風が吹き、辺りの木々がカサカサと音を立てた.
+<0491> Olhei pro céu. As estrelas pareciam mais próximas do que o normal.
+// 空を見上げれば、幾分星が近く見える.
+<0492> Espreguicei meu corpo enquanto tomava grandes goles de ar puro.
+// 澄んだ空気を大きく吸い込み、伸びをする.
+<0493> \{Yukito}"Acho que deveria voltar também."
+// \{Yukito}「…俺も帰るか」
+<0494> Depois de exalar o ar dos pulmões, fui pra casa.
+// 肺にたまった空気を、全て抜くように息を吐くと、足を前に進めた.

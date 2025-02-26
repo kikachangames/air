@@ -1,0 +1,904 @@
+﻿// Resources for SEEN0213.TXT
+
+#character 'Misuzu'
+// 'みすず'
+#character 'Voz'
+// '声'
+#character 'Mulher'
+// '女'
+#character 'Homem'
+// '男'
+#character 'Senhora'
+// 'Woman'
+// '女性'
+#character 'Cachorro'
+// '犬'
+#character 'Menina'
+// '女の子'
+
+<0000> 21 de Julho (Sex) / Sora
+// ７月２１日(金)／そら
+<0001> \{Misuzu}"Bom dia, Sora."
+// \{みすず}「そら、おはよー」
+<0002> .........
+// ……….
+<0003> \{Misuzu}"Huh?"
+// \{みすず}「あれ？」
+<0004> \{Misuzu}"Você ainda está dormindo?"
+// \{みすず}「まだ寝てる？」
+<0005> *Tóin tóin...*
+// つんつん.
+<0006> \{Misuzu}"Sora, já é de manhã."
+// \{みすず}「そら、朝だよー」
+<0007> *Vrosh...*
+// むくっ.
+<0008> Eu levantei a cabeça.
+// 頭をあげる.
+<0009> Minha cabeça estava muito pesada, então a coloquei de volta no chão.
+// が…すぐ重くなって、おろす.
+<0010> \{Misuzu}"O que foi, Sora? Não está se sentindo bem?"
+// \{みすず}「どうしたのかなー.元気ないな、そら」
+<0011> \{Misuzu}"Está doente?"
+// \{みすず}「調子悪いのかな」
+<0012> Ela estava falando comigo.
+// 彼女が話しかけてくれている.
+<0013> Com algum esforço, levantei minha cabeça novamente.
+// がんばって、顔をあげる.
+<0014> Mas logo minha cabeça caiu de novo.
+// が…すぐさがる.
+<0015> \{Misuzu}"Será que mamãe te chamou para beber saquê ontem à noite?"
+// \{みすず}「もしかして、お母さんに誘われて、お酒飲んでたとか」
+<0016> \{Misuzu}"Isso não é possível, né?"
+// \{みすず}「そんなわけないよねー」
+<0017> \{Misuzu}"Você é um corvo. Mamãe não deixaria você beber saquê."
+// \{みすず}「そら、カラスだもんね.お母さんも、飲ませないよね」
+<0018> \{Misuzu}"Será que você pegou alguma doença?"
+// \{みすず}「んー、だったら調子悪いのかな」
+<0019> \{Misuzu}"Estou um pouco preocupada..."
+// \{みすず}「心配」
+<0020> \{Misuzu}"Você vai ficar bem sozinho enquanto eu me arrumo?"
+// \{みすず}「用意してる間、ひとりにしてだいじょうぶかな」
+<0021> \{Misuzu}"Certo?"
+// \{みすず}「だいじょうぶ？」
+<0022> Mais uma vez, forcei-me a levantar a cabeça.
+// もう一度、がんばって顔をあげる.
+<0023> Eu a observei fixamente.
+// じっと彼女の顔を見つめる.
+<0024> \{Misuzu}"Certo. Bom garoto."
+// \{みすず}「うん.よしよし」
+<0025> \{Misuzu}"Sora é um pássaro forte."
+// \{みすず}「そらは強い子」
+<0026> \{Misuzu}"Vou me arrumar agora."
+// \{みすず}「じゃ、用意してくるねー」
+<0027> A garota foi embora.
+// 出ていった.
+<0028> Decidi descansar até ela voltar.
+// 戻ってくるまで、休んでいよう….
+<0029> Eu esperava que meu corpo se recuperasse rapidamente.
+// すぐによくなればいいのだけど.
+<0030> Por enquanto, permaneci parado.
+// しばらくじっとしている.
+<0031> .........
+// ……….
+<0032> \{Voz}"Humm... O que eu devo fazer?"
+// \{声}「うーん、どうしたらいいのかなー」
+<0033> \{Voz}"Eu quero o bicho de pelúcia que a mamãe comprou."
+// \{声}「お母さんが買ってくれたぬいぐるみ、欲しい」
+<0034> *Clique!*
+// がちゃり.
+<0035> \{Misuzu}"Humm... Humm..."
+// \{みすず}「うーん、うーん」
+<0036> Ela voltou resmungando para si mesma.
+// うなりながら、彼女は戻ってきた.
+<0037> \{Misuzu}"Ah... Sora está bem?"
+// \{みすず}「あ…そら、だいじょうぶかな」
+<0038> \{Misuzu}"Sora? Está se sentindo melhor?"
+// \{みすず}「そら、元気になった？」
+<0039> *Tóin tóin*
+// つんつん.
+<0040> Ela estava me cutucando.
+// つつかれる.
+<0041> Dei uma leve bicada em sua mão para responder.
+// 応えるようにして、その手をつついた.
+<0042> *Pik pik...*
+// つんつん.
+<0043> \{Misuzu}"Você parece melhor. Que bom."
+// \{みすず}「元気になったみたい.よかった」
+<0044> Ela me colocou no ombro dela.
+// 肩に乗せられる.
+<0045> \{Misuzu}"Eita... Não tenho muito tempo."
+// \{みすず}「わっ…時間ないんだった」
+<0046> \{Misuzu}"Estou indo!"
+// \{みすず}「いってきまーす」
+<0047> O sol nasceu novamente.
+// また陽がのぼる.
+<0048> Logo após sairmos do ninho, a garota conversou com uma mulher que eu nunca tinha visto antes.
+// ねぐらを出たところで、彼女は見知らぬ女と立ち話をした.
+<0049> \{Misuzu}"Você sabe de algum trabalho com pagamento diário?"
+// \{みすず}「何か、日雇いで人手を探しているところ、知らないですか？」
+<0050> \{Mulher}"Um trabalho com pagamento diário?"
+// \{女}「日雇いでアルバイト？」
+<0051> \{Misuzu}"Sim."
+// \{みすず}「ええ」
+<0052> \{Mulher}"Você está procurando um emprego?"
+// \{女}「観鈴ちゃんが？」
+<0053> \{Misuzu}"Ah, eu não. É pra ele."
+// \{みすず}「ちがいます.このひと」
+<0054> A garota apontou para o homem.
+// 彼女の指さす先…男がいた.
+<0055> \{Mulher}"Ah, é ele..."
+// \{女}「あぁ、そのひと…」
+<0056> \{Mulher}"Você consegue fazer trabalho braçal?"
+// \{女}「力仕事、いける？」
+<0057> \{Misuzu}"Você pode fazer isso, certo?"
+// \{みすず}「いけるよね」
+<0058> \{Homem}"Sim, é moleza."
+// \{男}「ああ、ばっちりだ」
+<0059> \{Mulher}"Nesse caso, eu posso ter algo para você."
+// \{女}「それだったら、あるわよ」
+<0060> O homem de repente virou-se de cabeça para baixo.
+// 男がいきなり逆さまになる.
+<0061> Então seu corpo começou a se mover para cima e para baixo violentamente.
+// そこからさらに激しく上下に揺れた.
+<0062> *Poof poof poof poof...*
+// バッバッバッバッ!
+<0063> Assustador...
+// 恐い….
+<0064> \{Homem}"Ufa..."
+// \{男}「ふっ…」
+<0065> \{Mulher}"Ele é... uma figura, não é?"
+// \{女}「かなり変わったひとね…」
+<0066> \{Misuzu}"Sim, mas no fundo ele é uma boa pessoa. Nihaha..."
+// \{みすず}「根は優しくて、いいひとなんですよー.にはは…」
+<0067> \{Mulher}"Bem, ele é grande, então parece que tem força."
+// \{女}「でも、体が大きいから、力はありそうね…」
+<0068> \{Misuzu}"Sim, ele é realmente forte."
+// \{みすず}「うん、力持ち」
+<0069> \{Mulher}"Tudo bem. Posso recomendá-lo."
+// \{女}「ならいいわ.紹介してあげる」
+<0070> \{Misuzu}"Sério? Isso não é ótimo, Yukito-san?"
+// \{みすず}「ほんとですか？ よかった、Yukitoさん」
+<0071> O rosto dela iluminou-se.
+// 彼女の顔が明るくなる.
+<0072> Deve ter acontecido algo bom.
+// なにやら、いいことがあったようだ.
+<0073> Eu também me senti feliz.
+// ぼくもうれしい.
+<0074> \{Misuzu}"Obrigada por toda a sua ajuda."
+// \{みすず}「どうも、助かりました」
+<0075> \{Mulher}"Trabalhe duro no seu novo emprego."
+// \{女}「頑張ってね」
+<0076> \{Homem}"Claro..."
+// \{男}「ああ…」
+<0077> \{Misuzu}"Não fuja de novo."
+// \{みすず}「今日はちゃんと待ってないとダメだよ」
+<0078> \{Misuzu}"Espere por mim lá fora, ok?"
+// \{みすず}「今日もここで待っててね」
+<0079> \{Misuzu}"Ou você quer brincar com Yukito-san?"
+// \{みすず}「それともYukitoさんと遊んでる？」
+<0080> \{Misuzu}"Mas ele está trabalhando hoje. Você não deve incomodá-lo."
+// \{みすず}「でも、仕事だからねー.邪魔したらダメだよ」
+<0081> Seguir o homem
+// 男についてゆく
+<0082> Esperar aqui
+// じっと待っている
+<0083> *Tap tap...*
+// てこてこ…
+<0084> \{Homem}"Hmm..."
+// \{男}「ん…」
+<0085> O homem se virou.
+// 男が振り向く.
+<0086> \{Homem}"Por que esse passarinho tá me seguindo?"
+// \{男}「なんでついてきてるんだよ」
+<0087> \{Homem}"Um corvo me seguindo no meu primeiro dia de trabalho? Fala sério, que azar!"
+// \{男}「これから勝負に出るってときに、不吉だろっ」
+<0088> \{Homem}"Volte pra Misuzu."
+// \{男}「観鈴についていけっ」
+<0089> Ele continuou andando.
+// 歩いてゆく.
+<0090> *Tap tap...*
+// てこてこ…
+<0091> \{Homem}"Tch..."
+// \{男}「く…」
+<0092> Ele olhou para trás novamente.
+// また振り返る.
+<0093> \{Homem}"Se as coisas não derem certo, a culpa vai ser sua."
+// \{男}「うまくいかなかったらおまえのせいだからな」
+<0094> \{Homem}"Então eu vou te assar e te comer no espetinho."
+// \{男}「そんときゃ焼いて食ってやる」
+<0095> Ele continuou andando.
+// 歩いてゆく.
+<0096> *Tap tap...*
+// てこてこ…
+<0097> \{Homem}"Ei!"
+// \{男}「ちぃーす」
+<0098> O homem parou e levantou a voz.
+// 男が立ち止まり、声をあげる.
+<0099> Uma mulher que eu nunca tinha visto antes apareceu.
+// すると中から、見たことのない女が現れた.
+<0100> \{Mulher}"É você quem vai nos ajudar hoje?"
+// \{女性}「手伝ってもらえるって方ですよね？」
+<0101> \{Homem}"Sim."
+// \{男}「ああ」
+<0102> \{Mulher}"Sinto muito por você ter que trabalhar com esse calor."
+// \{女性}「ごめんなさいね、こんな暑い中」
+<0103> \{Homem}"Isso parece uma piada."
+// \{男}「ざけんなよってカンジだな」
+<0104> \{Mulher}"Mas você é jovem. Tenho certeza que posso contar com você."
+// \{女性}「でもほんと、若いのね.頼りになりそう」
+<0105> \{Homem}"Então aumente meu salário."
+// \{男}「ギャラはずめよな」
+<0106> \{Mulher}"Haha, você é engraçado."
+// \{女性}「うふふ、面白い子」
+<0107> Ela entregou ao homem uma grande caixa.
+// 男は大きな箱を渡される.
+<0108> \{Mulher}"Bem, trabalhe duro nisso."
+// \{女性}「じゃ、頑張ってね」
+<0109> \{Homem}"Vou tentar."
+// \{男}「適当にな」
+<0110> Os dois seguiram seus caminhos.
+// ふたりが別れる.
+<0111> O homem voltou a andar.
+// 男は再び歩き出す.
+<0112> *Tchoc tchoc...*
+// カラカラ…
+<0113> Ele estava arrastando uma grande caixa.
+// 大きな箱を引きながら.
+<0114> Eu pulei em cima dela.
+// ぼくはそれに飛び乗る.
+<0115> *Tchoc tchoc...*
+// カラカラ…
+<0116> Essa foi uma boa viagem.
+// らくちんだった.
+<0117> *Tchoc tchoc...*
+// …カラカラ…
+<0118> \{Homem}"........."
+// \{男}「………」
+<0119> O homem parou.
+// 男が立ち止まる.
+<0120> Então ele tirou algo branco e o abriu.
+// そして何か白いものを取り出して広げた.
+<0121> \{Homem}"........."
+// \{男}「………」
+<0122> Ele virou o pescoço, e eu ouvi um som estridente.
+// 首をねじって、こきっと音を鳴らした.
+<0123> Então o homem olhou novamente para suas mãos.
+// 男は再び、手元に目を落とす.
+<0124> \{Homem}"........."
+// \{男}「………」
+<0125> \{Homem}"Absolutamente inútil..."
+// \{男}「まったく使えねぇ…」
+<0126> \{Homem}"........."
+// \{男}「………」
+<0127> Ele ficou em silêncio por um tempo.
+// しばらく黙りこむ.
+<0128> De repente, ele parecia entender algo.
+// なにかわかったらしい.
+<0129> \{Homem}"A vitória será minha..."
+// \{男}「勝利をこの手に…」
+<0130> *Vrrrooooooooom*
+// ぶろろろろろ…
+<0131> \{Homem}"Hmm...?"
+// \{男}「ん…？」
+<0132> Eu já tinha ouvido esse som antes.
+// 聞いたことのある音.
+<0133> Algo ruim sempre acontecia depois que eu ouvia esse som.
+// その後には、たいていよくないことが起こる.
+<0134> A estranha criatura que emitia o som passou por nós e parou.
+// 音を立てる変な生き物が、ぼくたちを追い越して止まった.
+<0135> Alguém estava montado em cima daquela criatura...
+// その生き物に乗っていたのは…
+<0136> \{Mulher}"Eu tava procurando você."
+// \{女}「探したで」
+<0137> Era aquela mulher, como eu esperava.
+// やっぱり、あの女だった.
+<0138> \{Homem}"O que você quer?"
+// \{男}「…なんの用だよ」
+<0139> \{Mulher}"Você me pediu ajuda para procurar um emprego ontem à noite, não foi?"
+// \{女}「あんた、夕べ言うたやん.仕事紹介しろって」
+<0140> \{Homem}"Pedi? Não me lembro."
+// \{男}「だっけか.よく覚えてねぇ」
+<0141> \{Mulher}"Eu prometi ia conseguir um emprego para você. Agora, suba."
+// \{女}「約束やしな.紹介したるから、はよ乗り」
+<0142> \{Homem}"Ok, vamos dar um rolê."
+// \{男}「よし、飛ばすぜ」
+<0143> O homem montou na criatura.
+// 男が生き物にまたがる.
+<0144> \{Mulher}"Idiota! Você senta na carona."
+// \{女}「あほっ、あんたは後ろやっ」
+<0145> \{Homem}"Tch!"
+// \{男}「チッ」
+<0146> O homem se deslizou para trás e a mulher se sentou à frente dele.
+// 男が後ろにずれると、その前に女がまたがった.
+<0147> *Vrrrroooooom...*
+// ぶろろろろろろろ…
+<0148> \{Mulher}"Vamos nessa."
+// \{女}「いくで～」
+<0149> \{Homem}"Demorô."
+// \{男}「ああ」
+<0150> *Vrooooooooom!*
+// ぶろぉーーーーーーーーん!
+<0151> Eles dispararam com uma velocidade incrível.
+// すごい速さだ.
+<0152> Eles correram em linha reta...
+// まっすぐに走っていって…
+<0153> *Bam!!!*\shake{7}
+// どがーーーーーーーーーーーーーーーーんっっ!\shake{7}
+<0154> Eles bateram contra uma parede.
+// 壁にぶちあたった.
+<0155> \{Mulher}"Por que você se inclinou para o outro lado? Isso fez com que fôssemos em linha reta, seu idiota!"
+// \{女}「あんたが逆方向に倒れるから体重が釣り合うて、そのまま直進してしもたやろっっ!」
+<0156> \{Mulher}"Você estava tentando me matar?!"
+// \{女}「殺す気かっ!」
+<0157> \{Homem}"Ai..."
+// \{男}「イツツ…」
+<0158> \{Homem}"Que veículo perigoso... Nunca mais subirei em uma moto."
+// \{男}「なんて危ない乗り物だ…二度と乗らないぞ」
+<0159> \{Mulher}"Pois é! Depois dessa, acha mesmo que eu deixaria você andar de moto comigo novamente?!"
+// \{女}「ライダーと逆にハング切る奴なんか乗せるかっ!」
+<0160> \{Mulher}"Haa... Fui uma idiota por querer te ajudar."
+// \{女}「はぁ…こんな奴、助けたろ思たうちがアホやったわ…」
+<0161> A mulher levantou a criatura que estava deitada no chão e montou sozinha.
+// 地面でのびていた生き物を立たせて、女がひとりで乗る.
+<0162> \{Mulher}"Dane-se! Vá ganhar seu próprio dinheiro."
+// \{女}「もううち、しらんで.ひとりで勝手に稼ぎや」
+<0163> *Vrrrrrrooooooom!*
+// ぶろろぉぉぉーーーーーーーーーん!
+<0164> A mulher foi embora.
+// 去っていった.
+<0165> \{Homem}"Essa era minha intenção desde o início."
+// \{男}「はなからそのつもりだ」
+<0166> \{Homem}"Ok, vamos dar um rolê."
+// \{男}「よし、飛ばしてくれ」
+<0167> O homem se sentou ao meu lado.
+// 男がぼくの横に座り込む.
+<0168> \{Mulher}"Ok, aqui vamos nós."
+// \{女}「よっしゃ、いくで～」
+<0169> A mulher começou a puxar.
+// 女がすちゃっと引きに入る.
+<0170> \{Mulher}"Ei, quem você pensa que é?!"
+// \{女}「って、おのれは何様じゃいっ!」
+<0171> *Bam!*
+// げしっ!
+<0172> A mulher chutou o homem para fora.
+// 男だけ蹴落とされる.
+<0173> \{Homem}"Ei! Sem violência, por favor!"
+// \{男}「乱暴をするな」
+<0174> \{Mulher}"A moto está bem na nossa frente. Por que você odeia tecnologia?"
+// \{女}「目の前にバイクを置いて、何が悲しゅうて人力で行動せにゃならんのやっ」
+<0175> \{Mulher}"E por que sou eu quem está puxando seu carrinho? Você que faça isso!"
+// \{女}「しかも、なんでうちが引くねん.おのれが引けっ」
+<0176> \{Homem}"Certo..."
+// \{男}「…だな」
+<0177> O homem começou a puxar novamente.
+// 男が再び引き始める.
+<0178> *Tchoc tchoc...*
+// からから…
+<0179> \{Homem}"Quer carona?"
+// \{男}「乗ってくか」
+<0180> \{Mulher}"Seja um ludita você mesmo!"
+// \{女}「一生、人力で生きとれ」
+<0181> A mulher montou em sua criatura novamente.
+// 女が乗り物にまたがる.
+<0182> \{Mulher}"E vá encontrar seu próprio emprego também."
+// \{女}「仕事も、もう自分で探しや」
+<0183> \{Homem}"Essa era minha intenção desde o início."
+// \{男}「はなからそのつもりだ」
+<0184> \{Mulher}"Ah, é assim então? Tudo bem, adeus."
+// \{女}「そか.ほな、さいなら」
+<0185> *Vrroooooooom!*
+// ぶううううううん!
+<0186> A mulher foi embora.
+// 去っていった.
+<0187> *Tchoc tchoc...*
+// カラカラ…
+<0188> O homem voltou a puxar a caixa.
+// 男は再び箱を引いて歩き始める.
+<0189> \{Homem}"Esse lugar, hein?"
+// \{男}「ここか…」
+<0190> Ele ficou parado por um tempo.
+// しばらく立ち尽くしていた.
+<0191> \{Homem}"Vamos entrar..."
+// \{男}「いくか…」
+<0192> Ele seguiu em frente.
+// 建物の中に入っていった.
+<0193> .........
+// ……….
+<0194> \{Cachorro}"Au! Au au au au au!"
+// \{犬}「わんっ! わんわんわんわんわんっ!」
+<0195> \{Homem}"Ei, cala a boca! Vamos nos tornar amigos! Pare de se debater!"
+// \{男}「こら、うるさい.ふたりは仲良しなんだから、暴れるなっ」
+<0196> O homem saiu.
+// 出てきた.
+<0197> \{Homem}"Nossa, que mancada..."
+// \{男}「たく…散々な目に遭ったぞ…」
+<0198> Pelo seu rosto, as coisas não saíram como ele esperava.
+// 顔色からして、思い通りにいかなかったようだ.
+<0199> *Tchoc tchoc...*
+// からから…
+<0200> O homem começou a andar novamente.
+// 再び歩き出す.
+<0201> \{Homem}"Hmm... A próxima casa..."
+// \{男}「えーと、次の家はと…」
+<0202> Ele entrou em outra casa.
+// 別の家に入ってゆく.
+<0203> \{Homem}"Eba!"
+// \{男}「やったね!」
+<0204> Ele saiu.
+// 出てきた.
+<0205> \{Homem}"........."
+// \{男}「………」
+<0206> Ele parecia desanimado novamente.
+// また同じように呆然としている.
+<0207> \{Homem}"Já chega!"
+// \{男}「もういいっ!」
+<0208> O homem parecia irritado.
+// 男は怒っているようだった.
+<0209> Seria por causa do calor?
+// 暑さにだろうか.
+<0210> O sol estava quase diretamente acima de nós.
+// 陽は真上にさしかかろうとしている.
+<0211> O calor era insuportável.
+// 耐えられないぐらいに暑い.
+<0212> Provavelmente o homem também sentia calor, pois é da mesma cor que eu.
+// 同じ色だから、男も暑いだろう.
+<0213> \{Homem}"Vou fazer uma pausa..."
+// \{男}「休もう…」
+<0214> O homem deitou-se em um lugar onde soprava um vento forte.
+// 強い風の吹きつける場所で、男は横になる.
+<0215> *Rooonc...*
+// ぐぅ～
+<0216> Seu estômago roncou.
+// 男の腹が鳴っていた.
+<0217> Ele provavelmente estava com fome.
+// 何か食べたそうだった.
+<0218> Normalmente a garota o alimentava, mas ela não estava por perto. Ele não conseguiria comida.
+// いつもご飯をくれる彼女がいないから、食べられないのだろう.
+<0219> Ele parecia miserável.
+// とてもあわれだ.
+<0220> De repente, o homem tirou a criatura de membros longos.
+// 男はいきなり手足の長い生き物を取りだした.
+<0221> Ele a tocou e fechou os olhos.
+// それに触って、目を閉じる.
+<0222> .........
+// ……….
+<0223> *Sfrosh...*
+// のっし…!
+<0224> A criatura se levantou de repente.
+// 生き物がいきなり立ちあがった.
+<0225> *Sfrosh sfrosh sfrosh sfrosh...*
+// のっしのっしのっしのっしっ…!
+<0226> Ela começou a andar!
+// 歩いてくる…!
+<0227> \{Homem}"Que coisa medonha..."
+// \{男}「こえぇ…」
+<0228> *Vrosh vrosh!*
+// …ばっさばっさ!
+<0229> Aquilo foi realmente assustador.
+// 恐かった.
+<0230> \{Voz}"Ah, Sr. Preguiça."
+// \{声}「あ、ナマケモノさん」
+<0231> Ouvi uma voz ao longe.
+// 遠くで声がした.
+<0232> Virei a cabeça e vi uma garotinha olhando na nossa direção.
+// 見ると、小さな女の子がこっちを見ていた.
+<0233> Ela correu até nós.
+// 走ってくる.
+<0234> *Ploft...*
+// わしっ!
+<0235> Ela abraçou a criatura estranha com força.
+// 不気味な生き物に勢いよく抱きついた.
+<0236> Fiquei surpreso.
+// すごい.
+<0237> \{Garotinha}"Que fofo!"
+// \{女の子}「すごくかわいい」
+<0238> \{Homem}"........."
+// \{男}「………」
+<0239> \{Garotinha}"Fofo!"
+// \{女の子}「かわいい」
+<0240> A garotinha continuou abraçando a criatura estranha.
+// 女の子は不気味な生き物を抱きしめ続けていた.
+<0241> \{Homem}"Ei, garotinha. Onde estão seus pais?"
+// \{男}「なぁ、おまえ.親はどうした」
+<0242> \{Garota}"Fofo!"
+// \{女の子}「かわいい」
+<0243> \{Homem}"........."
+// \{男}「………」
+<0244> A criatura acariciou a cabeça da garota.
+// 生き物が、女の子の頭を撫でた.
+<0245> *Nihaha...*
+// きゃっきゃ.
+<0246> Dessa vez, acariciou a garota com o pé.
+// 今度は足で撫でた.
+<0247> *Nihaha...*
+// きゃっきゃっ.
+<0248> A garota parecia feliz.
+// 女の子は喜んでいるようだった.
+<0249> \{Homem}"E agora, o que eu faço...?"
+// \{男}「さて、どうしたものか…」
+<0250> O homem tentou pegar a criatura.
+// 男は生き物を取り上げようとする.
+<0251> O corpo da menina foi levantado. Ela estava pendurada na criatura.
+// ぷら～ん、と女の子がそれにぶら下がったままでいた.
+<0252> \{Homem}"Solte! Isso é meu."
+// \{男}「離せ.これはお兄ちゃんのものなんだぞ」
+<0253> \{Garotinha}"Eu quero abraçá-lo. É tão fofo!"
+// \{女の子}「だいてたい.かわいいから」
+<0254> \{Homem}"Essa coisa assustadora? Isso pode te devorar!"
+// \{男}「不気味だろっ.取って食われるぞ」
+<0255> \{Homem}"Ummph!"
+// \{男}「うらーっ!」
+<0256> O homem puxou a estranha criatura para separá-la da menina.
+// 男は生き物を引っ張って、引き離しにかかる.
+<0257> *Streeetch...*
+// ぎゅ～～っ!
+<0258> A menina ainda não queria soltar.
+// だがそれでも女の子は放さなかった.
+<0259> \{Homem}"Droga..."
+// \{男}「くそ…」
+<0260> O homem desistiu.
+// 男はあきらめた.
+<0261> \{Homem}"Que saco!"
+// \{男}「世話のかかる奴だ…ったく」
+<0262> O homem começou a andar.
+// ひとり、歩き出す.
+<0263> \{Homem}"........."
+// \{男}「………」
+<0264> Ele olhou para trás.
+// 男が振り返る.
+<0265> A menina estava lá sozinha.
+// その先には、ひとりきりの女の子.
+<0266> \{Homem}"Cara, ela realmente só dá trabalho..."
+// \{男}「本当、世話のかかる奴だ…」
+<0267> No fim, o homem decidiu levar a menina junto com ele.
+// 結局、男は女の子を連れてゆくことにしたようだ.
+<0268> \{Garotinha}"Fofo!"
+// \{女の子}「かわいい」
+<0269> A menina continuou brincando com a criatura estranha enquanto seguia o homem.
+// 男の背中で、女の子はずっと不気味な生き物とじゃれあっていた.
+<0270> O homem andou com a menina, conhecendo e conversando com muitas pessoas.
+// 男は女の子を連れて、いろんな人と出会い、話をして回った.
+<0271> Ele não parecia encontrar o que estava procurando.
+// 何も得られなかったようだった.
+<0272> Eu sabia disso pela expressão impaciente dele.
+// 焦りっぱなしの表情を見ていると、そう思えた.
+<0273> A menina logo começou a chorar.
+// やがて女の子が泣き始めた.
+<0274> \{Homem}"Ei, meninos não choram."
+// \{男}「馬鹿、泣くな.男の子だろ」
+<0275> \{Homem}"Espere, você é uma menina..."
+// \{男}「って、女の子か…」
+<0276> \{Homem}"Qual é o problema? Teve algum contratempo na vida?"
+// \{男}「どうした.人生に挫折したか」
+<0277> \{Homem}"Bem, a vida é cheia de altos e baixos. E você ainda é jovem, sabe?"
+// \{男}「そりゃまあ、いろいろとあるもんだ.おまえ、まだ若いじゃないか」
+<0278> \{Homem}"........."
+// \{男}「………」
+<0279> A garotinha não parou de chorar.
+// 女の子はc.
+<0280> \{Homem}"Ah! O que você quer que eu faça?!"
+// \{男}「ぐあーっ! どうしろってんだよっ」
+<0281> O homem segurou a cabeça com as duas mãos.
+// 男は頭を抱えた.
+<0282> \{Homem}"........."
+// \{男}「………」
+<0283> Quando olhei novamente, ele já havia levado a menina de volta pelo caminho.
+// 不意に顔をあげると、女の子を連れて道を戻り始めた.
+<0284> O que ele está tentando fazer?
+// 何をするつもりだろうか.
+<0285> O homem caminhou pelos lugares que passamos agora há pouco.
+// 男はさっき通った風景を逆に辿ってゆく.
+<0286> Com o tempo, a garotinha parecia estar mais feliz.
+// そうすることで、女の子はだんだん元気になっていった.
+<0287> Finalmente, ela sorriu.
+// 最後には、笑顔でいた.
+<0288> Voltamos ao lugar habitual e aproveitamos o vento.
+// そして、いつもの場所で風に当たりながら休む.
+<0289> A garotinha estava comendo algo enquanto brincava com a criatura estranha.
+// 女の子は何かを食べながら、不気味な生き物とじゃれている.
+<0290> \{Garotinha}"Saboroso e fofo~."
+// \{女の子}「かわいくて、おいしい」
+<0291> \{Homem}"Saboroso ou fofo? Você só pode escolher um."
+// \{男}「可愛いのか、おいしいのか、どっちかにしろ」
+<0292> *Pit pat pit pat...*\n\pO som de passos familiares se aproximava.
+// ぱたぱた…と聞き慣れた足音が近づいてくる.
+<0293> Eu me virei e vi a garota.
+// その方を見ると、やっぱり彼女だった.
+<0294> \{Misuzu}"Sora, você se divertiu?"
+// \{みすず}「そら、楽しかった？」
+<0295> Eu me aproximei dela.
+// ぼくは近づいてゆく.
+<0296> *Tap tap...*
+// てこてこ…
+<0297> Ela me colocou em seu ombro.
+// 肩に乗せられる.
+<0298> \{Misuzu}"Você não atrapalhou o trabalho do Yukito-san, né?" 
+// \{みすず}「Yukitoさんのお仕事の邪魔しなかった？」
+<0299> \{Misuzu}"O quê?" 
+// \{みすず}「あれ？」
+<0300> \{Misuzu}"O Yukito-san está com uma menina." 
+// \{みすず}「Yukitoさん、小さな女の子と一緒にいる…」
+<0301> \{Misuzu}"O que está acontecendo? Ele parece preocupado."
+// \{みすず}「なにかな.困ってるみたい」
+<0302> \{Misuzu}"Ele está olhando o mapa que eu dei a ele."
+// \{みすず}「わたしのあげた地図見てる」
+<0303> \{Misuzu}"Então ele realmente usou meu mapa."
+// \{みすず}「ちゃんと使ってくれてたんだ」
+<0304> \{Misuzu}"Eu me pergunto se ele achou útil?"
+// \{みすず}「ちょっとは役に立ったかな」
+<0305> Quando chegamos mais perto, vi que o homem estava olhando para algo em suas mãos.
+// 近づいてゆくと、男は顔を伏せて手元を覗き込んでいた.
+<0306> Decidi esperar pela garota.
+// じっと待つことにする.
+<0307> .........
+// ……….
+<0308> Depois de um tempo, a garota apareceu novamente.
+// しばらくして、再び彼女が現れる.
+<0309> \{Misuzu}"Nihaha, eu tirei uma boa nota no meu teste."
+// \{みすず}「にはは、小テストでいい点とれたっ」
+<0310> Ela veio correndo até mim.
+// ぱたぱたと駆けてくる.
+<0311> *Bam!*
+// ばたっ.
+<0312> E caiu pelo caminho.
+// 途中で転けていた.
+<0313> \{Misuzu}"Ai... Ga-Gao..."
+// \{みすず}「イタイ…が、がお…」
+<0314> \{Misuzu}"........."
+// \{みすず}「………」
+<0315> \{Misuzu}"Yukito-san não está aqui para me bater, então eu vou me bater."
+// \{みすず}「Yukitoさんいないから、自分で叩いとこっと」
+<0316> *Bop!*
+// ぽかっ.
+<0317> Ela bateu na própria cabeça.
+// 自分で自分の頭を叩いていた.
+<0318> \{Misuzu}"Tudo bem."
+// \{みすず}「よいしょ」
+<0319> A garota me pegou e me colocou em seu ombro.
+// ぼくを拾って、肩に乗せる.
+<0320> \{Misuzu}"Vamos voltar."
+// \{みすず}「帰ろっか」
+<0321> Depois que voltamos para o ninho, a garota comeu sozinha.
+// ねぐらに戻って、彼女はひとりでものを食べた.
+<0322> Então, ela caminhou pela casa fazendo muito barulho.
+// そして、大きな音をたてながら家の中を歩き回った.
+<0323> Depois disso, saímos.
+// その後、また外に出る.
+<0324> \{Misuzu}"Eu não sabia que passar o aspirador levaria tanto tempo."
+// \{みすず}「掃除機かけてたら、こんなに遅くなっちゃった」
+<0325> \{Misuzu}"Será que a apresentação de marionetes do Yukito-san está indo bem?"
+// \{みすず}「Yukitoさん、ちゃんと仕事できるかな」
+<0326> \{Misuzu}"Estou preocupada."
+// \{みすず}「気になるねー」
+<0327> \{Misuzu}"Caso contrário, ele não terá nada para comer."
+// \{みすず}「もしできてなかったら、すごくお腹すかしてると思うし」
+<0328> \{Misuzu}"Estou um pouco preocupada."
+// \{みすず}「ちょっと心配」
+<0329> \{Misuzu}"Eu preciso me apressar."
+// \{みすず}「急ごーっと」
+<0330> *Pit pat...*
+// ぱたぱた…
+<0331> \{Misuzu}"Ah, lá está ele."
+// \{みすず}「あ、いた」
+<0332> \{Misuzu}"O que? Ele está com uma menina pequena."
+// \{みすず}「ん？ 小さな女の子と一緒にいる」
+<0333> \{Misuzu}"O que está acontecendo? Ele parece preocupado."
+// \{みすず}「なにかな.困ってるみたい」
+<0334> \{Misuzu}"Ele está olhando o mapa que eu dei a ele."
+// \{みすず}「わたしのあげた地図見てる」
+<0335> \{Misuzu}"Então ele realmente usou meu mapa."
+// \{みすず}「ちゃんと使ってくれてたんだ」
+<0336> \{Misuzu}"Eu me pergunto se ele achou útil?"
+// \{みすず}「ちょっとは役に立ったかな」
+<0337> Quando chegamos mais perto, vi que o homem estava olhando para algo em suas mãos.
+// 近づいてゆくと、男は顔を伏せて手元を覗き込んでいた.
+<0338> \{Homem}"Então, o que diabos eu devo fazer a seguir...?"
+// \{男}「で、次はどうすればいいんだよ…」
+<0339> \{Misuzu}"Você não precisa mais usar isso agora."
+// \{みすず}「もう、それ見なくていいよ」
+<0340> O homem olhou para cima.
+// 男が顔をあげる.
+<0341> Ele parecia aliviado.
+// ほっとした表情.
+<0342> Então eu entendi.
+// それでぼくにもわかった.
+<0343> Esse homem também precisa da garota.
+// この男も、彼女のことを頼りにしているのだと.
+<0344> \{Homem}"Nossa, tô realmente tendo dificuldades aqui."
+// \{男}「大変だったぞ」
+<0345> \{Misuzu}"Ela é tão fofa~."
+// \{みすず}「かわいい」
+<0346> Ela acariciou a cabeça da menina.
+// 彼女が女の子の頭を撫でる.
+<0347> \{Misuzu}"Você estava brincando com ela esse tempo todo?"
+// \{みすず}「ずっと、この子と遊んでた？」
+<0348> \{Homem}"Sem chance. Você não tem ideia de quantos problemas ela me causou."
+// \{男}「馬鹿.こっちはそいつのせいで、どれだけ苦労したか」
+<0349> \{Homem}"Essa garotinha tá perdida."
+// \{男}「迷子なんだぞ、そいつは」
+<0350> \{Misuzu}"Perdida?"
+// \{みすず}「迷子？」
+<0351> \{Misuzu}"Qual é o nome dela?"
+// \{みすず}「名前は？」
+<0352> \{Homem}"Não sei. Pergunte a ela você mesmo."
+// \{男}「さあな.本人に聞いてくれ」
+<0353> \{Misuzu}"Certo. Qual é o seu nome?"
+// \{みすず}「うん.お名前は？」
+<0354> \{Garotinha}"Seis anos de idade."
+// \{女の子}「６さい」
+<0355> \{Homem}"Esse é um nome engraçado."
+// \{男}「すげぇ名前だな」
+<0356> \{Misuzu}"Fique quieto, Yukito-san."
+// \{みすず}「Yukitoさんは黙ってて」
+<0357> \{Homem}"........."
+// \{男}「………」
+<0358> \{Misuzu}"Qual é o seu nome? Isso vem antes da sua idade."
+// \{みすず}「お名前は？ お歳の前に言うものでしょ？」
+<0359> \{Garotinha}"Saika, seis anos."
+// \{女の子}「さいか、６さい」
+<0360> \{Misuzu}"Saika-chan?"
+// \{みすず}「さいかちゃん？」
+<0361> \{Garotinha}"Sim, Saika."
+// \{女の子}「うん、さいか」
+<0362> \{Misuzu}"Qual é o nome de sua familia? O nome que vem antes do seu."
+// \{みすず}「名字は？ 上の名前はわからない？」
+<0363> \{Garotinha}"Shino."
+// \{女の子}「しの」
+<0364> \{Misuzu}"Shino Saika. Isso tá certo?"
+// \{みすず}「しのさいか.合ってる？」
+<0365> \{Garotinha}"Sim."
+// \{女の子}「うん」
+<0366> \{Misuzu}"Esse é o nome dela."
+// \{みすず}「だって」
+<0367> \{Homem}"Então, podemos levá-la pra polícia agora?"
+// \{男}「で、警察か？」
+<0368> \{Misuzu}"Olhe para o mapa."
+// \{みすず}「地図見て」
+<0369> \{Homem}"O mapa?"
+// \{男}「地図？」
+<0370> O homem olhou para o que estava segurando.
+// 男が手元に持っていたものを見た.
+<0371> O rosto do homem se suavizou.
+// 男の顔がやわらかくなった.
+<0372> \{Homem}"Ok, aproveite pra brincar o quanto quiser com ela."
+// \{男}「ああ、好きなだけ遊んでくれ」
+<0373> \{Misuzu}"Mas a mãe dela provavelmente está preocupada. Ela tem que ir pra casa agora."
+// \{みすず}「でも、お母さん心配してるし、帰らないとね」
+<0374> \{Misuzu}"Vamos, Saika-chan."
+// \{みすず}「いこ、さいかちゃん」
+<0375> Depois disso, nos despedimos da garotinha.
+// 女の子と別れた後.
+<0376> Caminhamos pela estrada iluminada pelo pôr do sol laranja.
+// 真っ赤に染まった道をふたり、並んで歩いてゆく.
+<0377> Naturalmente, eu estava caminhando ao lado deles.
+// その風景に、ぼくも入っていた.
+<0378> *Tchock tchock tchock...*
+// がらがら…
+<0379> O lugar onde eu estava tinha uma montanha de coisas que o homem colecionou.
+// ぼくがいた場所には、男が集めたものが山になっていた.
+<0380> *Tchock tchock tchock...*
+// …がらがら…
+<0381> No entanto, há uma coisa que percebi.
+// ただ、ひとつだけわかったことがある.
+<0382> O homem sempre parece distante, mas ele precisa da garota.
+// 男はいつも無愛想だったけど、彼女を必要としている.
+<0383> E a garota gosta de estar com o homem.
+// そして、彼女もまたこの男と一緒にいることを望んでいる.
+<0384> Por algum motivo estranho, não me senti surpreso com esse fato, nem me senti ciumento.
+// でも、不思議と悔しい気持ちはなかった.
+<0385> Eu não sabia o porquê.
+// どうしてだか、わからなかったけど.
+<0386> *Tchock tchock tchock...*
+// がらがら…
+<0387> \{Misuzu}"Vou jogar cartas com Yukito-san."
+// \{みすず}「Yukitoさんとトランプしよーっと」
+<0388> *Pit pat...*
+// ぱたぱた…
+<0389> Ela pegou uma pequena caixa e saiu correndo.
+// 小さな箱を持って、走る.
+<0390> Ela provavelmente estava indo para aquele homem.
+// あの男のところに行くんだろう.
+<0391> O homem estava deitado de costas.
+// 男は仰向けになって寝ていた.
+<0392> Ele estava olhando para uma folha retangular.
+// 四角い紙切れを眺めている.
+<0393> \{Misuzu}"Yukito-san, pare de olhar para isso. Venha jogar cartas comigo."
+// \{みすず}「Yukitoさん、そんなものじっと見てないで、トランプして遊ぼ」
+<0394> \{Homem}"........."
+// \{男}「………」
+<0395> \{Homem}"Cheio de lembranças... Cheio de sonhos..."
+// \{男}「思い出いっぱい、夢いっぱい」
+<0396> \{Misuzu}"Ele tá viajando no maionese de novo."
+// \{みすず}「意味不明なこと言ってるし」
+<0397> \{Homem}"Hmm..."
+// \{男}「うーむ…」
+<0398> O homem rolou.
+// ごろごろと転がる.
+<0399> \{Misuzu}"Ei, Yukito-san, c-a-r-t-a-s."
+// \{みすず}「ね、Yukitoさん、ト・ラ・ン・プ」
+<0400> \{Misuzu}"Eu quero jogar cartas."
+// \{みすず}「トランプしたい」
+<0401> \{Homem}"Aah..."
+// \{男}「あぁ…」
+<0402> *Frosh frosh...*
+// ごろごろ.
+<0403> \{Misuzu}"Yukito-san, você tá agindo de forma estranha agora que tem dinheiro."
+// \{みすず}「Yukitoさん、お金持ったら、おかしくなっちゃった…」
+<0404> \{Misuzu}"Eu não gosto quando você fica assim."
+// \{みすず}「嫌だな、そういうの」
+<0405> \{Homem}"Haa..."
+// \{男}「はぁ…」
+<0406> O homem estava sorrindo para si mesmo. Ele parecia assustador.
+// 口がにやにやしていて、不気味だった.
+<0407> Cheguei a uma conclusão.
+// そうか.
+<0408> Aquela folha estava fazendo o homem agir de forma estranha.
+// あの紙切れが男を変にしているんだ.
+<0409> Foi por isso que ele não atendeu, nem mesmo quando a garota o chamou.
+// だから、彼女が呼んでも答えない.
+<0410> Ele estava deixando a garota triste agindo desse jeito.
+// だから彼女は悲しそうにしているんだ.
+<0411> Pegar a folha
+// 紙切れを奪う
+<0412> Ficar quieto
+// 大人しくしている
+<0413> \shake{2}*Tchack!*
+// べりっ.
+<0414> Dei um pulo e espetei a folha maligna com meu bico.
+// ぼくは跳んで、悪い紙切れを串刺しにした.
+<0415> \{Homem}"Daaaaaaaaaaaaaaaaaaaaaahhhhhhhh!!"
+// \{男}「だあああぁぁぁーーーーーっ!!」
+<0416> Ele deu um grito.
+// 大声をあげられる.
+<0417> Eu sabia.
+// やっぱりそうだ.
+<0418> Essa folha estava fazendo o homem ficar louco.
+// この紙切れがあの男をダメにしている.
+<0419> Eu cutuquei a folha maldita para rasgá-la.
+// ぼくは頑張って、紙切れを粉々にしようとつつく.
+<0420> \shake{1}*Pik! \wait{100}\shake{2}pik! \wait{100}\shake{1}pik*
+// サクッ! サクッ!
+<0421> \{Homem}"O que pensa que está fazendo, seu corvo miserável!"
+// \{男}「なにしてくれてるんだ、このカラスはぁぁーーっっ!!」
+<0422> \{Misuzu}"Eita! Sora, você não deve fazer isso com o dinheiro."
+// \{みすず}「わ、そら、お金、そんなことしたらダメっ!」
+<0423> Ela pegou a folha.
+// 彼女に紙切れを取り上げられる.
+<0424> \{Misuzu}"Desculpe-me, Yukito-san. Aqui está."
+// \{みすず}「ごめんね、Yukitoさん、はい」
+<0425> \{Misuzu}"Mas está cheio de buracos agora."
+// \{みすず}「たくさん穴開いちゃったけど…」
+<0426> \{Homem}"........."
+// \{男}「………」
+<0427> \{Misuzu}"Ele não sabia... Perdoa ele, tá bom?"
+// \{みすず}「動物のやったことだし…許してくれるよね」
+<0428> \{Homem}"V-V-Você tem razão..."
+// \{男}「そ、そう…だな…」
+<0429> \shake{1}*Bam...*
+// ばたり.
+<0430> O homem desabou.
+// 男が倒れ込む.
+<0431> \{Misuzu}"Eita! O Yukito-san desmaiou."
+// \{みすず}「わ、Yukitoさん、倒れちゃった…」
+<0432> \{Misuzu}"Ele deve estar muito cansado."
+// \{みすず}「きっと疲れてるんだよね」
+<0433> \{Misuzu}"Vou brincar sozinha."
+// \{みすず}「ひとりで遊んでよーっと」
+<0434> Ela começou a espalhar as suas folhas no chão.
+// ぱたぱた、と札を並べ始める.
+<0435> Será que fiz algo errado?
+// ぼくは悪いことをしたんだろうか.
+<0436> Não consegui perdoar o homem por ignorar a garota.
+// 彼女が呼びかけているのに、無視するなんて許せない.
+<0437> Mas não era como se eu pudesse fazer algo a respeito.
+// でもそれは、ぼくが言ってもしょうがないことだ.
+<0438> Permaneci quieto no ombro dela.
+// 彼女の肩でじっとしている.
+<0439> \{Misuzu}"Hmm, o Yukito-san está cansado. Que pena..."
+// \{みすず}「うーん、Yukitoさん、疲れてるんだよね.残念」
+<0440> \{Misuzu}"Vou brincar sozinha."
+// \{みすず}「ひとりで遊んでよーっと」
+<0441> Ela continuou a distribuir as folhas.
+// ぱたぱた、と札を並べ始める.
+<0442> A garota brincou sozinha a noite toda até adormecer.
+// 結局、寝るまで彼女はひとりで遊んでいた.

@@ -1,0 +1,536 @@
+﻿// Resources for SEEN0263.TXT
+
+#character 'Misuzu'
+// 'みすず'
+#character 'Homem'
+// '男'
+#character 'Mulher'
+// '女'
+#character 'Voz'
+// 声
+#character 'Mãe'
+// '母'
+#character 'Garota'
+// '女の子'
+
+
+<0000> 25 de Julho (Ter) / Sora
+// ７月２５日(火)／そら
+<0001> Eu estava no lugar mais próximo do céu.
+// 空に近い場所にいた.
+<0002> Era aqui onde eu tentava aprender a voar com a garota.
+// 彼女と空を飛ぶ練習をした場所.
+<0003> A criatura macia ainda estava lá, deitada na grama.
+// ぬいぐるみはまだここにあった.
+<0004> Era de manhã.
+// 朝.
+<0005> Eu escapei do poleiro e caminhei até a criatura.
+// 僕はねぐらを抜け出して、歩いてここまで来る.
+<0006> Então, usei toda minha força para arrastá-la.
+// それから一生懸命に、ぬいぐるみを運ぶ.
+<0007> Agora a criatura macia estava mais próxima do prédio.
+// 今ではぬいぐるみは、建物のすぐ近くにある.
+<0008> A garota encontraria ela da próxima vez que viesse aqui.
+// あとは彼女が来てくれれば、ぬいぐるみを見つけてくれる.
+<0009> Mas talvez ela nunca a encontre...
+// でも、彼女は喜ばないかもしれないと思った.
+<0010> Porque todos aqueles dias agitados...
+// いつも騒がしかった毎日.
+<0011> De uma hora para a outra, haviam terminado.
+// それが終わってしまったことに、僕は気づいていた.
+<0012> Ambos ficaram em silêncio.
+// 静かになった.
+<0013> Havia uma sensação de solidão ali.
+// 寂しい感じもした.
+<0014> Eu podia ver isso na expressão daquele homem e ouvir na voz da garota.
+// 男の表情や、彼女の声の中にそれを感じた.
+<0015> Os dois olhavam para o céu enquanto conversavam.
+// ふたりはよく空を見上げて話すようになった.
+<0016> \{Misuzu}"Por que meu outro eu no céu tem que passar por tanta tristeza?"
+// \{みすず}「どうして、わたし…空のわたしはあんな悲しい思いをしてるのかな」
+<0017> \{Misuzu}"A vista é tão bonita, e o vento é tão agradável..."
+// \{みすず}「あんなにきれいな風景で、すごく気持ちいい風の中で…」
+<0018> \{Misuzu}"Eu realmente quero saber."
+// \{みすず}「わたし、知りたい」
+<0019> \{Misuzu}"É por isso que sempre olhei para o céu."
+// \{みすず}「だから、ずっと空を見てた」
+<0020> Havia algo que eu sabia que aconteceria no futuro.
+// いつかその先に感じたもの.
+<0021> Almejando o céu...
+// 空を目指した日々…
+<0022> Procurando o que havia lá em cima...
+// そこに求めていたもの…
+<0023> E desaparecendo...
+// 自分が消えてしまう…
+<0024> Luzes que não mais retornariam...
+// 戻ってこれない光たち…
+<0025> Todas essas coisas eram... tristeza.
+// それらは…悲しみ.
+<0026> Aqueles dois estavam caminhando rumo à tristeza, eu pensei.
+// ふたりは、それへ向けて歩んでいるのだと思った.
+<0027> Em outras palavras, era um pressentimento de tristeza.
+// つまりそれは、悲しみの予感だ.
+<0028> Eu conhecia a tristeza que os aguardava.
+// これから訪れる悲しみを知っている.
+<0029> Mas não havia como evitá-la.
+// けれど避けることはできない.
+<0030> Só podíamos esperar por ela.
+// 僕らは待つことしかできない.
+<0031> A ansiedade dentro de nós estava crescendo.
+// 不安だけが、つのる.
+<0032> Podíamos apenas esperar, silenciosamente e sem sorrir, até que aquele momento chegasse.
+// 誰も笑うこともなく、ひっそりと、その時を待つことしかできなかった.
+<0033> E meus sentimentos estavam certos.
+// …そして予感は、当たった.
+<0034> Certa manhã, a garota já não conseguia mais andar.
+// ある朝、彼女は歩けなくなった.
+<0035> Ela estava deitada, espalhando as folhas e brincando sozinha.
+// 彼女がひとりで札を並べて遊んでいる.
+<0036> O homem estava sentado ao lado dela, olhando fixamente para o chão.
+// その横で男はじっと、地面を見つめていた.
+<0037> \{Misuzu}"Quero ir ao mar."
+// \{みすず}「海行こうと思って」
+<0038> \{Homem}"Entendo. Você já tinha dito isso antes."
+// \{男}「そっか.そうだったな」
+<0039> \{Misuzu}"Vamos brincar na praia."
+// \{みすず}「浜辺で遊ぶの」
+<0040> \{Misuzu}"Vamos cavar na areia e correr das ondas."
+// \{みすず}「砂を掘ったり、波から逃げたりしながら」
+<0041> \{Homem}"Eu também preciso fazer tudo isso?"
+// \{男}「俺も…か？」
+<0042> \{Misuzu}"Não tem problema, Yukito-san pode apenas assistir."
+// \{みすず}「いいよ、Yukitoさん見ていてくれるだけでも」
+<0043> \{Homem}"Não, tudo bem. É uma promessa."
+// \{男}「いや、いいよ.約束だからな」
+<0044> \{Misuzu}"Sério? Fico feliz."
+// \{みすず}「ほんと？ うれしい」
+<0045> Agora os dois tinham um objetivo.
+// ふたりはどこかを目指し始める.
+<0046> Eu não sabia onde esse objetivo estava, mas eles tentaram muito alcançá-lo.
+// そこがどこかわからなかったけど、ふたりは一生懸命に目指した.
+<0047> Porém, no final, eles falharam.
+// けど、結局辿り着けなかった.
+<0048> A saúde dela estava piorando rapidamente.
+// 彼女の体はそれほどまでに悪くなっていた.
+<0049> A tristeza tomou conta de suas vidas.
+// 悲しみは大きく暮らしを変えてゆく.
+<0050> 26 de Julho (Qua) / Sora
+// ７月２６日(水)／そら
+<0051> \{Homem}"Diga... Por que você acolheu a Misuzu?"
+// \{男}「な…どうして、引き取ったんだよ」
+<0052> O homem e a mulher estavam conversando um com o outro.
+// 男と女が向き合っていた.
+<0053> \{Mulher}"O quê?"
+// \{女}「なにがや」
+<0054> \{Homem}"Estou perguntando por que você adotou a Misuzu."
+// \{男}「どうして、観鈴を引き取ってしまったんだよ」
+<0055> \{Mulher}"Entendo... Então a garota contou sobre nós."
+// \{女}「なんや…あの子、話してたんかいな」
+<0056> \{Mulher}"Eu não a acolhi."
+// \{女}「引き取ったんやない」
+<0057> \{Mulher}"Ela foi empurrada para mim."
+// \{女}「押しつけられたんや」
+<0058> \{Mulher}"Eu disse que não a queria."
+// \{女}「嫌や、言うてんけどなー」
+<0059> \{Homem}"Por causa disso, ela não consegue pedir seu carinho!"
+// \{男}「そのせいで、あいつはあんたに甘えられないんだろっ!」
+<0060> O ar estava tremendo.
+// 空気が震えた.
+<0061> \{Mulher}"........."
+// \{女}「………」
+<0062> \{Mulher}"Aquela garota..."
+// \{女}「うちなんかに…」
+<0063> \{Mulher}"Ela não pode querer meu amor."
+// \{女}「甘えたいわけあらへん、あの子が」
+<0064> \{Mulher}"Eu não sou a mãe dela de verdade."
+// \{女}「うち、ほんまの親やないから」
+<0065> \{Homem}"E daí?"
+// \{男}「そんなの関係ないだろ…」
+<0066> \{Homem}"Para Misuzu, você é o único pai ou mãe que ela conheceu."
+// \{男}「あいつにとっての、親はあの日から、あんたひとりだけなんだよ」
+<0067> \{Homem}"Olhe bem no espelho... Você é a única mãe que a Misuzu tem."
+// \{男}「自覚しろ…あんたが観鈴のただひとりの母親なんだよ」
+<0068> \{Mulher}"Haa..."
+// \{女}「はぁ…」
+<0069> \{Mulher}"Agora é tarde demais para agir como mãe..."
+// \{女}「んなこと今さら自覚持てるかいな…」
+<0070> \{Mulher}"Quantos anos acha que se passaram?"
+// \{女}「あの日から何年経ってる思うんや」
+<0071> \{Mulher}"Já se passou muito tempo, estou dizendo."
+// \{女}「もう時間が経ちすぎとる」
+<0072> \{Mulher}"Como espera que eu recupere todo esse tempo perdido?"
+// \{女}「なにも取り返すことなんてできへんのや」
+<0073> A mulher deu as costas para o homem e foi embora.
+// 女は背中を向けてこの場を立ち去る.
+<0074> \{Homem}"........."
+// \{男}「………」
+<0075> O homem se afastou em outra direção.
+// 男も別の場所に向かって姿を消した.
+<0076> Eu segui a mulher.
+// 僕は女の後を追った.
+<0077> \{Mulher}"Haa..."
+// \{女}「はぁ…」
+<0078> \{Mulher}"Você também gosta de sushi? Está muito gostoso."
+// \{女}「あんたも、寿司食うか.ごっつうまいで」
+<0079> *Nhoc nhoc...*
+// ぱくっ.
+<0080> \{Mulher}"........."
+// \{女}「………」
+<0081> *Nhoc nhoc...*
+// ぱくっ…もぐ…
+<0082> \{Mulher}"Por quê..."
+// \{女}「なんでや…」
+<0083> \{Mulher}"Por que estou comendo sushi agora?"
+// \{女}「なんでうち寿司食ってんのや…」
+<0084> \{Mulher}"Aquela garota... está doente... e eu aqui, comendo sushi sozinha."
+// \{女}「あの子、今、体の具合悪ぅしてるいうのに…うちはひとりで寿司食っとるんかいな…」
+<0085> \{Mulher}"Que idiota eu sou."
+// \{女}「あほや…」
+<0086> \{Mulher}"Eu realmente sou uma idiota..."
+// \{女}「うち、あほやないか…」
+<0087> \{Mulher}"O mundo realmente..."
+// \{女}「なんや、うちて…」
+<0088> \{Mulher}"...Ficaria melhor sem mim."
+// \{女}「こんな奴、おらんほうがマシやん…」
+<0089> *Nhoc... nhoc...*
+// もぐ…もぐ…
+<0090> \{Mulher}"Eu nem mesmo dei um presente pra ela em seus aniversários."
+// \{女}「誕生日にもプレゼントあげれんで…」
+<0091> \{Mulher}"Eu nunca dei nada pra ela..."
+// \{女}「ずっと、あの子になんもあげれんで…」
+<0092> \{Mulher}"Sempre que ela ficava doente, de cama, eu nunca estive ao seu lado..."
+// \{女}「寝込んでても、そばにいてあげられんかって…」
+<0093> \{Mulher}"E quantos anos vivemos assim?"
+// \{女}「それで、何年暮らしてきとるんや…」
+<0094> \{Mulher}"Quando comecei a ter medo de algo tão bobo?"
+// \{女}「いつおらんようになってしまうか、わからんこと怯えて、どれだけ過ごしてきとるんや…」
+<0095> *N-Nhoc…*
+// もぐ…
+<0096> \{Mulher}"Até quando essa vida vai continuar assim…?"
+// \{女}「いつまでこんな生活続けなあかんのや…」
+<0097> \{Mulher}"........."
+// \{女}「………」
+<0098> \{Mulher}"...Ele tem razão…"
+// \{女}「あいつの言う通りや…」
+<0099> \{Mulher}"Não importa se sou a mãe dela de verdade ou não…"
+// \{女}「実の親やないからとか…そんなん関係あらへん…」
+<0100> \{Mulher}"Eu só preciso estar com ela…"
+// \{女}「うちがあの子といたいだけや…」
+<0101> \{Mulher}"E eu quero estar junto dela…"
+// \{女}「一緒にいたいだけや…」
+<0102> \{Mulher}"........."
+// \{女}「………」
+<0103> Pensei que ela estava chorando.
+// 泣いているのかと思った.
+<0104> Mas ela apenas estava com a cabeça baixa.
+// でも、ただ顔を伏せているだけだった.
+<0105> Eu conhecia aquela expressão.
+// …その姿を見て知る.
+<0106> Essa mulher também estava sentindo dor há muito tempo.
+// この女も、いつからか不安の中にいたのだ.
+<0107> Perguntei-me se ela também teria notado o presságio de tristeza no céu.
+// 空が告げた悲しみの予感に、彼女も気づいていたのだろうか.
+<0108> Ou talvez ela tivesse percebido isso antes dos outros dois.
+// あるいは、あのふたりよりも先に気づいていたのかもしれない.
+<0109> Porque sempre que eu estava com ela, seu rosto mostrava tristeza.
+// いつだって、僕といるときは、寂しい顔をしていたからだ.
+<0110> \{Mulher}"Ei…"
+// \{女}「な…」
+<0111> \{Mulher}"Não vou mais ter medo."
+// \{女}「もう、うち怯えたない…」
+<0112> \{Mulher}"Não quero mais viver cheia de dúvidas."
+// \{女}「もう、こんな不安な気持ちのまんま、生きてたない…」
+<0113> \{Mulher}"Quero dar um presente pra ela e ver seu rosto feliz."
+// \{女}「あの子にプレゼントあげて、喜ぶ顔見てたい」
+<0114> \{Mulher}"Se ela estiver sofrendo, quero ficar ao seu lado e encorajá-la."
+// \{女}「あの子が苦しんでたら、そばにいて、励ましてやりたい…」
+<0115> \{Mulher}"Por isso, decidi."
+// \{女}「せやから決めた」
+<0116> \{Mulher}"Vou fazer dela minha filha."
+// \{女}「あの子、うちの子にする」
+<0117> \{Mulher}"Assim, vou poder viver em paz."
+// \{女}「それで、もう安心して生きる」
+<0118> \{Mulher}"Vou passar o resto da minha vida com ela…"
+// \{女}「あの子と生きるんや、うち…」
+<0119> \{Mulher}"Vou até a casa dos Tachibana."
+// \{女}「橘の家に行ったる」
+<0120> \{Mulher}"Vou entrar lá e negociar com eles."
+// \{女}「乗り込んでいって、談判してきたる…」
+<0121> \{Mulher}"Vou ficar lá até eles aceitarem que ela seja minha filha."
+// \{女}「あの子を、ほんまのうちの子にするまで…何日でも居座ったる…」
+<0122> \{Mulher}"Ei…"
+// \{女}「な…」
+<0123> \{Mulher}"Estou fazendo a coisa certa?"
+// \{女}「それで、ええやろ…」
+<0124> \{Mulher}"Isso é bem a minha cara, né?"
+// \{女}「それが、うちらしいやんな」
+<0125> \{Mulher}"........."
+// \{女}「………」
+<0126> Ela fechou os olhos novamente.
+// 再び目を閉じる.
+<0127> A expressão de ansiedade havia sumido.
+// もう、女の顔は不安な表情ではなかった.
+<0128> Restava apenas, em seu rosto, serenidade...\p e resolução.
+// ただ、休息をとるためだけの寝顔だった.
+<0129> 27 de Julho (Qui) / (Sora)
+// ７月２７日(木)／そら
+<0130> E assim, a mulher deixou o poleiro.
+// そして、女はねぐらを発った.
+<0131> 28 de Julho (Sex) / (Sora)
+// ７月２８日(金)／そら
+<0132> Eu estava sob o céu aberto.
+// 僕は空の下にいる.
+<0133> *Frrrr...\p frrrr...\p frrrr...*
+// ずるっ…ずるっ…ずるっ…
+<0134> O dia todo, trabalhei movendo a criatura.
+// そうして、一日中人形を動かす.
+<0135> Quando o sol se punha, eu retornava ao ninho.
+// 夕暮れになると、ねぐらに帰る.
+<0136> Aquele homem sempre estava ao lado de Misuzu.
+// そして、みすずと男のそばにいる.
+<0137> Ela não conseguia mais andar.
+// 歩けなくなったみすず.
+<0138> O homem a observava com uma expressão triste no rosto.
+// 男はとても悲しそうに、みすずを見守っている.
+<0139> Eu...
+// 僕は….
+<0140> Eu também preciso ficar ao lado dela.
+// 僕はそばにいてあげないといけない.
+<0141> Mas, eu não devo ficar para sempre com ela.
+// でも、僕はそばにいてはいけない.
+<0142> Esses dois sentimentos conflitantes me deixaram em um dilema.
+// ふたつの気持ちが重なっている.
+<0143> Eu não sabia o que fazer.
+// だから僕は、どうすればいいか、わからないでいる.
+<0144> Olhei para a criatura que eu estava puxando.
+// 僕はぬいぐるみを見た.
+<0145> Ela tinha um pescoço longo e olhos redondos. Seu corpo era leve e macio.
+// 首が長くて目が丸くて、体がふわふわしている.
+<0146> Essa criatura provavelmente não estava mais viva.
+// たぶん、ぬいぐるみは生き物じゃない.
+<0147> Ela era apenas um tipo de pequeno humano, como aquele que o homem movia.
+// ぬいぐるみは、人形だ.
+<0148> Uma criatura assim não se moveria a menos que alguém tivesse vontade que ela se movesse.
+// 人形は、誰かが動かそうとしなければ動かない.
+<0149> Então eu tive vontade que a criatura passasse a se mover.
+// だから、僕が動かそうと思った.
+<0150> *Pik pik...*
+// つんつん.
+<0151> *Plop!*
+// ころり.
+<0152> Tentei bicar ela, mas a criatura apenas rolou um pouco para o lado.
+// 口でつついてみると、ぬいぐるみは地面に倒れた.
+<0153> Quando ia tentar novamente...
+// もう一度やってみようと思った時.
+<0154> \{Voz} "Estou cansada..."
+// \{声}「つかれた…」
+<0155> \{Voz} "Vamos lá, só mais um pouco."
+// \{声}「ほら、もうひとがんばりだから」
+<0156> Ouvi algumas vozes.
+// 声が聞こえてきた.
+<0157> *Crisp crisp crisp...*
+// ざくざくっ…
+<0158> Passos se aproximavam.
+// 足音が近づいてくる.
+<0159> Eu me escondi nas sombras da grama.
+// 僕は草の影に隠れた.
+<0160> Era aquela menina e sua mãe.
+// お母さんと女の子だった.
+<0161> Todos os dias, as duas vinham aqui e ficavam paradas em silêncio em frente ao grande poleiro.
+// 二人で毎日ここに来て、あの建物の前でじっとしている.
+<0162> Elas passaram sem me notar.
+// 僕のことに気づかずに、通り過ぎていった.
+<0163> \{Mãe} "Vamos orar."
+// \{母}「ほら、お参りしましょう」
+<0164> Elas pararam lado a lado em frente ao poleiro.
+// 建物の前で、並んで足を止める.
+<0165> *Clang clang clang*
+// …がらがらがらっ.
+<0166> Ouvi um som animado.
+// にぎやかな音.
+<0167> A mãe juntou as mãos.
+// そして、お母さんが両手を合わせた.
+<0168> \{Mãe} "Maika, você não vai fazer um pedido?"
+// \{母}「…まいかはお願いしないの？」
+<0169> As mãos da menina ainda estavam ao lado do corpo.
+// 女の子は手をだらりと下ろしたままだった.
+<0170> \{Menina} "Hm..."
+// \{女の子}「うん…」
+<0171> \{Mãe} "O que foi?"
+// \{母}「どうしたの？」
+<0172> \{Menina} "Será que Deus realmente existe?"
+// \{女の子}「かみさまってほんとうにいるのかな…」
+<0173> \{Mãe} "Claro que ele existe."
+// \{母}「いるわよ」
+<0174> \{Menina} "Você já viu ele antes, mamãe?"
+// \{女の子}「おかあさんは、みたことあるの？」
+<0175> \{Mãe} "Você não pode vê-lo com seus olhos."
+// \{母}「目には見えないの」
+<0176> \{Menina} "Ah..."
+// \{女の子}「なぁんだ」
+<0177> A menina parecia decepcionada.
+// 女の子はつまらなそうに言った.
+<0178> \{Menina} "Mas, se você não pode vê-lo, então ele não existe."
+// \{女の子}「だって、目にみえないってことは、いないんだよ…」
+<0179> \{Menina} "Nós rezamos tantas vezes, mas a onee-chan não melhorou."
+// \{女の子}「そんなのにお願いしたって、お姉ちゃん、よくならないよ…」
+<0180> Sua mãe riu.
+// お母さんがやさしそうに笑った.
+<0181> \{Mãe} "Isso não é verdade."
+// \{母}「そんなことない」
+<0182> Ela acariciou a cabeça da menina.
+// それから、女の子の頭を撫でた.
+<0183> \{Mãe} "Deus ouviu seu pedido. Tenho certeza disso."
+// \{母}「願いごとはちゃあんと届くの.お母さんは知ってる」
+<0184> \{Mãe} "Mas, sabe, só rezar não é o suficiente."
+// \{母}「でもね.お願いするだけじゃダメよ」
+<0185> \{Mãe} "Se você se esforçar ao máximo, Deus entenderá."
+// \{母}「まいかがうんと頑張れば、神様は必ず見ててくれる…」
+<0186> \{Mãe} "Tenho certeza de que seu desejo se tornará realidade."
+// \{母}「きっと願いを叶えてくれるの」
+<0187> \{Mãe} "Deus está sempre olhando por você. Então você tem que se esforçar."
+// \{母}「今も、神様が見てるよ.しっかりしないと」
+<0188> \{Menina} "Sério...?"
+// \{女の子}「ほんと…？」
+<0189> *...*
+// きょろきょろ.
+<0190> A menina olhou na minha direção.
+// 女の子の目がこっちを向く.
+<0191> \{Menina} "Ali!"
+// \{女の子}「いた!」
+<0192> Fui descoberto.
+// 見つかってしまった.
+<0193> \{Menina} "Tem algo se escondendo ali!"
+// \{女の子}「あそこにかくれてる!」
+<0194> Tentei correr enquanto arrastava a criatura com meu bico.
+// 僕はぬいぐるみをくわえて、逃げようとした.
+<0195> A menina correu em minha direção.
+// 女の子が駆けてくる.
+<0196> *Tap tap tap...*
+// てこてこてこ…
+<0197> \{Menina} "Ah!"
+// \{女の子}「…あっ!」
+<0198> Ela levantou a criatura.
+// ぬいぐるみを持ち上げた.
+<0199> \{Menina} "Mamãe, eu encontrei ele!"
+// \{女の子}「いたよ、おかあさん!」
+<0200> \{Mãe} "Quem?"
+// \{母}「なにが？」
+<0201> \{Menina} "Deus."
+// \{女の子}「かみさま」
+<0202> \{Menina} "Ele está bem aqui."
+// \{女の子}「今、この中にいるよ」
+<0203> \{Mãe} "Sério?"
+// \{母}「ほんとう？」
+<0204> \{Menina} "Eu pensei que era só um bicho de pelúcia, mas ele tentou se esconder de mim."
+// \{女の子}「だって、ぬいぐるみだと思って見てたら、かくれようとするんだよ」
+<0205> \{Menina} "Fiquei tão surpresa!"
+// \{女の子}「まいか、びっくりした」
+<0206> \{Menina} "Aposto que Deus está escondido dentro dele."
+// \{女の子}「きっと、かみさま、この中にいるんだよ」
+<0207> \{Mãe} "Entendi..."
+// \{母}「そう…」
+<0208> \{Menina} "Deus! Deus! Eu tenho um desejo!"
+// \{女の子}「かみさま、かみさま、おねがいがあるのー!」
+<0209> *Shik shik shik...*
+// ぶんぶんぶんっ.
+<0210> \{Mãe} "Maika, não balance assim."
+// \{母}「まいか、そんなに乱暴に振り回したらダメよ」
+<0211> \{Mãe} "Deixe a mamãe ver."
+// \{母}「お母さんに、かしなさい」
+<0212> Ela pegou a criatura da mão da menina.
+// 女の子の手から、ぬいぐるみを受け取る.
+<0213> \{Mãe} "Parece novo em folha..."
+// \{母}「まだ新しいみたいね…」
+<0214> \{Menina} "O que devemos fazer com ele?"
+// \{女の子}「どうするの？」
+<0215> \{Mãe} "Vamos deixá-lo aqui."
+// \{母}「ここに置いておきましょう」
+<0216> \{Menina} "Não, é meu!"
+// \{女の子}「いやだ、まいかのにする!」
+<0217> \{Menina} "Eu encontrei. Deus agora é meu."
+// \{女の子}「まいかが見つけたから、まいかのかみさまだもん」
+<0218> \{Mãe} "Maika, Deus não pertence a ninguém."
+// \{母}「まいか.神様はだれのものでもないの」
+<0219> \{Mãe} "Este lugar é a casa de Deus. Vamos devolvê-lo a ele."
+// \{母}「ここが神様のお家だからね.返してあげましょうね」
+<0220> Elas colocaram a criatura no topo da escada.
+// ぬいぐるみをそっと、階段のはしに置いた.
+<0221> A menina parecia desapontada.
+// 女の子は残念そうだった.
+<0222> Mas ela acenou imediatamente com a cabeça.
+// でも、すぐに大きくうなずいた.
+<0223> \{Mãe} "Vamos, Maika, faça um desejo."
+// \{母}「さ、お願いしよ、まいか」
+<0224> \{Menina} "Certo. Se eu fizer um desejo agora, com certeza Deus me ouvirá."
+// \{女の子}「うん.今ならおねがい、ばっちり聞いてもらえるね」
+<0225> \{Menina} "Porque Deus está dentro dessa pelúcia agora."
+// \{女の子}「かみさま、この中にいるから」
+<0226> \{Mãe} "Isso mesmo."
+// \{母}「そうね」
+<0227> \{Menina} "Eu rezo para que minha irmã melhore."
+// \{女の子}「おねえちゃんが、元気になりますよーに」
+<0228> \{Mãe} "Eu rezo para que a Saika melhore."
+// \{母}「さいかが元気になりますように」
+<0229> As duas juntaram as mãos e permaneceram em silêncio por um tempo.
+// ふたりは両手を合わせて、しばらく黙っていた.
+<0230> \{Menina} "Deus ouviu meu desejo, certo?"
+// \{女の子}「…とどいたよね」
+<0231> \{Mãe} "Sim. Saika ficará bem agora."
+// \{母}「そうね.これで大丈夫ね」
+<0232> Ambas olharam fixamente para a criatura.
+// ふたりでぬいぐるみを見た.
+<0233> Ela nem se mexeu.
+// ぬいぐるみは何もしていない.
+<0234> No entanto, ambas sorriram.
+// でも、ふたりは笑顔になっていた.
+<0235> \{Menina} "Ah, é um corvo."
+// \{女の子}「あ、カラスさんだ」
+<0236> \{Mãe} "Talvez ele também queira fazer um desejo."
+// \{母}「きっと、カラスさんもお願いごとあるのね」
+<0237> \{Mãe} "Não vamos incomodá-lo."
+// \{母}「邪魔しないようにね」
+<0238> \{Menina} "Certo."
+// \{女の子}「うん」
+<0239> Elas olharam para baixo enquanto passavam por mim.
+// 僕を見下ろしながら、歩いていった.
+<0240> Eu as observei até que saíram de vista.
+// その姿が消えるまで、僕は見ていた.
+<0241> Agora tudo estava novamente em silêncio.
+// 静かだった.
+<0242> A cor do mundo estava mudando.
+// 世界の色が変わっていく.
+<0243> Eu olhei para trás.
+// 僕は振り返る.
+<0244> A criatura macia ainda estava sentada no topo da escada.
+// 段のいちばん上に、ぬいぐるみがある.
+<0245> Eu caminhei em direção a ela, mas parei na metade do caminho.
+// 僕は近づこうとして、途中でやめた.
+<0246> Essa criatura conseguiu fazer aquela menina e sua mãe rirem.
+// あのぬいぐるみは、女の子とお母さんを笑わせた.
+<0247> Realmente deve haver algo especial nela.
+// きっとあのぬいぐるみの中には、何かがこもっているのだ.
+<0248> Então ela deveria permanecer aqui.
+// だからぬいぐるみは、あそこにあるべきものなのだ.
+<0249> Nesse caso...
+// それなら…
+<0250> Onde eu devo estar?
+// それなら僕は、どこにあるべきなのだろう？
+<0251> O que posso fazer para fazer Misuzu rir de novo?
+// みすずはどうすれば、もう一度笑ってくれるんだろう？
+<0252> Misuzu estava sofrendo.
+// みすずは今、苦しんでいる.
+<0253> O homem de quem Misuzu gostava também estava sofrendo.
+// 彼女が好きなあの男も、みすずのそばで苦しんでいる.
+<0254> Eu deveria estar agora perto dela.
+// 僕も彼女のそばにいたい.
+<0255> Talvez o que eu posso fazer por ela seja outra coisa.
+// でも、僕が彼女にあげられるのは、もっと別のものだ.
+<0256> E é algo que só eu posso fazer.
+// それはきっと、僕にしかできないことだ.
+<0257> E então...
+// だから…
+<0258> Eu comecei a entender...
+// たぶん僕は、わかりかけている.
+<0259> ...O motivo de estar aqui.
+// どうして僕はここにいて、ここにはいないのか.

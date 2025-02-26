@@ -1,0 +1,2007 @@
+﻿// Resources for SEEN0210.TXT
+
+#character '*Ａ'
+#character 'Misuzu'
+#character 'Dona de casa'
+#character 'Senhora'
+#character 'Haruko'
+#character 'Voz'
+#character 'Garota'
+#character 'Cachorro'
+#character 'Criança'
+#character 'Vovó'
+#character 'Garotinha'
+
+// Line 600
+ 
+<0000> 21 de Julho (Sex)
+// ７月２１日(金)
+<0001>Quando acordei, vi a cara de um monstro bem na minha frente.
+// 目覚めると、眼前に猿の顔があった.
+<0002> \{Yukito}"Uahhh..."
+// \{Yukito}「おわっ…」
+<0003> \{Yukito}"Ah, é você..."
+// \{Yukito}「…と、おまえか」
+<0004> Era só o bicho de pelúcia.
+// ナマケモノのぬいぐるみだった.
+<0005> Lembrei-me da conversa que tive com Haruko na noite anterior e fiquei deprimido imediatamente.
+// 夕べの晴子とのやり取りを思い出して、朝っぱらからブルーが入る.
+<0006> \{Yukito}"Tenho que ganhar dinheiro pra comprar essa coisa feia?"
+// \{Yukito}「俺はこいつを買い取るために、金を稼がねばならないのか…」
+<0007> \{Yukito}"Mas como ganhar dinheiro...?"
+// \{Yukito}「金を稼ぐ手…」
+<0008> Resmunguei sobre o assunto enquanto pegava a comida com os hashis.
+// 俺は思案しながら、小鉢に箸を伸ばす.
+<0009> Como não queria aceitar a ajuda de Haruko, tive que procurar uma saída sozinho.
+// 晴子の手など借りるわけにはいかなかったから、自分で探すしかない.
+<0010> \{Misuzu}"O que você vai fazer?"
+// \{観鈴}「困ったね」
+<0011> \{Yukito}"Desde sempre ganhei a vida como um marionetista. E agora essa escolha foi tirada de mim..."
+// \{Yukito}「これまで芸だけで日銭を稼いできたから、それを封じられるとな…」
+<0012> *Scratch scratch...*
+// ぽりぽり.
+<0013> \{Yukito}"Um emprego estável, hein..."
+// \{Yukito}「真っ当な仕事か…」
+<0014> Posso realmente conseguir isso nesta cidade?
+// この町で日雇いの仕事が見つかるだろうか.
+<0015> Quem sabe quantos dias eu levaria pra achar um.
+// 探すだけで、何日か経ってしまいそうだった.
+<0016> \{Yukito}"Mas não há outro jeito..."
+// \{Yukito}「でも、やるしかないよな…」
+<0017> \{Misuzu}"Você apenas tem que continuar se esforçando."
+// \{観鈴}「意地だね」
+<0018> \{Yukito}"Isso é um verdadeiro martírio."
+// \{Yukito}「俺だってツライんだぞ」
+<0019> \{Yukito}"Por que tenho que me esforçar tanto só pra comprar aquele bicho de pelúcia?
+// \{Yukito}「何が悲しくて、あんなぬいぐるみを買い取るために、頑張らないといけないんだ…」
+<0020> \{Misuzu}"Porque é fofo."
+// \{観鈴}「かわいいから、がんばれる」
+<0021> \{Yukito}"Pare de me assustar."
+// \{Yukito}「馬鹿.気色の悪いことを言うな」
+<0022> \{Misuzu}"Yukito-san, você quer dizer que não quer o bicho de pelúcia?"
+// \{観鈴}「Yukitoさん、あれ、いらないの？」
+<0023> \{Yukito}"Por que eu iria querer uma coisa dessas?"
+// \{Yukito}「いるわけないだろ」
+<0024> \{Misuzu}"Mas eu quero."
+// \{観鈴}「わたし欲しいな」
+<0025> \{Yukito}"Já percebi..."
+// \{Yukito}「そうだな…」
+<0026> Dar a preguiça pra Misuzu após comprar
+// 買い取ったら観鈴にやる
+<0027> Pensar mais sobre isso
+// 考えておく
+<0028> \{Yukito}"Eu vou dar pra você esse bicho de pelúcia."
+// \{Yukito}「買い取ったら、おまえにやるよ」
+<0029> \{Misuzu}"Você tá falando sério?"
+// \{観鈴}「ほんと？」
+<0030> \{Yukito}"Sim."
+// \{Yukito}「ああ」
+<0031> \{Misuzu}"Eba!"
+// \{観鈴}「やった」
+<0032> \{Misuzu}"Nesse caso, deixe-me ajudá-lo."
+// \{観鈴}「じゃ、わたしも手伝うね」
+<0033> \{Misuzu}"O que devo fazer...?"
+// \{観鈴}「どうしたらいいかなー」
+<0034> Misuzu tava cantarolando na cozinha.
+// 台所から、ずっと、うーんうーんと、うなり声が聞こえてくる.
+<0035> Ela ainda tava pensando na preguiça enquanto lavava a louça.
+// 洗い物をしながらも、ずっと考えているようだった.
+<0036> \{Yukito}"Deixe-me pensar sobre isso."
+// \{Yukito}「考えておく」
+<0037> \{Misuzu}"Eu quero... eu quero."
+// \{観鈴}「欲しいな、欲しいな」
+<0038> *Scratch scratch*
+// ぽりぽり.
+<0039> \{Misuzu}"A preguiça não combina com você."
+// \{観鈴}「Yukitoさんには似合わないしなー」
+<0040> \{Yukito}"........."
+// \{Yukito}「………」
+<0041> Ela continuaria me importunando até que eu prometesse dar o bicho de pelúcia pra ela.
+// 約束するまで、ずっとねだり続けるつもりだろうか.
+<0042> \{Yukito}"Eu disse que vou pensar sobre o assunto. Agora fique quieta e coma sua comida."
+// \{Yukito}「考えておくって言っただろ.黙って食べろ」
+<0043> \{Misuzu}"Hmm..."
+// \{観鈴}「うーん…」
+<0044> Ela finalmente calou a boca e começou a comer.
+// ようやく静かに食べ始める.
+<0045> Eu continuei ouvindo ela murmurar "eu quero... eu quero" da cozinha.
+// 台所から、ずっと、欲しいな欲しいなと、声が聞こえてくる.
+<0046> Ela ainda tava pensando na preguiça enquanto lavava a louça.
+// 洗い物をしながらも、そのことで頭が一杯のようだった.
+<0047> \{Yukito}"Ufa..."
+// \{Yukito}「ふぅ…」
+<0048> Fiquei ponderando profundamente enquanto bebia o restinho do chá de centeio.
+// 余っていた麦茶を飲みながら考える.
+<0049> \{Yukito}(Vamos tentar primeiro o distrito comercial.)
+// \{Yukito}(とりあえず、商店街まで出てみるか…)
+<0050> Coloquei minha xícara vazia na mesinha de centro.
+// 空になったコップをちゃぶ台に置く.
+<0051> Misuzu ainda tava lavando a louça.
+// 振り返ると、観鈴はまだ洗い物をしている.
+<0052> Ela ia demorar um pouco.
+// 支度が済むまでには、まだしばらく時間がかかりそうだった.
+<0053> Liguei a TV.
+// テレビをつけてみる.
+<0054> Uma série dramática ambientada no Japão feudal tava passando.
+// 時代劇をやっていた.
+<0055> Era uma história sobre um \g{samurai}={Guerreiros da classe militar do Japão feudal, conhecidos por seu código de honra, lealdade e habilidade com a espada.} errante.
+// 風まかせで旅する素浪人の話だった.
+<0056> \{TV}"Não se apaixone por mim."
+// 『俺に惚れちゃいけねぇぜ』
+<0057> \{Yukito}(Ele é tão legal...)
+// \{Yukito}(かっこいい…)
+<0058> Assisti o programa por um tempo.
+// しばらく見ていた.
+<0059> .........
+// ……….
+<0060> \{Misuzu}"Eita... Já é tão tarde."
+// \{観鈴}「わ…もう、こんな時間」
+<0061> Depois que Misuzu terminou o dever de casa, ela olhou pro relógio e ficou chocada.
+// 家事を終えた観鈴が、時計を見て驚く.
+<0062> \{Misuzu}"Vamos nos preparar."
+// \{観鈴}「急いで用意してこよーっと」
+<0063> Ela saiu da sala.
+// 部屋を出ていく.
+<0064> Peguei minha bolsa.
+// 俺も、バッグを手に取る.
+<0065> Quanto à preguiça sentada ao meu lado...
+// そして、隣に鎮座するナマケモノ…
+<0066> Se eu a deixasse aqui, Haruko ficaria irritada de novo e ia reclamar que tô tratando mal o presente que me deu.
+// 置いていったら、また晴子に扱いがぞんざいだと言われるだろうか.
+<0067> Peguei a preguiça e coloquei na minha bolsa.
+// それもバッグの中に押し込む.
+<0068> Mas não cabia totalmente. Aquelas pernas longas continuavam aparecendo.
+// が、入りきらない.長い足が、飛び出ている.
+<0069> \{Misuzu}"Yukito-san, você já está pronto?"
+// \{観鈴}「Yukitoさん、まだ？」
+<0070> A voz de Misuzu ecoou no corredor.
+// 廊下から観鈴の声がする.
+<0071> Não importa quantas vezes eu empurrasse, um dos braços ou pernas da preguiça saltaria pra fora.
+// 何度か入れ直してみるが、どうしても、手か足が飛び出る.
+<0072> \{Misuzu}"Estou indo embora sem você."
+// \{観鈴}「もう、いくよー」
+<0073> No final, deixei do jeito que tava e joguei a bolsa no ombro.
+// 結局そのままでバッグを肩にかける.
+<0074> Quando cheguei no corredor, Misuzu já tava me esperando com sua sacola.
+// 廊下に出ると、鞄を抱えた観鈴が待っていた.
+<0075> \{Misuzu}"Hmm..."
+// \{観鈴}「うーん…」
+<0076> Ela murmurou pra si mesma enquanto saía pela porta.
+// 唸りながら、玄関を出る.
+<0077> \{Dona de casa}"Bom dia, Misuzu-chan."
+// \{主婦}「おはよう、観鈴ちゃん」
+<0078> Alguém saiu da casa em frente a nós. Era a dona de casa a quem pedi desculpas ontem.
+// 正面の家から人が出てきた.それは二日前に頭を下げさせられた主婦だった.
+<0079> Se não me falha a memória, ela se chama Kawarazaki. Na verdade, só lembrei porque o nome dela tá escrito na placa perto da porta.
+// 確か、河原崎、と言った.というか、表札にそう書いてある.
+<0080> \{Misuzu}"Bom dia, Srta. Kawarazaki."
+// \{観鈴}「おはようございます、おばさん」
+<0081> \{Dona de casa}"Qual o problema? Você parece preocupada."
+// \{主婦}「何か、難しい顔、してるわね」
+<0082> \{Misuzu}"Sim, um pouco... Nihaha."
+// \{観鈴}「ええ.ちょっとねー…にはは」
+<0083> \{Dona de casa}"Apenas me diga se precisar de algo. Afinal, somos vizinhas."
+// \{主婦}「困ったことあったら言ってね.お向かいさんだしね」
+<0084> Embora tivesse uma primeira má impressão dela, por causa do incidente do leite (mesmo que eu fosse o ladrão), até que ela parecia uma pessoa legal agora.
+// 牛乳の件で悪い印象はあったが(というか、俺が悪いのだろうが)、こうして話を横で聞いていると、気さくでいいひとのようだった.
+<0085> \{Misuzu}"Ok, já que você tocou no assunto..."
+// \{観鈴}「あ、では、お言葉に甘えさせていただきまして…」
+<0086> Misuzu encarou novamente a dona de casa.
+// 観鈴は、そのおばさんと向き合う.
+<0087> \{Misuzu}"Você conhece alguém contratando para um trabalho com pagamento diário?"
+// \{観鈴}「何か、日雇いで人手を探しているところ、知らないですか？」
+<0088> \{Dona de casa}"Um trabalho com pagamento dia?"
+// \{主婦}「日雇いでアルバイト？」
+<0089> \{Misuzu}"Sim."
+// \{観鈴}「ええ」
+<0090> \{Dona de casa}"Você está procurando um emprego?"
+// \{主婦}「観鈴ちゃんが？」
+<0091> \{Misuzu}"Ah, eu não. É pra ele."
+// \{観鈴}「ちがいます.このひと」
+<0092> Misuzu apontou pra mim, que tava em pé atrás dela.
+// ぴっ、と後ろに立っていた俺を指さす.
+<0093> \{Dona de casa}"Ah, é ele..."
+// \{主婦}「あぁ、そのひと…」
+<0094> Ela parecia hesitante de repente.
+// ちょっと引いた.
+<0095> Então ela me examinou dos pés à cabeça.
+// そして、人の面を吟味するような目線を寄こした.
+<0096> \{Dona de casa}"Você consegue fazer trabalho braçal?"
+// \{主婦}「力仕事、いける？」
+<0097> \{Misuzu}"Você pode fazer isso, certo?"
+// \{観鈴}「いけるよね」
+<0098> Dizer pra ela que é moleza
+// ばっちりだ、と答える
+<0099> Mostrar pra ela sua força física
+// 力自慢なところを見せつける
+<0100> \{Yukito}"Sim, é moleza."
+// \{Yukito}「ああ、ばっちりだ」
+<0101> \{Dona de casa}"Nesse caso, posso ter algo pra você."
+// \{主婦}「それだったら、あるわよ」
+<0102> Eu fiz uma parada de mão.
+// 俺は逆立ちをする.
+<0103> Depois, na mesma posição, fiz flexões.
+// そして、その状態で腕立て伏せを行った.
+<0104> *\shake{1}Poof\wait{250}\shake{1} poof\wait{250}\shake{1} poof\wait{250}\shake{1} poof...*
+// バッバッバッバッ!
+<0105> \{Yukito}"Ufa..."
+// \{Yukito}「ふっ…」
+<0106> Me levantei e enxuguei o suor das sobrancelhas.
+// 俺は立ち上がり、額の汗を拭う.
+<0107> \{Dona de casa}"Ele é... uma figura, não é?"
+// \{主婦}「かなり変わったひとね…」
+<0108> A dona de casa recuou novamente.
+// …主婦は引いていた.
+<0109> \{Misuzu}"Sim, mas no fundo ele é uma boa pessoa. Nihaha..."
+// \{観鈴}「根は優しくて、いいひとなんですよー.にはは…」
+<0110> \{Dona de casa}"Bem, ele é grande, então parece que tem força."
+// \{主婦}「でも、体が大きいから、力はありそうね…」
+<0111> \{Misuzu}"Sim, ele é realmente forte."
+// \{観鈴}「うん、力持ち」
+<0112> \{Dona de casa}"Tudo bem. Posso recomendá-lo."
+// \{主婦}「ならいいわ.紹介してあげる」
+<0113> \{Misuzu}"Sério? Isso não é ótimo, Yukito-san?"
+// \{観鈴}「ほんとですか？ よかった、Yukitoさん」
+<0114> \{Yukito}"Sobre o que é o trabalho?"
+// \{Yukito}「内容は」
+<0115> Dei um passo à frente e perguntei pra ela.
+// 俺は歩み出て、訊く.
+<0116> \{Dona de casa}"Minha irmã e seu marido administram uma loja de reciclagem no distrito comercial."
+// \{主婦}「私の妹夫婦がね、商店街でリサイクルショップをやってるの」
+<0117> \{Dona de casa}"Meu cunhado coletava os produtos reciclados. Mas ele não pode mais por causa das dores nas costas."
+// \{主婦}「でもリサイクル商品を集めていた夫が、腰を痛めてね、今、動けないのよ」
+<0118> \{Dona de casa}"Então você vai coletar os itens no lugar dele."
+// \{主婦}「だから、代わりにそれを集めてあげて」
+<0119> \{Yukito}"Coletar reciclados... Mas onde consigo essas coisas?"
+// \{Yukito}「集めるって、どこから」
+<0120> \{Dona de casa}"Você irá de porta em porta e perguntará aos moradores se eles têm algum item que queiram jogar fora."
+// \{主婦}「それは一軒一軒、家を訪問して、訊いてまわるのよ.不用品がないか、どうか」
+<0121> \{Dona de casa}"Mas terá que ser simpático porque isso diz respeito à imagem da loja."
+// \{主婦}「そのへんは人当たりよくね.お店のイメージにも関わるから」
+<0122> \{Yukito}"Ok..."
+// \{Yukito}「わかった…」
+<0123> \{Dona de casa}"Você pode dirigir?"
+// \{主婦}「車、運転できる？」
+<0124> \{Yukito}"Não, eu não posso."
+// \{Yukito}「いや、できない」
+<0125> \{Dona de casa}"Nesse caso, será realmente um trabalho braçal pra você."
+// \{主婦}「だったら、なおさら力仕事ね」
+<0126> \{Dona de casa}"Se encontrar TVs e geladeiras, terá que usar o carrinho de mão."
+// \{主婦}「テレビとか、冷蔵庫とか出てきたら、リヤカーで運んでね」
+<0127> \{Yukito}"Um carrinho de mão? Sério?"
+// \{Yukito}「リヤカーって…マジか…」
+<0128> \{Dona de casa}"Você é um rapaz forte. Vai conseguir."
+// \{主婦}「男なら、それぐらい頑張れる」
+<0129> \{Misuzu}"Sim. Tenho certeza que Yukito-san consegue."
+// \{観鈴}「そ.Yukitoさん、がんばれる」
+<0130> \{Yukito}"Falar é fácil..."
+// \{Yukito}「他人事だと思ってこいつは…」
+<0131> \{Dona de casa}"Minha irmã lhe dará mais detalhes sobre o trabalho. Vou ligar pra ela avisando que você está a caminho."
+// \{主婦}「詳しいことは、妹のお店で訊いて.この件は電話で伝えておくから」
+<0132> Perguntei o endereço. Eu não sabia a localização exata, mas deve ser fácil encontrar a loja quando chegar no distrito comercial.
+// その店の場所を訊く.よくわからなかったが、商店街まで行けばどうにかなるだろう.
+<0133> \{Misuzu}"Obrigada por toda sua ajuda."
+// \{観鈴}「どうも、助かりました」
+<0134> \{Dona de casa}"Trabalhe duro no seu novo emprego."
+// \{主婦}「頑張ってね」
+<0135> A dona de casa me lançou um olhar.
+// おばさんの目がこっちに向く.
+<0136> \{Yukito}"Pode deixar..."
+// \{Yukito}「ああ…」
+<0137> Estávamos de volta em casa.
+// 家の中へと戻っていった.
+<0138> \{Misuzu}"Isso é uma boa notícia."
+// \{観鈴}「良かったね」
+<0139> \{Yukito}"Pode ser que ela esteja tentando ferrar comigo..."
+// \{Yukito}「案外、あのひと、俺をいじめてるんじゃないか…」
+<0140> \{Misuzu}"Ela não faria nada assim. Kawarazaki-san é uma pessoa legal."
+// \{観鈴}「そんなことないって.河原崎さんいい人」
+<0141> \{Yukito}"Achei que eles geralmente rejeitariam alguém sem carteira de motorista..."
+// \{Yukito}「普通は免許がないと知った時点で、断られると思うがな…」
+<0142> \{Misuzu}"É porque você parece muito forte."
+// \{観鈴}「それだけYukitoさんが力持ちに見えたってこと」
+<0143> \{Yukito}"Ei, você não vai se atrasar?"
+// \{Yukito}「ところで、おまえ、時間いいのか？」
+<0144> \{Misuzu}"Huh? Que horas são?"
+// \{観鈴}「え？ 今、何時？」
+<0145> \{Yukito}"Meu rosto parece um relógio pra você?"
+// \{Yukito}「俺の顔は時計じゃない」
+<0146> \{Misuzu}"Erm, deixe-me verificar meu relógio..."
+// \{観鈴}「えっと、腕時計っと…」
+<0147> Misuzu tirou o relógio do bolso.
+// ポケットから取り出す.
+<0148> \{Misuzu}"Eita! Tenho que correr!"
+// \{観鈴}「わ、走らないとっ!」
+<0149> \{Misuzu}"Zaaaz..."
+// \{観鈴}「ダッシュっ」
+<0150> Ela saiu correndo.
+// 駆け出す.
+<0151> *Pow!*\shake{1}
+// どすんっ!\shake{1}
+<0152> Misuzu tropeçou e caiu.
+// 観鈴が派手に転けた.
+<0153> \{Misuzu}"Ga-Gao..."
+// \{観鈴}「が、がお…」
+<0154> *Bop!*\shake{1}
+// ぽかっ!
+<0155> \{Misuzu}"Ai... Por que você me bateu? Eu simplesmente caí."
+// \{観鈴}「イタイ…どうして、イタイ目にあってるのに、さらに叩かれるかな…」
+<0156> \{Yukito}"Você se machucou?"
+// \{Yukito}「怪我はなかったか」
+<0157> \{Misuzu}"Minha cabeça dói."
+// \{観鈴}「頭イタイ」
+<0158> \{Yukito}"Isso é porque eu bati na sua cabeça. Dói em algum outro lugar?"
+// \{Yukito}「そりゃ俺が殴ったからだ.他には」
+<0159> \{Misuzu}"Haa... Ralei um pouco o joelho."
+// \{観鈴}「はぁ…ちょっと、ひざ、擦りむいた」
+<0160> \{Misuzu}"O que devo fazer? Estou sem tempo, meu joelho tá sangrando e não tenho muito dinheiro sobrando..."
+// \{観鈴}「でも、どうしよう…時間ないし、ひざから血出てるし、お小遣いも残り少ないし…」
+<0161> \{Misuzu}"Misuzu-chin está em apuros triplos."
+// \{観鈴}「観鈴ちん、とりぷるぴんち」
+<0162> O que o dinheiro dela tinha a ver com sua situação?
+// 今、お小遣いが少ないのはピンチと関係あるのだろうか.
+<0163> \{Misuzu}"O que devo fazer? Estou sem tempo e meu joelho tá sangrando..."
+// \{観鈴}「どうしよう…時間ないし、ひざから血出てるし…」
+<0164> \{Misuzu}"Misuzu-chin está em apuros duplos."
+// \{観鈴}「観鈴ちん、だぶるぴんち」
+<0165> \{Misuzu}"Hmm..."
+// \{観鈴}「うーん…」
+<0166> Depois de pensar um pouco...
+// 少し悩んだ後…
+<0167> \{Misuzu}"Vou pegar um curativo."
+// \{観鈴}「ばんそーこー、貼ってくる」
+<0168> Ela voltou pra dentro de casa.
+// 家の中に戻っていった.
+<0169> \{Yukito}"Agora você definitivamente vai se atrasar."
+// \{Yukito}「遅刻決定」
+<0170> \{Misuzu}"Hmm... Isso é bom."
+// \{観鈴}「うーん…気持ちいい」
+<0171> Misuzu tava se espreguiçando no paredão mais uma vez.
+// 観鈴はいつものように堤防で伸びをしている.
+<0172> A brisa forte sempre foi refrescante aqui.
+// 堤防の上は、いつでも風が強く、涼しい.
+<0173> \{Yukito}"Você vai usar sua técnica ninja novamente?"
+// Lily: lol
+// \{Yukito}「また、必殺技か」
+<0174> \{Misuzu}"Sim, minha técnica ninja."
+// \{観鈴}「うん、必殺技」
+<0175> Sua autoproclamada técnica ninja significava que ela entrar furtivamente na sala de aula, no segundo período, enquanto fingia que tava lá desde o início.
+// 必殺技とは、例の『あたかも一時間目からいた顔をして、二時間目から授業を受ける』作戦である.
+<0176> Mas pra conseguir isso, ela tinha que esperar até o intervalo do recreio entre os períodos.
+// それには、休み時間になるまで待たなければならないらしい.
+<0177> \{Yukito}"Eu já te disse, uma hora vão te pegar."
+// \{Yukito}「だからバレバレだっての」
+<0178> \{Misuzu}"Hmm?"
+// \{観鈴}「ん？」
+<0179> Ela nem me ouviu.
+// 聞こえていないようだった.
+<0180> O vento tava muito forte.
+// 風はそれぐらい強い.
+<0181> \{Misuzu}"Yukito-san, agora você vai de casa em casa coletar sucata, certo?"
+// \{観鈴}「Yukitoさん、これから一軒一軒家を訪問して、不用品を集めるんだよね」
+<0182> Misuzu veio até mim e me perguntou.
+// 観鈴が近くまで寄ってきて訊いた.
+<0183> \{Yukito}"Sim, parece que terei que fazer isso."
+// \{Yukito}「ああ、そうなるだろうな」
+<0184> \{Misuzu}"Nesse caso, deixe-me adicionar algo ao seu mapa. Me empreste ele um pouquinho."
+// \{観鈴}「だったら、地図に書き足してあげる.貸して」
+<0185> \{Yukito}"O que você tá adicionando?"
+// \{Yukito}「書き足すって、なにを」
+<0186> \{Misuzu}"Um guia de estratégia. Agora você conhecerá os melhores locais para coletar os itens."
+// \{観鈴}「攻略法.どこにいけば、集めやすいか、とか」
+<0187> \{Misuzu}"Se você ler o mapa enquanto caminha, será como se eu estivesse ao seu lado."
+// \{観鈴}「それ読みながら歩いたら、わたしが隣にいるのと一緒」
+<0188> \{Misuzu}"Não posso te ajudar pela manhã, então vou melhorar o mapa."
+// \{観鈴}「午前中はわたし、手伝えないから、書くね」
+<0189> Mas o mapa já tava ilegível. Não achei que ela pudesse acrescentar algo melhor.
+// すでに地図があの状態だ.こいつがまともなことを書き足すとは思えないが….
+<0190> Permitir que ela melhore o mapa
+// 書き足してもらう
+<0191> Não, obrigado
+// 遠慮する
+<0192> São informações que estão sendo passadas por uma residente desta cidade.
+// 実際この町に長く住んでいる人間からの情報だ.
+<0193> Pode ser melhor do que ficar andando por aí sem rumo e sem referência alguma.
+// 俺が独断で動くよりかは、マシかもしれない.
+<0194> Decidi deixar Misuzu adicionar mais coisas ao mapa.
+// 書いてもらうことにする.
+<0195> Depois que entreguei o mapa, ela sentou-se na beira do paredão, tirou algumas canetas da mochila e começou a desenhar.
+// 地図を手渡すと、観鈴は堤防の端に座り込み、鞄からペンを取り出して、その作業にとりかかる.
+<0196> Ela parecia estar caprichando nisso. Até demorou um pouco pra terminar.
+// 結構丹念に書いているようだ.しばらく時間がかかった.
+<0197> \{Misuzu}"Prontinho."
+// \{観鈴}「はい」
+<0198> \{Yukito}"Valeu."
+// \{Yukito}「サンキュ」
+<0199> Aceitei o mapa atualizado.
+// バージョンアップした地図を受け取る.
+<0200> Só então, o sinal da escola tocou.
+// と同時に、チャイムが鳴った.
+<0201> \{Misuzu}"Tenho que ir."
+// \{観鈴}「じゃ、いってくるね」
+<0202> \{Yukito}"Ok."
+// \{Yukito}「ああ」
+<0203> \{Misuzu}"Boa sorte. Tchau, tchau."
+// \{観鈴}「がんばってね.ばいばいー」
+<0204> Ela pulou do paredão e correu em direção à escola.
+// 堤防から飛び降りて、駆けていった.
+<0205> \{Yukito}"Agora..."
+// \{Yukito}「さて…」
+<0206> É melhor eu me mexer.
+// 俺もいこう.
+<0207> \{Yukito}"Eu não preciso disso."
+// \{Yukito}「そんなものいらない」
+<0208> \{Misuzu}"Eh?"
+// \{観鈴}「え？」
+<0209> \{Yukito}"Eu vou tentar me virar sozinho."
+// \{Yukito}「自力で集めてみせる」
+<0210> \{Misuzu}"Você vai ficar bem?"
+// \{観鈴}「だいじょうぶ？」
+<0211> \{Yukito}"Sim. Apenas deixe comigo."
+// \{Yukito}「大丈夫だ.任せろ」
+<0212> Dito isso, pulei do paredão.
+// たっ、と俺は堤防から飛び降りる.
+<0213> \{Yukito}"E nem pense em cabular aula."
+// \{Yukito}「おまえ、ちゃんと学校いけよ」
+<0214> \{Misuzu}"Ok."
+// \{観鈴}「うん」
+<0215> Saí do local deixando Misuzu pra trás.
+// 観鈴を残して、先に俺はその場を後にした.
+<0216> Encontrei a loja no final do distrito comercial.
+// 店は商店街の奥まった場所で見つかった.
+<0217> O nome era 'Loja de Reciclagem Sakuma'.
+// 佐久間リサイクルショップ、と名を言う.
+<0218>Entrei na loja e chamei o dono. Uma senhora de aparência amigável veio me cumprimentar.
+// 店内に入り、呼びかけると、愛想のいい女性が出てきた.
+<0219> \{Senhora}"É você quem vai nos ajudar hoje?"
+// \{女性}「手伝ってもらえるって方ですよね？」
+<0220> \{Yukito}"Sim."
+// \{Yukito}「ああ」
+<0221> \{Senhora}"Sinto muito por você ter que trabalhar com esse calor."
+// \{女性}「ごめんなさいね、こんな暑い中」
+<0222> \{Yukito}"Isso parece uma piada."
+// \{Yukito}「ざけんなよってカンジだな」
+<0223> \{Senhora}"Mas você é jovem. Tenho certeza que posso contar com você."
+// \{女性}「でもほんと、若いのね.頼りになりそう」
+<0224> \{Yukito}"Então aumente meu salário."
+// \{Yukito}「ギャラはずめよな」
+<0225> \{Senhora}"Haha, você é engraçado."
+// \{女性}「うふふ、面白い子」
+<0226> Ela começou a preparar as coisas pra mim com um sorriso no rosto.
+// 笑顔で、てきぱきと用意を始める.
+<0227> \{Senhora}"Bem, trabalhe duro nisso."
+// \{女性}「じゃ、頑張ってね」
+<0228> \{Yukito}"Vou tentar."
+// \{Yukito}「適当にな」
+<0229> Saí da loja.
+// 店先で別れる.
+<0230> Eu tinha um carrinho de mão comigo.
+// 俺の背後にはリヤカーがある.
+<0231> Andei puxando o carrinho, que fazia um barulho estridente.
+// それをカラカラと引きながら、歩き始めた.
+<0232> \{Yukito}"Que calor..."
+// \{Yukito}「アジィ…」
+<0233> O suor já tava se formando.
+// すぐにも汗が吹き出し始める.
+<0234> \{Yukito}"Vamos ver..."
+// \{Yukito}「さて、と…」
+<0235> Tirei o mapa do bolso.
+// 俺はポケットに突っ込んであった地図を開く.
+<0236> \{Yukito}"........."
+// \{Yukito}「………」
+<0237> Algo foi adicionado ao mapa, perto da Loja Takeda.
+// 武田商店の辺りに何か書き足してある.
+<0238> "Residência Fukuoka"
+// 『富岡さんのいえ』
+<0239> "Aqui tem um cachorro enorme! Quero brincar com ele~"
+// 『おっきな犬がいるの.いっしょにあそびたいな』
+<0240> Ao lado, havia o desenho de uma Misuzu sorridente (eu acho) e de um cachorro feliz (eu acho)..
+// 隣には笑った観鈴(だと思われる)の顔と、同じく笑った犬(だと思われる)が落書きされていた.
+<0241> .........
+// ……….
+<0242> Torci um pouco o pescoço. Fez um estalo.
+// 首をねじる.こきっと音がした.
+<0243> Então coloquei meus olhos no mapa novamente.
+// 俺は再び、地図に目を落とす.
+<0244> Isso era tudo que tava escrito nele...
+// …それだけしか書いてなかった.
+<0245> \{Yukito}(O que devo fazer com isso?)
+// \{Yukito}(どーしろってんだよ、これで…)
+<0246> Realmente parecia que Misuzu tava ao meu lado.
+// まさしく、観鈴が隣にいるようである.
+<0247> \{Yukito}"Absolutamente inútil."
+// \{Yukito}「まったく使えねぇ…」
+<0248> Vasculhar a região por conta própria
+// 自力で家を回ることにする
+<0249> Ter fé no mapa de Misuzu
+// 観鈴を信じる
+<0250> Decidi ignorar essa folha cheia de garatujas e fazer as coisas do meu próprio jeito.
+// こんな落書きは無視だ.自力で頑張ろう.
+<0251> Coloquei o mapa de volta no bolso.
+// 地図をポケットに突っ込む.
+<0252> \{Yukito}"Não, espere um segundo..."
+// \{Yukito}「いや、待てよ…」
+<0253> No autorretrato de Misuzu, ela parecia estar fazendo um "V" de vitória.
+// 俺は似顔絵の観鈴がＶサインをしているのに気づいた.
+<0254> \{Yukito}(Faça amizade com o cachorro e a vitória será sua...)
+// \{Yukito}(犬と仲良くなって、ＶＩＣＴＯＲＹ…)
+<0255> A Sra. Fukuoka adorava cães. Se eu fizesse amizade com seu cachorro, ela teria uma opinião melhor sobre mim.
+// 富岡婦人は愛犬家であるから、その飼い犬と仲良くなって、婦人からの好感度を上げよ.
+<0256> Então ela me pagaria pra se livrar de suas bugigangas e aparelhos elétricos.
+// そうすれば、高価な電化製品を山ほど売りに出してくれるだろう.
+<0257> Sinto que decifrei o significado por trás dessa imagem.
+// …という意味なのかもしれない.
+<0258> Eu entendi agora. Deve ser esse o caso.
+// なるほど.きっとそうに違いない.
+<0259> \{Yukito}"A vitória será minha..."
+// \{Yukito}「勝利をこの手に…」
+<0260> Segui as instruções pra encontrar aquela casa.
+// 俺は指示通りにその家を探して歩く.
+<0261> *Tchoc tchoc...*
+// カラカラ…
+<0262> Mas...
+// しかし…
+<0263> *Tchoc tchoc...*
+// …カラカラ…
+<0264> \{Yukito}(O que eu estou fazendo...?)
+// \{Yukito}(なにをやってんだろうな、俺は…)
+<0265> Meu humor piorou enquanto eu ouvia o som irritante do carrinho de mão.
+// リヤカーを引いている音を聞いていると、ブルーになってくる.
+<0266> *Vrrooooom...*
+// ぶろろろろろ…
+<0267> \{Yukito}"Hmm...?"
+// \{Yukito}「ん…？」
+<0268> Uma moto me ultrapassou e parou na minha frente.
+// その俺を追い抜いて、バイクがすぐ目の前で停車した.
+<0269> O motociclista tirou o capacete e se virou pra olhar pra mim.
+// メットを脱いで、俺を振り返る人物…
+<0270> \{Haruko}"Eu tava procurando você."
+// \{晴子}「探したで」
+<0271> Era a Haruko.
+// 晴子だった.
+<0272> \{Yukito}"O que você quer?"
+// \{Yukito}「…なんの用だよ」
+<0273> \{Haruko}"Você me pediu ajuda para procurar um emprego ontem à noite, não foi?"
+// \{晴子}「あんた、夕べ言うたやん.仕事紹介しろって」
+<0274> \{Yukito}"Pedi? Não me lembro."
+// \{Yukito}「だっけか.よく覚えてねぇ」
+<0275> \{Yukito}(Pra que tudo isso? Essa situação se resolveria logo se você devolvesse minha marionete...)
+// \{Yukito}(つーか、あんたが人形返せば、それで済むんだよ…)
+<0276> Mas meu orgulho não me permitiria dizer isso.
+// それを口に出さないのは意地だ.
+<0277> \{Haruko}"Eu prometi que ia conseguir um emprego para você. Agora, suba."
+// \{晴子}「約束やしな.紹介したるから、はよ乗り」
+<0278> Subir na motocicleta
+// バイクに乗る
+<0279> Subir no carrinho de mão
+// リヤカーに乗る
+<0280> \{Yukito}"Ok, vamos dar um rolê."
+// \{Yukito}「よし、飛ばすぜ」
+<0281> Montei na moto e agarrei o guidão.
+// バイクに跨って、ハンドルを握る.
+<0282> \{Haruko}"Idiota! Você senta na carona."
+// \{晴子}「あほっ、あんたは後ろやっ」
+<0283> \{Yukito}"Tch!"
+// \{Yukito}「チッ」
+<0284> Droga, eu queria dirigir uma moto pelo menos uma vez na vida.
+// 一度、運転してみたかった.
+<0285> Depois que me sentei na garupa, Haruko subiu e acelerou a moto.
+// 仕方なく俺が座席をずれると、晴子が前に跨り、エンジンをふかしだす.
+<0286> *Vrroooom...*
+// ぶろろろろろろろ…
+<0287> \{Haruko}"Vamos nessa."
+// \{晴子}「いくで～」
+<0288> \{Yukito}"Demorô."
+// \{Yukito}「ああ」
+<0289> *Vroooooooom!*
+// ぶろろぉーーーーーーーーん!
+<0290> Começamos correr em uma velocidade incrível.
+// かなりの速度で走り出す.
+<0291> \{Haruko}"Eu vou virar! Teremos que mudar nosso peso juntos!"
+// \{晴子}「曲がるでー! 一緒に体重傾けるんやでー!」
+<0292> \{Yukito}"Sem problema."
+// \{Yukito}「わかった」
+<0293> \{Haruko}"Aqui vamos nós..."
+// \{晴子}「せーのっ…」
+<0294> *Ziiip*
+// ぐいっ.
+<0295> \{Yukito}"Hmm?"
+// \{Yukito}「ん？」
+<0296> Haruko estava inclinada para a direita.\p Eu estava inclinado para a esquerda.
+// 晴子は右.俺は左に体を傾けていた.
+<0297> E assim...
+// 結果…
+<0298> *Bam!!!*\shake{7}
+// どがーーーーーーーーーーーーーーーーんっっ!
+<0299> Haruko, que havia caído no chão, levantou a cabeça.
+// がばっ!と地面に倒れていた晴子が顔をあげる.
+<0300> \{Haruko}"Por que você se inclinou para o outro lado? Isso fez com que fôssemos em linha reta, seu idiota!"
+// \{晴子}「あんたが逆方向に倒れるから体重が均衡して、そのまま直進してしもたやろっっ!」
+<0301> \{Haruko}"Você estava tentando me matar?!"
+// \{晴子}「殺す気かっ!」
+<0302> \{Yukito}"Ai..."
+// \{Yukito}「イツツ…」
+<0303> Eu me sentei.
+// 俺も上体を起こす.
+<0304> \{Yukito}"Que veículo perigoso... Nunca mais subirei em uma moto."
+// \{Yukito}「なんて危ない乗り物だ…二度と乗らないぞ」
+<0305> \{Haruko}"Pois é! Depois dessa, acha mesmo que eu deixaria você andar de moto comigo novamente?!"
+// \{晴子}「ライダーと逆にハング切る奴なんか乗せるかっ!」
+<0306> \{Haruko}"Haa... Fui uma idiota por querer te ajudar."
+// \{晴子}「はぁ…こんな奴、助けたろ思たうちがアホやったわ…」
+<0307> Haruko levantou a motocicleta e subiu.
+// 転けていたバイクを立て直して、それに跨る晴子.
+<0308> \{Haruko}"Dane-se! Vá ganhar seu próprio dinheiro."
+// \{晴子}「もううち、しらんで.ひとりで勝手に稼ぎや」
+<0309> *Vrrroooooom!*
+// ぶろろぉぉぉーーーーーーーーーん!
+<0310> Ela partiu.
+// 去っていった.
+<0311> \{Yukito}"Essa era minha intenção desde o início."
+// \{Yukito}「はなからそのつもりだ」
+<0312> Nada de bom surgiria do meu envolvimento com aquela mulher.
+// あの女に関わると、本当にロクなことがない.
+<0313> Vamos ganhar dinheiro de maneira honesta.
+// 地道に稼ごう.
+<0314> \{Yukito}"Ok, vamos dar um rolê."
+// \{Yukito}「よし、飛ばしてくれ」
+<0315> Me sentei com as pernas cruzadas no carrinho de mão.
+// リヤカーの台にあぐらをかく.
+<0316> \{Haruko}"Ok, aqui vamos nós!"
+// \{晴子}「よっしゃ、いくで～」
+<0317> Haruko começou a puxar o carrinho.
+// すちゃっと晴子がそのリヤカーを引きに入る.
+<0318> \{Haruko}"Ei, quem você pensa que é?!"
+// \{晴子}「って、おのれは何様じゃいっ!」
+<0319> *Bam!*\shake{1}
+// げしっ!\shake{1}
+<0320> Ela me chutou pra fora do carrinho.
+// 蹴落とされる.
+<0321> \{Yukito}"Ei! Sem violência, por favor!"
+// \{Yukito}「乱暴をするな」
+<0322> \{Haruko}"A moto está bem na nossa frente. Você tem algo contra o uso de novas tecnologias?"
+// \{晴子}「目の前にバイクを置いて、何が悲しゅうて人力で行動せにゃならんのやっ」
+<0323> \{Haruko}"E por que sou eu quem está puxando seu carrinho? Você que faça isso!"
+// \{晴子}「しかも、なんでうちが引くねん.おのれが引けっ」
+<0324> \{Yukito}"Tá bom..."
+// \{Yukito}「…だな」
+<0325> Comecei a arrastar o carrinho.
+// 俺はリヤカーを引きに入る.
+<0326> *Tchoc tchoc...*
+// からから…
+<0327> \{Yukito}"Quer uma carona?"
+// \{Yukito}「乗ってくか」
+<0328> \{Haruko}"Seja um ludita você mesmo!"
+// \{晴子}「一生、人力で生きとれ」
+<0329> Haruko montou em sua moto.
+// 晴子がバイクに跨る.
+<0330> \{Haruko}"E vá encontrar seu próprio emprego também."
+// \{晴子}「仕事も、もう自分で探しや」
+<0331> \{Yukito}"Essa era minha intenção desde o início."
+// \{Yukito}「はなからそのつもりだ」
+<0332> \{Haruko}"Ah, é assim então? Tudo bem, adeus."
+// \{晴子}「そか.ほな、さいなら」
+<0333> *Vrrrooooooom!*
+// ぶろろろろろろん!
+<0334> A moto arrancou e ela partiu.
+// 轟きをあげて、バイクは去っていった.
+<0335> *Tchoc tchoc...*
+// からから…
+<0336> *Tchoc tchoc...*
+// …からから…
+<0337> Continuei puxando o carrinho enquanto o sol batia sobre mim.
+// 陽射しに射抜かれながら、リヤカーを引き続ける.
+<0338> O barulho das rodas era irritante pros meus ouvidos.
+// 車輪の音が、実にわびしい.
+<0339> Olhei em volta e me vi a uma boa distância do mar.
+// 辺りを見渡すと、いつの間にか海辺とは呼べないような場所になっていた.
+<0340> \{Yukito}"Eu ainda não cheguei lá?"
+// \{Yukito}「まだ着かないのかよ…」
+<0341> Limpei o suor da minha testa.
+// 額から流れ落ちる汗を拭う.
+<0342> O típico suor pegajoso, não era nada refrescante.
+// どう考えても、爽やかな汗と呼べる代物じゃない.
+<0343> Isso tava me dando nos nervos.
+// ただ不快なだけだ.
+<0344> *Rooonc...*
+// ぐー.
+<0345> Meu estômago roncou.
+// 腹の虫が鳴る.
+<0346> *Tchoc tchoc...*
+// からから…
+<0347> O ronco tava em perfeita harmonia com o barulho das rodas.
+// 車輪の音が、ハーモニーを奏でる.
+<0348> \{Yukito}(Absolutamente horrível...)
+// \{Yukito}(最悪だ…)
+<0349> Isso tava afetando muito mais a minha força mental do que a força física.
+// 肉体的なことよりも、俺の精神がこの状況にどこまで耐えられるのだろうか….
+<0350> \{Yukito}"Ufa..."
+// \{Yukito}「ふぅ…」
+<0351> Parei de arrastar o carrinho e fiz uma pausa.
+// いったんリヤカーを止めて、一息入れる.
+<0352> Eu tava parado em frente à uma estação deserta.
+// そこは、閑静な駅前.
+<0353> Estranhamente, o tempo parecia ter parado aqui.
+// まるで時間が止まったように、その景色はそこにあった.
+<0354> O vento agitava os galhos das árvores próximas, criando uma falsa sensação de frescor.
+// 風が周囲に生えている木の枝を揺らし、涼しげな音を奏でている.
+<0355> A paz tava no ar.
+// どこか落ち着いたたたずまい.
+<0356> \{Yukito}"Não há ninguém por aqui, embora seja uma estação de trem."
+// \{Yukito}「駅前のわりには人が全然いな──…」
+<0357> \{Voz}"Hmmnyunyu..."
+// \{声}「…んにゅにゅ」
+<0358> \{Yukito}"........."
+// \{Yukito}「………」
+<0359> \{Yukito}"Bem, não havia alguém..."
+// \{Yukito}「…なくはないか」
+<0360> Apertei os olhos diante do calor cintilante.
+// 陽炎の向こうに目を凝らす.
+<0361> Então eu vi uma pessoa.
+// すると、そこには….
+<0362> \{Garota}"Fuuuuu..."
+// \{少女}「ふぅ～～～…」
+<0363> *Pop*
+// ぱちんっ.
+<0364> \{Garota}"Aiai!"
+// \{少女}「わぷっ」
+<0365> \{Garota}"Hmmnyuu~"
+// \{少女}「んにゅぅ～」
+<0366> Era uma garota que tava com o rosto molhado de bolhas de sabão estouradas. Ela parecia estar prestes a chorar.
+// 破裂したシャボン玉の水滴を顔面に浴びて、半べそをかく少女が一人.
+<0367> *Scratch scratch...*
+// ごしごし…
+<0368> A garota enxugou o rosto com a ponta da sua camiseta e começou a soprar outra bolha.
+// 少女は服の裾で顔を拭い、再びふくらましにかかる.
+<0369> \{Garota}"Fuuuuu..."
+// \{少女}「ふぅ～～～…」
+<0370> *Pop*
+// ぱちんっ.
+<0371> \{Garota}"Aiai!"
+// \{少女}「わぷぷっ」
+<0372> Seu rosto tava novamente coberto de gotas de água.
+// またもや顔面水滴まみれ.
+<0373> \{Garota}"Hmmnyuu~"
+// \{少女}「んにゅぅ～」
+<0374> *Scratch scratch...*
+// ごしごし…
+<0375> \{Garota}"Fuuuuu..."
+// \{少女}「ふぅ～～～…」
+<0376> *Pop*
+// ぱちんっ.
+<0377> \{Garota}"Wapupupu!"
+// \{少女}「わぷぷぷっ」
+<0378> \{Garota}"Hmmnyuu~"
+// \{少女}「んにゅぅ～」
+<0379> *Scratch scratch...*
+// ごしごし…
+<0380> \{Garota}"Fuuuuu..."
+// \{少女}「ふぅ～～～…」
+<0381> *Pop*
+// ぱちんっ.
+<0382> \{Yukito}"........."
+// \{Yukito}「………」
+<0383> \{Yukito}"Que miserável..."
+// \{Yukito}「不憫だ…」
+<0384> Ela continuou tentando e falhando.
+// 同じ失敗を繰り返すこと数回.
+<0385> Só de observá-la me fez ficar com pena dela.
+// それは、見ているだけで胸がせつなくなる光景だった.
+<0386> \{Yukito}(O rosto da garota tá completamente polido, de tanto ela esfregar.)
+// \{Yukito}(あのガキ、擦りすぎて顔面がテカテカじゃないか)
+<0387> A coisa mais sensata a fazer agora era fingir que não vi nada.
+// やはり、ここは見て見ぬ振りをするのが正しい大人の選択だと思う.
+<0388> Com uma nova admiração, adquirida pelo reconhecimento da persistência da garota, voltei ao meu trabalho.
+// 俺は少女の健闘をたたえつつ、仕事に復帰することにした.
+<0389> *Tchoooc...*
+// から…
+<0390> As rodas rangeram, destruindo o silêncio bucólico da estação.
+// 車輪が鳴る.
+<0391> \{Garota}"Hmmni?"
+// \{少女}「んに？」
+<0392> Ela me notou imediatamente.
+// 速攻で見つかる.
+<0393> \{Yukito}(Essa não...)
+// \{Yukito}(…しまった)
+<0394> \{Garota}"Muu?"
+// \{少女}「むぅ？」
+<0395> A garota com o rosto molhado me encarou como se eu fosse um alienígena do espaço sideral.
+// 顔面をテカらしたままの少女が、異星人でも見るかのような眼差しで、俺を睨みつけていた.
+<0396> \{Yukito}"........."
+// \{Yukito}「………」
+<0397> \{Garota}"Muuu?"
+// \{少女}「むぅぅ？」
+<0398> Ficamos nos encarando, imóveis, enquanto as cigarras cantavam à distância.
+// セミの声が響く中.俺と少女は、しばらくの間対峙したまま動かなかった.
+<0399> Isso era inquietante...
+// …この間は辛い.
+<0400> Mas não era como se a primeira pessoa a se mover fosse perder a vida. Não havia necessidade de ficar parado assim.
+// べつに、先に動いた方が殺られるというわけじゃないのだから、我慢する必要はなかった.
+<0401> \{Yukito}"Ei, vi você trabalhando duro aí nessas bolhas."
+// \{Yukito}「よお、えらく熱心だな」
+<0402> Eu não podia me fingir de desentendido agora que ela me percebeu, então tentei quebrar o gelo.
+// 見つかってしまった以上、無視するのもなんなので、軽やかに声をかけてみる.
+<0403> \{Garota}"Quem é esse cara?"
+// \{少女}「なんだこいつ…」
+<0404> \{Garota}"E ele está puxando algo estranho atrás dele... Nojento..."
+// \{少女}「うしろにヘンなものがついてるぞ…きもちわるい…」
+<0405> \{Yukito}(.........)
+// \{Yukito}(………)
+<0406> \{Yukito}(Ela tá falando de mim?)
+// \{Yukito}(俺のことだろうか…)
+<0407> Fiquei tão constrangido com a fala dela que inconscientemente desviei o olhar.
+// ショックのあまり、思わず遠い目をしてしまう.
+<0408> \{Garota}"Muuu..."
+// \{少女}「むぅぅ…」
+<0409> \{Yukito}"........."
+// \{Yukito}「………」
+<0410> Ela tava olhando mais intensamente pra mim agora.
+// さらに睨まれている.
+<0411> \{Garota}"Nyaa! Agora eu entendi!"
+// \{少女}「にょわっ!そうかっ!」
+<0412> \{Yukito}"O quê?"
+// \{Yukito}「なんだよ」
+<0413> \{Garota}"Ah, o que devo fazer? O sequestrador está falando comigo..."
+// \{少女}「うぅ…どうしよう…ゆうかいまに声かけられちゃった…」
+<0414> \{Yukito}"Quem você tá chamando de sequestrador!?"
+// \{Yukito}「誰が誘拐魔だっ」
+<0415> \{Garota}"Nyaa!"
+// \{少女}「にょわっ!」
+<0416> \{Garota}"I-Isso n-não é nada bom... Ele tá ficando agitado..."
+// \{少女}「や、やばい…こうふんしてる…」
+<0417> \{Garota}"Estou em apuros..."
+// \{少女}「乙女のぴーんち…」
+<0418> Segundo ela, é isso.
+// らしい.
+<0419> \{Yukito}"Haa..."
+// \{Yukito}「はぁ…」
+<0420> Cocei minha cabeça.
+// ぽりぽりと頭を掻く.
+<0421> \{Yukito}"Ouça... Não tenha uma ideia errada."
+// \{Yukito}「あのなぁ…妙な勘違いをするなよ」
+<0422> Ela provavelmente continuaria assim. Então decidi explicar a situação pra ela.
+// 埒があきそうにないので、今度は穏やかに諭してみた.
+<0423> \{Garota}"Ah, o que devo fazer? Eu vou ser sequestrada..."
+// \{少女}「うぅ…どうしよぉ…さらわれちゃうよぉ…」
+<0424> \{Yukito}"Você tá me ouvindo?"
+// \{Yukito}「聞いちゃいねぇ」
+<0425> \{Garota}"Ele vai me colocar naquela coisa estranha que tá empurrando!"
+// \{少女}「きっと、あのヘンなのりものにのせられちゃうんだ…」
+<0426> \{Garota}"E então vai me vender no mercado de tráfico de órgãos..."
+// \{少女}「そんでもって、かわいい子牛たちといっしょに、市場までつれていかれちゃうんだ…」
+<0427> \{Garota}"Todo mundo vai olhar pra mim com pena..."
+// \{少女}「うぅ…きっと、みんなかなしそうな瞳なんだ…」
+<0428> A imaginação da garota tava saindo do controle.
+// 少女の想像力が、どんどんふくらんでいっているのが手に取るようにわかる.
+<0429> \{Garota}"Hmmnyu. Se eu não resistir, serei levada embora."
+// \{少女}「んにゅ.だめだ…気合いでまけたらつれていかれる」
+<0430> \{Garota}"Então aqui vai minha última tentativa..."
+// \{少女}「ここはいっぱつ…」
+<0431> \{Garota}"Uuu..."
+// \{少女}「うぅ～～～」
+<0432> Ela parecia estar no limite, prestes a explodir a qualquer momento.
+// 一念発起.
+<0433> A garota me encarou com toda a ferocidade que conseguiu reunir.
+// 少女はさらに気合いを込めて俺を睨みはじめた.
+<0434> \{Yukito}"........."
+// \{Yukito}「………」
+<0435> \{Garota}"Uuuu..."
+// \{少女}「ううぅぅ～～～」
+<0436> \{Yukito}"........."
+// \{Yukito}「………」
+<0437> \{Garota}"Uuuuuuu..."
+// \{少女}「うううぅぅぅ～～～」
+<0438> \{Yukito}"........."
+// \{Yukito}「………」
+<0439> \{Yukito}"Haa... Que pirralha..."
+// \{Yukito}「は…馬鹿らしい…」
+<0440> Balancei a cabeça e desviei o olhar da garota.
+// 俺はやれやれと首を振りながら、少女から視線をそらした.
+<0441> \{Garota}"Hhhmmnyo...! Agora!"
+// \{少女}「んにょっ!いまだっ!」
+<0442> \{Yukito}"Huh?"
+// \{Yukito}「えっ…」
+<0443> *Bam!*\shake{7}
+// がすっ!\shake{7}
+<0444> \{Yukito}"Arrrrgghhhh!!!"
+// \{Yukito}「ぐはっ」
+<0445> Uma dor inacreditável percorreu meu plexo solar.
+// みぞおちに、嘘みたいな痛みが生じた.
+<0446> Depois disso, um gosto amargo subiu pela minha garganta.
+// 口内に、酸っぱいものがこみあげてきた.
+<0447> \{Garota}"Yaah! Michiru venceu!"
+// \{少女}「やったーーーっ!みちるのかちーーーっ!」
+<0448> *Pit pat pit pat...*
+// ぱたぱたぱたーーー.
+<0449> A garota fugiu.
+// 少女が駆け出す.
+<0450> Ela correu em direção ao calor cintilante, onde o mundo do verão era frito pela luz do sol.
+// 陽炎のむこう.陽射しに焼かれた夏の世界に向かって.
+<0451> \{Yukito}"Aiii..."
+// \{Yukito}「イツツ…」
+<0452> \{Yukito}"O que acabou de acontecer? Ai..."
+// \{Yukito}「なにが起こったんだ、いったい…」
+<0453> Esfreguei meu peito. A rapidez de tudo isso me deixou confuso.
+// 俺はみぞおちの上を押さえながら、突然の事態を把握できないでいた.
+<0454> \{Yukito}"........."
+// \{Yukito}「………」
+<0455> \{Yukito}"Hm..."
+// \{Yukito}「えーっと…」
+<0456> Tentei entender minha situação.
+// 事態の把握に全力を注ぐ.
+<0457> \{Yukito}"........."
+// \{Yukito}「………」
+<0458> \{Yukito}"O que..."
+// \{Yukito}「俺は…」
+<0459> \{Yukito}"O que diabos eu tô fazendo...?"
+// \{Yukito}「俺は、いったいなにをしているのだろう…」
+<0460> Mas ao pensar nisso, só fiquei com uma sensação de vazio.
+// 把握したところで、虚しくなるだけだった.
+<0461> \{Yukito}"Haa..."
+// \{Yukito}「は…」
+<0462> Eu suspirei.
+// ため息が出た.
+<0463> \{Yukito}"Nada a fazer."
+// \{Yukito}「しょうがない…」
+<0464> Voltei a arrastar meu carrinho.
+// リヤカーを引く手に力を込める.
+<0465> Peguei o mapa de Misuzu novamente e comecei a andar.
+// 気を取り直して、再び観鈴マップを片手に、歩き始める.
+<0466> \{Yukito}"Esse lugar, hein?"
+// \{Yukito}「ここか…」
+<0467> A placa na porta dizia "Fukuoka".
+// 表札に『富岡』とある.
+<0468> \{Yukito}(Faça amizade com o cachorro e conquiste a vitória...)
+// \{Yukito}(犬と仲良くなって、ＶＩＣＴＯＲＹ、と…)
+<0469> \{Yukito}"Vamos entrar..."
+// \{Yukito}「いくか…」
+<0470> Passei pelo portão da frente e procurei o cachorro de estimação.
+// 俺は門をくぐり、飼い犬を探した.
+<0471> Avistei o cachorro quase imediatamente. Estava deitado ao lado da varanda.
+// それはすぐにも見つかる.玄関の隣に鎮座していた.
+<0472> Era absurdamente enorme para um cachorro...
+// …馬鹿でかい.
+<0473> Estava enrolado como uma bola.
+// 人間が丸くなっているようである.
+<0474> Aproximei-me e estendi a mão pra ele.
+// 俺は歩み寄って、手を伸ばしてみる.
+<0475> Os olhos do cachorro se voltaram pra mim.
+// 犬の目がこっちへ向く.
+<0476> *Chomp!*
+// がちんっ!
+<0477> Se eu não tivesse tirado a minha mão, certamente estaria agora sem ela.
+// …手を引いてなければ、噛まれていた.
+<0478> \{Cachorro}"Uuu..."
+// \{犬}「うー…」
+<0479> Por um tempo, nos entreolhamos.
+// しばし、睨み合う.
+<0480> Mas o cachorro deu o primeiro passo.
+// 先に動いたのは犬のほうだ.
+<0481> Ele abriu bem a boca e saltou sobre mim.
+// 口を開けて、俺の懐に飛び込んでくる.
+<0482> Eu me esquivei, agarrei seu corpo e joguei-o no chão.
+// 俺はそれをかわし、相手の体を抱き込み、地面に倒れ込む.
+<0483> \{Cachorro}"Au! Au au au au au!"
+// \{犬}「わんっ! わんわんわんわんわんっ!」
+<0484> \{Yukito}"Ei, cala a boca! Vamos nos tornar amigos! Pare de se debater!"
+// \{Yukito}「こら、うるさい.ふたりは仲良しなんだから、暴れるなっ」
+<0485> Ele era muito forte porque era um cachorro grande. Tentamos nos imobilizar.
+// 大型犬だったから、力は強い.お互い相手を組み敷こうとする.
+<0486> À medida que rolamos no chão, a maré da batalha mudou gradualmente.
+// 俺たちはごろごろと転がり、そのたび形勢は逆転する.
+<0487> A diferença na resistência tava aparecendo... o cachorro parou de lutar.
+// やがて体力の差が出て、犬は大人しくなる.
+<0488> \{Yukito}"Ufa... Eu venci."
+// \{Yukito}「ふぅ…勝った」
+<0489> \{Voz}"Ei, o que você está fazendo?!"
+// \{声}「あなた、何してるのっ!？」
+<0490> Alguém no quintal tava olhando pra mim.
+// 庭のほうからひとが覗いていた.
+<0491> Parecia ser a dona de casa que morava aqui.
+// それはここの婦人のようだった.
+<0492> \{Yukito}"Hm... Sou da Loja de Reciclagem Sakuma."
+// \{Yukito}「えっと…佐久間リサイクルショップの者だが…」
+<0493> \{Dona de casa}"O que você está fazendo com meu cachorro?!"
+// \{主婦}「そのあなたが、犬をどうしようと言うのっ」
+<0494> \{Yukito}"Nada... eu tô apenas brincando com ele."
+// \{Yukito}「違うっ…これは、じゃれているんだ」
+<0495> \{Dona de casa}"Venha aqui, Rex."
+// \{主婦}「こっちにおいで、ジョニー」
+<0496> Depois que soltei o cachorro, ele caminhou cambaleante em direção da dona de casa. No entanto...
+// 俺が手を放すと、犬はよたよたとおぼつかない足取りで婦人の元に歩いてゆく.が…
+<0497> *Poft!*
+// ぽてっ.
+<0498> O cachorro desmaiou antes que pudesse alcançá-la.
+// 辿り着けなかった.
+<0499> \{Dona de casa}"Rex!"
+// \{主婦}「ジョニーッ!」
+<0500> \{Yukito}"Ah, então... se você tiver algum produto indesejado, ficarei feliz em tirá-lo de suas mãos."
+// \{Yukito}「えっと…なにか不用品があれば、引き取りたいんだが」
+<0501> \{Dona de casa}"........."
+// \{主婦}「………」
+<0502> A dona de casa me olhou ferozmente.
+// ギロリと婦人の目が俺に向く.
+<0503> \{Dona de casa}"Saia daqui agora mesmo! Senão eu vou chamar a polícia!"
+// \{主婦}「今すぐ出てゆきなさい.でないと、警察呼びますよ…」
+<0504> \{Yukito}"T-Tudo bem... Calma... Já tô saindo."
+// \{Yukito}「わ、わかった…落ち着け.出てゆくからな」
+<0505> Me afastei hesitante. A dona de casa parecia estar falando sério.
+// 俺は後ろ向きに歩き出す.婦人の目はマジだった.
+<0506> \{Yukito}"Por favor, colabore com nossa Loja de Reciclagem Sakuma da próxima vez..."
+// \{Yukito}「佐久間リサイクルショップを今後ともごひいきに…」
+<0507> \{Dona de casa}"Depois disso, você acha que eu ainda iria à sua loja?!"
+// \{主婦}「するわけないでしょっ!」
+<0508> Minha última frase foi desnecessária e, pelo visto, só piorou as coisas.
+// 最後の言葉は余分だったようだ.
+<0509> \{Yukito}"Nossa, que mancada..."
+// \{Yukito}「たく…散々な目に遭ったぞ…」
+<0510> Trabalhei tanto, mas nenhuma recompensa foi obtida.
+// あれだけ頑張ったのに、戦利品のひとつもない.
+<0511> O carrinho de mão continuava vazio.
+// いまだリヤカーの荷台は空っぽだった.
+<0512> \{Voz}"Urrú! Isto é divertido!"
+// \{声}「いやっほう! こりゃラクチン!」
+<0513> Não mais... Agora tinha um pirralho dentro do carrinho.
+// いや、ガキが乗っていた.
+<0514> \{Yukito}"Ei, cai fora!"
+// \{Yukito}「こら、降りろっ」
+<0515> \{Kid}"Ahhh!"
+// \{子供}「わーいっ」
+<0516> Ele pulou do carrinho e correu pra outro lugar.
+// 飛び降りて、どこかに走り去っていった.
+<0517> \{Yukito}"Hm, vamos pra próxima casa..."
+// \{Yukito}「えーと、次の家はと…」
+<0518> Havia algo escrito no mapa.
+// 路地の辺りに何か書き足してある.
+<0519> "Residência Kawauchi. Melhor lugar de todos!"
+// 『にけんめは、川内さんのいえ.なぜならいいことがあるから』
+<0520> \{Vovó}"Ah, você está aqui."
+// \{老婆}「よぅ、きたな.お兄ちゃん」
+<0521> \{Vovó}"Aqui, pegue alguns doces."
+// \{老婆}「ほら、お菓子あげよ」
+<0522> "Eu ganho doces de graça quando passo aqui. Eles são tão saborosos! Eba!"
+// 『ぜったいおカシをくれるんだよ～.とってもおいしいの! Yukitoさん、やったね!』
+<0523> *Crunch crunch...* Isso realmente tá saboroso.
+// ポリポリ…確かにおいしい.
+<0524> \{Yukito}"Eba!"
+// \{Yukito}「やったね!」
+<0525> \{Yukito}"...Não."
+// \{Yukito}「じゃねえよっ…」
+<0526> \{Yukito}"Ei, vovó! Você tem alguma coisa que não quer, que não seja doce? Coisas como eletrodomésticos..."
+// \{Yukito}「な、婆さん、お菓子じゃなくて、不要物とかはないか.電化製品とか…」
+<0527> \{Vovó}"Não..."
+// \{老婆}「ないのぅ」
+<0528> \{Vovó}"Aqui, coma mais alguns doces. Você é tão grande. Um pouquinho mais de açucar é bom pra restabelecer a energia que seu corpo perdeu."
+// \{老婆}「それよか、もっとお菓子お食べ.お兄ちゃん、体大きいで、よぅ入るやろ」
+<0529> \{Yukito}"Vou lhe dizer, vovó. Quanto maior uma pessoa fica, menos coisas doces seu corpo precisa."
+// \{Yukito}「あのな、婆さん.体が大きいとな、逆にこういったものは入る場所がなくなるんだ」
+<0530> \{Vovó}"Sério?"
+// \{老婆}「そうなんかいな」
+<0531> \{Yukito}"Sim. Acho que vou indo então. Até mais."
+// \{Yukito}「ああ.用がなくなったんで、帰るな」
+<0532> \{Vovó}"Volte sempre."
+// \{老婆}「また、いつでもくればええ」
+<0533> \{Yukito}"Já chega!"
+// \{Yukito}「もういいっ!」
+<0534> Enfiei o mapa na minha bolsa.
+// 俺は地図をバッグの中に詰め込む.
+<0535> Afinal, esse esquema só representa a rota de Misuzu pra se divertir.
+// 結局この落書きは、観鈴の遊びルートを示したものだったのだ.
+<0536> Eu não deveria ter confiado nela em primeiro lugar.
+// あいつを信じた俺が馬鹿だった.
+<0537> Eu poderia ter conseguido algo se tivesse seguido por conta própria.
+// これだったら、自分が思うように行動していたほうが、まだマシだったかもしれない.
+<0538> O sol tava bem acima da minha cabeça.
+// 陽も真上に差し掛かろうとしている.
+<0539> Saber que todos os meus esforços, desde a manhã, foram em vão também esgotou minha motivação.
+// 午前中の努力がすべて無駄だったというのが、精神的にも堪える.
+<0540> \{Yukito}"Vou fazer uma pausa..."
+// \{Yukito}「休もう…」
+<0541> Deitei-me no paredão.
+// 堤防の上で横になる.
+<0542> Misuzu faria o almoço pra mim se eu fosse pra casa agora.
+// 今、家に戻れば観鈴が昼飯を作ってくれるだろう.
+<0543> Mas eu não poderia voltar de mãos abanando.
+// だが、こんな状態で帰れるわけがない.
+<0544> Meu saldo ainda era zero, mesmo depois de ainda contar com a ajuda dela.
+// あいつの協力を真に受けて、いまだ収穫０.
+<0545> Isso seria tão constrangedor que não suportaria encará-la.
+// 馬鹿らしくて、顔なんて合わせられない.
+<0546> Mas já era meio-dia. Eu tava faminto...
+// しかしお昼だ.腹が減った….
+<0547> Eu ainda tinha os doces que ganhei mais cedo, mas não tava com vontade de comê-los.
+// もらったお菓子があるが、空腹でも、食う気はしなかった.
+<0548> O que eu queria mesmo era arroz branco.
+// 白いご飯が食べたかった.
+<0549> Essa tentativa de trabalho fracassada só serviu para afirmar a minha vocação pra ser um artista de rua. Era assim que eu ganhava a vida e eu me orgulhava disso.
+// やはり俺には大道芸が合っている.ずっとこれで稼いできたんだ.誇りがある.
+<0550> Eu tirei a preguiça de pelúcia da minha bolsa.
+// 俺はナマケモノのぬいぐるみを取り出してみる.
+<0551> Então eu a coloquei no chão e me concentrei.
+// そして、それを地面に置き、念を込める.
+<0552> *Zip...!*
+// のっし…!
+<0553> Ela se levantou.
+// 立った.
+<0554> E comecei fazê-la andar.
+// 歩かせてみる.
+<0555> *Sfrosh sfrosh sfrosh sfrosh...*
+// のっしのっしのっしのっしっ…!
+<0556> \{Yukito}"Que coisa medonha..."
+// \{Yukito}「こえぇ…」
+<0557> Até eu fiquei assustado com essa preguiça.
+// 自分でもびびるほどだった.
+<0558> \{Voz}"Ah, Sr. Preguiça."
+// \{声}「あ、ナマケモノさん」
+<0559> Eu ouvi uma voz de longe.
+// 遠くで声がした.
+<0560> Me virei e vi uma garotinha olhando pro bicho de pelúcia.
+// 見ると、小さな女の子がこっちを見ていた.
+<0561> E então ela veio em minha direção.
+// そして走ってくる.
+<0562> Ela correu até a preguiça e a abraçou.
+// わしっ!と勢いよく、ナマケモノに抱きついた.
+<0563> \{Garotinha}"Que fofo!"
+// \{女の子}「すごくかわいい」
+<0564> Ela parecia quase uma Misuzu em miniatura.
+// まるで小型版の観鈴である.
+<0565> Eu olhei em volta. Não havia ninguém que se parecesse com seus pais.
+// 俺は辺りを見回す.親と思しき人物はいなかった.
+<0566> Caso contrário, eu teria pedido dinheiro a eles.
+// いれば、チップをせしめられたというのに.
+<0567> \{Yukito}(Talvez a preguiça funcione, afinal...)
+// \{Yukito}(案外、ナマケモノで芸をするというのはイケてるのかもな…)
+<0568> \{Yukito}"........."
+// \{Yukito}「………」
+<0569> \{Garotinha}"Fofo!"
+// \{女の子}「かわいい」
+<0570> A garotinha na minha frente continuou abraçando a preguiça.
+// 女の子は目の前で、ナマケモノを抱きしめ続けていた.
+<0571> \{Yukito}(Esta criança não tá perdida, tá?)
+// \{Yukito}(迷子なんじゃないか、こいつ…)
+<0572> \{Yukito}"Ei, garotinha. Onde estão seus pais?"
+// \{Yukito}「なぁ、おまえ.親はどうした」
+<0573> Perguntei a ela.
+// 俺は聞いてみる.
+<0574> \{Garotinha}"Fofo."
+// \{女の子}「かわいい」
+<0575> Ela nem me ouviu. Tava cada vez mais parecida com Misuzu.
+// 聞いちゃいない.とことん観鈴に似ている.
+<0576> Fiz a preguiça dar um tapinha na cabeça da menina.
+// 俺はナマケモノの手を動かして、女の子の頭を撫でてみる.
+<0577> Ela deu uma risadinha.
+// 女の子はきゃっきゃと笑って、喜ぶ.
+<0578> Em seguida, fiz a preguiça dar um tapinha na garotinha com o pé.
+// 試しに足で撫でてみる.
+<0579> Ela riu novamente.
+// きゃっきゃっと喜ぶ.同じことだった.
+<0580> \{Yukito}"E agora, o que eu faço...?"
+// \{Yukito}「さて、どうしたものか…」
+<0581> Um jovem e uma pequena garota. Esta combinação certamente despertaria a suspeita do público.
+// 若い男と、小さな女の子.この光景はあまり世間体のいいものではない.
+<0582> Eu não queria me envolver com ela, se possível.
+// できればこれ以上、関わりたくないものだった.
+<0583> Então peguei a preguiça.
+// 俺はナマケモノを取り上げる.
+<0584> Mas a garotinha continuou abraçando o bicho de pelúcia com força, de tal forma que agora ela tava suspensa no ar.
+// ぷら～ん、と女の子がそれにぶら下がったままでいる.
+<0585> \{Yukito}"Solte. Isto pertence a mim."
+// \{Yukito}「離せ.これはお兄ちゃんのものなんだぞ」
+<0586> \{Garotinha}"Eu quero abraçá-lo. É tão fofo!"
+// \{女の子}「だいてたい.かわいいから」
+<0587> \{Yukito}"Essa coisa assustadora? Isso pode te devorar!"
+// \{Yukito}「不気味だろっ.取って食われるぞ」
+<0588> Eu puxei o boneco, tentando separá-los.
+// 俺は人形を引っ張って、引き離しにかかる.
+<0589> \{Yukito}"Ummph!"
+// \{Yukito}「うらーっ!」
+<0590> *Streeetch...*
+// ぎゅ～～っ!
+<0591> Mas isso só serviu pra esticar o corpo da preguiça.
+// だがナマケモノの体が伸びるだけだった.
+<0592> Além disso, não parecia estar se retraindo. Seus longos membros ficaram ainda mais longos...
+// しかも、伸びた部分は戻らない.手足が、さらに長くなってしまった気がする….
+<0593> \{Yukito}"Droga..."
+// \{Yukito}「くそ…」
+<0594> Eu desisto.
+// あきらめる.
+<0595> Decidi que deveria deixá-la aqui enquanto procurava seus pais.
+// 俺は仕方なく、女の子をその場に残して親を探すことにした.
+<0596> \{Yukito}"Que saco!"
+// \{Yukito}「世話のかかる奴だ…ったく」
+<0597> \{Yukito}"........."
+// \{Yukito}「………」
+<0598> Eu olhei pra trás.
+// 後ろを振り返る.
+<0599> A garotinha ainda tava abraçando a preguiça e olhando pra mim.
+// ナマケモノを抱いて、じっとこっちを見ている.
+<0600> .........
+// ……….
+<0601> O paredão tava atrás dela. Por cima do muro havia uma queda até a praia da altura de um homem.
+// 彼女の後ろには堤防.それを乗り越えようものなら、浜までは大人の背の高さほどの落差が待っている.
+<0602> No lado oposto havia uma estrada.
+// 反対は車道だった.
+<0603> \{Yukito}"Cara, ela realmente não é nada além de problemas..."
+// \{Yukito}「本当、世話のかかる奴だ…」
+<0604> No final, acabei levando a garotinha comigo.
+// 結局、女の子を連れてゆくことにした.
+<0605> Ela era muito jovem pra eu deixá-la sozinha.
+// 残しておくにはあまりに幼すぎて、気が引けたのだ.
+<0606> \{Garotinha}"Que fofo~."
+// \{女の子}「かわいい」
+<0607> A garotinha andava atrás de mim. Ela tava abraçando a preguiça com ainda mais força.
+// 女の子は俺の背にいる.そこで、さらにナマケモノを抱いている.
+<0608> Ela não parecia incomodada pelo fato de seus pais não estarem com ela.
+// 親がいないと言うのに呑気なもんだった.
+<0609> Saí perguntando pras pessoas que encontrei ao longo do caminho.
+// 俺は道行くひとに聞いてまわった.
+<0610> Mas ninguém tinha informação alguma sobre a pequena garota ou seus pais.
+// だが、手がかりは一向に見つからない.
+<0611> Eu teria que levá-la à polícia.
+// 警察に頼るしかないだろうか.
+<0612> Mas eu queria evitar fazer isso.
+// それは、できるなら避けたかった.
+<0613> Porque isso definitivamente significaria problemas pra alguém com uma origem obscura como a minha.
+// 俺自身が、身元怪しい人間なのである.やっかいなことになるのはごめんだった.
+<0614> Porém, minha determinação enfraqueceu quando a garotinha começou a chorar.
+// しかし、女の子が泣き出してしまうとその意志も揺らぐ.
+<0615> \{Yukito}"Ei, meninos não choram."
+// \{Yukito}「馬鹿、泣くな.男の子だろ」
+<0616> \{Yukito}"Espere, você é uma menina..."
+// \{Yukito}「って、女の子か…」
+<0617> Eu não tinha ideia do porquê dela estar chorando.
+// どうして泣いているかが、見当つかない.
+<0618> \{Yukito}"Qual é o problema? Teve algum contratempo na vida?"
+// \{Yukito}「どうした.人生に挫折したか」
+<0619> \{Yukito}"Bem, a vida é cheia de altos e baixos. E você ainda é jovem, sabe?"
+// \{Yukito}「そりゃまあ、いろいろとあるもんだ.おまえ、まだ若いじゃないか」
+<0620> \{Yukito}"........."
+// \{Yukito}「………」
+<0621> Tive a impressão que tava usando uma abordagem completamente errada.
+// まったく見当違いの慰めかたをしている気がする.
+<0622> A garotinha ainda chorava descontroladamente.
+// 女の子は一向に泣きやまない.
+<0623> \{Yukito}"Ah! O que você quer que eu faça?!"
+// \{Yukito}「ぐあーっ! どうしろってんだよっ」
+<0624> Abracei minha cabeça em desespero.
+// 俺は頭を抱える.
+<0625> Se Misuzu estivesse aqui...
+// あいつなら…
+<0626> Se ela estivesse aqui, o que ela faria?
+// もし、あいつがここにいたなら、どうするだろうか.
+<0627> Peguei o guia de estratégia de Misuzu.
+// 俺は観鈴の攻略マップを取り出す.
+<0628> "Há um cachorro grande aqui! Eu quero brincar com ele."
+// 『おっきな犬がいるの.いっしょにあそびたいな』
+<0629> Ela definitivamente diria isso.
+// あいつなら、そう言い出すだろう….
+<0630> Nesse caso, eu a levaria até lá.
+// なら、その通り、行ってやればいい.
+<0631> A pequena garota brincou com o cachorro ridiculamente grande.
+// 女の子は、あの馬鹿でかい犬と遊んだ.
+<0632> Quando a cadela percebeu que a criança era uma criatura mais fraca que ela, seu instinto maternal se manifestou. E tratou a garotinha com gentileza.
+// 犬のほうも、自分より弱い生き物だと気づくと、母性本能を発揮して女の子に優しく接した.
+<0633> Isso foi completamente diferente de como ela me tratou.
+// 俺のときとは大違いだった.
+<0634> A garotinha tava se divertindo e sorrindo o tempo todo.
+// 女の子も、終始笑顔だった.
+<0635> A brincadeira com um animal vivo era definitivamente diferente. A criança parecia mais empolgada agora, do que quando estava com a minha preguiça.
+// さすがに、俺の動かすナマケモノと違って、本物の生き物相手だと、いきいきしている.
+<0636> \{Garotinha}"Estou cansada..."
+// \{女の子}「つかれた…」
+<0637> \{Yukito}"Ah, você já se cansou?"
+// \{Yukito}「そっか、疲れたか」
+<0638> \{Yukito}"Ok. Vamos encher a barriga."
+// \{Yukito}「よし、なら腹ごしらえにいくか」
+<0639> Depois disso, fomos pra Residência Kawauchi e pegamos alguns doces com a vovó de lá.
+// その後、川内のお婆さんの家で、お菓子をもらった.
+<0640> \{Garotinha}"É tão gostoso!"
+// \{女の子}「おいしい」
+<0641> \{Vovó}"Ela é a sua filha?"
+// \{老婆}「あんたの子かえ」
+<0642> \{Yukito}"O quê? Quantos anos você acha que eu tenho?"
+// \{Yukito}「馬鹿.俺がいくつに見える」
+<0643> \{Vovó}"Meus olhos não conseguem ver muito bem."
+// \{老婆}「わしゃ目、悪いけぇのぅ」
+<0644> \{Yukito}"Entendi. Então ouça, ela não é minha filha. Essa garotinha se perdeu."
+// \{Yukito}「そうか.なら教えてやろう.こいつは俺の子じゃない.迷子なんだ」
+<0645> \{Yukito}"Você conhece os pais dela?"
+// \{Yukito}「親を知らないか」
+<0646> \{Vovó}"Eu já te disse, meus olhos não estão enxergando. Não consigo nem ver o rosto dela claramente."
+// \{老婆}「だから、目が悪いけぇのぅ.よぅ顔もみえんわ」
+<0647> \{Yukito}"Tudo bem. Desculpe incomodá-la. Até a próxima."
+// \{Yukito}「そうか.じゃ、世話んなった.またくる」
+<0648> Puxei a mão da garotinha.
+// 俺は女の子の手を引っ張る.
+<0649> \{Garotinha}"Eu quero mais doces. Eles são realmente saborosos."
+// \{女の子}「もっとたべたい.おいしいから」
+<0650> \{Yukito}"........."
+// \{Yukito}「………」
+<0651> \{Yukito}"A senhora se importa em dar mais alguns doces pra ela levar pra casa?"
+// \{Yukito}「悪いが、包んでやってくれないか」
+<0652> \{Vovó}"Claro que não. Eu darei a ela o quanto quiser."
+// \{老婆}「ああ.たぁんと、もって帰り」
+<0653> \{Yukito}"Obrigado. E, mais uma vez, desculpe por incomodar a senhora."
+// \{Yukito}「悪いな.世話になった」
+<0654> \{Vovó}"Volte novamente. E traga sua esposa da próxima vez."
+// \{老婆}「いつでもきなさい.今度は奥さんもつれてのぅ」
+<0655> E então nós descansamos ao sabor da brisa no paredão.
+// そして、堤防の上で風に当たりながら休む.
+<0656> A garotinha comeu seus doces enquanto brincava com a preguiça.
+// 女の子はお菓子を食べながら、ナマケモノとじゃれている.
+<0657> \{Garotinha}"Saboroso e fofo~."
+// \{女の子}「かわいくて、おいしい」
+<0658> Por que as crianças apenas dizem o que pensam? Até as coisas que elas dizem são tão concisas.
+// 子供というのはどうしてこう、直情的なのだろう.言うことも簡潔極まりない.
+<0659> \{Yukito}"Saboroso ou fofo? Você só pode escolher um."
+// \{Yukito}「可愛いのか、おいしいのか、どっちかにしろ」
+<0660> Ela olhou pros doces e pra preguiça.
+// お菓子とナマケモノを見比べる.
+<0661> Indecisa sobre o que escolher, ela continuou abraçando a preguiça enquanto comia seus doces.
+// 今度は食べてから、ナマケモノを抱いた.
+<0662> \{Garotinha}"Fofo e saboroso~."
+// \{女の子}「おいしくて、かわいい」
+<0663> Ela apenas inverteu a ordem. Tudo bem, uma coisa não exclui a outra.
+// 逆になっただけだった.
+<0664> \{Yukito}"E agora, o que eu faço a seguir?"
+// \{Yukito}「で、次はどうすればいいんだよ…」
+<0665> Peguei o mapa da Misuzu.
+// 俺は観鈴の地図を取り出す.
+<0666> Uma sombra se projetou sobre o mapa mal desenhado.
+// 下手くそな絵に、さっと影が落ちた.
+<0667> \{Voz}"Você não precisa mais usar isso agora."
+// \{声}「もう、それ見なくていいよ」
+<0668> Olhei pra cima e vi Misuzu parada na minha frente.
+// 顔を上げると、観鈴が目の前に立っていた.
+<0669> \{Yukito}"Nossa, tô realmente tendo dificuldades aqui."
+// \{Yukito}「大変だったぞ」
+<0670> Pela primeira vez, fiquei feliz em ver Misuzu.
+// この時ばかりは、俺は、観鈴の登場をありがたく思った.
+<0671> \{Misuzu}"Ela é tão fofa~."
+// \{観鈴}「かわいい」
+<0672> Ela abraçou a pequena garota.
+// そう言って、女の子をあやした.
+<0673> \{Misuzu}"Você estava brincando com ela esse tempo todo?"
+// \{観鈴}「ずっと、この子と遊んでた？」
+<0674> \{Yukito}"Sem chance. Você não tem ideia de quantos problemas ela me causou."
+// \{Yukito}「馬鹿.こっちはそいつのせいで、どれだけ苦労したか」
+<0675> \{Yukito}"Essa garotinha tá perdida."
+// \{Yukito}「迷子なんだぞ、そいつは」
+<0676> \{Misuzu}"Perdida?"
+// \{観鈴}「迷子？」
+<0677> \{Misuzu}"Qual é o nome dela?"
+// \{観鈴}「名前は？」
+<0678> \{Yukito}"Não sei. Pergunte a ela você mesmo."
+// \{Yukito}「さあな.本人に聞いてくれ」
+<0679> \{Misuzu}"Certo. Qual é o seu nome?"
+// \{観鈴}「うん.お名前は？」
+<0680> \{Garotinha}"Seis anos de idade."
+// \{女の子}「６さい」
+<0681> \{Yukito}"Esse é um nome engraçado."
+// \{Yukito}「すげぇ名前だな」
+<0682> \{Misuzu}"Fique quieto, Yukito-san."
+// \{観鈴}「Yukitoさんは黙ってて」
+<0683> Parece que deixei ela brava.
+// 怒られた.
+<0684> \{Misuzu}"Qual é o seu nome? Isso vem antes da sua idade."
+// \{観鈴}「お名前は？ お歳の前に言うものでしょ？」
+<0685> \{Garotinha}"Saika, seis anos."
+// \{女の子}「さいか、６さい」
+<0686> \{Misuzu}"Saika-chan?"
+// \{観鈴}「さいかちゃん？」
+<0687> \{Garotinha}"Sim, Saika."
+// \{女の子}「うん、さいか」
+<0688> \{Misuzu}"Qual é o nome de sua familia? O nome que vem antes do seu."
+// \{観鈴}「名字は？ 上の名前はわからない？」 (1)
+<0689> \{Garotinha}"Shino."
+// \{女の子}「しの」
+<0690> \{Misuzu}"Shino Saika. Isso tá certo?"
+// \{観鈴}「しのさいか.合ってる？」
+<0691> \{Garotinha}"Sim."
+// \{女の子}「うん」
+<0692> \{Misuzu}"Esse é o nome dela."
+// \{観鈴}「だって」
+<0693> Misuzu se virou pra mim.
+// 観鈴がこっちを振り向く.
+<0694> \{Yukito}"Então, podemos levá-la pra polícia agora?"
+// \{Yukito}「で、警察か？」
+<0695> \{Misuzu}"Olhe para o mapa."
+// \{観鈴}「地図、見て」
+<0696> \{Yukito}"O mapa?"
+// \{Yukito}「地図？」
+<0697> Peguei o mapa encharcado de suor e o abri.
+// 俺は汗でふにゃふにゃになったそれを取り出して、開く.
+<0698> Então li as palavras acrescentadas perto da ponte.
+// 橋の近くに書き足された文字を読む.
+<0699> "Residência Shino. Uma garotinha fofa mora aqui. Eu queria brincar com ela."
+// 『志野さんのいえ.小さな女の子がかわいいの.いっしょにあそびたいな』
+<0700> Dobrei o mapa.
+// 俺はぱたん、と閉じる.
+<0701> \{Yukito}"Ok, aproveite pra brincar o quanto quiser com ela."
+// \{Yukito}「ああ、好きなだけ遊んでくれ」
+<0702> \{Misuzu}"Mas a mãe dela provavelmente está preocupada. Ela tem que ir pra casa agora."
+// \{観鈴}「でも、お母さん心配してるし、帰らないとね」
+<0703> \{Misuzu}"Vamos, Saika-chan."
+// \{観鈴}「いこ、さいかちゃん」
+<0704> Sentei-me de pernas cruzadas no paredão e observei-as partir.
+// 俺は堤防の上であぐらをかいて、ふたりを見送る.
+<0705> \{Misuzu}"Yukito-san, o que você está fazendo?"
+// \{観鈴}「Yukitoさん、なにしてるの」
+<0706> \{Yukito}"Vendo você partir."
+// \{Yukito}「なにって見送り」
+<0707> \{Misuzu}"Venha comigo."
+// \{観鈴}「一緒にいくの」
+<0708> \{Yukito}"Por que?"
+// \{Yukito}「どうして」
+<0709> \{Misuzu}"Yukito-san, o que você estava fazendo antes disso?"
+// \{観鈴}「Yukitoさんは、なんの途中だったのかなー」
+<0710> \{Yukito}"Ah, tá certo."
+// \{Yukito}「ああ、そうか」
+<0711> Lembrei-me do carrinho que havia deixado de lado desde o meio-dia.
+// 俺は正午から置き去りにしていたリヤカーの存在を思い出す.
+<0712> Pulei do paredão com o vento empurrando minhas costas.
+// 海からの風に背を押されるようにして、コンクリートの地面に降り立った.
+<0713> \{Yukito}"Eu queria que você estivesse aqui desde o início."
+// \{Yukito}「最初からおまえがいれば良かったんだな」
+<0714> Havia um armário e um porta-louças no carrinho que eu puxava.
+// 引くリヤカーの荷台にはタンスと、食器棚.
+<0715> Eram velhos, mas não estavam danificados de forma alguma. Pareciam ter sido tratados com cuidado.
+// 古いものだが、傷ひとつなく、丁寧な扱いを受けてきたものだった.
+<0716> Na parte de trás, havia também duas caixas com bugigangas.
+// 後いくつか、こまごまとした物もダンボール二箱分ある.
+<0717> \{Misuzu}"Eu apenas te mostrei o caminho pela cidade. O trabalho duro pertence a você."
+// \{観鈴}「わたしはこの町の案内しただけ.がんばったのは、Yukitoさん」
+<0718> \{Yukito}"Eu não sabia o que fazer."
+// \{Yukito}「俺はうろたえてただけだぞ」
+<0719> \{Misuzu}"Nesse caso, nós dois trabalhamos duro."
+// \{観鈴}「じゃ、ふたりでがんばった」
+<0720> *Tchock tchock tchock...*
+// がらがらがら…
+<0721> As rodas rangiam mais alto com o peso adicional.
+// 重みが増して、車輪は軋みをあげている.
+<0722> Enquanto ouvia aquele som, vi que Misuzu ficou conversando um pouco com a mãe de Saika, depois que a trouxemos de volta pra casa.
+// その音を聞きながら、女の子を家に返してから、母親と長く立ち話をしていた観鈴の姿を思い出す.
+<0723> \{Yukito}"Do que vocês tavam falando agora há pouco?"
+// \{Yukito}「別れ際、何を話してたんだ、おまえ」
+<0724> \{Misuzu}"Ela nos agradeceu."
+// \{観鈴}「お礼言われた」
+<0725> \{Yukito}"Sim, mas ela demorou tanto."
+// \{Yukito}「そらそうだろうけど…長かったな」
+<0726> \{Misuzu}"Hmm... Sim..."
+// \{観鈴}「うん.そうだね」
+<0727> \{Yukito}"Você tava fazendo planos pra brincar com a Saika no futuro?"
+// \{Yukito}「一緒に遊ぶ計画でも立ててたんじゃないのか」
+<0728> \{Misuzu}"Ah, eu deveria ter feito isso."
+// \{観鈴}「あ、それしておけばよかったな」
+<0729> \{Yukito}"Bem, não se preocupe. Eles vão recebê-la bem a qualquer momento, depois do que você fez por eles."
+// \{Yukito}「そら大丈夫だ.いついっても、歓迎してくれる.あの分じゃ」
+<0730> \{Misuzu}"Sim, você tá certo."
+// \{観鈴}「そうだね」
+<0731> *Tchock tchock tchock...*
+// からからから…
+<0732> Voltamos ao distrito comercial e recebi o salário do meu dia de trabalho.
+// 俺たちは、商店街に戻り、その日の報酬を受け取った.
+<0733> No caminho de volta...
+// その帰り道…
+<0734> Depois do jantar, deitei no chão da sala sem assistir TV.
+// 俺は夕飯を食った後、テレビも見ずに居間の床に寝転がっていた.
+<0735> Eu tava segurando uma cédula de dinheiro bem na minha frente.
+// 目の前には、片手にかざした紙幣.
+<0736> \{Misuzu}"Yukito-san, pare de olhar para isso. Venha jogar cartas comigo."
+// \{観鈴}「Yukitoさん、そんなものじっと見てないで、トランプして遊ぼ」
+<0737> Devo simplesmente fugir com esse dinheiro?
+// これ持って、このまま逃げようか.
+<0738> Mas eu ainda não tinha recuperado minha marionete.
+// いや、俺は商売道具を取り返していない.
+<0739> Eu não poderia simplesmente comprar um boneco novo?
+// というか、これで新たな人形を買えばいいのではないか？
+<0740> Meu boneco já tava velho.
+// 確かに、あれはボロだ.
+<0741> No entanto, eu tenho boas lembranças que foram construídas ao lado dele.
+// が、あれには、いろんな思い出が詰まっている.
+<0742> Quando finalmente ficar rico, gostaria de compartilhar essa alegria com minha marionete.
+// 俺が大成する日には、その喜びを共に分かち合いたい存在だ.
+<0743> \{Yukito}"Cheio de lembranças... Cheio de sonhos..."
+// \{Yukito}「思い出いっぱい、夢いっぱい」
+<0744> \{Misuzu}"Ele tá viajando no maionese de novo."
+// \{観鈴}「意味不明なこと言ってるし」
+<0745> \{Yukito}"Hmm..."
+// \{Yukito}「うーむ…」
+<0746> Eu rolei no chão.
+// ごろごろと転がる.
+<0747> \{Misuzu}"Ei, Yukito-san, c-a-r-t-a-s."
+// \{観鈴}「ね、Yukitoさん、ト・ラ・ン・プ」
+<0748> \{Misuzu}"Eu quero jogar cartas."
+// \{観鈴}「トランプしたいな」
+<0749> \{Yukito}"Aah..."
+// \{Yukito}「あぁ…」
+<0750> *Frosh frosh...*
+// ごろごろ.
+<0751> \{Misuzu}"Yukito-san, você tá agindo de forma estranha agora que tem dinheiro."
+// \{観鈴}「Yukitoさん、お金持ったら、おかしくなっちゃった…」
+<0752> \{Misuzu}"Eu não gosto quando você fica assim."
+// \{観鈴}「嫌だな、そういうの」
+<0753> \{Yukito}"Haa..."
+// \{Yukito}「はぁ…」
+<0754> Renovei meu ânimo e voltei a caminhar.
+// 気を取り直して、再び歩き始める.
+<0755> *Tchoc tchoc...*
+// からから…
+<0756> \{Yukito}"Vamos começar por esta casa da esquina."
+// \{Yukito}「片っ端から当たってみるか」
+<0757> *Ding dong...*
+// ぴんぽーん…
+<0758> \{Yukito}"Olá, eu sou da Loja de Reciclagem Sakuma."
+// \{Yukito}「ちぃーす、佐久間リサイクルショップだぞ」
+<0759> A porta se abriu um pouco.
+// 少しして、戸が開く.
+<0760> \{Dona de casa}"Sim?"
+// \{主婦}「はい？」
+<0761> O rosto de uma dona de casa apareceu na porta.
+// 婦人が顔を出した.
+<0762> \{Yukito}"Você tem algum objeto que queira descartar?"
+// \{Yukito}「不用品ないか、不用品」
+<0763> \{Yukito}"Como aparelhos elétricos que funcionem. De preferência que ainda tenham alguma utilidade."
+// \{Yukito}「まだ使える電化製品とか、高価なものがいい」
+<0764> \{Dona de casa}"Eu não tenho nenhum. Me desculpe."
+// \{主婦}「ないわ.ごめんなさい」
+<0765> Ela bateu a porta na minha cara.
+// ばたん!と戸を閉められる.
+<0766> \{Yukito}"........."
+// \{Yukito}「………」
+<0767> \{Yukito}"Tô apenas começando..."
+// \{Yukito}「まだまだ…これからさ」
+<0768> Sem desanimar, fui pra outra casa.
+// めげずに場所を変える.
+<0769> *Ding dong...*
+// ぴんぽーん…
+<0770> \{Yukito}"Olá, sou da Loja de Reciclagem Sakuma."
+// \{Yukito}「ちぃーす、佐久間リサイクルショップだぞ」
+<0771> \{Dona de casa}"Desculpe..."
+// \{主婦}「ごめんなさいねぇ…」
+<0772> Sem desanimar, segui em frente.
+// めげずに場所を変える.
+<0773> *Ding dong...*
+// ぴんぽーん…
+<0774> \{Yukito}"Olá, sou da Loja de Reciclagem Sakuma."
+// \{Yukito}「ちぃーす、佐久間リサイクルショップだぞ」
+<0775> \{Dona de casa}"Não tenho nada para você..."
+// \{主婦}「ありません…」
+<0776> Não desanime, tente outra vez.
+// めげずに場所を変える.
+<0777> *Ding dong...*
+// ぴんぽーん…
+<0778> \{Yukito}"Olá, sou da Loja de Reciclagem Sakuma."
+// \{Yukito}「ちぃーす、佐久間リサイクルショップだぞ」
+<0779> \{Dona de casa}"Estou ocupada agora."
+// \{主婦}「今、忙しいの」
+<0780> \{Yukito}"Uaá! O que há de errado com essas pessoas?!"
+// \{Yukito}「ぐあーっ! どうしろってんだよっ!」
+<0781> \{Yukito}"Assim eu realmente vou ficar desanimado!"
+// \{Yukito}「俺だっていい加減、めげるぞっ」
+<0782> \shake{1}*Pow!*
+// がこっ!
+<0783> Chutei o carrinho de mão vazio.
+// 空っぽのままのリヤカーを蹴りつける.
+<0784> \{Yukito}"Haa... Haa..."
+// \{Yukito}「はあ…はあ…」
+<0785> \{Yukito}(Tô trabalhando duro aqui, mas ninguém tá cooperando comigo...)
+// \{Yukito}(こっちは汗水流して働いているというのに、誰も協力してくれないとはなんて冷たい住民たちだ…)
+<0786> Fui em todas as casas depois disso, mas não consegui coletar um único item.
+// それからも、地道に家を回るが、一向に廃品は集まらなかった.
+<0787> *Tchock tchock tchock...*
+// からからから…
+<0788> Voltei pra Loja de Reciclagem Sakuma sob a luz do sol da tarde.
+// 夕日に焼かれながら、佐久間リサイクルショップまで戻ってくる.
+<0789> \{Senhora}"Bem-vindo de volta."
+// \{女性}「おかえりなさい」
+<0790> A Sra. Sakuma veio me cumprimentar.
+// 佐久間婦人が出迎えてくれる.
+<0791> \{Sra. Sakuma}"Como foi?"
+// \{女性}「どうだった？」
+<0792> \{Yukito}"Então..."
+// \{Yukito}「えっとな…」
+<0793> \{Sra. Sakuma}"Sim?"
+// \{女性}「うん」
+<0794> \{Yukito}"Eu não consegui nada..."
+// \{Yukito}「収穫０だよ…」
+<0795> \{Sra. Sakuma}"Oh... Eu entendo."
+// \{女性}「あら…そうなの」
+<0796> \{Yukito}"Sim, eu sinto muito..."
+// \{Yukito}「そうだよ、悪かったな」
+<0797> \{Sra. Sakuma}"É assim mesmo quando você está começando. Não se preocupe com isso."
+// \{女性}「最初はそんなものよ.気にしない、気にしない」
+<0798> \{Sra. Sakuma}"Estava quente lá fora, não estava? Entre e tome um chá gelado."
+// \{女性}「暑かったから、大変だったでしょ.冷たいお茶いれてあげるね」
+<0799> \{Yukito}(Isso é vergonhoso...)
+// \{Yukito}(あまりに情けなすぎる…)
+<0800> Eu tava começando a me odiar.
+// 自己嫌悪に陥る.
+<0801> Quando ela saiu pra buscar chá, aproveitei pra fugir do local.
+// 彼女がお茶を取りに行った隙に、退散することにした.
+<0802> \{Yukito}"Não há como ganhar dez mil ienes se continuar assim..."
+// \{Yukito}「こんなんじゃ、一万なんて大金…ぜったい稼げないぞ…」
+<0803> Talvez eu devesse pensar em alguma outra maneira.
+// 別の手を考えるしかないだろうか.
+<0804> \{Voz}"Finalmente te encontrei."
+// \{声}「やっと見つけた」
+<0805> Eu me virei e vi a última pessoa que gostaria de encontrar nesse momento.
+// 声がして振り返ると、今、一番会いたくない奴がいた.
+<0806> \{Misuzu}"Eu estive procurando você por toda parte."
+// \{観鈴}「ずっと探してた」
+<0807> \{Misuzu}"Você está coberto de suor."
+// \{観鈴}「汗だく」
+<0808> Ela me cheirou.
+// 襟元をつかんではたく.
+<0809> \{Misuzu}"Quão longe você andou?"
+// \{観鈴}「どのへん歩いてたのかな」
+<0810> \{Misuzu}"Você conseguiu coletar muitas coisas?"
+// \{観鈴}「たくさん、集められたかな」
+<0811> \{Yukito}"........."
+// \{Yukito}「………」
+<0812> \{Misuzu}"Quero saber o que aconteceu com você hoje."
+// \{観鈴}「聞きたいなー.今日あった話」
+<0813> \{Yukito}"........."
+// \{Yukito}「………」
+<0814> \{Yukito}"Ei, não dá pra perceber só de olhar pro meu rosto?"
+// \{Yukito}「な、俺の顔色見てわからないか」
+<0815> \{Misuzu}"Como assim?"
+// \{観鈴}「なにが？」
+<0816> Ela não entendeu nada...
+// まったくわからないようだ….
+<0817> \{Yukito}"Vamos deixar por isso mesmo."
+// \{Yukito}「どうでもいいだろ、そんな話」
+<0818> Me afastei rapidamente. Misuzu correu atrás de mim.
+// 振り切ろうと早足で歩くが、観鈴もぱたぱたと駆けてついてくる.
+<0819> \{Misuzu}"Mas eu quero falar com você."
+// \{観鈴}「Yukitoさんと話したいのにっ」
+<0820> \{Yukito}"Eu não quero falar com você."
+// \{Yukito}「俺はしたくないんだよっ」
+<0821> Eu só queria que ela se distraísse com outra coisa. Qualquer coisa, não importa o que fosse...
+// 何でもいい.こいつの興味を別なところへ逸らせてくれ….
+<0822> E então eu orei...
+// 俺は願う.
+<0823> Depois do jantar, deitei-me no chão da sala. Eu nem liguei a TV.
+// 俺は夕飯を食った後、テレビも見ずに居間の床に寝転がっていた.
+<0824> \{Misuzu}"Yukito-san, vamos jogar cartas."
+// \{観鈴}「Yukitoさん、トランプして遊ぼ」
+<0825> ...Não consegui ganhar nem uma moeda.
+// …稼げなかった.
+<0826> Foi um choque pra mim.
+// ショックだ.
+<0827> Como eu iria ganhar dez mil ienes?
+// どうすれば一万円も稼げるのか.
+<0828> Se eu ganhasse cem ienes por dia, quantos dias levaria?
+// 一日百円稼いだら、何日かかるんだ.
+<0829> \{Yukito}(Quantos dias? não consigo calcular...)
+// \{Yukito}(何日だ…？ 計算できねぇ…)
+<0830> \{Yukito}"100, 200, 300, 400..."
+// \{Yukito}「百、二百、三百、四百…」
+<0831> \{Misuzu}"O que você está contando com os dedos?"
+// \{観鈴}「指折り、なに数えてるのかな」
+<0832> \{Yukito}"Meus dedos não são suficientes..."
+// \{Yukito}「指が足んねー…」
+<0833> Rolei no chão.
+// ごろごろと転がる.
+<0834> \{Misuzu}"Ei, Yukito-san, c-a-r-t-a-s."
+// \{観鈴}「ね、Yukitoさん、ト・ラ・ン・プ」
+<0835> \{Misuzu}"Eu quero jogar cartas."
+// \{観鈴}「トランプしたいな」
+<0836> \{Yukito}"Aah..."
+// \{Yukito}「あぁ…」
+<0837> *Flip flip*
+// ごろごろ.
+<0838> \{Misuzu}"Yukito-san está agindo de forma estranha..."
+// \{観鈴}「Yukitoさん、おかしくなっちゃった…」
+<0839> \{Misuzu}"Eu me pergunto se ele está traumatizado com alguma coisa..."
+// \{観鈴}「ショックなことでもあったのかな…」
+<0840> \{Yukito}"Haa..."
+// \{Yukito}「はぁ…」
+<0841> .........
+// ……….
+<0842> Quando finalmente acordei, Misuzu, que tava jogando cartas, agora havia sumido.
+// 体を起こすと、ひとりでトランプをしていた観鈴がいなかった.
+<0843> Será que ela foi tomar banho?
+// 風呂にでも入っているのだろうか.
+<0844> \{Yukito}(Eu é que deveria ir tomar um banho...)
+// \{Yukito}(俺も汗を流しておかないとな…)
+<0845> Mas eu não tinha mais energia.
+// が、どうにもその気力が湧かない.
+<0846> Eu tava muito cansado.
+// 疲れているのだ.
+<0847> Como tô acostumado a caminhar longas distâncias, esse cansaço deve ser de natureza mental.
+// 歩きっぱなしには慣れていたから、疲労は精神的なものだ.
+<0848> \{Yukito}(Bem, a única pessoa que conheço é Misuzu, então tá tudo bem...)
+// \{Yukito}(ま、観鈴ぐらいにしか会わないし、いいよな…)
+<0849> Me enrolei no cobertor e me preparei pra dormir assim mesmo.
+// このまま眠ろうと俺は毛布を腹にかけ、再び床に転がる.
+<0850> .........
+// ……….
+<0851> *Pit pat pit pat...*
+// ぱたぱた…
+<0852> \{Misuzu}"Ah... Yukito-san, você já está dormindo?"
+// \{観鈴}「あー…Yukitoさん、もう寝ちゃうの？」
+<0853> \{Misuzu}"Você vai ficar cheirando mal se não tomar banho."
+// \{観鈴}「お風呂入らないと、汗くさいよ」
+<0854> *Zzz zzz...*
+// つんつん.
+<0855> \{Misuzu}"Ele está dormindo profundamente..."
+// \{観鈴}「寝てる…」
+<0856> *Sniff sniff*
+// くんくん.
+<0857> \{Misuzu}"Ah, ele não tá fedendo tanto."
+// \{観鈴}「あ、そんなに汗くさくないね」
+<0858> \{Misuzu}"Onde está o mapa?"
+// \{観鈴}「地図どこかな」
+<0859> *Scratch scratch*
+// ごそごそ.
+<0860> \{Misuzu}"Prontinho."
+// \{観鈴}「あった」
+<0861> *Scratch scratch*
+// かきかき.
+<0862> \{Misuzu}"Mapa atualizado."
+// \{観鈴}「更新完了っと」
+<0863> \{Misuzu}"Hmm..."
+// \{観鈴}「うーんと…」
+<0864> \{Misuzu}"Acho que vou dormir também."
+// \{観鈴}「わたしも、もう寝よっかな」
+<0865> \{Misuzu}"Hm..."
+// \{観鈴}「えっと…」
+<0866> Ela olhou ao seu redor.
+// きょろきょろ.
+<0867> \{Misuzu}"Onde está a preguiça?"
+// \{観鈴}「ナマケモノさんのぬいぐるみ、どこかな」
+<0868> \{Misuzu}"Eu quero dormir com ela."
+// \{観鈴}「一緒に寝たい」
+<0869> \{Misuzu}"Ah, suas longas pernas estão saindo da bolsa."
+// \{観鈴}「あ、バッグから長い足、出てる」
+<0870> Ela tirou a preguiça da bolsa.
+// するする…ずぼっ!
+<0871> \{Misuzu}"Saiu."
+// \{観鈴}「でてきたでてきた」
+<0872> \{Misuzu}"Por que as pernas parecem mais longas agora?"
+// \{観鈴}「なんか、また足が伸びてる気がする…」
+<0873> \{Misuzu}"Bem, isso não importa. Ainda é fofo."
+// \{観鈴}「ま、いっか.かわいいから」
+<0874> \{Misuzu}"Vou pegar emprestado por uma noite."
+// \{観鈴}「一晩、借りるね」
+<0875> \{Misuzu}"Boa noite."
+// \{観鈴}「おやすみ～」
+<0876> *Pit pat pit pat...*
+// ぱたぱたぱた…
+<0877> \{Yukito}"Hmm..."
+// \{Yukito}「ん…」
+<0878> Eu pensei ter ouvido Misuzu falando agora há pouco...
+// 観鈴の声が今までしていた気がするが…
+<0879> Eu não sabia se tava sonhando ou não.
+// それは夢だかなんだかよくわからなかった.
+<0880> Então dormi mais uma vez.
+// もう一度眠る.
+<0881> .........
+// ……….
+<0882> Novamente quando acordei, Haruko tava sentada no lugar antes ocupado por Misuzu.
+// 次、目覚めると、観鈴がいた場所に晴子がいた.
+<0883> Uma perna de lula tava saindo de sua boca enquanto ela servia saquê em seu copo.
+// 口からイカの足を出して、グラスに酒を注いでいた.
+<0884> Eu a observei com uma consciência nebulosa.
+// まどろむ中で、その光景をじっと見ていた.
+<0885> Depois de um tempo, fechei os olhos de novo.
+// しばらくすると、再び瞼が重くなってくる.
+<0886> *Glug glug glug*
+// とくとくとく…
+<0887> *Glug glug glug*
+// どくどくどく…
+<0888> \{Yukito}"Gu..."
+// \{Yukito}「…ぐ…」
+<0889> \{Yukito}"Bleagh! Cof cof!"
+// \{Yukito}「ごほっ…! げほげほっ!!」
+<0890> Acordei pouco antes de sufocar e vomitar a coisa que tava obstruindo minha garganta.
+// 窒息寸前で俺は意識を取り戻し、喉に詰まったものを吐く.
+<0891> \{Yukito}"Você tá tentando me matar?!"
+// \{Yukito}「殺す気かっ」
+<0892> Haruko tava bem na minha frente com uma garrafa na mão. Ela a inclinou pra derramar mais saquê na minha boca.
+// 目の前には晴子.手には一升瓶.さらに俺の口に注ごうと、傾けていた.
+<0893> \{Haruko}"Você tá fingindo estar dormindo, certo? Eu vi você abrir os olhos agora há pouco."
+// \{晴子}「狸寝入りやろ.目開いとるん、さっき見たで」
+<0894> \{Yukito}"Mesmo assim, isso não é desculpa pra você derramar saquê na minha boca quando tô deitado."
+// \{Yukito}「にしても、横になっている人間の口に酒を注ぐことはないだろっ」
+<0895> \{Yukito}"Eu tô cansado. Me deixe dormir."
+// \{Yukito}「それに、疲れてるんだ.このまま眠らせろ」
+<0896> \{Haruko}"E quanto ao nosso relacionamento? Seu garoto malvado!"
+// \{晴子}「うちら、そんな仲やったん.いけずやわぁ」
+<0897> \{Yukito}"Que relacionamento? Não delira!"
+// \{Yukito}「ああ、いけずなんだ」
+<0898> Deitei-me novamente.
+// 俺は再び横になる.
+<0899> \{Haruko}"Garoto malvado, garoto malvado~..."
+// \{晴子}「いけず、いけず～」
+<0900>Ela continuou repetindo isso como se fosse algum tipo de maldição, mas seu canto de repente se transformou em uma risada.
+// しばらく、呪いのようにそう繰り返していたが、唐突に含み笑いをもらし始める.
+<0901> \{Haruko}"Você tem certeza disso? Se você não beber comigo, esse carinha não vai dormir esta noite."
+// \{晴子}「ええのんか～、あんたが相手してくれんと、こっちの子が寝つけへん夜になるで～」
+<0902> Ela tava brincando com meu boneco.
+// 見ると、俺の人形を手の中でもてあそんでいる.
+<0903> \{Yukito}"Aqui, pegue isso e me deixe dormir."
+// \{Yukito}「なら、これで寝かしてやってくれ」
+<0904> Tirei uma nota do bolso e joguei pra ela.
+// 俺はポケットから札を取り出して、それを突きつける.
+<0905> \{Haruko}"O que é isso?"
+// \{晴子}「…なんやそれ」
+<0906> Haruko pegou a nota e semicerrou os olhos.
+// 手に取って、仔細に眺める晴子.
+<0907> \{Yukito}"Você não sabe? É uma nota de 10.000 ienes."
+// \{Yukito}「知らないのか.一万円札だ」
+<0908> \{Yukito}"Agora eu comprei sua preguiça."
+// \{Yukito}「これで、あのナマケモノは買い取った」
+<0909> \{Haruko}"........."
+// \{晴子}「………」
+<0910> \{Yukito}"Agora me deixe dormir."
+// \{Yukito}「寝るぞ、俺は」
+<0911> \{Haruko}"Uau... Até que você não é tão inútil..."
+// \{晴子}「すごいな…あんた、やる時はやるんやなぁ…」
+<0912> \{Haruko}"Hmm... ok, ok..."
+// \{晴子}「うーん…そかそか…」
+<0913> Ela não parecia querer me deixar dormir. Ela ainda tava murmurando pra si mesma.
+// なかなか寝させてくれない.ひとりでぶつぶつ喋っている.
+<0914> \{Haruko}"Ei, você já está dormindo?"
+// \{晴子}「もう、寝たんかー」
+<0915> \{Haruko}"Você é um caso perdido mesmo..."
+// \{晴子}「しょうもないやっちゃな…」
+<0916> \{Haruko}"Vamos beber mais um pouquinho."
+// \{晴子}「もっかい飲ましてみよ」
+<0917> Desta vez ela empurrou a garrafa nas minhas narinas.
+// 一升瓶の口を鼻にねじ込まれる.
+<0918> \{Yukito}"Onde você pensa que vai com essa garrafa?!"
+// \{Yukito}「どこから飲ませる気だっ」
+<0919> Eu pulei.
+// 俺は飛び起きる.
+<0920> \{Yukito}"Olha, ganhei a aposta. Agora deixe-me dormir."
+// \{Yukito}「あんたな…俺は勝負に勝ったんだ.大人しく寝かせろ」
+<0921> \{Haruko}"Não há aposta alguma, pra começar."
+// \{晴子}「勝負なんかしてへんもーん」
+<0922> \{Yukito}"Se não houve aposta, mais uma razão pra você me deixar paz."
+// \{Yukito}「なら、なおさらだろ.静かに寝かせろ」
+<0923> \{Haruko}"Eu só quero me divertir com você. Porque você é engraçado."
+// \{晴子}「うち、あんたで遊ぶねん.おもろいから」
+<0924> Eu não pude acreditar que ela disse "quero me divertir com você" e não "junto com você".
+// あんたと、ではなく、あんたで、というところが聞き捨てならない.
+<0925> \{Yukito}"Tô indo dormir no galpão."
+// \{Yukito}「納屋で寝る」
+<0926> Eu me leventei.
+// 俺は立ち上がる.
+<0927> \{Haruko}"Ei, você realmente é um garoto malvado! Custa muito apenas me agradar um pouco?"
+// \{晴子}「あんた、ほんまにいけずやなぁ.ちょっとぐらい相手してくれてもええんちゃうの」
+<0928> \{Yukito}"Tenho que levar Misuzu pra escola amanhã cedo. Se eu ficar fazendo companhia pra você durante noite, quando irei dormir?"
+// \{Yukito}「朝は観鈴を見送って、夜まであんたの相手をしていたら、俺はいつ寝るんだ」
+<0929> \{Haruko}"Pois não durma."
+// \{晴子}「寝んでええねん」
+<0930> Eu apenas fingi que não a ouvi.
+// 無視だ.無視.
+<0931> Quando eu tava saindo do corredor, ouvi o que Haruko dizer.
+// 俺が廊下へ出てゆこうとすると、晴子が独り言のように呟く.
+<0932> \{Haruko}"Então você tá mesmo acompanhando a Misuzu até a escola, como eu lhe pedi..."
+// \{晴子}「まだ観鈴と朝、一緒に行ってくれとるんやな」
+<0933> \{Yukito}"Sim."
+// \{Yukito}「ああ」
+<0934> \{Haruko}"Entendi."
+// \{晴子}「そかそか」
+<0935> \{Yukito}"E aí?"
+// \{Yukito}「どうした」
+<0936> \{Haruko}"Vou beber no meu próprio quarto. Pode dormir aqui se quiser."
+// \{晴子}「うち、自分の部屋で飲むから、ここで寝てもええよ」
+<0937> Ela pegou a garrafa de saquê e os lanches e se levantou.
+// 酒とつまみを持って立ち上がる.
+<0938> \{Haruko}"Boa noite."
+// \{晴子}「ほな、おやすみ」
+<0939> A perna de lula ainda tava aparecendo em sua boca.
+// 最後まで、口からイカの足をはみ出させたままだった.
+<0940> Fiquei sozinho na sala.
+// ひとり残される俺.
+<0941> O lugar ficou completamente em silêncio.
+// 辺りは一気に静まり返る.
+<0942> \{Yukito}"Esta noite tá sendo bem tranquila..."
+// \{Yukito}「今夜は穏やかだったな…」
+<0943> Só tentaram me afogar com saquê enquanto dormia e enfiaram uma garrafa no meu nariz.
+// 口に強引に酒を注がれたのと、鼻に一升瓶の口を突っ込まれただけで済んだ.
+<0944> Eu puxei o cobertor sobre minha barriga e me deitei.
+// 俺は毛布を腹にかけ、床に寝転がる.
+<0945> Pensando bem, minha marionete...
+// そういえば、俺の人形…
+<0946> Abri os olhos e olhei ao redor do chão.
+// 目を開けて、床の上を探す.
+<0947> Ela tinha sido deixada no local onde Haruko tava sentada.
+// 晴子が座っていた位置に落ちていた.
+<0948> Pra ser mais específico, ela colocou minha marionete bem em cima da almofada.
+// というか、ちゃんと座布団の上に鎮座させてあった.
+<0949> Eu a peguei.
+// 手を伸ばしてそれを取る.
+<0950> Finalmente estamos juntos novamente.
+// 久々に手に戻った気がする.
+<0951> Mas... parecia diferente. Parecia um pouco menor...
+// が…少し違和感がある.なぜか、一回り小さくなったような…
+<0952> Além disso, faltava um olho.
+// しかも、片目が消えたりしている.
+<0953> Já sei...
+// これは…
+<0954> \{Yukito}"Ela colocou minha marionete na máquina de lavar..."
+// \{Yukito}「洗濯機にかけられてる…」
+<0955> Tinha um cheiro forte de sabão em pó.
+// 洗いたての洗剤の匂いがぷんぷんする.
+<0956> Embora meu boneco tenha ficado ausente por apenas um dia, ele deve ter passado por maus bocados.
+// 一日という時間は、短いようで、こいつにとっては苦難の道のりだったのだ.
+<0957> \{Yukito}"Eu sinto muito..."
+// \{Yukito}「悪かった…」
+<0958> Juntei minhas mãos e fiz uma reverência pra minha marionete.
+// ぴたっと手を合わせ、人形を拝んでおいた.
+<0959> \{Yukito}"........."
+// \{Yukito}「………」
+<0960> Eu simplesmente a ignorei. Um homem de verdade não se submete a ameaças.
+// 無視だ.無視.そんな脅しに屈服していたら、男がすたる.
+<0961> \{Haruko}"Vou queimar ele com um isqueiro."
+// \{晴子}「ライターで焼いてみよ」
+<0962> \{Yukito}"Guaa..."
+// \{Yukito}「ぐあ…」
+<0963> Meu rosto ficou pálido.
+// 青ざめる.
+<0964> \{Haruko}"Você é tão engraçado!"
+// \{晴子}「おもろいやっちゃな、あんた」
+<0965> \{Haruko}"........."
+// \{晴子}「………」
+<0966> Ela tava olhando atentamente pra mim.
+// じっと見つめられる.
+<0967> \{Haruko}"Tudo bem. Já me diverti bastante."
+// \{晴子}「もうええわ.遊びは終わりや」
+<0968> Ela jogou minha marionete no ar.
+// ぽいと人形を空中に放った.
+<0969> E eu a peguei.
+// 俺はそれをキャッチする.
+<0970> \{Haruko}"Afinal, você ainda é uma criança."
+// \{晴子}「あんたも、子供やなぁ」
+<0971> \{Yukito}"Sim... ainda não tenho idade pra ser chamado de adulto."
+// \{Yukito}「…だろうな.大人と呼べる歳でもない」
+<0972> \{Haruko}"Isso é verdade. E é por isso que Misuzu está feliz por estar com você."
+// \{晴子}「せやな.だから、あの子も、あんたといて楽しいんやろ」
+<0973> \{Haruko}"Um adulto não consegue lidar com aquela criança."
+// \{晴子}「あの子の相手は、大人では務まらへん」
+<0974> \{Haruko}"Ela está fora do meu alcance."
+// \{晴子}「うちなんかでは務まらへんからなー」
+<0975> Mas eu acho que ela mesma era bem infantil...
+// …俺にはこのひとも、十分子供だと思えるが.
+<0976> \{Yukito}"Talvez..."
+// \{Yukito}「もし…」
+<0977> Decidi ser direto com ela.
+// 俺は言ってみる.
+<0978> \{Yukito}"Se você pudesse brincar com a gente, como se fosse uma criança, Misuzu ficaria feliz."
+// \{Yukito}「あんたも子供のように、俺たちと遊べたら、きっと観鈴は喜ぶぞ」
+<0979> \{Haruko}"Nós três juntos, né?"
+// \{晴子}「三人でか…」
+<0980> \{Haruko}"Mas ao contrário de vocês, eu tenho um trabalho de verdade. Não posso perder tempo com bobagens."
+// \{晴子}「うち、社会人や.あんたらと違う.あほなこと言わんといてや」
+<0981> \{Haruko}"Agora é a hora dos adultos ficarem sozinhos."
+// \{晴子}「というわけで、うちはひとり大人のお時間や」
+<0982> Ela se levantou segurando sua garrafa.
+// 酒瓶を持って、立ち上がる.
+<0983> \{Haruko}"E as crianças deveriam ir para cama."
+// \{晴子}「子供はさっさと寝ぇや～」
+<0984> Haruko saiu da sala.
+// 晴子が部屋を出ていった.
+<0985> O lugar ficou completamente quieto.
+// 辺りは一気に静まり返る.
+<0986> \{Yukito}"Esta noite tá sendo bem tranquila..."
+// \{Yukito}「今夜は穏やかだったな…」
+<0987> Mesmo sendo acordado com saquê na minha garganta e tendo uma garrafa enfiada no meu nariz.
+// 口に強引に酒を注がれたのと、鼻に一升瓶の口を突っ込まれただけで済んだ.
+<0988> Puxei o cobertor sobre minha barriga e me deitei.
+// 俺は毛布を腹にかけ、床に寝転がる.
+<0989> \{Yukito}"Crianças, hein?"
+// \{Yukito}「子供か…」
+<0990> \{Yukito}"A propósito, quantos anos eu tenho...?"
+// \{Yukito}「ところで、俺はいったい何歳なんだ…？」
+<0991> .........
+// ……….
+<0992> Nem eu sei...
+// …わからなかった.
+<0993> \{Yukito}"Ah, bem, quem se importa..."
+// \{Yukito}「んなこと、どうでもいいか…」
+<0994> Fechei os olhos e fui dormir.
+// 目を閉じて、眠りに入る.

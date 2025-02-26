@@ -1,0 +1,882 @@
+﻿// Resources for SEEN0241.TXT
+
+#character 'Misuzu'
+#character '*Ａ'
+#character 'Haruko'
+
+<0000> 24 de Julho (Seg)
+// ７月２４日(月)
+<0001> \{Misuzu}"Eu acho que já voei pelo céu no passado."
+// \{観鈴}「もしかしたら、わたし、昔は空を飛べたのかなぁ」
+<0002> \{Misuzu}"Estou sempre no ar."
+// \{観鈴}「ずっと、この空にいるの」
+<0003> Misuzu me contou isso no caminho pra escola.
+// いつもの通学路で、観鈴はそう言った.
+<0004> \{Yukito}"Bem, com certeza você sempre foi uma cabeça-de-vento."
+// \{Yukito}「おまえはいつも脳天気だな」
+<0005> \{Yukito}"Você teve outro sonho ontem à noite?"
+// \{Yukito}「もしかしたら、夕べも夢を見たのか？」
+<0006> \{Misuzu}"Sim, eu tive."
+// \{観鈴}「見たよ」
+<0007> \{Misuzu}"Eu estava voando e me senti muito bem..."
+// \{観鈴}「すごく気持ちよく飛んでた」
+<0008> \{Misuzu}"Lá..."
+// \{観鈴}「よいしょーっと」
+<0009> Misuzu subiu no paredão, abriu bem os braços e saiu correndo com passos instáveis.
+// 観鈴は堤防の上にのぼり、両手を広げてとてとてと歩き出す.
+<0010> Ela provavelmente tava fingindo voar.
+// それで空を飛んでいる気にでもなっているつもりだろうか.
+<0011> Ela realmente não tinha nenhuma preocupação no mundo.
+// 本当に幸せな奴だった.
+<0012> \{Yukito}"Ei, isso é perigoso!"
+// \{Yukito}「おい、危ないぞ」
+<0013> *Slip...*
+// つるっ.
+<0014> \{Misuzu}"Uou!"
+// \{観鈴}「わっ」
+<0015> *Plop!*\shake{1}
+// ずでん!\shake{1}
+<0016> \{Misuzu}"Ai..."
+// \{観鈴}「イタイ…」
+<0017> \{Yukito}"O que eu falei pra você?"
+// \{Yukito}「だから言っただろ」
+<0018> \{Misuzu}"G-Gao..."
+// \{観鈴}「が、がお…」
+<0019> *Bop!*
+// ぽかっ.
+<0020> \{Misuzu}"Aii... por que você está me machucando ainda mais?"
+// \{観鈴}「イタイっ…どうして更にイタイ目にあうのかなぁ…」
+<0021> \{Yukito}"Aqui, levante-se."
+// \{Yukito}「ほら、立て」
+<0022> Estendi a mão pra ela.
+// 手を差し出してやる.
+<0023> \{Misuzu}"Ok... Obrigada."
+// \{観鈴}「うんしょ…ありがと」
+<0024> \{Yukito}"O seu sonho foi igual aos anteriores?"
+// \{Yukito}「夢はいつもと変わりなかったか」
+<0025> \{Misuzu}"Não, este foi um pouco diferente."
+// \{観鈴}「ううん、少し違ってた」
+<0026> \{Yukito}"De que maneira?"
+// \{Yukito}「どんなふうに」
+<0027> \{Misuzu}"Era a mesma coisa, mas eu me sentia diferente."
+// \{観鈴}「同じだったけど、わたしがちがう気持ちでいた」
+<0028> Misuzu subiu no paredão mais uma vez.
+// 観鈴がもう一度、堤防にのぼる.
+<0029> Então ela se virou pro mar e se sentou.
+// そして海に向かって、腰を下ろす.
+<0030> O vasto céu se elevava diante dela.
+// その先には広い空.
+<0031> Talvez o céu estivesse lhe dando dicas sobre seus sonhos.
+// そうすることによって、夢の世界を思い出しているのだろうか.
+<0032> Me sentei ao lado dela.
+// 俺も隣に座る.
+<0033> \{Misuzu}"Meu corpo estava no céu como antes."
+// \{観鈴}「いつも通り、わたしの体が、空に飛んでいる」
+<0034> \{Misuzu}"Havia menos nuvens sob meus pés agora e pude ver o oceano e a terra."
+// \{観鈴}「足の下の雲はいつもより少なくて、海と陸が見渡せた」
+<0035> \{Misuzu}"A crista branca das ondas avançou em direção à terra e depois desapareceu."
+// \{観鈴}「白い波の線が、陸に押し寄せて、消えたりしてた」
+<0036> \{Misuzu}"Eu sabia que estava no alto do céu. Isso me deixou com medo."
+// \{観鈴}「自分が、本当に高い場所にいることがわかって、こわかった」
+<0037> \{Yukito}"Entendi..."
+// \{Yukito}「そっか…」
+<0038> \{Misuzu}"Sim..."
+// \{観鈴}「うん…」
+<0039> \{Misuzu}"E..."
+// \{観鈴}「それでね…」
+<0040> \{Misuzu}"Fiquei muito triste quando estava lá."
+// \{観鈴}「わたしはそこで悲しんでた」
+<0041> \{Misuzu}"Ei, Yukito-san..."
+// \{観鈴}「ね、Yukitoさん…」
+<0042> \{Misuzu}"Por que meu outro eu, que está no céu, tem que passar por toda essa tristeza?"
+// \{観鈴}「どうして、わたし…空のわたしはあんな悲しい思いをしてるのかな」
+<0043> \{Misuzu}"A vista é tão linda e o vento é tão bom..."
+// \{観鈴}「あんなにきれいな風景で、すごく気持ちいい風の中で…」
+<0044> \{Misuzu}"Eu realmente quero descobrir."
+// \{観鈴}「わたし、知りたい」
+<0045> \{Misuzu}"É por isso que sempre olhei para o céu."
+// \{観鈴}「だから、ずっと空を見てた」
+<0046> \{Yukito}"........."
+// \{Yukito}「………」
+<0047> A tristeza que tava aprisionada no céu.
+// 空に囚われた悲しみ.
+<0048> Isso combina com a imagem da garota que eu procurava.
+// それは、俺が想像する少女の姿と重なる.
+<0049> Uma garota no alto do céu, constantemente pegando o vento.
+// 空の遙か高みで、風を受け続ける少女.
+<0050> Na minha mente, a forma dela era a de um ser sagrado, quase como um anjo.
+// その姿は、天使のような神々しさを持って俺の描く絵の中にあった.
+<0051> Seus membros eram pálidos. Ela tinha um par de asas brancas.
+// 白い少女の手足と、一対の両翼.
+<0052> Mas se ela possuísse emoções humanas, então sua situação seria dolorosa demais pra ser imaginada.
+// だが彼女に人と同じ感情があれば、それはあまりにも、悲しい光景だった.
+<0053> Sozinha, a garota vivia a imensidão do infinito.
+// ひとりきり、無限の時間の中に住む少女.
+<0054> Quanto castigo o vento lhe infligiu durante todo esse tempo?
+// 長い時間をかけて風は、彼女にどれだけの仕打ちを与えるのだろうか.
+<0055> E agora, Misuzu tava observando tudo isso, quase como se estivesse acontecendo com ela mesma.
+// そして、その光景を、自分のこととしてこの少女は見ている.
+<0056> \{Yukito}"........."
+// \{Yukito}「………」
+<0057> Ficamos na sombra das árvores.
+// 俺たちは立ち止まって、木の影の中にいた.
+<0058> O canto das cigarras preencheu o silêncio entre nós.
+// セミの声が、ふたりの沈黙の間を埋める.
+<0059> Durante muito tempo, não dissemos nada.
+// それぐらいに長く、俺たちは黙り込んでいた.
+<0060> \{Yukito}"Misuzu..."
+// \{Yukito}「観鈴…」
+<0061> Eu falei primeiro.
+// 先に俺のほうが口を開く.
+<0062> \{Yukito}"Isso é apenas um sonho. Não tá relacionado com você de forma alguma."
+// \{Yukito}「夢だろ.おまえには関係ない」
+<0063> \{Yukito}"Tudo que você precisa fazer é continuar sorrindo, como sempre."
+// \{Yukito}「おまえはいつものように笑ってろ」
+<0064> \{Yukito}"........."
+// \{Yukito}「………」
+<0065> \{Yukito}"Porque se você não sorrir..."
+// \{Yukito}「おまえが笑ってないとさ…」
+<0066> \{Misuzu}"Huh?"
+// \{観鈴}「うん？」
+<0067> Eu ficaria triste...\p É isso que eu ia dizer?
+// どうしてだか、俺まで寂しくなる.
+<0068> \{Yukito}"De qualquer forma, apenas continue sorrindo."
+// \{Yukito}「とにかく笑ってろ」
+<0069> \{Misuzu}"Ok..."
+// \{観鈴}「うん…」
+<0070> \{Misuzu}"V."
+// \{観鈴}「ぶいっ」
+<0071> Ela sorriu, fazendo o sinal de vitória com os dedos.
+// 笑ってくれた.
+<0072> \{Yukito}"Quer beber um suco de frutas? Você deve tá com sede, certo?"
+// \{Yukito}「ジュースでも飲めばどうだ.ノド、乾いたろ」
+<0073> \{Misuzu}"Não, eu estou bem."
+// \{観鈴}「ううん、いい」
+<0074> Ela se levantou.
+// 言って、立ち上がった.
+<0075> \{Misuzu}"Bem, tenho que ir agora."
+// \{観鈴}「じゃあ、いってくるね」
+<0076> \{Yukito}"Ok. Não durma na aula."
+// \{Yukito}「ああ、居眠りすんなよ」
+<0077> \{Misuzu}"Ok."
+// \{観鈴}「うん」
+<0078> \{Misuzu}"Vamos almoçar juntos. Espere por mim aqui."
+// \{観鈴}「お昼一緒に食べるから、ここで待っててね」
+<0079> \{Yukito}"Combinado."
+// \{Yukito}「ああ」
+<0080> Ela saiu correndo.
+// ぱたぱたと駆けていった.
+<0081> \{Yukito}"........."
+// \{Yukito}「………」
+<0082> Subi no paredão pra pensar nas coisas que tinha acabado de ouvir.
+// 俺は考え事をするため、堤防に身を乗り上げる.
+<0083> Virei minhas costas encharcadas de suor em direção ao mar e sentei-me de pernas cruzadas.
+// そして、汗の染みた背を海に向け、あぐらを組んだ.
+<0084> Então olhei pro céu.
+// 空を見上げる.
+<0085> No céu, há uma garota com asas...
+// …この空の向こうには、翼を持った少女がいる.
+<0086> Ela está lá há muito tempo...
+// …それは、ずっと昔から.
+<0087> Ela está lá, mesmo agora...
+// …そして、今、この時も.
+<0088> No mesmo ar, ela continua sentindo o vento com suas asas abertas...
+// …同じ大気の中で、翼を広げて風を受け続けている.
+<0089> Minha mãe me contou isso quando eu era pequeno.
+// それは母が、幼い俺に語った言葉だ.
+<0090> Eu já tinha ouvido essa história dela tantas vezes que parecia quase uma canção de ninar.
+// 子守歌代わりと言ってもいいぐらい、繰り返し聞かされた.
+<0091> No entanto...
+// ただ….
+<0092> Eu sabia que não era só isso.
+// それだけではなかったはずだ.
+<0093> Minha mãe tava tentando me dizer algo importante com essas palavras.
+// この言葉を通じて、母は俺に何かを伝えようとしていたはずだ.
+<0094> Mas eu não conseguia me lembrar, por mais que tentasse.
+// どうしても思い出せない.
+<0095> Como eu poderia ter esquecido?
+// なぜ忘れてしまったのだろう？
+<0096> Devia ser algo muito importante.
+// とても大切なことだったはずなのに.
+<0097> 'Ei, Yukito-san...'
+// 『ね、Yukitoさん…』
+<0098> 'Por que meu outro eu, que está no céu, tem que passar por toda essa tristeza?'
+// 『どうして、わたし…空のわたしはあんな悲しい思いをしてるのかな』
+<0099> Por um momento, Misuzu pareceu implorar por ajuda.
+// 観鈴が一瞬見せた、助けを乞うような目.
+<0100> \{Yukito}(Eu também não tô entendendo nada, Misuzu...)
+// \{Yukito}(俺だって何も知らないんだよ、観鈴…)
+<0101> .........
+// ……….
+<0102> Quando terminei meus pensamentos, o sol tava bem acima de mim.
+// 気がつくと、太陽が真上にあった.
+<0103> O sinal da escola tocou, indicando que era meio-dia.
+// 正午のチャイムが響いてきた.
+<0104> Os alunos que vieram pras aulas de reforço voltavam pra casa.
+// 夏期補習の学生たちが、ぱらぱらと帰っていく.
+<0105> Eu esperei, mas Misuzu não apareceu.
+// 待っても、観鈴は現れなかった.
+<0106> \{Yukito}(Será que ela voltou pra casa sozinha?)
+// \{Yukito}(先に帰ったのか…？)
+<0107> Ela não parecia ser do tipo que me daria o cano...
+// あいつは約束を破るような奴じゃなかった.
+<0108> Ela tinha assuntos urgentes pra tratar?
+// だとすると、他に用事でもできたのか….
+<0109> Depois de esperar por uma hora, saí do paredão.
+// 結局一時間ほど待って、俺は堤防を後にした.
+<0110> Abri a porta da entrada.
+// 玄関の引き戸を開ける.
+<0111> \{Yukito}"Misuzu, você tá aqui?"
+// \{Yukito}「観鈴、いるか…」
+<0112> Chamei o nome dela quando entrei no corredor.
+// 呼びながら廊下に上がる.
+<0113> Havia alguém na cozinha.
+// 台所の方で、人の気配がした.
+<0114> \{Misuzu}"Bem-vindo de volta."
+// \{観鈴}「お帰りなさい」
+<0115> \{Misuzu}"Acabei de preparar o almoço."
+// \{観鈴}「ご飯、今できたとこだから」
+<0116> \{Yukito}"........."
+// \{Yukito}「………」
+<0117> Eu tava mais chateado do que com fome.
+// 怒るより拍子抜けしていた.
+<0118> \{Misuzu}"Yukito-san, você está encharcado de suor."
+// \{観鈴}「Yukitoさん、汗びっしょり」
+<0119> \{Yukito}"Eu vim correndo todo o caminho de volta."
+// \{Yukito}「走ってきたからな」
+<0120> \{Misuzu}"Você está com fome?"
+// \{観鈴}「そんなにお腹すいてたんだ」
+<0121> \{Yukito}"Não deveríamos nos encontrar no paredão e voltar pra casa juntos?"
+// \{Yukito}「待ち合わせしただろ？ 一緒に帰るって」
+<0122> \{Misuzu}"Ah...?"
+// \{観鈴}「あ…」
+<0123> \{Misuzu}"Me desculpe... Eu esqueci."
+// \{観鈴}「ごめん.忘れてた」
+<0124> Ela parecia indiferente.
+// けろりと言い放つ.
+<0125> \{Yukito}"Nossa..."
+// \{Yukito}「まったく…」
+<0126> \{Misuzu}"Para compensar, vou te convidar para almoçar comigo."
+// \{観鈴}「おわびに、お昼はご馳走」
+<0127> Ela empurrou um prato no meu nariz.
+// 言いながら、俺の鼻先に皿を突き出す.
+<0128> \{Misuzu}"Yukito-san, quatro ovos para você."
+// \{観鈴}「Yukitoさんの分は玉子四つ」
+<0129> \{Misuzu}"Dessa vez, eles estão cozidos com perfeição."
+// \{観鈴}「形も焼き加減も完璧」
+<0130> \{Misuzu}"Coma rápido ou vai esfriar."
+// \{観鈴}「早く食べないと、冷めちゃうよ」
+<0131> \{Yukito}"Fala sério..."
+// \{Yukito}「おまえなあ…」
+<0132> \{Misuzu}"Nihaha."
+// \{観鈴}「にはは」
+<0133> Bom, menos mal... pelo menos parece que ela tá bem.
+// まあ、無事なら文句もない.
+<0134> Me sentei à mesa e peguei meus hashis.
+// 俺は椅子に座り、素直に箸をつまんだ.
+<0135> Depois da refeição...
+// 食後.
+<0136> Ouvi o som de Misuzu cantarolando e lavando a louça.
+// 鼻歌に混じって、食器を洗う音.
+<0137> Como sempre, Misuzu veio até mim depois de terminar suas tarefas.
+// それが済むと、いつも通り観鈴が寄ってくる.
+<0138> \{Misuzu}"Yukito-san, cartas!"
+// \{観鈴}「Yukitoさん、トランプ」
+<0139> \{Yukito}"Isso mesmo, são cartas que você tá segurando."
+// \{Yukito}「ああ、おまえの持ってるのはトランプだな」
+<0140> \{Misuzu}"Vamos jogar cartas."
+// \{観鈴}「トランプしよっ」
+<0141> \{Yukito}"Tô ocupado."
+// \{Yukito}「俺は忙しいんだ」
+<0142> \{Misuzu}"Você não está fazendo nada."
+// \{観鈴}「ぜんぜん忙しく見えない」
+<0143> \{Yukito}"Tô pensando em algo."
+// \{Yukito}「考え事してるんだっての」
+<0144> \{Misuzu}"Você pode continuar pensando enquanto joga cartas comigo."
+// \{観鈴}「考え事しながら、トランプ」
+<0145> E então não tive escolha a não ser jogar cartas com Misuzu.
+// 結局、観鈴のトランプにつきあう羽目になる.
+<0146> Mesmo que eu estivesse ocupado...
+// 俺は忙しいというのに.
+<0147> .........
+// ……….
+<0148> \{Misuzu}"Ganhei de novo."
+// \{観鈴}「…わたしの勝ちっ」
+<0149> \{Misuzu}"O que significa que você perdeu novamente."
+// \{観鈴}「つまり、またYukitoさんの負け」
+<0150> \{Yukito}"Você não precisa jogar isso na minha cara."
+// \{Yukito}「念を押さなくていい」
+<0151> \{Misuzu}"Quer tentar mais uma vez?"
+// \{観鈴}「もう一回、やる？」
+<0152> \{Yukito}"........."
+// \{Yukito}「………」
+<0153> \{Yukito}"Só mais uma."
+// \{Yukito}「…やる」
+<0154> Eu odeio perder!
+// 負けず嫌いだった.
+<0155> .........
+// ……….
+<0156> \{Misuzu}"Ufa..."
+// \{観鈴}「ふう…」
+<0157> A guerra finalmente acabou.
+// 熱戦が終わった.
+<0158> Dando um basta ao meu ciclo de derrotas...
+// 俺はほとんど負けていた気がするが.
+<0159> \{Misuzu}"Vou fazer um chá de cevada."
+// \{観鈴}「麦茶飲もおっと」
+<0160> Misuzu se levantou.
+// 言いながら立ち上がる.
+<0161> \{Misuzu}"Você quer um pouco?"
+// \{観鈴}「Yukitoさんも飲む？」
+<0162> \{Yukito}"Claro."
+// \{Yukito}「ああ」
+<0163> \{Misuzu}"Só um momentinho então."
+// \{観鈴}「ちょっと待っててね」
+<0164> Ela correu pra cozinha.
+// ぱたぱたと台所に行く.
+<0165> Me lembrei de algo enquanto olhava as cartas espalhadas.
+// 散らかったままのトランプを見て、俺は思い出した.
+<0166> Há três dias atrás, eu tava jogando com Misuzu quando, de repente, ela teve uma crise nervosa.
+// 三日前、観鈴はこうして遊んでいて、癇癪を起こした.
+<0167> Isso não parecia acontecer com frequência.
+// いつでもああなるというわけでもないようだった.
+<0168> Recordei o que Haruko me disse.
+// 晴子は言っていた.
+<0169> 'Ela é assim desde pequena.'
+// 『小さい頃から、ずっとや』
+<0170> 'Sempre que ela estava prestes a se tornar amiga de alguém, ela começava a chorar...'
+// 『誰かと友達になれそうになったら、ああなるねん…』
+<0171> 'Eu me pergunto por que ela nunca superou isso.'
+// 『なんで治らへんのやろな』
+<0172> Eu não tinha um conhecimento aprofundado sobre esse assunto.
+// 専門的なことはよくわからない.
+<0173> Mas eu tinha certeza de que já tinha ouvido falar de uma garota assim antes...
+// だが俺も、そういう女の子のことを聞いたことがあった.
+<0174> Aquilo foi...
+// あれは確か….
+<0175> \{Misuzu}"Ah..."
+// \{観鈴}「あっ…」
+<0176> Eu ouvi a voz de Misuzu vindo da cozinha.
+// 台所から声がした.
+<0177> Fui dar uma olhada e encontrei uma Misuzu com problemas diante da geladeira aberta.
+// 覗いてみると、冷蔵庫の扉を開けたまま、観鈴が困っていた.
+<0178> \{Misuzu}"Eu me esqueci de fazer o chá de cevada..."
+// \{観鈴}「麦茶、作り忘れてた」
+<0179> \{Yukito}"Então a água servirá."
+// \{Yukito}「ないなら水でいいぞ」
+<0180> \{Misuzu}"Eu recomendo..."
+// \{観鈴}「わたしのお勧めは…」
+<0181> \{Yukito}"Água."
+// \{Yukito}「水だ」
+<0182> \{Misuzu}"Eu recomendo..."
+// \{観鈴}「わたしのお勧めはねー」
+<0183> \{Yukito}"Por favor, água está ótimo."
+// \{Yukito}「水にしてくれ」
+<0184> \{Misuzu}"Eles vêm em caixas retangulares..."
+// \{観鈴}「四角いパックに入っててねー」
+<0185> \{Yukito}"Por favor, me dê um copo com água gelada."
+// \{Yukito}「コップに入ったただの水にしてくれ」
+<0186> \{Misuzu}"Yukito-san, você não pode me agradar um pouco?"
+// \{観鈴}「…Yukitoさん、付き合い悪いな」
+<0187> *Scratch... scratch...*
+// ごそごそ.
+<0188> \{Misuzu}"Huh?"
+// \{観鈴}「あれ？」
+<0189> \{Misuzu}"Acabou todo o suco de frutas também."
+// \{観鈴}「ジュースの買い置きも終わってる」
+<0190> \{Misuzu}"Vou ter que comprar mais."
+// \{観鈴}「買いに行かないと」
+<0191> \{Yukito}"Precisa ser agora?"
+// \{Yukito}「今からか？」
+<0192> \{Misuzu}"Ou então não terei suco esta noite."
+// \{観鈴}「夜に飲む分がないから」
+<0193> \{Misuzu}"Yukito-san, você pode vir comigo?"
+// \{観鈴}「Yukitoさんも来てくれる？」
+<0194> \{Yukito}"Não me diga que é aquela máquina de venda automática de novo?"
+// \{Yukito}「まさか、あそこの自販機か？」
+<0195> \{Misuzu}"Aquele suco não é vendido em nenhum outro lugar."
+// \{観鈴}「あのシリーズ、他に売ってないから」
+<0196> Afinal, ela queria daquele tipo rico, pegajoso ou algo assim.
+// やはり、どろり濃厚だった.
+<0197> \{Yukito}"Todos os seus amigos vão te abandonar se você continuar bebendo essas coisas."
+// \{Yukito}「あんなもの好んで飲んでると、友達なくすぞ」
+<0198> \{Misuzu}"Yukito-san é o meu amigo."
+// \{観鈴}「Yukitoさん、友達」
+<0199> \{Yukito}"........."
+// \{Yukito}「………」
+<0200> Então eu tive que ir com ela.
+// しかたなく、俺も外出することになる.
+<0201> Eu segui Misuzu com um passo de lesma.
+// 観鈴から少し間をおき、ゆっくりと歩きはじめる.
+<0202> Já é final de tarde.
+// もう午後も遅い.
+<0203> A cor da luz do sol mudava constantemente à medida que avançávamos.
+// 進むごとに、光が色を変えるのがわかった.
+<0204> Quando chegamos à costa, o sol já tava se pondo.
+// 海沿いまで来た時には、日が暮れかけていた.
+<0205> \{Misuzu}"Eu gosto do céu durante o pôr do sol."
+// \{観鈴}「夕焼け空も好き」
+<0206> \{Misuzu}"Tem aquela sensação de que é hora de voltar para casa."
+// \{観鈴}「どこかに帰れそうな気がするから」
+<0207> A sombra de Misuzu era longa.
+// 観鈴の影が長い.
+<0208> Seu cabelo brilha e balança ao sabor do vento.
+// 髪が風に揺られ、きらきらと光る.
+<0209> Senti que já tinha visto essa imagem antes.
+// ずっと前にも、こんな情景を見ていたような気がする.
+<0210> Foi quando eu era pequeno e ainda viajava com minha mãe?
+// 子供の頃、母親と旅をしていた時だろうか.
+<0211> Olhei pro céu sem motivo algum.
+// 俺は無意味に空を見上げる.
+<0212> As nuvens flutuavam sob o sol laranja.
+// オレンジ色の陽を受けて、雲が流れていた.
+<0213> Alguns fragmentos da memória permaneciam perdidos na escuridão do crepúsculo.
+// なくしてしまったものの欠片が、夕闇の中に漂っている.
+<0214> Quando a noite caísse, todos desapareceriam sem deixar vestígios.
+// 夜が来れば、それは痕跡も残さずに消えてしまうのだろう.
+<0215> 'No céu, há uma garota com asas.'
+// 「この空の向こうには、翼を持った少女がいる」
+<0216> 'Ela está lá há muito tempo.'
+// 「それは、ずっと昔から」
+<0217> 'Ela está lá, mesmo agora.'
+// 「そして、今、この時も」
+<0218> 'No mesmo ar, ela continua sentindo o vento com suas asas abertas.'
+// 「同じ大気の中で、翼を広げて風を受け続けている…」
+<0219> Eu disse essas palavras em voz alta.
+// 言葉を口に出していた.
+<0220> A continuação dessas frases surgiu em minha mente.
+// 質問に答えるように、その続きが頭に浮かんだ.
+<0221> Lá em cima, a garota está tendo o mesmo sonho repetidamente...
+// …そこで少女は、同じ夢を見続けている.
+<0222> A garota está sempre sozinha...
+// …彼女はいつでもひとりきりで…
+<0223> Ela desaparece antes de ter a chance de crescer...
+// …大人になれずに消えてゆく.
+<0224> Ela continua sonhando o mesmo sonho triste...
+// …そんな悲しい夢を、何度でも繰り返す…
+<0225> Voltei meu olhar pro chão.
+// 視線を地上に戻した.
+<0226> O que foi isso...?
+// 何だろう、今のは？
+<0227> Repeti essas palavras mais uma vez em minha mente pra não esquecer.
+// 忘れてしまう前に、頭の中でもう一度繰り返す.
+<0228> 'Lá em cima, a garota está tendo o mesmo sonho repetidamente...'
+// 『そこで少女は、ずっと同じ夢を見続けている』
+<0229> 'Não importa quantas vezes ela renasça, ela nunca encontrará a felicidade.'
+// 『何度生まれたとしても、決して幸せにはなれない』
+<0230> 'A garota está sempre sozinha...'
+// 『彼女はいつでもひとりきりで』
+<0231> 'E ela morrerá sozinha.'
+// 『そして、少女のままその生を終える』
+<0232> 'Assim são meus sonhos...'
+// 『そんな夢…』
+<0233> Isso é muito abstrato pra entender.
+// 意味を考えるには、あまりに抽象的すぎる.
+<0234> Eu me recordei dessas palavras porque a visão do pôr do sol e de Misuzu tinham algo em comum?
+// 夕暮れと観鈴の印象が重なり、そんな言葉になったのだろうか？
+<0235> Ou era mais do que isso...?
+// それとも….
+<0236> Sei que ainda existe outra coisa que preciso me lembrar.
+// 何かを思い出しかけている.
+<0237> Algo mais importante.
+// もっと大切な何かを.
+<0238> No entanto, esse algo tava aprisionado nas profundezas obscuras da minha mente.
+// 鍵をかけられているように、頭の奧がきしむ.
+<0239> Aos poucos, outra coisa ia surgindo...
+// 何かが染み出してくる.
+<0240> Uma premonição de profunda tristeza.
+// それは、悲しい予感だった.
+<0241> \{Yukito}"Ei..."
+// \{Yukito}「なあ…」
+<0242> Finalmente saí do meu transe pra falar com Misuzu.
+// 話しかけようとして、我に返った.
+<0243> Mas ela não tá mais aqui.
+// 観鈴がいなかった.
+<0244> \{Yukito}"Misuzu...!"
+// \{Yukito}「観鈴っ…」
+<0245> Ela estava lá...
+// いた.
+<0246> Parada na frente da máquina de venda automática.
+// 自販機に張りついていた.
+<0247> \{Yukito}"Haa..."
+// \{Yukito}「はぁ…」
+<0248> Eu suspirei e corri até ela.
+// 溜息をつき、俺は走り寄る.
+<0249> \{Misuzu}"Oh, me desculpe."
+// \{観鈴}「あ、ごめんね」
+<0250> \{Misuzu}"Só estou verificando se chegou algum suco novo."
+// \{観鈴}「新商品ないかなって」
+<0251> \{Misuzu}"Ah, eu já bebi esse antes. É delicioso!"
+// \{観鈴}「あ、これ、前に飲んでおいしかった」
+<0252> \{Misuzu}"Vou comprar esse e aí vamos para casa."
+// \{観鈴}「買って帰ろーっと」
+<0253> Ela pegou a bolsa e pescou algumas moedas.
+// 財布を取り出し、中身を探り始める.
+<0254> Observando Misuzu, cheguei a uma conclusão.
+// そんな観鈴の姿を見ていて俺は思う.
+<0255> \{Yukito}(Ela realmente não parece ser do tipo que tem algo a ver com sonhos estranhos...)
+// \{Yukito}(わけがわからない夢の話なんて、こいつには似合わないよな…)
+<0256> \{Yukito}(Ela é apenas estranha, pois esse é jeito dela.)
+// \{Yukito}(こういうことをしているときが、一番こいつらしくていい)
+<0257> \{Misuzu}"Me dê um minuto. Estou verificando se tenho alguma moeda de 100 ienes."
+// \{観鈴}「ちょっと待ってね.百円玉、なかったかなぁ」
+<0258> \{Yukito}"Claro. Sem pressa."
+// \{Yukito}「ああ、ゆっくりすればいい」
+<0259> Esperei pacientemente.
+// 呑気に待ち続けることにした.
+<0260> Misuzu ficou ao meu lado murmurando, enquanto sua busca por uma moeda de 100 ienes continuava.
+// その俺の横で、観鈴はうなりながら延々と百円玉を探し続けた.
+<0261> Eu tava me distraindo enquanto assistia TV.
+// 俺はぼぅっとテレビを見ていた.
+<0262> Eu tinha que pensar.
+// 考え事をしなければならない.
+<0263> Pelo bem de Misuzu, tinha que usar toda a minha capacidade de raciocínio.
+// 観鈴の代わりに、俺が精一杯頭を使って考えるのだ.
+<0264> Mas isso era algo em que eu não era muito bom.
+// けど、それは得意なことじゃなかった.
+<0265> \{Misuzu}"Yukito-san, cartas."
+// \{観鈴}「Yukitoさん、トランプ」
+<0266> Misuzu veio até mim depois que ela terminou de tomar banho.
+// 風呂あがりの観鈴が寄ってきた.
+<0267> \{Misuzu}"C-a-r-t-a-s."
+// \{観鈴}「ト・ラ・ン・プ」
+<0268> \{Yukito}"Você não pensa em mais nada além de jogar baralho?"
+// \{Yukito}「それしかないのか、おまえは」
+<0269> \{Misuzu}"Sim. Vamos jogar cartas."
+// \{観鈴}「うん.だからトランプ」
+<0270> \{Yukito}"Ei, o que você acha que tô fazendo agora?"
+// \{Yukito}「な、俺は今、なにをしてる」
+<0271> \{Misuzu}"Nada."
+// \{観鈴}「暇してる」
+<0272> \{Yukito}"Eu tô assistindo TV."
+// \{Yukito}「テレビを見てるんだよ」
+<0273> Conversas como essas tavam se tornando parte de nossa rotina diária.
+// こういうやり取りも、日常的になってきた.
+<0274> \{Misuzu}"O que você está assistindo?"
+// \{観鈴}「何見てるの？」
+<0275> \{Yukito}"Não faço ideia..."
+// \{Yukito}「さぁ…」
+<0276> Eu realmente não sabia. Na TV, um jovem detetive não parava de correr de um lado pro outro.
+// 実際よくわからない.ずっと若い刑事が走り回っていた.
+<0277> \{Misuzu}"Que chatice..."
+// \{観鈴}「退屈…」
+<0278> \{Yukito}"Cale a boca e assista um pouco."
+// \{Yukito}「黙って、おまえも見ておけ」
+<0279> \{Misuzu}"Mas eu não vou entender nada se começar a ver da metade."
+// \{観鈴}「途中からじゃわけわかんない」
+<0280> \{Yukito}"Então você devia ter assistido desde o início."
+// \{Yukito}「最初から見ておけば良かったんだ」
+<0281> \{Misuzu}"Eu estava lavando os pratos..."
+// \{観鈴}「わたし、洗い物してたし…」
+<0282> \{Yukito}"Entendi. Que pena."
+// \{Yukito}「そうか.そら残念だな」
+<0283> \{Misuzu}"E quanto ao jogo de cartas?"
+// \{観鈴}「トランプは？」
+<0284> \{Yukito}"Jogo com você depois que o filme acabar."
+// \{Yukito}「これ終わったらな」
+<0285> \{Misuzu}"Mas aí vai ficar muito tarde."
+// \{観鈴}「夜遅くなっちゃうね」
+<0286> \{Yukito}"Isso é um fato."
+// \{Yukito}「だな」
+<0287> \{Misuzu}"Vou ficar com sono."
+// \{観鈴}「眠くなる」
+<0288> \{Yukito}"Então a gente joga amanhã, pode ser?"
+// \{Yukito}「明日があるだろ」
+<0289> \{Misuzu}"Sim, eu espero..."
+// \{観鈴}「うーん、そうだね…」
+<0290> Finalmente ela sossegou.
+// ようやく静かになる.
+<0291> O detetive na TV tava fazendo uma dedução.
+// テレビの中の男が推理していた.
+<0292> "Finalmente... desvendei o mistério...! O culpado é..."
+// 『謎は解けた! 犯人は…』
+<0293> *Fiushh...*
+// ぴしゅん…!
+<0294> A imagem desapareceu.
+// 画面が消えた.
+<0295> \{Misuzu}"Quem é o culpado, eu me pergunto?"
+// \{観鈴}「犯人はだ～れだ」
+<0296> \{Yukito}"Você! Quem mais?!"
+// \{Yukito}「おまえだっ! おまえ以外、いないだろっ」
+<0297> \{Misuzu}"Correto! Quem desligou a TV foi Misuzu-chin!"
+// \{観鈴}「正解.消したのは観鈴ちん」
+<0298> \{Yukito}"........."
+// \{Yukito}「………」
+<0299> \{Yukito}"Haa... Misuzu-chin é um saco!"
+// \{Yukito}「はぁ…観鈴ちんは困った奴だな」
+<0300> Me virei pra Misuzu.
+// 俺は観鈴に向き直る.
+<0301> \{Misuzu}"Agora você vai jogar cartas comigo?"
+// \{観鈴}「トランプしてくれるの？」
+<0302> \{Yukito}"Sim!"
+// \{Yukito}「ああ」
+<0303> \{Misuzu}"Fico feliz com isso."
+// \{観鈴}「うれしいな」
+<0304> Ela tirou as cartas da caixa e começou a embaralhar.
+// カードをケースから取り出すと、くりはじめる.
+<0305> *Craaashhh!*\shake{7}
+// どがーーーーーーーーーーーーーんっっ!\shake{7}
+<0306> \{Yukito}"Então, como é esse jogo?"
+// \{Yukito}「えっと、どうやってするんだよ…」
+<0307> \{Misuzu}"Bem, este é mais difícil de jogar, mas fica bem divertido quando você pega o jeito."
+// \{観鈴}「うん、これはやり方難しいけどね、覚えるとすごくおもしろいよ」
+<0308> \{Yukito}"Parece complicado..."
+// \{Yukito}「大変そうだな…」
+<0309> *Stomp stomp stomp...*
+// どんどんどん…
+<0310> A porta se abriu.
+// がらっ!
+<0311> \{Haruko}"Estou em casa!"
+// \{晴子}「帰ったで」
+<0312> \{Misuzu}"Bem-vinda de volta! Você chegou cedo hoje. Um pouquinho mais e teríamos jantado juntos."
+// \{観鈴}「おかえり.早かったね.もう少し早かったら、一緒にご飯食べられたのに」
+<0313> \{Haruko}"Haa..."
+// \{晴子}「かぁっ…」
+<0314> Ela olhou pra Misuzu e franziu o rosto.
+// 観鈴に向かって顔をしかめる.
+<0315> \{Haruko}"Você tá facilitando as coisas... Eu toda preocupada e você aqui, acordada até tarde e jogando cartas."
+// \{晴子}「あんた、呑気なもんやな…あれだけ心配させといて、自分はトランプで夜更かしかいな」
+<0316> \{Yukito}(Preocupada?)
+// \{Yukito}(…心配？)
+<0317> Eu não consegui entender o que ela acabou de dizer.
+// 言っていることの意味がわからなかった.
+<0318> \{Haruko}"Por sua causa, não consegui nem trabalhar direito hoje..."
+// \{晴子}「おかげでこっちは、仕事がひとつふいになってしもた…」
+<0319> \{Haruko}"Haa... Você é realmente difícil, Misuzu-chan..."
+// \{晴子}「はぁ…ほんま、観鈴ちゃんは困った子やで…」
+<0320> *Plat plat...*
+// ぱたぱた…
+<0321> Misuzu começou a distribuir as cartas.
+// カードを並べはじめる観鈴.
+<0322> \{Misuzu}"Ei, vamos jogar, Yukito-san."
+// \{観鈴}「ほら、あそぼ、Yukitoさん」
+<0323> \{Yukito}"O-Ok..."
+// \{Yukito}「あ、ああ…」
+<0324> \{Haruko}"Sem chance. Agora é a hora dos adultos."
+// \{晴子}「あかんあかん.これからは大人の時間や」
+<0325> \{Haruko}"E as crianças devem ir para a cama."
+// \{晴子}「子供は寝るんや」
+<0326> \{Misuzu}"Yukito-san prometeu que jogaria comigo até eu pegar no sono..."
+// \{観鈴}「Yukitoさん、わたしと眠たくなるまで遊んでくれるって…」
+<0327> \{Yukito}"Eu não disse isso..."
+// \{Yukito}「そこまでは言ってないが…」
+<0328> \{Haruko}"O aproveitador bebe comigo todas as noites. Certo?"
+// \{晴子}「居候は、毎晩うちと飲んでるんや.な、居候」
+<0329> Haruko aproximou seu rosto do meu.
+// ずずず…と晴子が顔を寄せてくる.
+<0330> \{Haruko}"Estou de mau humor hoje. Esta noite vai ser selvagem!"
+// \{晴子}「今日はなんかうち、ムカついてるから、えらいことになってしまいそうや」
+<0331> \{Haruko}"Mal vejo a hora de tirar toda essa roupa."
+// \{晴子}「もう、スッポンポンになってしまいたい気分や～」
+<0332> \{Haruko}"Então? Você está interessado?"
+// \{晴子}「どない？ 興味あるやろ？」
+<0333> \{Yukito}"Nem um pouco."
+// \{Yukito}「恐ろしいぐらいにない」
+<0334> \{Haruko}"O que você disse?!"
+// \{晴子}「なんちゅー形容やねんっ!」
+<0335> Ela me estrangulou.
+// 首を絞められる.
+<0336> \{Yukito}"E-Eu não tô conseguindo respirar..."
+// \{Yukito}「く、苦しいだろっ」
+<0337> \{Misuzu}"Eita!"
+// \{観鈴}「わーっ」
+<0338> Nossa briga bagunçou as cartas espalhadas no chão.
+// その騒動で、床に並べられていたトランプが無茶苦茶になっていた.
+<0339> \{Misuzu}"Haa... Esqueça. Eu vou para a cama."
+// \{観鈴}「はぁ…もういい.わたし、寝る」
+<0340> Misuzu recolheu as cartas uma por uma e se levantou.
+// それを一枚ずつ拾ってから、観鈴は立ち上がる.
+<0341> \{Misuzu}"Boa noite."
+// \{観鈴}「おやすみ」
+<0342> Ela saiu da sala mesmo.
+// そのまま部屋から出ていった.
+<0343> \{Haruko}"Haa..."
+// \{晴子}「はぁ…」
+<0344> \{Yukito}"Ei, pare com isso! Você tá com bafo de álcool!"
+// \{Yukito}「こら、酒臭い息を吐きかけるな」
+<0345> \{Haruko}"Eu tô muito louca hoje~."
+// \{晴子}「悪酔いしてるねん」
+<0346> \{Yukito}"Eu posso ver isso por mim mesmo."
+// \{Yukito}「見りゃわかる」
+<0347> \{Haruko}"...Acho que vou vomitar."
+// \{晴子}「気持ち悪いねん」
+<0348> \{Yukito}"Então saia de perto de mim!"
+// \{Yukito}「なら、離れろ」
+<0349> Haruko agarrou meu colarinho e pressionou sua testa na minha.
+// 晴子はずっと、俺の襟元を絞めて、そして自分の額を俺の額に押し当てていた.
+<0350> \{Haruko}"Quantos anos você tem?"
+// \{晴子}「あんたいくつや」
+<0351> \{Haruko}"Tem cara de ter uns vinte, certo?"
+// \{晴子}「二十歳かそこらやろ」
+<0352> \{Yukito}"Por aí."
+// \{Yukito}「そんなもんだな」
+<0353> \{Haruko}"Então você não entenderá o que é ser pai."
+// \{晴子}「ほんなら、親の気持ちなんてわからへんねやろな」
+<0354> \{Yukito}"Você tem razão."
+// \{Yukito}「そうだな」
+<0355> \{Haruko}"Eu também não entendo. Eu não sou muito mais velha que você."
+// \{晴子}「うちもわからへん.あんたとそないに歳、変わらへんさかいにな」
+<0356> \{Yukito}"Qual é a sua definição de 'muito mais velha'? Vinte anos?"
+// \{Yukito}「あんたのさほど変わらないは、何十年かはしらないがな」
+<0357> \{Haruko}"Só um pouquinho...!"
+// \{晴子}「ほんのちょっとやねん…」
+<0358> Ela me apertou ainda mais.
+// ぎりぎり…
+<0359> \{Yukito}"Pare de me estrangular!"
+// \{Yukito}「絞めるなっ」
+<0360> \{Haruko}"Haa... Que saco!"
+// \{晴子}「はぁっ…あほらし」
+<0361> Ela me empurrou e foi se sentar.
+// 俺を解放すると、その場にどっかりと座り込む.
+<0362> \{Haruko}"Aquela garota não dava vexame na escola há um bom tempo."
+// \{晴子}「学校で癇癪起こすなんて、ここのところなかったんやで」
+<0363> \{Haruko}"E ela não estava brincando com ninguém dessa vez. Mas simplesmente começou a chorar sozinha."
+// \{晴子}「それもなー、誰かと遊んでたんやなくて、一人でいて泣き出したっていうねん」
+<0364> Cada vez que ela falava, eu sentia o cheiro enjoativo e adocicado do saquê.
+// 喋るたびに、甘ったるい酒の匂いが漂う.
+<0365> \{Yukito}"Aconteceu alguma coisa?"
+// \{Yukito}「何があったんだ？」
+<0366> \{Haruko}"Ela não te contou nada?"
+// \{晴子}「…あんた、あの子から聞いてへんの？」
+<0367> \{Yukito}"Sobre o quê?"
+// \{Yukito}「何も聞いてない」
+<0368> Pelo que eu sabia, Misuzu tava agindo normalmente hoje.
+// 俺が知る限り、今日の観鈴におかしなところはなかった.
+<0369> Exceto pelo fato de que ela foi pra casa sozinha ao invés de me encontrar no paredão.
+// 堤防に寄らず、一人で家に帰ったことを除いては.
+<0370> \{Haruko}"Hoje ela teve uma crise nervosa e desmaiou. Aí me ligaram da escola."
+// \{晴子}「また癇癪や.学校で倒れたて、連絡入ったんや」
+<0371> \{Haruko}"Tive que ir lá buscar ela. Levei Misuzu em uma clínica e depois a deixei em casa."
+// \{晴子}「仕方あらへんから、うちがバイクで診療所に連れてって、そのまま家まで送ってきたんや」
+<0372> \{Haruko}"Após esse show ainda voltei ao trabalho. Sério, hoje ela só me causou problemas."
+// \{晴子}「それからまたとんぼ返りや.ええ迷惑やで、ほんま」
+<0373> \{Yukito}"........."
+// \{Yukito}「………」
+<0374> Eu não tinha percebido nada.
+// 全く気づかなかった.
+<0375> \{Haruko}"Por que você parece tão deprimido?"
+// \{晴子}「なんや、なんであんたが落ち込んでるん」
+<0376> \{Yukito}"Você me pediu pra cuidar dela."
+// \{Yukito}「あいつのお目付役を頼んだのは、あんただろ？」
+<0377> Comecei a morar nesta casa com a condição de ficar de olho na Misuzu.
+// 俺は観鈴の面倒を見ることを条件に、この家に厄介になっている.
+<0378> Se eu não fosse capaz nem de fazer isso, então eu realmente seria um aproveitador.
+// それさえできないのなら、本当にただの居候だ.
+<0379> \{Haruko}"Não se preocupe tanto. Tem coisas que estão fora do seu alcance."
+// \{晴子}「気にすることあらへん.あんたにはもう無理や」
+<0380> Ela acenou com a mão na frente do meu rosto.
+// 顔の前でひらひらと手を振る.
+<0381> \{Haruko}"Você já testemunhou isso, né? Aquela garota sempre terá uma crise se ficar muito próxima de alguém."
+// \{晴子}「あんたも見たやろ？ あの子は誰かと親しくなると、癇癪起こすんや」
+<0382> \{Haruko}"E agora que ela não desgruda de você, não terá mais como controlar esses colapsos."
+// \{晴子}「あの子、あんたにべったりやからな.癇癪止めるんはもうあんたには務まらへん」
+<0383> Eu finalmente entendi o que ela disse.
+// その言葉で気づいた.
+<0384> Se Haruko amasse Misuzu, então não haveria como elas viverem juntas por tanto tempo.
+// もしも観鈴が晴子のことを慕っているなら、ずっと一緒に暮らせるはずがない.
+<0385> Porque Haruko não teria sido capaz de impedir as crises de Misuzu.
+// 観鈴は癇癪を起こし、晴子はそれを止められないだろう.
+<0386> Haruko parecia saber o que eu tava pensando.
+// 俺の考えを見通したように、晴子は言った.
+<0387> \{Haruko}"Sou a pessoa certa para esse trabalho porque Misuzu não gosta de mim."
+// \{晴子}「…うちはあの子に好かれてへんからなー.適任っちゅうわけや」
+<0388> \{Haruko}"Ela é realmente difícil de lidar."
+// \{晴子}「まったく、難儀な子やで」
+<0389> Ela riu zombando de si mesma.
+// 自嘲するように笑う.
+<0390> \{Haruko}"Haa... O saquê é meu único amigo em dias sombrios como este."
+// \{晴子}「はぁ…こんな不愉快な日は酒しかあらへん」
+<0391> \{Yukito}"Achei que você já tivesse bebido antes de chegar."
+// \{Yukito}「もう飲んできたんだろ」
+<0392> \{Haruko}"Aquilo foi só o aquecimento."
+// \{晴子}「付き合いやねん.仕事のうちや」
+<0393> \{Haruko}"Vamos beber!"
+// \{晴子}「飲もーっと」
+<0394> Ela se levantou cambaleando.
+// ふらふらと立ち上がる.
+<0395> Decidi deixá-la sozinha.
+// 俺は放っておくことにした.
+<0396> .........
+// ……….
+<0397> Haruko pegou no sono?
+// 晴子は寝てしまったのだろうか.
+<0398> Ou ela costuma ficar quieta quando bebe sozinha?
+// それとも、ひとりで飲んでいる時は静かなだけか.
+<0399> Depois que apaguei as luzes, não houve nenhum som além do zumbido dos insetos e do barulho do ventilador.
+// 消灯してしまうと、虫の音と扇風機の低いうなり以外、物音はしなくなった.
+<0400> Com as pernas esticadas sob o pálido luar, comecei a pensar.
+// 青白い月明かりを伸ばしきった脚に受けて、俺はひとり考える.
+<0401> Lá em cima, a garota está tendo o mesmo sonho repetidamente...
+// …そこで少女は、同じ夢を見続けている.
+<0402> A menina está sempre sozinha...
+// …彼女はいつでもひとりきりで…
+<0403> Ela desaparece antes de ter a chance de crescer...
+// …大人になれずに消えてゆく.
+<0404> Ela continua sonhando o mesmo sonho triste...
+// …そんな悲しい夢を、何度でも繰り返す…
+<0405> Essas foram as palavras que acabei de lembrar hoje.
+// 思い出したばかりの言葉.
+<0406> Eu nem sabia quando exatamente as tinha ouvido antes.
+// いつ聞かされたのかさえわからない.
+<0407> Essas palavras criaram raízes dentro de mim, como se estivessem aqui o tempo todo.
+// それは最初からあったかのように、俺の中に根を張っていた.
+<0408> Uma garota que teve o mesmo sonho repetidas vezes.
+// 同じ夢を見続けている少女.
+<0409> Uma garota no céu...
+// 空にいる少女….
+<0410> Misuzu me contou que ela continuava sonhando com o céu.
+// 空の夢を見続けていると、観鈴は言った.
+<0411> Ela tava sempre sozinha até me conhecer.
+// 俺と会う前、観鈴はひとりきりだった.
+<0412> Ela tava sempre se comportando como uma criança.
+// 観鈴はいつでも子供のような奴だ.
+<0413> Além disso...
+// そして.
+<0414> Eu parecia ter visto Misuzu desaparecer repentinamente antes.
+// 観鈴の姿が、不意に消えてしまうように見えることがあった.
+<0415> Ela parecia quase como se tivesse evaporado no céu...
+// まるで空に溶け込むように.
+<0416> \{Yukito}"........."
+// \{Yukito}「………」
+<0417> Isso não poderia ser pura coincidência.
+// 単なる偶然とは、どうしても思えなかった.
+<0418> Quanto à linha final...
+// そして、最後の文句.
+<0419> 'Ela continua sonhando o mesmo sonho triste...'
+// 『そんな悲しい夢を、彼女は何度でも繰り返す』
+<0420> Isso significava que Misuzu continuaria sonhando?
+// それは、観鈴が夢を見続けるということなのだろうか？
+<0421> Um sonho triste...
+// 悲しい夢.
+<0422> Misuzu mencionou algo semelhante.
+// 観鈴は言っていた.
+<0423> 'Por que meu outro eu, que está no céu, tem que passar por toda essa tristeza?'
+// 『どうして、わたし…空のわたしはあんな悲しい思いをしてるのかな』
+<0424> A garota no céu e Misuzu...
+// 空にいる少女と、観鈴.
+<0425> Havia uma chance de que elas fossem a mesma pessoa.
+// それは同じものなのかもしれない.
+<0426> Misuzu continuou a sonhar com a garota no céu.
+// 空にいる少女の夢を、観鈴は見続けている.
+<0427> E suponha que os sonhos que a garota no céu teve fossem iguais aos de Misuzu...
+// そして、空にいる少女が見ている夢が、観鈴なのだとしたら.
+<0428> 'Misuzu irá desaparecer antes que ela tenha a chance de crescer.'
+// 『観鈴はいつもひとりきりで、大人になれずに消えていく…』
+<0429> Dei de ombros para as dúvidas que se formavam em minha cabeça.
+// 浮かんできた言葉を、すぐにうち消した.
+<0430> Não pode ser isso.
+// そんなはずはない.
+<0431> Misuzu não tava sozinha.
+// あいつはひとりきりじゃない.
+<0432> Ela tinha Haruko e eu.
+// 晴子だって、俺だって近くにいる.
+<0433> Ela tava sempre rindo.
+// あいつはいつだって笑っている.
+<0434> Rindo tanto que até eu tinha vontade de rir com ela.
+// こっちまで釣られて笑い出すぐらいに.
+<0435> \{Yukito}"........."
+// \{Yukito}「………」
+<0436> Fechei os olhos.
+// 俺は目を閉じる.
+<0437> Eu provavelmente tava muito cansado. Minhas pálpebras tavam molhadas.
+// 疲れているのだろう.瞼は熱く、じわりと涙がにじんだ.

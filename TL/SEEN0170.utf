@@ -1,0 +1,306 @@
+﻿// Resources for SEEN0170.TXT
+
+#character '*Ａ'
+#character 'Crianças'
+// 子供たち
+#character 'Menino'
+// 男の子
+#character 'Menina'
+// 女の子
+
+<0000> 17 de Julho (Seg)
+// ７月１７日(月)
+<0001> Eu tava deslizando pelo vento...
+// …風を切ってゆく.
+<0002> Atravessando camadas e mais camadas de nuvens...
+// …幾層もの雲を抜けてゆく.
+<0003> Em direção a alturas ilimitadas e infinitas.
+// どこまでも、どこまでも高みへ.
+<0004> Meu batimento cardíaco tava acelerado.
+// 胸の動悸が早い.
+<0005> Meu corpo tava prestes a ser dilacerado, mas reuni todas as minhas forças...
+// 体はもう、崩れ落ちそうで…でも全身の力を振り絞って…
+<0006> ...quando cheguei àquele lugar...
+// その場所を目指していた…
+<0007> ..........
+// ……….
+<0008> .......
+// …….
+<0009> ....
+// ….
+<0010> Desci do ônibus.
+// 俺は地面に降り立つ.
+<0011>Imediatamente, a umidade do ar e a fumaça do escapamento do ônibus me envolveram.
+// もわっとした熱気とバスの残した排気に包まれる.
+<0012> Fui atingido por uma crise de tontura, então fechei os olhos.
+// 立ちくらみを覚え、目を閉じる.
+<0013> O som do motor logo foi substituído pelo canto das cigarras.
+// 遠ざかってゆくバスのエンジンの音が聞こえなくなると、入れ替わりセミの大群の声が押し寄せてきた.
+<0014> Respirei fundo e senti o gosto do mar.
+// 息を吸うと、潮の匂いが鼻をつく.
+<0015> O sol cruel queimou meu pescoço nu.
+// 陽光は何にも遮られることなく首筋を焼き続けていた.
+<0016> Eu lentamente abri meus olhos.
+// 俺はゆっくり目を開ける.
+<0017> Uma terra desconhecida no calor do verão me cumprimentou.
+// 広がるのは、見知らぬ土地の夏の光景.
+<0018> \{Yukito}"Então essa é a vida no campo..."
+// \{Yukito}「ど田舎だ…」
+<0019> Me sentei no banco perto do ponto de ônibus.
+// 俺はバス停のベンチに腰を下ろす.
+<0020> \{Yukito}"Ufa..."
+// \{Yukito}「ふぅ…」
+<0021> Algumas lascas de madeira tavam picando minha bunda, mas decidi não me incomodar com elas.
+// 何本かささくれだった木がケツに刺さっているが、気にしないことにする.
+<0022> \{Yukito}"Então... O que é isso? O que eu tô fazendo aqui?"
+// \{Yukito}「で…なんだ.俺はこんなところで何をしてるんだ…」
+<0023> O calor entorpeceu meus sentidos.
+// 暑さで思考がうまく回らない.
+<0024> \{Yukito}"Uma porção de \g{ramen}={Prato de sopa de macarrão com diversos ingredientes.}, por favor."
+// \{Yukito}「ラーメンセットひとつ」
+<0025> Pensando bem...
+// …違う.
+<0026> Ah, é mesmo...
+// そっか…
+<0027> \{Yukito}"Estou sem dinheiro."
+// \{Yukito}「金が底を尽いたんだった」
+<0028> Essa foi a razão pela qual desci do ônibus nesta cidade remota.
+// それで、こんなへんぴな町で下車することになったんだ.
+<0029> Pra começar, eu não tinha dinheiro nem pra comprar comida.
+// そもそも飯を食う金さえもない.
+<0030> Caramba, uma porção de ramen estaria além dos meus sonhos mais loucos.
+// ラーメンットなんて、夢のまた夢だ.
+<0031> Eu tinha que ganhar algum dinheiro.
+// となれば、稼ぐしかない. 
+<0032> Depois eu meto o pé dessa cidade...
+// ここで一稼ぎできれば、すぐにも出立できるのだが…
+<0033> Eu olhei em volta.
+// 俺は辺りを見回す.
+<0034> Nesse momento, uma menina e seu irmão mais novo passaram por mim, carregando suas mochilas escolares.
+// するとちょうど、ランドセルを背負った幼い姉弟が目の前を通りすぎるところだった.
+<0035> Eu tava com sorte.
+// ツイている.
+<0036> \{Yukito}"Ei, vocês! Crianças!"
+// \{Yukito}「おい、そこの子供」
+<0037> Eu os parei.
+// 俺は呼び止める.
+<0038> \{Crianças}"Hmm?"
+// \{子供たち}「ん？」
+<0039> Ambos se viraram e olharam pra mim.
+// ふたりの顔がこちらを向く.
+<0040> \{Yukito}"Vou mostrar pra vocês alguns truques de mágica."
+// \{Yukito}「今からお兄さんが、芸を見せてやるからな」
+<0041> Tirei meu boneco do bolso traseiro e coloquei ele no chão.
+// 俺はズボンの後ろのポケットに突っ込んであった人形を取り出すとそれを地面に寝かせる.
+<0042> \{Yukito}"Que comece o divertido show de marionete!"
+// \{Yukito}「さあ、楽しい人形劇の始まりだ」
+<0043> Coloquei minha mão logo acima do boneco e me concentrei.
+// 俺はその真上に手をかざし、念を込めた.
+<0044> A marionete se levantou.
+// するとそれが、ぴょこりと起きる.
+<0045> E então ela se moveu de acordo com a minha força de vontade.
+// これで、俺の意志で自由に動く.
+<0046> *Pit pat pit pat...*
+// とことことこ…
+<0047> O boneco começou a andar.
+// 人形が歩きはじめる.
+<0048> \{Yukito}"E aí, o que acharam? Não é incrível? Não é divertido?"
+// \{Yukito}「どうだ、すごいだろう.楽しいだろう」
+<0049> Observei seus rostos.
+// 俺は子供ふたりの顔を見る.
+<0050> \{Menino}"Ei, por que não vamos dar uma olhada no crescimento das ipomeias?"
+// \{男の子}「朝顔の成長記録、なんてどうかな」
+<0051> \{Menina}"Ah, parece uma ótima ideia."
+// \{女の子}「あ、それいいね」
+<0052> Eles tavam conversando sobre outra coisa...
+// 違う話をしていた.
+<0053> \{Yukito}(Esses pirralhos...)
+// \{Yukito}(こいつら…)
+<0054> Seja como for, o fato é que eu me apresentei pra eles...
+// まぁいい.こっちは芸を見せたことには変わりはないんだから.
+<0055> \{Yukito}"Ei, vocês dois assistiram o meu espetáculo. Tem alguma coisa pra me dar?"
+// \{Yukito}「な、おまえたち、お兄ちゃんの芸を見たんだから払うものがあるだろ？」
+<0056> \{Menino}"Do que esse homem está falando?"
+// \{男の子}「さっきから、このひとひとりで何いってるの？」
+<0057> \{Menina}"Takashi, você deveria fingir que ele não está aí!"
+// \{女の子}「たかし、無視しないとダメっ」
+<0058> \{Menino}"Ok, acho que vou chutar essa coisa para longe daqui."
+// \{男の子}「あ、これ蹴りながら帰ろうよ」
+<0059> O menino tava olhando pros meus pés.
+// 男の子が、俺の足下を見ていた.
+<0060> Ele tava olhando pra minha marionete.
+// そこには俺の人形.
+<0061> Estendi a mão pra pegá-la, mas já era tarde demais.
+// 手を伸ばすが、一歩遅かった.
+<0062> *Bam!!!*
+// ぼむっ!
+<0063> O boneco saiu voando pelo céu.
+// 人形は空の彼方へと、かっとんでいった.
+<0064> \{Menina}"Takashi! Venha aqui, rápido!"
+// \{女の子}「たかしっ、早くこっち来なさい!」
+<0065> \{Menino}"Tchau, tchau, idiota!"
+// \{男の子}「ばいばいぶー」
+<0066> As crianças fugiram rapidamente.
+// 姉弟は逃げるように去っていった.
+<0067> *Hwoooo...*
+// ひょおおおおおぉぉぉぉ…
+<0068> Um vento frio e sombrio soprava atrás de mim.
+// 後には、荒涼とした風が吹くばかりだった.
+<0069> Não, isso foi apenas uma analogia do meu coração esfriando.
+// いや、違う.寒いのは俺の心だけだ.
+<0070> O calor sufocante ainda pairava no ar.
+// 相変わらず、辺りはうだるような熱気が立ちこめている.
+<0071> \{Yukito}"Ufa..."
+// \{Yukito}「ふぅ…」
+<0072> Me sentei no banco mais uma vez.
+// 俺はベンチに再び座り込む.
+<0073> \{Yukito}"Então, onde eu tava mesmo?"
+// \{Yukito}「で、なんだっけ…」
+<0074> \{Yukito}"Uma porção de ramen."
+// \{Yukito}「ラーメンセット」
+<0075> Não era isso...
+// …違う.
+<0076> Lembrei.
+// 思い出した.
+<0077> \{Yukito}"Tenho que procurar minha marionete..."
+// \{Yukito}「人形を探しにいかないと…」
+<0078> Eu me levantei.
+// 俺は立ち上がる.
+<0079> \{Yukito}"Onde será que ela foi parar?"
+// \{Yukito}「どこまで飛んでいったんだよ…」
+<0080> Enquanto caminhava, olhei pra cima.
+// 歩きながら、顔を上げる.
+<0081> O céu se estendia em todas as direções.
+// その先には閉ざすものなく、空が広がっていた.
+<0082> Não havia qualquer obstrução.
+// 遮へい物のひとつもない.
+<0083> O céu e o solo foram divididos em dois ao nível dos meus olhos.
+// 空と地上が目の高さでふたつに割れている.
+<0084> \{Yukito}(Uma típica paisagem bucólica, né...?)
+// \{Yukito}(やっぱ田舎だな…)
+<0085> Levantei meu queixo mais alto e tudo no chão desapareceu de vista.
+// さらに顎を高くあげて、視界から地上の物を消す.
+<0086> O céu era uma interminável folha azul.
+// 一面が青に染まった.
+<0087> \{Yukito}".........."
+// \{Yukito}「………」
+<0088> Ao fazer isso, senti como se estivesse dando continuidade àquele sonho que tive ao ser embalado pelo ônibus.
+// すると、ついさっきバスに揺られて見ていた夢の続きを見ているような気がした.
+<0089> Isso tinha que ser um sonho.
+// そう、あれは確かに夢だった.
+<0090> Em direção a alturas ilimitadas e infinitas.
+// どこまでも、どこまでも高みへ.
+<0091> Eu tava alcançando aquele lugar.
+// 俺はその場所を目指していた.
+<0092> O que me espera lá?
+// その先に何が待つのか.
+<0093> Pra descobrir o que iria encontrar, continuei andando.
+// それを確かめるために、歩き続けている.
+<0094> A luz do sol tremeluziu.
+// 陽光が揺らいだ.
+<0095> Um pássaro solitário batia as asas e se dirigia pro céu.
+// 一羽の鳥がひるがえり、空を目指していた.
+<0096> O céu tava muito claro pra ser visto a olho nu.
+// その先はもう、まぶしくて見えない.
+<0097> Se eu fechar meus olhos agora, esse pássaro me levará junto com ele?
+// 今、目を閉じたなら、連れていってくれるだろうか.
+<0098> Deixando esse corpo sem asas no chão...
+// この翼のない肉体を地上に残して.
+<0099> Fechei meus olhos.
+// 俺は目を閉じてみた.
+<0100> ..........
+// ……….
+<0101> .......
+// …….
+<0102> ....
+// ….
+<0103> \{Yukito}".........."
+// \{Yukito}「………」
+<0104> Pensei ter ouvido uma voz.
+// 声が聞こえた気がした.
+<0105> Quem tá me chamando?
+// 誰かが…呼んだのだろうか….
+<0106> Ai... Meu pescoço tá doendo.
+// 痛い…首が.
+<0107> De repente, percebi que o chão de concreto tava bem na minha frente.
+// 気づけば、コンクリートの地面が目の前にあった.
+<0108> \{Yukito}(Eu adormeci...?)
+// \{Yukito}(眠っていたのか…)
+<0109> Tentei me lembrar do que tava fazendo.
+// 俺は何をしていたのかを思い出してみる.
+<0110> Mas logo desisti.
+// と思ったがやめておいた.
+<0111> \{Yukito}(Isso é patético demais pra sequer pensar...)
+// \{Yukito}(あまりに情けないからな…)
+<0112> Eu tava procurando minha marionete, que o pirralho mandou pelos ares.
+// 俺は子供に蹴り飛ばされた人形を探していたのだ.
+<0113> Procurei na área pra onde supostamente voou, mas não encontrei nada.
+// 飛んでいった方向を歩いて探して回ったのだが、結局見つからず仕舞い.
+<0114> Devo ter sentado no paredão pra fazer uma pausa antes de sucumbir à fome e à sonolência.
+// この堤防の上に座って休んでいたところ、空腹感と眠気に襲われ、気絶するように寝入ってしまったのだ.
+<0115> Eu possivelmente dormi por cerca de duas a três horas. Já tava ficando escuro.
+// 二時間か、三時間ぐらい寝ていたのだろう.すでに辺りは暗かった.
+<0116> \{Yukito}(Acho que vou ter que parar de procurar hoje...)
+// \{Yukito}(今日はもう探せないじゃないか…)
+<0117> Aquela marionete é a minha única fonte de renda.
+// 人形は大切な商売道具だった.
+<0118> Sem ela, eu não poderia nem ter esperança de conseguir me sustentar.
+// あれなしに、俺は稼ぎを得ることができない.
+<0119> Isso significaria ficar sem comida...
+// できなければ、飯にもありつけない.
+<0120> Era uma questão de vida ou morte.
+// 死活問題だった.
+<0121> ..........
+// きょろきょろ…
+<0122> Eu olhei em volta.
+// 辺りを見回してみる.
+<0123> \{Yukito}(Onde estou?)
+// \{Yukito}(どこだよ、ここ…)
+<0124> Eu nem sabia mais de que direção vim.
+// 自分がどの方向からやってきたかさえ、わからなくなってしまっていた.
+<0125> *Rooonc...*
+// ぐー…
+<0126> Eu tava morrendo de fome.
+// 腹減った.
+<0127> Calma... o que eu faço agora?
+// さて、どうしたものか….
+<0128> Devo partir pro mundo do crime e bater umas carteiras?
+// 追い剥ぎのまねごとでもするか？
+<0129> Eu tava cambaleando de um lado pro outro.
+// 俺はふらふらと歩き出す.
+<0130> Tava com tanta fome que não conseguia nem andar direito.
+// 空腹のため、足取りがおぼつかない.
+<0131> Alguém me alcançou.
+// その俺を追い越してゆく者がいる.
+<0132> Era uma senhora idosa. Ela tava caminhando e indo cada vez mais longe.
+// 老婆だった.のっそりのっそりと歩いて、遠ざかってゆく.
+<0133> Que diabos...
+// がーーーん…
+<0134> Eu era ainda mais lento que uma senhora idosa.
+// 今の俺は、あんな老婆よりも歩みが遅いのだ.
+<0135> Isso foi um choque pra mim.
+// ショックだった.
+<0136> Nesse estado em que me encontro, eu nunca seria capaz de furtar qualquer coisa. Na verdade, era praticamente o oposto.
+// 追い剥ぎもなにもあったものじゃない.まったく逆だ.
+<0137> Até uma criança cega poderia me roubar agora.
+// 今の俺なら、子供相手に身ぐるみを剥がされてしまいかねない.
+<0138> Aos poucos, eu ia perdendo a minha força.
+// そのぐらい弱り果てている.
+<0139> A fome era minha maior fraqueza.
+// 空腹は、俺の最大の弱点だった.
+<0140> \{Yukito}"Gah..."
+// \{Yukito}「ぐは…」
+<0141> E finalmente desmaiei.
+// 俺はついに倒れてしまう.
+<0142> Desde que cheguei nesta cidade, tudo deu errado.
+// この町にきて、ロクなことがなかった.
+<0143> Primeiro, algumas crianças trataram minha marionete como lixo...
+// …子供に商売道具をないがしろにされて…
+<0144> E agora, fui ultrapassado por uma senhora idosa...
+// ……老婆に追い抜かれて……
+<0145> ..........
+// ……….
+<0146> .......
+// …….
+<0147> ....
+// ….

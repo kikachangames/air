@@ -1,0 +1,960 @@
+﻿// Resources for SEEN0217.TXT
+
+#character 'Misuzu'
+#character '*Ａ'
+#character 'Voz'
+#character 'Garota'
+#character 'Minagi'
+#character 'Michiru'
+
+<0000> \{Misuzu}"Ah!"
+// \{観鈴}「あ…」
+<0001> Misuzu, que caminhava ao meu lado, soltou uma exclamação de surpresa.
+// 隣を歩く観鈴が小さな声を上げた.
+<0002> \{Yukito}"Que foi?"
+// \{Yukito}「どうした」
+<0003> \{Misuzu}"Bolhas de sabão..."
+// \{観鈴}「シャボン玉…」
+<0004> Segui a direção do olhar de Misuzu.
+// 呟く観鈴の視線の先を見た.
+<0005> A cor do céu tava gradualmente mudando do carmesim pro índigo.
+// 赤から藍へと色を変え始めた空の下.
+<0006> Pequenas bolhas flutuavam em nossa direção.
+// どこからともなく、小さなシャボン玉が漂ってきた.
+<0007> \{Misuzu}"Que fofo! Nihaha."
+// \{観鈴}「かわいい、にははっ」
+<0008> Misuzu alegremente pegou as bolhas.
+// 観鈴はうれしそうに、漂ってきたシャボン玉に指先をのばす.
+<0009> *Fwissh*
+// ふわ….
+<0010> \{Misuzu}"Eh?"
+// \{観鈴}「あれ？」
+<0011> As bolhas roçaram os dedos de Misuzu e flutuaram pra longe.
+// 観鈴が伸ばした指先を擦り抜け、シャボン玉が漂っていく.
+<0012> À nossa frente, ouvimos o som de risadas...
+// その行き先から、楽しげな声が….
+<0013> Era a estação por onde passei esta manhã.
+// 昼間に立ち寄った駅だ.
+<0014> Pensando bem, lembrei que Haruko me disse que pegar um trem nesta cidade era impossível.
+// そう言えば晴子が『電車は無理や』とか言っていたような気がしないでもない.
+<0015> Na hora, não prestei muita atenção, porque eu tava viajando me imaginando como um "vaqueiro"...
+// あの時はカウボーイに酔っていたからな….
+<0016> Mas devia haver alguma razão por trás disso.
+// よく憶えていないが、なにか無理な理由でもあるんだろうか.
+<0017> A estação não era nada fora do comum.
+// 別に普通の駅だ.
+<0018> O local tava limpo e certamente não parecia abandonado.
+// 綺麗だし、特に寂れた様子もない.
+<0019> .........
+// ……….
+<0020> \{Yukito}(Por que é impossível pegar um trem?)
+// \{Yukito}(…なにが無理なんだ…？)
+<0021> \{Misuzu}"Ah..."
+// \{観鈴}「あ…」
+<0022> Misuzu parecia ter notado algo.
+// 観鈴が何かに気づいて声を上げる.
+<0023> Eu me virei pra olhar.
+// 俺もつられてそっちを見た.
+<0024> \{Voz}"Eba! Eu consegui de novo!"
+// \{声}「やったーっ、またせいこーっ」
+<0025> \{Yukito}"........."
+// \{Yukito}「………」
+<0026> Era uma garota.
+// …少女がいた.
+<0027> \{Voz}"Eu vou fazer outra."
+// \{声}「もういっこ飛ばすよーっ」
+<0028> \{Garota}"Ok."
+// \{少女}「…うん」
+<0029> Era uma visão surreal.
+// それは、とても幻想的な光景だった.
+<0030> Achei que tinha tropeçado, sem saber, em uma floresta de ilusões.
+// 知らぬ間に、夢幻の森に迷い込んでしまったかのような….
+<0031> Esse foi o impacto que a cena deixou em mim.
+// そんな錯覚を覚える光景だった.
+<0032> \{Misuzu}"Ah... É a Tohno-san."
+// \{観鈴}「あ…遠野さんだ」
+<0033> Misuzu sabia o nome da garota.
+// 観鈴が、少女の名を呼ぶ.
+<0034> \{Yukito}"Ah, você a conhece?"
+// \{Yukito}「…なんだ.知り合いか」
+<0035> \{Misuzu}"Sim. É a Tohno Minagi."
+// \{観鈴}「うん.遠野美凪さん」
+<0036> \{Misuzu}"Ela é minha colega de..."
+// \{観鈴}「わたしのクラスメイ…」
+<0037> \{Misuzu}"...classe... Ah!"
+// \{観鈴}「ト…わっ」
+<0038> A garota nos notou.
+// 少女が俺たちの存在に気づく.
+<0039> \{Minagi}"........."
+// \{美凪}「………」
+<0040> Ela olhou pra nós sem dizer nada.
+// 物言わず、俺たちをじっと見つめる.
+<0041> \{Misuzu}"Ah, ah, ah!"
+// \{観鈴}「わっ、わっ、わっ」
+<0042> \{Yukito}(Por que ela ficou abalada?)
+// \{Yukito}(なに慌ててんだ、こいつ)
+<0043> Misuzu abriu e fechou a boca, tentando encontrar algo pra dizer pra sua colega.
+// 観鈴は、口をぱくぱくさせて、クラスメイトに声をかけようとしている.
+<0044> \{Minagi}"........."
+// \{美凪}「………」
+<0045> A garota, por sua vez, ficou apenas olhando pra nós sem alterar a sua expressão.
+// そのクラスメイトは、俺たちを見つめたまま、表情さえ変えようとしない.
+<0046> E então...
+// そして….
+<0047> O ar ao seu redor recuperou a cor da realidade.
+// ふと、少女を取り巻く空気が、現実の色を取り戻した.
+<0048> O céu mudou do pôr do sol pro anoitecer.
+// いつの間にか、景色は夕暮れから夜へと移り変わっていた.
+<0049> *Pit pat pit pat...*
+// すたすたすた…
+<0050> A garota caminhou em nossa direção.
+// 少女が、俺たちの前に歩み寄ってくる.
+<0051> \{Misuzu}"O-Olá, Tohno-san."
+// \{観鈴}「こ、こんにちは、遠野さんっ」
+<0052> Misuzu cumprimentou sua colega apressadamente.
+// 観鈴は、慌ててクラスメイトに挨拶をした.
+<0053> \{Minagi}"........."
+// \{美凪}「………」
+<0054> Ela não respondeu, mas continuou a nos observar.
+// 返答はなく、ただじっと見つめられるだけ.
+<0055> \{Misuzu}"Hm..."
+// \{観鈴}「あの…」
+<0056> Misuzu parecia perturbada com a reação de sua colega. Ou melhor, com a falta dela.
+// どうやら、観鈴はクラスメイトの反応に困っているようだ.
+<0057> Eu me perguntei se deveria ajudá-la aqui.
+// ここは、助け船を出してやるべきだろうか.
+<0058> \{Minagi}"........."
+// \{美凪}「………」
+<0059> \{Minagi}"Que coincidência..."
+// \{美凪}「…奇遇ですね」
+<0060> A garota finalmente abriu a boca.
+// 少女がようやく口を開く.
+<0061> \{Misuzu}"S-Sim, é uma coincidência incrível. Estou realmente surpresa."
+// \{観鈴}「は、はいっ、すっごい偶然っ.びっくり」
+<0062> Misuzu parecia deslumbrada.
+// 大げさに驚いてみせる観鈴.
+<0063> \{Minagi}"........."
+// \{美凪}「………」
+<0064> A garota não respondeu.
+// 反応しない少女.
+<0065> \{Misuzu}"Hm..."
+// \{観鈴}「あの…」
+<0066> Misuzu tava ficando angustiada.
+// 困った観鈴.
+<0067> \{Yukito}"........."
+// \{Yukito}「………」
+<0068> Eu simplesmente fiquei assistindo.
+// 傍観する俺.
+<0069> \{Minagi}"........."
+// \{美凪}「………」
+<0070> \{Minagi}"Boa noite."
+// \{美凪}「…こんばんは」
+<0071> Ela murmurou suavemente.
+// ぽつりと呟く.
+<0072> \{Misuzu}"Uh..."
+// \{観鈴}「えっ…」
+<0073> \{Minagi}"........."
+// \{美凪}「………」
+<0074> \{Minagi}"Tá errado?"
+// \{美凪}「…違う？」
+<0075> \{Misuzu}"Eh? Eh, eh?"
+// \{観鈴}「えっ？ えっ、えっ？」
+<0076> \{Minagi}"Então... hum..."
+// \{美凪}「…じゃあ…えっと…」
+<0077> De repente, ela mergulhou profundamente em seus pensamentos.
+// 唐突に物思いに耽る.
+<0078> \{Misuzu}"........."
+// \{観鈴}「………」
+<0079> \{Yukito}"........."
+// \{Yukito}「………」
+<0080> Olhamos pra garota, esperando que algo acontecesse.
+// 少女を見つめながら、二人でなにかを待つ.
+<0081> Claro, não tínhamos ideia do que estávamos esperando.
+// もちろん、なにを待てばいいのかは知らない.
+<0082> \{Minagi}"........."
+// \{美凪}「………」
+<0083> \{Minagi}"Ah."
+// \{美凪}「…あ」
+<0084> Aí vem.
+// これか？
+<0085> Aí vêm as palavras que esperávamos.
+// 俺たちが待ちわびた、少女の言葉は….
+<0086> \{Minagi}"Bom diiiaaanooite."
+// \{美凪}「…おはこんばんちは」
+<0087> Bom o quê...?
+// …かなりの死語だった.
+<0088> \{Misuzu}"B-Bom diiiaaanooite..."
+// \{観鈴}「お、おはこんばんちは…」
+<0089> Misuzu ficou surpresa com sua colega de classe, mas conseguiu dar uma resposta.
+// 観鈴は、クラスメイトに度肝を抜かれながらも、何とか反応してみせる.
+<0090> \{Minagi}"........."
+// \{美凪}「………」
+<0091> \{Minagi}"Correto?"
+// \{美凪}「…正解？」
+<0092> \{Misuzu}"Huh?"
+// \{観鈴}「えっ」
+<0093> \{Minagi}"Não?"
+// \{美凪}「…はずれ？」
+<0094> \{Misuzu}"Suponho que esteja correto. Eu acho."
+// \{観鈴}「えっ、えっと、正解かな.どっちかといえば」
+<0095> \{Minagi}"Oh..."
+// \{美凪}「そうですか…」
+<0096> Pelo menos agora ela parecia feliz.
+// …一応、喜んでいるようだ.
+<0097> \{Yukito}"Ei. O que há com ela?"
+// \{Yukito}「おい.なんなんだ、こいつは…」
+<0098> Puxei Misuzu pra perto e sussurrei pra ela.
+// 観鈴を引き寄せ、耳打ちをする.
+<0099> \{Misuzu}"Ela é minha colega de classe."
+// \{観鈴}「クラスメイト」
+<0100> \{Yukito}"Isso eu já sei."
+// \{Yukito}「それは知ってる」
+<0101> \{Misuzu}"Tohno Minagi."
+// \{観鈴}「遠野美凪さん」
+<0102> \{Yukito}"Também já sei disso."
+// \{Yukito}「それも、さっき聞いた」
+<0103> \{Misuzu}"Ela é linda, né?"
+// \{観鈴}「綺麗だよね」
+<0104> \{Yukito}"Sim, ela é."
+// \{Yukito}「ああ.そうかもしれないな」
+<0105> \{Misuzu}"Ela é a melhor aluna da nossa turma."
+// \{観鈴}「成績も、学年でトップ」
+<0106> \{Yukito}"Isso é realmente incrível."
+// \{Yukito}「そらすごいな」
+<0107> \{Misuzu}"Sim. Totalmente diferente de mim. Nihaha."
+// \{観鈴}「だよね.わたしとは、大違い.にはは」
+<0108> \{Yukito}"Você deveria estudar mais."
+// \{Yukito}「おまえも、ちゃんと勉強しろよ」
+<0109> \{Misuzu}"Bem... A escola é difícil."
+// \{観鈴}「うーん…勉強むずかしい」
+<0110> \{Yukito}"Apenas não desista e se esforce mais."
+// \{Yukito}「ま、諦めずに頑張るこったな」
+<0111> \{Misuzu}"Mas eu tô tentando."
+// \{観鈴}「がんばってるつもりなんだけどな…」
+<0112> \{Yukito}"Então dê o seu melhor."
+// \{Yukito}「もっとシャープに頑張ってみろ」
+<0113> \{Misuzu}"Ok, vou me esforçar mais."
+// \{観鈴}「うん、がんばってみる」
+<0114> \{Yukito}"Sim. Esse é o espírito."
+// \{Yukito}「ああ.そうしろ」
+<0115> \{Yukito}"Espere, não era disso que eu tava falando!"
+// \{Yukito}「って、話しがずれてるっ」
+<0116> De qualquer forma, o que diabos significa dar o seu melhor?
+// しかも、シャープに頑張るってどういう意味だ.
+<0117> \{Minagi}"Vocês dois estão me ignorando..."
+// \{美凪}「…放ったらかしですね…私」
+<0118> \{Yukito e Misuzu}"Oh..."\r "Ah..."
+// \{Yukito}"Oh..."\r
+// \{観鈴}「あ…」
+<0119> \{Minagi}"........."
+// \{美凪}「………」
+<0120> \{Minagi}"Kamio-san, você quer falar comigo?"
+// \{美凪}「…なにか御用ですか？ 神尾さん」
+<0121> \{Misuzu}"Bem... não, na verdade não..."
+// \{観鈴}「え…えーっと、特に用ってわけじゃないですけど…」
+<0122> \{Minagi}"Oh?"
+// \{美凪}「そう…？」
+<0123> \{Misuzu}"Sim..."
+// \{観鈴}「うん…」
+<0124> \{Minagi}"........."
+// \{美凪}「………」
+<0125> \{Misuzu}"........."
+// \{観鈴}「………」
+<0126> Elas caíram em silêncio novamente.
+// 再び沈黙….
+<0127> Esta conversa tava em um impasse.
+// 会話が続かないらしい.
+<0128> Misuzu ainda mantinha o sorriso, mas sua testa tava coberta de suor frio.
+// 観鈴は、いちおう笑顔を保ってはいるが、額に冷や汗をかいている.
+<0129> Parecia que elas não eram tão próximas.
+// どうやら、それほど親しい間柄ではないようだ.
+<0130> Sendo assim...
+// とはいえ….
+<0131> \{Yukito}"Vocês duas são colegas de classe. Vocês não deveriam conversar mais?"
+// \{Yukito}「クラスメイト同士だったら、もっと楽しく会話したらどうだ」
+<0132> Decidi ajudá-las.
+// とりあえず、この場は助けてやる.
+<0133> \{Misuzu}"Eh, sim."
+// \{観鈴}「えっ、う、うん」
+<0134> Vai, Misuzu-chin! Você consegue.
+// 観鈴ちんファイトである.
+<0135> \{Misuzu}"Um, Tohno-san..."
+// \{観鈴}「あの、遠野さん…」
+<0136> A voz de Misuzu parecia tensa.
+// 観鈴の声には、妙に力が入っている.
+<0137> \{Misuzu}"H-Hoje é mais um dia de sorte."
+// \{観鈴}「ほ、本日も実に良いお日柄で」
+<0138> \{Yukito}"Ei..."
+// \{Yukito}「…おい」
+<0139> Que papo de doido.
+// わけのわからない切り出しだった.
+<0140> \{Minagi}"........."
+// \{美凪}「………」
+<0141> \{Minagi}"Sim... Hoje é um dia de sorte."
+// \{美凪}「…はい…良いお日柄ですね」
+<0142> Mas a conexão foi estabelecida entre elas.
+// でも、会話成立.
+<0143> A conversa fiada entre as colegiais hoje em dia era profunda demais pra mim.
+// 昨今の女学生の会話は実に奥が深い.
+<0144> \{Misuzu}"O que você está fazendo aqui?"
+// \{観鈴}「なにしてたんですか、こんなところで」
+<0145> Misuzu, com sua confiança aumentada, continuou a conversa.
+// 自信をつけた観鈴が、にこやかに会話を振る.
+<0146> \{Minagi}"........."
+// \{美凪}「………」
+<0147> \{Minagi}"Banho de sol."
+// \{美凪}「…日光浴」
+<0148> \{Misuzu}"Eh?"
+// \{観鈴}「えっ」
+<0149> \{Minagi}"........."
+// \{美凪}「………」
+<0150> \{Minagi}"Entendi... Já é noite."
+// \{美凪}「…なんちゃって…今は夜」
+<0151> \{Misuzu}"........."
+// \{観鈴}「………」
+<0152> \{Yukito}"........."
+// \{Yukito}「………」
+<0153> Por uma fração de segundo, o tempo pareceu ter congelado.
+// 一瞬、時間が止まったような気がした.
+<0154> \{Voz}"Eeeei, Minagi!"
+// \{声}「うぉーーーいっ、美凪ぃーーーっ」
+<0155> \{Yukito}"Hmm?"
+// \{Yukito}「…ん？」
+<0156> *Pit pat...*
+// ぱたぱたぱた…
+<0157> Ouvi o som de passos se aproximando.
+// 近づいてくる足音.
+<0158> *Pit pat...*
+// ぱたぱたぱた……
+<0159> *Pit pat pit pat...*
+// …ぱたぱたぱたぱた…
+<0160> *Pit pat pit pat pit pat...*
+// ぱたぱたぱたぱたぱたぱた
+<0161> Bam! \shake{7}
+// どがっ!\shake{7}
+<0162> \{Yukito}"Bleargh!"
+// \{Yukito}「ぐはっ」
+<0163> \{Misuzu}"Eita, Yukito-san está curvado como uma folha."
+// \{観鈴}「わっ、Yukitoさんが木の葉のように」
+<0164> \{Garota}"O que você está fazendo, Minagi? E as bolhas?"
+// \{少女}「なにしてんの、美凪.シャボン玉は？」
+<0165> \{Minagi}"Umm..."
+// \{美凪}「…うん」
+<0166> \{Garota}"Veja! Estou pegando o jeito! Vamos, vamos continuar!"
+// \{少女}「いまね、いまね、絶好調だよっ.はやくつづきしよ」
+<0167> \{Minagi}"Ok, mas..."
+// \{美凪}「…うん…でも」
+<0168> Ela olhou pra mim.
+// ちらりと俺を見る.
+<0169> \{Garota}"Hehehe! Apresse-se, apresse-se!"
+// \{少女}「へへへー、はやくはやく」
+<0170> A garota agarrou os braços de Tohno Minagi como uma criança mimada.
+// 少女は、甘えるように遠野美凪の腕にすがりつく.
+<0171> \{Yukito}"Ugh..."
+// \{Yukito}「うぐぐぐぐ…」
+<0172> \{Misuzu}"Yukito-san parece machucado."
+// \{観鈴}「Yukitoさん、いたそう…」
+<0173> Eu realmente tô machucado.
+// …痛いんだよ.
+<0174> \{Misuzu}"Essa é sua irmã?"
+// \{観鈴}「その女の子、妹さんですかっ」
+<0175> Misuzu se intrometeu.
+// 観鈴が、二人の空気に割って入る.
+<0176> \{Garota}"Humni? Não, sou a melhor amiga da Minagi."
+// \{少女}「んに？ ちがうよ、みちるは美凪の親友だよ」
+<0177> \{Garota}"Quem é você?"
+// \{少女}「お姉ちゃんは、だれかな？」
+<0178> \{Misuzu}"Eu? Sou colega de classe de Tohno-san."
+// \{観鈴}「わたし？ わたしは、遠野さんのクラスメイト」
+<0179> \{Garota}"Hmmni? Colega de classe?"
+// \{少女}「んに？ クラスメイト？」
+<0180> \{Misuzu}"Sim."
+// \{観鈴}「うん」
+<0181> \{Garota}"Entendi. Você é uma condiscípula educacional."
+// \{少女}「そっか.んじゃあ、勤勉の友だねっ」
+<0182> \{Misuzu}"C-Condiscípula...?"
+// \{観鈴}「き、きん…？」
+<0183> Misuzu se atrapalhou com a palavra difícil.
+// いきなりの難解な日本語に、戸惑う観鈴.
+<0184> \{Misuzu}"Nihaha."
+// \{観鈴}「にははっ」
+<0185> Ela riu disso...
+// 笑ってごまかしている….
+<0186> \{Garota}"Hmm?"
+// \{少女}「んに？」
+<0187> A garota percebeu minha presença.
+// 少女が俺の存在に気づいた.
+<0188> \{Garota}"Muu?"
+// \{少女}「むぅ？」
+<0189> \{Yukito}"........."
+// \{Yukito}「………」
+<0190> \{Yukito}"O que foi?"
+// \{Yukito}「…なんだよ」
+<0191> \{Garota}"Mumu?"
+// \{少女}「むむぅ？」
+<0192> Ela tava pensando em algo.
+// 悩んでいるようだ.
+<0193> \{Garota}"Mumumuu?"
+// \{少女}「むむむぅぅ？」
+<0194> Ela pensou ainda mais.
+// さらに悩んでいるようだ.
+<0195> .........
+// ……….
+<0196> ......
+// …….
+<0197> ...
+// ….
+<0198> E finalmente a garota chegou a uma conclusão.
+// そして、少女の結論.
+<0199> \{Garota}"Nyowah! É aquele sequestrador pervertido de novo!"
+// \{少女}「にょわっ!またまたヘンタイゆうかいまだっ!」
+<0200> \{Yukito}"Pare de me chamar assim!"
+// \{Yukito}「まだ言うかっ」
+<0201>Isso tá ficando cada vez pior. Dessa vez, ela ainda acrescentou adjetivos mais comprometedores pra me descrever.
+// しかも、語頭に失敬な言葉がつけたされていた.
+<0202> \{Garota}"Ei, ei, Minagi! Ele é um sequestrador! Um pervertido!"
+// \{少女}「ねえねえ美凪っ、ゆうかいまだよっ、ヘンタイだよっ!」
+<0203> \{Yukito}"Pare de mentir!"
+// \{Yukito}「言いふらすなっ」
+<0204> \{Minagi}"........."
+// \{美凪}「………」
+<0205> \{Minagi}"Pervertido..."
+// \{美凪}「…ヘンタイ……」
+<0206> \{Yukito}"Não acredite nela!"
+// \{Yukito}「しみじみと言うなっ」
+<0207> O pior é que ela tá suspirando.
+// しかも、ため息混じりに….
+<0208> \{Minagi}"O que você está procurando?"
+// \{美凪}「…ここにきた目的は？」
+<0209> \{Yukito}"Ei, você tá me ouvindo?!"
+// \{Yukito}「って、人の話を聞けっ」
+<0210> \{Minagi}"...?"
+// \{美凪}「…？」
+<0211> Por que ela tá inclinando a cabeça?
+// …なぜ首を傾げる.
+<0212> \{Misuzu}"Bem, o alvo dele é..."
+// \{観鈴}「えっと、それはですねー」
+<0213> \{Yukito}"Você também vai tirar uma comigo?"
+// \{Yukito}「おまえまでボケるのかっ」
+<0214> \{Minagi}"...?"
+// \{美凪}「…？」
+<0215> \{Misuzu}"?"
+// \{観鈴}「？」
+<0216> As duas colegas de classe inclinaram a cabeça de forma sincronizada.
+// 仲良く首を傾げるクラスメイトたち.
+<0217> \{Garota}"Hmnyu, não faz sentido perguntar isso a ele."
+// \{少女}「んにゅ～、そんなこと、きいたらダメだよふたりともぉ」
+<0218> \{Minagi}"Por que?"
+// \{美凪}「…どうして？」
+<0219> \{Garota}"Porque ele não dirá a verdade."
+// \{少女}「だって、言えるはずないよねー」
+<0220> \{Yukito}"Que verdade?"
+// \{Yukito}「なにをだ」
+<0221> \{Garota}"Humni? Que está procurando por novas vítimas, é claro. Isso é o que todos os sequestradores fazem."
+// \{少女}「んに？なにって、あたらしいえものをさがしてるんだよね、ゆうかいまは」
+<0222> \{Yukito}"........."
+// \{Yukito}「………」
+<0223> \{Garota}"Mas é uma pena pra você."
+// \{少女}「でも、ざんねんだったね」
+<0224> \{Garota}"Porque não há ninguém pra sequestrar aqui, exceto eu. Nyahaha."
+// \{少女}「ここには、みちるたち以外はいませんっ.にゃはは」
+<0225> \{Yukito}"........."
+// \{Yukito}「………」
+<0226> *Splat splat splat*
+// すたすたすた.
+<0227> *Bop*\shake{1}
+// ぽかっ.\shake{1}
+<0228> \{Garota}"Hmnyugo."
+// \{少女}「んにゅごっ」
+<0229> \{Misuzu}"Eita, isso foi estrondoso."
+// \{観鈴}「わっ、すごい音した」
+<0230> \{Garota}"Nyuuu..."
+// \{少女}「にゅぅぅ～～～…」
+<0231> \{Yukito}"Eu realmente vou ficar bravo se você continuar me difamando por aí."
+// \{Yukito}「あんまり好き勝手言ってると、終いには怒るぞ」
+<0232> \{Garota}"Uhu... Mas você já tá bravo..."
+// \{少女}「うぅ…もう怒ってるよぉ…」
+<0233> \{Minagi}"Ei..."
+// \{美凪}「…あの…」
+<0234> \{Yukito}"Hm? O quê?"
+// \{Yukito}「ん？なんだよ」
+<0235> \{Minagi}"Hm..."
+// \{美凪}「…えっと…」
+<0236> \{Minagi}"Vocês dois são bons amigos?"
+// \{美凪}「…仲良し？」
+<0237> \{Yukito}"Sem chance!"
+// \{Yukito}「なんでやねんっ!」
+<0238>Eu balancei o punho cerrado.
+// びしっ、と裏拳をかました.
+<0239> \{Minagi}"Ah... Resposta afiada."
+// \{美凪}「…あ…切れ味抜群」
+<0240> Ela ficou impressionada.
+// 感心された.
+<0241> \{Yukito}(.........)
+// \{Yukito}(………)
+<0242> \{Yukito}(O que há com ela?)
+// \{Yukito}(…なんでやねん)
+<0243> Talvez eu tenha ficado um pouco lisonjeado com o comentário dela.
+// ちょっと嬉しかったりもする.
+<0244> \{Minagi}"Por falar nisso..."
+// \{美凪}「…ところで」
+<0245> \{Yukito}"Hmm?"
+// \{Yukito}「うん？」
+<0246> \{Minagi}"Voltando ao mesmo assunto."
+// \{美凪}「…同じ質問です」
+<0247> \{Minagi}"Por que... você escolheu este lugar para cometer seu crime?"
+// \{美凪}「…どうして…ここを犯行現場に選ばれたのですか？」
+<0248> \{Yukito}"Esse não é o mesmo assunto."
+// \{Yukito}「質問が変わってるじゃないかっ」
+<0249> \{Minagi}"........."
+// \{美凪}「………」
+<0250> \{Minagi}"Então qual é mesmo?"
+// \{美凪}「…やっぱりそうでしたか」
+<0251> \{Yukito}"........."
+// \{Yukito}「………」
+<0252> \{Yukito}"Que papo de doido..."
+// \{Yukito}「はぁ…」
+<0253> Eu senti vontade de ir embora logo.
+// そろそろ帰りたくなってきた.
+<0254> \{Misuzu}"Mas ele está certo, Tohno-san."
+// \{観鈴}「そうですよ、遠野さん」
+<0255> Misuzu veio em meu auxílio.
+// 横から、観鈴が加勢にきてくれる.
+<0256> Eu apreciei isso. Misuzu parecia tão confiável agora.
+// ありがたい.あの観鈴が頼もしく見えるじゃないか.
+<0257> \{Misuzu}"Yukito-san não é um pervertido."
+// \{観鈴}「Yukitoさんは、ヘンタイじゃないです」
+<0258> \{Yukito}(E quanto à parte de eu não ser um sequestrador?!)
+// \{Yukito}(しまった!そっちの弁明か!)
+<0259> \{Minagi}"........."
+// \{美凪}「………」
+<0260> \{Minagi}"Então ele é só um sequestrador?"
+// \{美凪}「…では誘拐魔？」
+<0261> Para com isso...
+// …違う.
+<0262> \{Misuzu}"Infelizmente, ele também não é um sequestrador."
+// \{観鈴}「残念ながら、それも違います」
+<0263> Você não precisava usar a palavra "infelizmente".
+// 残念って言うな.
+<0264> \{Minagi}"Foi o que eu imaginei..."
+// \{美凪}「…そうですよね」
+<0265> \{Minagi}"Posso distinguir uma pessoa má só de olhar para ela."
+// \{美凪}「…悪い人かどうかは…見たらわかります」
+<0266> \{Misuzu}"Sim. Ele não é uma má pessoa."
+// \{観鈴}「うん.悪い人には見えませんよね」
+<0267> \{Misuzu}"Mesmo que seus olhos sejam realmente assustadores. Nihaha."
+// \{観鈴}「目つき、悪いけど.にはは」
+<0268> \{Yukito}"........."
+// \{Yukito}「………」
+<0269> \{Misuzu}"Ué, ele está me ignorando."
+// \{観鈴}「わっ、今、無視された」
+<0270> Depois dessa, é claro que tô.
+// してやった.
+<0271> \{Minagi}"Qual o nome dele?"
+// \{美凪}「…どなた？」
+<0272> Ela tava perguntando a Misuzu.
+// 観鈴に話しかける.
+<0273> \{Misuzu}"Ah... hm, ele se chama Kunisaki Yukito."
+// \{観鈴}「あっ、えーっとですね、このひとはKunisakiYukitoさんっていいます」
+<0274> *Pop!*
+// ぐいっ.
+<0275> Ela me puxou pelo pulso e me colocou na frente da garota.
+// 言いながら、観鈴は俺の腕を引っ張り、少女の前に据える.
+<0276> \{Minagi}"...Kunisaki... Yukito-san?"
+// \{美凪}「…Kunisaki…Yukitoさん？」
+<0277> \{Yukito}"Yeah. My name is Kunisaki Yukito."
+// \{Yukito}「ああ.マイネーム・イズ・KunisakiYukitoだ」 (1)
+<0278> Para combater a estranheza da garota, respondi em inglês sem motivo algum.
+// 少女の奇天烈ぶりに対抗するため、意味不明にインテリぶってみる.
+<0279> \{Minagi}"........."
+// \{美凪}「………」
+<0280> \{Minagi}"Você é estrangeiro?"
+// \{美凪}「…外国の方？」
+<0281> \{Yukito}"Não, sou 100% japonês."
+// \{Yukito}「いや、バリバリ日本人だぞ」
+<0282> \{Minagi}"........."
+// \{美凪}「………」
+<0283> \{Yukito}"........."
+// \{Yukito}「………」
+<0284> \{Minagi}"Percebi."
+// \{美凪}「…なるほど」
+<0285> \{Yukito}"Ugh..."
+// \{Yukito}「う…」
+<0286> Preciso melhorar meu inglês.
+// 何かを納得されてしまった.
+<0287> \{Minagi}"Vocês são um casal?"
+// \{美凪}「…恋人同士？」
+<0288> \{Misuzu}"Eh? Ei, não, não!"
+// \{観鈴}「えっ、わっ、ちがうちがう」
+<0289> Misuzu acenou com a mão vigorosamente atrás de mim.
+// 俺の後ろで、観鈴が手をぱたぱたと振る.
+<0290> Com certeza
+// その通りだ
+<0291> Sem chance
+// 断じて違う
+<0292> \{Yukito}"Com certeza somos."
+// \{Yukito}「その通りだ」
+<0293> \{Misuzu}"Ué... eu não sabia disso..."
+// \{観鈴}「わっ…そうだったんだ…」
+<0294> \{Yukito}"Obviamente tô brincando."
+// \{Yukito}「冗談に決まっているだろ」
+<0295> \{Misuzu}"Nihaha, foi o que pensei."
+// \{観鈴}「にははっ、そうだよね」
+<0296> \{Misuzu}"Yukito-san está em uma jornada. Ele está hospedado na minha casa por um tempo."
+// \{観鈴}「Yukitoさんは旅人さんで、今はうちに泊まってくれてるんです」
+<0297> \{Minagi}"........."
+// \{美凪}「………」
+<0298> \{Minagi}"Vivendo à custa de uma mulher?"
+// \{美凪}「…ひも？」
+<0299> \{Yukito}"Ei, isso foi rude. Ela disse que tô de passagem, certo?"
+// \{Yukito}「失礼なことを言うな.旅人だと言っているだろう」
+<0300> No entanto, isso não tava longe da verdade.
+// と言ったものの、してることはそう大差ないのかもしれない.
+<0301> \{Yukito}"Sem chance."
+// \{Yukito}「断じて違う」
+<0302> Eu respondi com firmeza.
+// きっぱりと言い切る.
+<0303> \{Misuzu}"Yukito-san tá em uma jornada. Ele tá ficando na minha casa por enquanto."
+// \{観鈴}「Yukitoさんは旅人さんで、今はうちに泊まってくれてるんです」
+<0304> \{Minagi}"........."
+// \{美凪}「………」
+<0305> \{Minagi}"Uma jornada..."
+// \{美凪}「…旅人さん」
+<0306> \{Yukito}"Sim, tipo isso."
+// \{Yukito}「まあな」
+<0307> \{Garota}"Nyowah!"
+// \{少女}「にょわ～」
+<0308> \{Yukito}"Que foi agora?"
+// \{Yukito}「…なんだよ」
+<0309> \{Garota}"Além de pervertido e sequestrador, é um aproveitador ainda por cima. Você é um caso sem salvação!"
+// \{少女}「ヘンタイゆうかいまで宿無しなら、救いようがないねぇ」
+<0310> \{Yukito}"........."
+// \{Yukito}「………」
+<0311> \{Garota}"Oh, bem, não que eu fosse salvar você de qualquer modo. Nyahaha."
+// \{少女}「ま、たのまれたって救わないけど.にゃはは」
+<0312> \{Yukito}"........."
+// \{Yukito}「………」
+<0313> *Pit pat pit pat*
+// すたすたすた.
+<0314> *Bop*\shake{1}
+// ぽかっ.\shake{1}
+<0315> \{Garota}"Nnyuh!"
+// \{少女}「んにょへっ」
+<0316> \{Misuzu}"Eita, eu ouvi o estrondo de novo."
+// \{観鈴}「わっ、またすごい音」
+<0317> \{Yukito}"Eu não preciso que você me salve!"
+// \{Yukito}「おまえに救われたくないわっ」
+<0318> \{Garota}"Ugh..."
+// \{少女}「うぅぅ…」
+<0319> \{Minagi}"........."
+// \{美凪}「………」
+<0320> \{Minagi}"Comediantes?"
+// \{美凪}「…名コンビ？」
+<0321> \{Yukito}"Não."
+// \{Yukito}「違う」
+<0322> \{Minagi}"Oh..."
+// \{美凪}「そう…」
+<0323> \{Yukito}"........."
+// \{Yukito}「………」
+<0324> \{Yukito}"Ugh..."
+// \{Yukito}「はぁ…」
+<0325> Cocei minha cabeça.
+// ぽりぽりと頭を掻く.
+<0326> Isso tava me deixando impaciente.
+// いい加減、頭がどうにかなりそうだった.
+<0327> \{Minagi}"Ah..."
+// \{美凪}「…あ」
+<0328> \{Yukito}"E agora? O que mais você quer?"
+// \{Yukito}「なんだよ.まだ、なにかあるのか？」
+<0329> \{Minagi}"........."
+// \{美凪}「………」
+<0330> \{Minagi}"Eu esqueci..."
+// \{美凪}「…忘れてました」
+<0331> \{Yukito}"Huh?"
+// \{Yukito}「うん？」
+<0332> Ela deu meio passo em minha direção.
+// ずいっ、と俺の方に半歩にじり寄る.
+<0333> \{Yukito}"O-O que você quer?"
+// \{Yukito}「…なんだよ」
+<0334> Eu instintivamente fiquei na defensiva.
+// 思わずたじろいでしまう.
+<0335> \{Minagi}"Hm... eu sou... Mi..."
+// \{美凪}「…えっと…私は…み…」
+<0336> \{Minagi}"Não, meu nome é Tohno..."
+// \{美凪}「…いえ…遠野と申します」
+<0337> \{Minagi}"É um prazer conhecer você."
+// \{美凪}「…以後お見知り置きを」
+<0338> Ela se curvou profundamente.
+// ぺこりと頭を垂れる.
+<0339> \{Yukito}(O que é isso? Uma autoapresentação?)
+// \{Yukito}(なんだ、自己紹介か…)
+<0340> \{Minagi}"........."
+// \{美凪}「………」
+<0341> \{Yukito}"Tohno... Posso te chamar de Minagi?"
+// \{Yukito}「遠野…美凪でいいのか？」
+<0342> \{Minagi}"........."
+// \{美凪}「………」
+<0343> \{Minagi}"Telepata?"
+// \{美凪}「…エスパー？」
+<0344> \{Yukito}"Não. Ela me falou seu nome antes."
+// \{Yukito}「…違う.さっき、こいつに聞いただけだ」
+<0345> Eu apontei pra Misuzu.
+// 観鈴を指さす.
+<0346> \{Minagi}"Que pena..."
+// \{美凪}「…残念」
+<0347> Por que?
+// なぜに？
+<0348> \{Minagi}"........."
+// \{美凪}「………」
+<0349> \{Minagi}"Mas... eu preferiria que você me chamasse de Tohno."
+// \{美凪}「…でも…なるべく遠野とお呼びください」
+<0350> \{Yukito}"Você não gosta de ser chamada pelo seu primeiro nome?"
+// \{Yukito}「名前で呼ばれるのは嫌いか？」
+<0351> *Frosh frosh frosh*
+// ぷるぷるぷる.
+<0352> Ela balançou a cabeça algumas vezes.
+// 首を何度も横に振る.
+<0353> \{Minagi}"........."
+// \{美凪}「………」
+<0354> \{Yukito}"...?"
+// \{Yukito}「？」
+<0355> Um olhar triste apareceu em seu rosto.
+// 不意に、遠野が寂しげな表情を見せる.
+<0356> \{Michiru}"Meu nome é Michiru!"
+// \{みちる}「みちるは、みちるっていうんだぞっ!」
+<0357> \{Michiru}"E eu sou a melhor amiga da Minagi! Aham!"
+// \{みちる}「しかも美凪の親友だっ!えっへん!」
+<0358> A pirralha se intrometeu de repente.
+// 突然、横からガキがしゃしゃり出てくる.
+<0359> Ei...
+// と言うか….
+<0360> \{Yukito}"O quê? Você ainda tá aqui na volta?"
+// \{Yukito}「…まだいたのか、おまえ」
+<0361> *Bam!*\shake{7}
+// がすっ!\shake{7}
+<0362> \{Yukito}"Bleargh!"
+// \{Yukito}「ぐはっ」
+<0363> Ela deu um chute forte no meu plexo solar.
+// みぞおちに、鋭角な蹴りが食い込んだ.
+<0364> \{Michiru}"O que há de errado em eu estar aqui? Idiota!"
+// \{みちる}「いたらわるいか、コンチクショーーーっ」
+<0365> \{Yukito}"Ugh..."
+// \{Yukito}「ぐぐぐ…」
+<0366> Curvei-me como um pé de feijão.
+// 無様にうずくまる俺.
+<0367> \{Minagi}"........."
+// \{美凪}「………」
+<0368> Minagi tava me observando todo esse tempo.
+// そんな俺を見つめる遠野美凪.
+<0369> \{Minagi}"Vocês dois são realmente bons amigos?"
+// \{美凪}「…やっぱり仲良し？」
+<0370> \{Yukito}"N-Não..."
+// \{Yukito}「ち…ちがう…」
+<0371> \{Michiru}"Definitivamente não!"
+// \{みちる}「あったりまえだーーーっ」
+<0372> Chop!\shake{1} Chop!\shake{1}
+// ずびっ!\shake{1}ずびっ!\shake{1}
+<0373> \{Yukito}"Oof! Oof!"
+// \{Yukito}「おうっ、おうっ」
+<0374> Enquanto eu ainda tava curvado, Michiru desferiu vários golpes repetidos na parte de trás da minha cabeça.
+// うずくまる俺の後頭部に、みちるチョップが連続で決まる.
+<0375> \{Misuzu}"Belo golpe. Nihaha."
+// \{観鈴}「ナイスチョップ.にはは」
+<0376> \{Yukito}"Pare de incentivar ela!"
+// \{Yukito}「称えるなっ」
+<0377> \{Minagi}"........."
+// \{美凪}「………」
+<0378> \{Yukito}"Hmm? Qual o problema?"
+// \{Yukito}「ん？どうかしたのか」
+<0379> Tohno Minagi tava olhando atentamente pro meu rosto.
+// 遠野美凪が、俺の顔をじっと見つめている.
+<0380> \{Minagi}"........."
+// \{美凪}「………」
+<0381> Ela balançou a cabeça vigorosamente.
+// ぷるぷると首を横に振る.
+<0382> \{Yukito}"?"
+// \{Yukito}「？」
+<0383> \{Michiru}"Muu..."
+// \{みちる}「むぅ…」
+<0384> Michiru tava olhando pra mim.
+// …睨まれている.
+<0385> \{Michiru}"Minagi, vamos voltar a soprar bolhas de sabão."
+// \{みちる}「美凪ぃ、そろそろシャボン玉飛ばそうよぉ」
+<0386> Ela puxou a saia de Minagi.
+// 遠野のスカートを引っ張る.
+<0387> \{Minagi}"Ok."
+// \{美凪}「…うん」
+<0388> \{Michiru}"Certo! Kami-kami, venha brincar conosco também."
+// \{みちる}「そうだっ.かみかみも一緒にしようよっ」
+<0389> \{Misuzu}"Kami-kami..."
+// \{観鈴}「かみかみ…」
+<0390> Ela parecia estar se referindo a Misuzu.
+// 観鈴のことらしい.
+<0391> \{Michiru}"E você, dá o fora."
+// \{みちる}「で、あんたは、さっさと帰れ」
+<0392> \{Yukito}"Eu sabia que você diria isso, pirralha."
+// \{Yukito}「…言うと思ったぞ、このやろう」
+<0393> Ela tinha algum problema comigo?
+// このガキは、俺になんの恨みがあるのだろうか.
+<0394> \{Minagi}"........."
+// \{美凪}「………」
+<0395> \{Yukito}"Hmm?"
+// \{Yukito}「ん？」
+<0396> Tohno ainda tava me encarando.
+// 遠野が、俺の顔をじっと見つめている.
+<0397> \{Yukito}"O que foi?"
+// \{Yukito}「どうした」
+<0398> \{Minagi}"........."
+// \{美凪}「………」
+<0399> *Frosh frosh frosh*
+// ぷるぷるぷる.
+<0400> \{Yukito}(O que ela tá fazendo?)
+// \{Yukito}(なんなんだ、さっきから…)
+<0401> \{Minagi}"Michiru."
+// \{美凪}「…みちる」
+<0402> \{Michiru}"Hmmni?"
+// \{みちる}「んに？」
+<0403> \{Minagi}"Está tarde. Vamos fazer isso de novo amanhã."
+// \{美凪}「…今日はもう遅いから…また明日にしよう」
+<0404> \{Michiru}"Mas... agora eu tava pegando o jeito..."
+// \{みちる}「え～～～、せっかくうまくシャボン玉飛ばせてたのにぃ」
+<0405> \{Yukito}(Pegando o jeito?)
+// \{Yukito}(うまく？)
+<0406> \{Yukito}(Se bem me lembro, você não conseguia fazer uma única bolha...)
+// \{Yukito}(たしか、一個きりだったような気がするが…)
+<0407> Melhor guardar comigo meus pensamentos.
+// 思ってはみたものの、口には出さないでおいた.
+<0408> \{Minagi}"Vamos... farei um lanche para você."
+// \{美凪}「…お弁当…つくってくるから」
+<0409> \{Michiru}"Uuuh... Você vai fazer hamburguer pra mim?"
+// \{みちる}「うぅ～～～、んじゃあ、『はんばぁぐ』つくってきてくれる？」
+<0410> \{Minagi}"Claro..."
+// \{美凪}「…うん」
+<0411> Ela consentiu.
+// こくりとうなずく.
+<0412> \{Michiru}"Sério mesmo?!"
+// \{みちる}「ほんとっ!」
+<0413> \{Michiru}"Sim..."
+// \{美凪}「…うん」
+<0414> \{Michiru}"Ebaaa!!"
+// \{みちる}「やったーーー!」
+<0415> Michiru tava visivelmente encantada.
+// みちるが、心底うれしそうに小躍りをする.
+<0416> \{Minagi}"Então... Kamio-san."
+// \{美凪}「…そういうわけで…神尾さん」
+<0417> \{Minagi}"Nós estaremos nos despedindo agora."
+// \{美凪}「…私たち…そろそろ」
+<0418> \{Misuzu}"Ah, ok."
+// \{観鈴}「あ、はい」
+<0419> \{Misuzu}"Também é hora de voltarmos. Certo, Yukito-san?"
+// \{観鈴}「じゃあ、わたしたちもそろそろ…ね、Yukitoさん」
+<0420> \{Yukito}"Sim."
+// \{Yukito}「そうだな」
+<0421> Afinal, eu também tava ficando com fome...
+// 腹も減ってきたし….
+<0422> \{Minagi}"Boas férias de verão..."
+// \{美凪}「…じゃあ…良い夏休みを」
+<0423> \{Misuzu}"O-Ok."
+// \{観鈴}「は、はい」
+<0424> \{Minagi}"Para você também, Kunisaki-san... Se cuide."
+// \{美凪}「…Kunisakiさんも…お体に気をつけて」
+<0425> \{Yukito}"Certo."
+// \{Yukito}「ああ」
+<0426> Senti alguém olhando pra mim.
+// なんか、睨まれてるぞ、俺.
+<0427> \{Michiru}"Tchau, Kami-yan. Tenha um bom retorno pra casa."
+// \{みちる}「ばいばい、かみやん.気をつけて帰ってね」
+<0428> \{Misuzu}"Kami-yan..."
+// \{観鈴}「かみやん…」
+<0429> Ela parecia estar se referindo a Misuzu.
+// 観鈴のことらしい.
+<0430> Aí ela me disse...
+// で、俺は….
+<0431> \{Michiru}"E você, pode morrer em uma vala! Hmph!"
+// \{みちる}「あんたはどうでもいい.ぷいっ」
+<0432> \{Yukito}(P-Pirralha desgraçada...)
+// \{Yukito}(ち、ちくしょうっ)
+<0433> \{Minagi}"Adeus."
+// \{美凪}「…さようなら」
+<0434> \{Michiru}"Nyahaha! Boa noite!"
+// \{みちる}「にゃはは、おやすみーーー」
+<0435> .........
+// ……….
+<0436> ......
+// …….
+<0437> ...
+// ….
+<0438> No crepúsculo, as sombras sobrepostas das duas garotas gradualmente desapareceram na distância.
+// 宵闇の中、二人の少女が影を重ねながら去っていく.
+<0439> Acompanhei com os olhos as silhuetas delas.
+// 無意識のうちに、視線は少女たちの後ろ姿を追う.
+<0440> \{Yukito}"Ei..."
+// \{Yukito}「なあ…」
+<0441> \{Misuzu}"Sim?"
+// \{観鈴}「うん？」
+<0442> \{Yukito}"Eu ofendi aquele pirralha de alguma forma?"
+// \{Yukito}「俺、あのガキになにかしたか？」
+<0443> \{Misuzu}"Hm... não que eu saiba."
+// \{観鈴}「うーん…わかんない」
+<0444> \{Yukito}"Não entendo por que ela me trata assim."
+// \{Yukito}「なんか、納得がいかない」
+<0445> \{Yukito}"Ah, percebi que você não desenhou a estação de trem no meu mapa."
+// \{Yukito}「そういえば、おまえの地図に駅はなかったぞ？」
+<0446> \{Misuzu}"Sim. Como esta estação está desativada, pensei em deixá-la de fora."
+// \{観鈴}「うん、もうこの駅使われていないから、いらないかなーって思って」
+<0447> \{Yukito}"Desativada?"
+// \{Yukito}「使われていない？」
+<0448> \{Misuzu}"Isso mesmo. Já faz algum tempo que não há trens circulando.
+// \{観鈴}「うん、少し前に電車が通らなくなったの」
+<0449> \{Yukito}"Houve um acidente ou algo assim?"
+// \{Yukito}「事故か何かか？」
+<0450> \{Misuzu}"Não, apenas disseram que não estava mais compensando mantê-la ativada."
+// \{観鈴}「ううん、なんか経営がどうとかって言ってた」
+<0451> \{Yukito}"Entendi, uma linha descontinuada."
+// \{Yukito}「…そうか、廃線なのか」
+<0452> Nesse caso, realmente era impossível ir pra outro lugar de trem...
+// 確かに、電車での移動は無理だな….
+<0453> \{Yukito}"Você quer que eu a adicione ao seu mapa?"
+// \{観鈴}「書き足しておこうか」
+<0454> \{Yukito}"Huh? O quê?"
+// \{Yukito}「あん？ なにがだ？」
+<0455> \{Misuzu}"A estação. Devo adicioná-la?"
+// \{観鈴}「駅.書き足しておいた方がいいかな」
+<0456> \{Yukito}"Bem, claro. É um bom ponto de referência pra saber onde estou."
+// \{Yukito}「…そうだな、動き回るのにいい目印になる」
+<0457> \{Misuzu}"Ok, vou desenhar pra você."
+// \{観鈴}「じゃ、書いておくねー」
+<0458> \{Yukito}"Valeu."
+// \{Yukito}「頼むぞ」
+<0459> \{Misuzu}"De nada. Ok, vamos pra casa."
+// \{観鈴}「うん.じゃ、帰ろ」
+<0460> \{Yukito}"Vamos."
+// \{Yukito}「ああ」
+<0461> .........
+// ……….
+<0462> ......
+// …….
+<0463> ...
+// ….
+<0464> Enquanto caminhava com Misuzu, olhei pro céu escuro de verão no horizonte.
+// 俺は、観鈴と歩きながら、遠い目で暮れゆく夏の天空を眺めた.
+<0465> Inúmeras estrelas brilhavam acima das fronteiras das colinas.
+// 知らぬ間に、山の稜線の上には無数の星粒が瞬いていた.
+<0466> Essa é a Via Láctea?
+// あれが、天の川というものだろうか.
+<0467> Através da extensão do céu, as estrelas entoavam suas cintilantes canções de vida.
+// 広大な空.星々はその生命の瞬きを謳歌していた.
+<0468> Virei a cabeça pra ter uma visão panorâmica.
+// 満天の星のすべてを目にするように、ぐるりと空を見渡してみる.
+<0469> Era uma visão de tirar o fôlego.
+// 綺麗だ.
+<0470> Sem o ar poluído da cidade aqui, dava pra ver cada estrela.
+// 都会のようにごみごみした空気じゃないので、星の一つ一つがしっかりと見える.
+<0471> Este era também um dos prazeres simples que acompanhavam minha jornada.
+// こういうものに出会えるのも旅の一つの醍醐味という物だろうか….
+<0472> .........
+// ……….
+<0473> ......
+// …….
+<0474> ...
+// ….
