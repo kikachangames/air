@@ -1,0 +1,1673 @@
+﻿// Resources for SEEN0295.TXT
+
+#character 'Hijiri'
+#character '*Ａ'
+#character 'Kano'
+#character 'Voz'
+#character 'Potato'
+
+<0000> 29 de Julho (Sab)
+// ７月２９日(土)
+<0001> \{Hijiri}"Tudo bem, estou contando com você."
+// \{聖}「…では、頼む」
+<0002> \{Yukito}"Entendi."
+// \{Yukito}「わかった」
+<0003> \{Hijiri}"Estarei na sala de exames."
+// \{聖}「私は診察室にいる」
+<0004> \{Hijiri}"Venha me reportar seu progresso depois que terminar."
+// \{聖}「終わったら報告に来たまえ」
+<0005> \{Yukito}"Ok, Chefe."
+// \{Yukito}「オーケー、ボス」
+<0006> *Bam!*
+// ばたり.
+<0007> A porta se fechou.
+// 診察室の扉が閉まった.
+<0008> \{Yukito}"Vamos, meu parceiro."
+// \{Yukito}「行くぜ、相棒」
+<0009> Fiquei no centro da sala de recepção com meu confiável esfregão na mão.
+// 愛用のモップを手に、待合室のど真ん中に立つ.
+<0010> Depois de mergulhá-lo no balde, comecei a esfregar o chão imediatamente.
+// バケツにモップを浸し、すかさず床を拭く.
+<0011> *Scrub scrub scrub...*
+// ごしごしごし….
+<0012> Hoje é meu primeiro dia de trabalho na clínica Kirishima.
+// 本日付けで、霧島診療所の住み込みアルバイトになった俺.
+<0013> Mas o escopo das minhas tarefas não mudou.
+// だが、やっていることは以前と変わらない.
+<0014> Mais uma vez, eu tava fazendo faxina desde o início da manhã.
+// 今日も朝からモップ掛け.
+<0015> Essa parte do chão vai pagar minha comida, essa outra vai cobrir minhas despesas de viagem...
+// これが飯の種になり、これが路銀になる.
+<0016> Depois que vi dessa forma, a tarefa se tornou mais suportável.
+// そう思えば腹も立たない.
+<0017> Para ser sincero, eu tô tão feliz que fico até com vontade de dançar.
+// むしろ踊り出したくなる気分だ.
+<0018> Coloco o esfregão no chão.
+// モップを床につける.
+<0019> E corro com ele de parede em parede.
+// 端から端まで、一気に駆け抜ける.
+<0020> Até tentei esfregar em um padrão radial sem nenhum motivo específico.
+// それから意味もなく放射状に拭く.
+<0021> Então experimentei esfregar enquanto girava na ponta dos pés.
+// 爪先でくるりと回転してみる.
+<0022> \{Yukito}"Yahoo!"
+// \{Yukito}「ひゃっほうっ!」
+<0023> \{Kano}"........."
+// \{佳乃}「………」
+<0024> Me pegaram em flagrante...
+// 思いっきり見られていた.
+<0025> \{Kano}"Um musical?"
+// \{佳乃}「…みゅーじかる？」
+<0026> \{Yukito}"Estou ensaiando um espetáculo de longa duração pra Broadway."
+// \{Yukito}「ブロードウェーでロングラン上演中だ」
+<0027> \{Kano}"Uau, sério?"
+// \{佳乃}「ふぇ～、そうなんだぁ」
+<0028> \{Yukito}"Será um sucesso no Japão neste verão, então é melhor você já ir reservando seus ingressos."
+// \{Yukito}「今年の夏は日本でも大ブレイクだから、覚えておいた方がいいぞ」
+<0029> \{Kano}"Sério mesmo? Como você faz isso?"
+// \{佳乃}「…ホント？ どうやるのぉ？」
+<0030> \{Yukito}"Primeiro, você segura o esfregão assim..."
+// \{Yukito}「まずこのようにモップを持ってだな…」
+<0031> \{Kano}"Certo."
+// \{佳乃}「ふむふむ」
+<0032> \{Yukito}"Aí você limpa toda a sujeira do chão, dá uma volta e finaliza com um 'Yahoo!'"
+// \{Yukito}「床の汚れを全部拭き取ったらその場でくるりと一回転、フィニッシュに『ひゃっほうっ!』と一言だ」
+<0033> \{Yukito}"Agora é a sua vez."
+// \{Yukito}「わかったらやってみろ」
+<0034> Empurrei o esfregão pra ela.
+// モップを突き出す.
+<0035> *Plaft!*\shake{1}
+// …がすっ.\shake{1}
+<0036> Recebi um tapão na nuca.
+// 後頭部にチョップの直撃を受けた.
+<0037> \{Hijiri}"Volte ao seu trabalho!"
+// \{聖}「ちゃんと仕事をしろ」
+<0038> Me virei e dei de cara com o chefão parado ali.
+// 振り返ると、ボスが立っていた.
+<0039> \{Kano}"Ah, Onee-chan. Bom dia."
+// \{佳乃}「あっ、お姉ちゃんさんおはよーさんだよぉ」
+<0040> \{Hijiri}"Bom dia."
+// \{聖}「おはようさん」
+<0041> \{Yukito}"Você vai pra escola hoje?"
+// \{Yukito}「今日は学校か？
+<0042> \{Kano}"Sim! Hoje é a minha vez de alimentar os animais."
+// \{佳乃}「うんっ.餌やり当番さんだよぉ」
+<0043> Ela respondeu com um sorriso.
+// にこにこと答える.
+<0044> Havia alguns mistérios em torno desse dever de alimentar os animais.
+// 佳乃の餌やり当番にも謎が多い.
+<0045> Ela não parecia fazer isso em um horário fixo.
+// 定期的に行っているわけではないらしい.
+<0046> Ela tava assumindo o turno dos amigos também?
+// 友達の分も肩代わりしているのだろうか？
+<0047> \{Hijiri}"Quando terminar de esfregar, jogue um pouco de água no chão."
+// \{聖}「モップ掛けが終わったら、玄関先に打ち水をしておいてくれ」
+<0048> \{Hijiri}"Então tomaremos café da manhã."
+// \{聖}「それから朝食だ」
+<0049> \{Yukito}"Entendido."
+// \{Yukito}「わかった」
+<0050> \{Kano}"Espero que sua apresentação na Broadway seja um sucesso."
+// \{佳乃}「それじゃ、ぶろーどうぇい目指して頑張ってねぇ」
+<0051> \{Yukito}"Tô apenas fazendo meu trabalho..."
+// \{Yukito}「…仕事だっての」
+<0052> As irmãs Kirishima partiram.
+// 霧島姉妹がいなくなってから.
+<0053> Suspirei e peguei o esfregão mais uma vez.
+// 俺は溜息をつき、もう一度モップを握った. 
+<0054> Já que eu tava sendo pago pra fazer isso, seria estúpido desperdiçar minha energia com brincadeiras.
+// これで給料をもらうのだ.ふざけて体力を消耗するのも馬鹿馬鹿しい.
+<0055> Eu me resignei e comecei a esfregar.
+// 覚悟を決め、モップ掛けに没頭する.
+<0056> *Scrub scrub scrub...*
+// ごしごしごし….
+<0057> ...*Scrub scrub scrub...*
+// …ごしごしごし….
+<0058> ......*Scrub scrub scrub...*
+// ごしごしごし….
+<0059> \{Yukito}"........."
+// \{Yukito}「………」
+<0060> Este trabalho é hipnotizante.
+// とことん地味な作業だった.
+<0061> \{Kano}"Estou saindo!"
+// \{佳乃}「行ってきまーすっ!」
+<0062> \{Hijiri}"Volte a tempo para o almoço."
+// \{聖}「昼食までには帰ってくるんだぞ」
+<0063> \{Kano}"Ok!"
+// \{佳乃}「はーいっ」
+<0064> \{Kano}"Aguente firme, Yukito-san."
+// \{佳乃}「Yukitoくんも頑張ってね～」
+<0065> Kano acenou pra mim enquanto corria pela rua.
+// 元気よく手を振りながら、佳乃が歩道を走っていく.
+<0066> As cigarras nos postes telefônicos começaram a cantar. Parece que tô sendo incentivando por elas.
+// 背中を押すように、電信柱でセミが鳴き始めた.
+<0067> O distrito comercial tá inundado pelo sol brilhante da manhã.
+// 真っ白な朝の光が、商店街を満たしている.
+<0068> Hoje seria mais um dia quente.
+// 今日もよく晴れるだろう.
+<0069> \{Hijiri}"Agora, então..."
+// \{聖}「さてと…」
+<0070> Hijiri se espreguiçou ao sol.
+// 太陽に向かって伸びをしながら、聖が言った.
+<0071> \{Hijiri}"É melhor voltarmos. Você tem uma importante tarefa para cumprir."
+// \{聖}「我々もやるべきことをやろう」
+<0072> *Sluuuuuurp...*
+// …ずずずずっ.
+<0073> \{Yukito}"Então essa é a tarefa importante?"
+// \{Yukito}「…で、これがやるべきことか」
+<0074> \{Hijiri}"Não reclame enquanto toma seu chá."
+// \{聖}「茶をすすりながら文句を言うな」
+<0075> \{Hijiri}"De qualquer forma, aquele velho pervertido não parava de olhar para os meus peitos. Parecia que ia pular em mim..."
+// \{聖}「それでな、あのスケベオヤジときたら事もあろうに私のこの豊満な胸部を舐めるように眺め渡してだな…」
+<0076> \{Yukito}"........."
+// \{Yukito}「………」
+<0077> \{Hijiri}"Ei, preste atenção quando estou falando com você."
+// \{聖}「こら、人の話は真面目に聞け」
+<0078> \{Yukito}"Sim, sim."
+// \{Yukito}「はいはい」
+<0079> \{Hijiri}"E dizer apenas um 'sim' já é o suficiente."
+// \{聖}「はいは１回だと言ってるだろうが」
+<0080> \{Yukito}"Sim..."
+// \{Yukito}「…はい」
+<0081> Uma nova tortura tava à minha espera depois que terminei de esfregar o chão da clínica.
+// 掃除を終えた俺を待っていたのは、新たなる拷問だった.
+<0082> Eu fui obrigado a escutar as reclamações de Hijiri sobre o diretor do hospital da cidade vizinha, enquanto enchia a barriga de chá.
+// 茶で腹を膨らましながら、隣町の大病院について聖の超個人的見解を聞く.
+<0083> Resumindo, meu ouvido virou penico.
+// 早い話が、愚痴の相手だ.
+<0084> Foram duas horas de desabafo.
+// この調子で、朝から２時間が経過している.
+<0085> \{Yukito}"Ei, não tem nada útil que eu possa fazer?"
+// \{Yukito}「…なあ、何かやることはないのか？」
+<0086> \{Hijiri}"Como o quê?"
+// \{聖}「どんな？」
+<0087> \{Yukito}"Como separar os remédios ou preencher os registros médicos."
+// \{Yukito}「薬の整理とか、カルテを書く手伝いとか」
+<0088> \{Hijiri}"Você acha mesmo que eu deixaria um novato fazer coisas assim?"
+// \{聖}「素人にそんなことさせられるか」
+<0089> \{Yukito}"É bom tá preparada pra uma emergência, como uma centena de feridos chegando aqui de uma hora pra outra."
+// \{Yukito}「急患が毎分１００人ぐらい運ばれてきて大騒ぎとか」
+<0090> \{Hijiri}"Esse tipo de situação de emergência nunca acontecerá."
+// \{聖}「そんな非常事態がそうそうあってたまるか」
+<0091> \{Yukito}"Mas eu não me sinto bem em ser contratado pra não fazer nada."
+// \{Yukito}「雇われて仕事がないのも不安なものだぞ」
+<0092> \{Hijiri}"Sinto muito. Isso é lamentável..."
+// \{聖}「そうか、気の毒にな…」
+<0093> *Sluuuurp...*
+// …ずずずっ.
+<0094> Ela nem tava me ouvindo.
+// 聞いちゃいねぇ.
+<0095> \{Hijiri}"Vai mais um chá aí?"
+// \{聖}「もう一杯飲むか？」
+<0096> Eu não tinha mais nada pra fazer, então aceitei.
+// 他にすることがないので、頷く.
+<0097> Hijiri se levantou e pegou minha xícara de chá.
+// 聖が立ち上がり、俺の湯飲みを取った.
+<0098> Ela abriu a tampa do bule e despejou a água fervente da chaleira elétrica.
+// 急須のふたを開け、電気ポットの湯を注ぐ.
+<0099> A fragrância crescente do chá verde se misturou ao cheiro de desinfetante.
+// 立ち上る緑茶の香りが、消毒液の匂いと絶妙に入り交じる.
+<0100> Isso invocou uma sensação de vazio em mim.
+// 虚しさばかりがつのる.
+<0101> \{Yukito}"Ei."
+// \{Yukito}「なあ」
+<0102> \{Hijiri}"O que foi?"
+// \{聖}「何だ？」
+<0103> \{Yukito}"Tem certeza que é uma boa ideia contratar um cara como eu?"
+// \{Yukito}「本当に俺なんか雇っていいのか？」
+<0104> \{Hijiri}"Eu já disse para você não se preocupar com isso, não foi?"
+// \{聖}「そのことは気にするなと言ってるだろ」
+<0105> \{Hijiri}"Nossas despesas domésticas não serão afetadas só por ter mais uma boca para alimentar."
+// \{聖}「食い扶持が２人でも３人でも、家計上は大して変わらない」
+<0106> \{Yukito}"Se você tá apenas me deixando ficar aqui por pena..."
+// \{Yukito}「お情けで俺を置いておくつもりなら…」
+<0107> \{Hijiri}"Essa não é minha intenção."
+// \{聖}「そういう意味じゃない」
+<0108> \{Hijiri}"Tem mais uma coisa que eu quero que você faça..."
+// \{聖}「君にやってほしいことは、他にある…」
+<0109> Hijiri se levantou de repente.
+// と、突然聖が立ち上がった.
+<0110> \{Hijiri}"Kano está atrasada."
+// \{聖}「佳乃の帰りが遅い」
+<0111> Ela caminhou em direção à porta.
+// つぶやくように言って、扉に向かおうとする.
+<0112> \{Yukito}"Huh?"
+// \{Yukito}「は？」
+<0113> \{Hijiri}"Eu disse a ela para voltar a tempo para o almoço. Kano deveria aqui ao meio-dia."
+// \{聖}「昼食までには帰ると言ったんだ.正午を回るはずがない」
+<0114> Ela apontou o polegar pro relógio de parede.
+// 親指で壁時計を指す.
+<0115> Eram 12:05.
+// １２時を５分回ったところだった.
+<0116> \{Hijiri}"Aquela garota nunca se atrasaria a menos que algo grave acontecesse."
+// \{聖}「よほどのことがなければ、あの子は遅れたりしない」
+<0117> Hijiri falou depois de perceber meu olhar duvidoso.
+// 呆れた俺の視線に気づき、きっぱりと言う.
+<0118> Ela não tava simplesmente preocupada com sua irmã mais nova.
+// 単に妹を心配しているのではない.
+<0119> Ela parecia com medo de alguma coisa.
+// むしろ、何かを恐れているようにさえ見えた.
+<0120> \{Hijiri}"Kunisaki-kun, você se importa de correr até..."
+// \{聖}「悪いがKunisaki君、ひとっ走り…」
+<0121> *Bam!*
+// …ばたんっ.
+<0122> Um barulho habitual ressoou no corredor.
+// 玄関先で、いつもの音がした.
+<0123> \{Voz}"Estou em casa!"
+// \{声}「ただいま～」
+<0124> Em seguida veio o som de alguém tirando os sapatos.
+// 続いて、靴を乱暴に脱ぎ散らす音.
+<0125> A porta da sala de exames se abriu e Kano entrou.
+// 診察室の扉が開き、佳乃が現れた.
+<0126> \{Kano}"O Potato voltou?"
+// \{佳乃}「…ポテト帰ってる～？」
+<0127> \{Yukito}"Não."
+// \{Yukito}「いや」
+<0128> Eu respondi por Hijiri.
+// 聖の代わりに答えた.
+<0129> \{Kano}"Ununu. Entendi..."
+// \{佳乃}「うぬぬ.そうなんだ…」
+<0130> Ela baixou os olhos preocupados.
+// 困ったように目を伏せる.
+<0131> \{Hijiri}"Pensando bem, não o vejo há alguns dias."
+// \{聖}「そう言えば、ここ何日かあいつを見かけてないな」
+<0132> \{Yukito}"Esqueça! Afinal, ele é um cão vadio."
+// \{Yukito}「もともと野良犬なんだろ.ほっとけよ」
+<0133> \{Kano}"Você é tão insensível, Yukito-san!"
+// \{佳乃}「Yukitoくん、つめたいよぉ」
+<0134> \{Yukito}"O problema com os cães vadios é que não importa o quão apegados pareçam ser, uma hora eles simplesmente te abandonarão."
+// \{Yukito}「野良犬ってのはな.どんなになついてるように見えても、ふらりと出ていくことがあるんだ」
+<0135> Já fui seguido por muitos cães vadios durante minhas viagens.
+// 旅の途中、何度か野良犬にまとわりつかれたことがある.
+<0136> E eles sempre desapareciam alguns dias depois, mesmo que eu tentasse alimentá-los e domesticá-los.
+// 餌をやって手なずけようとしても、いつも数日でいなくなってしまった.
+<0137> \{Yukito}"Tenho certeza que o Potato encontrou um lugar melhor do que esse aqui."
+// \{Yukito}「きっと、ここより居心地のいい所を見つけたんだろ」
+<0138> \{Kano}"D-De jeito nenhum!"
+// \{佳乃}「そっ、そんなことないもんっ」
+<0139> Ela balançou a cabeça com indignação.
+// ムキになって首を振る.
+<0140> Gotas de suor escorriam de seu cabelo. Ela certamente tava correndo.
+// また走ってきたのだろう、汗の玉が髪から飛び散った.
+<0141> \{Hijiri}"Não é a primeira vez que o Potato some por uns dois ou três dias, certo?"
+// \{聖}「２、３日帰らないことなら、今までもあっただろ？」
+<0142> \{Kano}"Mas dessa vez eu ouvi a voz dele quando estava na escola."
+// \{佳乃}「だって、学校にいる間じゅう、ずっと声がしたんだよぉ」
+<0143> \{Hijiri}"Voz?"
+// \{聖}「声？」
+<0144> \{Kano}"Era uma voz bem fraquinha... Mas ele estava chorando 'piko piko'."
+// \{佳乃}「すっごくちっちゃな声で、『ぴこぴこ～』って泣いてた…」
+<0145> \{Yukito}"Espere, essa é a voz dele?"
+// \{Yukito}「というか、声なのかあれは？」
+<0146> Hijiri e eu nos entreolhamos.
+// 思わず聖と顔を見合わせる.
+<0147> \{Hijiri}"Sempre pensei que fosse o som do rabo dele abanando."
+// \{聖}「いや、私は尻尾を振る音だと思っていたが」
+<0148> \{Yukito}"Nada a ver..."
+// \{Yukito}「それは無理があるだろ」
+<0149> \{Hijiri}"Mas como isso seria o som de seu latido?"
+// \{聖}「だが、鳴き声というのもおかしいだろ？」
+<0150> \{Yukito}"Também não creio que seja o som de passos..."
+// \{Yukito}「足音だとしても変だしな…」
+<0151> \{Hijiri}"Então..."
+// \{聖}「とすると…」
+<0152> \{Yukito}"........."
+// \{Yukito}「………」
+<0153> \{Hijiri}"........."
+// \{聖}「………」
+<0154> \{Yukito}"........."
+// \{Yukito}「………」
+<0155> \{Hijiri}"........."
+// \{聖}「………」
+<0156> \{Kano}"Quem se importa com isso?!"
+// \{佳乃}「…そんなことどーでもいいのっ」
+<0157> \{Hijiri}"Hmm. Tem razão."
+// \{聖}「うむ.そうだな」
+<0158> Ela tá certa?
+// …そうか？
+<0159> Isso me fez pensar, mas decidi não me aprofundar muito.
+// 疑問に思ったが、深く追求するのはやめた.
+<0160> \{Yukito}"De qualquer forma..."
+// \{Yukito}「とにかくだ」
+<0161> \{Yukito}"Se houve um som de 'piko piko', então Potato devia estar por perto."
+// \{Yukito}「ぴこぴこ音がしたんなら、ポテトがいたってことだろ」
+<0162> Não consigo imaginar outra criatura que pudesse fazer esse tipo de som.
+// 他にあんな怪音を立てる生物がいるとは思いたくない.
+<0163> \{Kano}"Não, tenho certeza que Potato não estava lá."
+// \{佳乃}「ううん.ぜったいちがうよぉ」
+<0164> \{Kano}"Eu procurei por toda a escola, mas não consegui encontrá-lo em lugar nenhum."
+// \{佳乃}「学校じゅう探したけど、どこにもいなかったもん」
+<0165> Então ela correu por toda a escola?
+// 学校じゅう探してたのか、こいつは.
+<0166> \{Kano}"Potato geralmente vinha correndo com um 'piko piko', me abraçava com um 'piko' e fazia barulho com outro 'piko piko'."
+// \{佳乃}「それに、いつものポテトならぴこぴこ～って走ってきてぴこって抱きついてぴこぴこ大騒ぎのはずだよ～」
+<0167> Essa foi uma descrição bastante precisa.
+// …とても的確な描写だった.
+<0168> \{Kano}"Talvez Potato esteja em perigo."
+// \{佳乃}「もしかして、虫の息なのかも」
+<0169> \{Kano}"Ele está tentando me dizer alguma coisa."
+// \{佳乃}「だから虫の知らせなのかもかも」
+<0170> \{Kano}"Buaaaa! Meu querido amigo Potato está imerso em uma situação de crise sem precedentes! Isso é preocupante!"
+// \{佳乃}「わっわっ、親友ポテトが未曾有の大危機に接近遭遇でさあ大変だよ～」
+<0171> \{Yukito}"........."
+// \{Yukito}「………」
+<0172> Essa garota certamente tinha um vocabulário estranho e sabia fazer um uso dramático das palavras.
+// どうもこの少女は、言葉づかいに妙な偏りがある気がする.
+<0173> \{Hijiri}"Se acalme. Caso contrário, a resolução eficaz dessa situação de crise revelar-se-á infrutífera."
+// \{聖}「まあ落ち着くように.でないと的確な危機管理は不可能だぞ」
+<0174> Ela deve ter aprendido com a irmã mais velha.
+// それは多分、この姉を見習ってきたせいなのだろう.
+<0175> \{Kano}"Ununu... Entendido."
+// \{佳乃}「うぬぬ…了解だよぉ」
+<0176> Kano concordou relutantemente.
+// しぶしぶ頷く佳乃.
+<0177> Ela baixou seus olhos em desespero.
+// 目を伏せて、そのまま考えこむ.
+<0178> \{Kano}"Eu vou procurar o Potato!"
+// \{佳乃}「…あたし、探してみるっ」
+<0179> \{Yukito}"Calma aí! Pense bem!"
+// \{Yukito}「待てこら、もっとよく考えろっ」
+<0180> Consegui agarrá-la pouco antes dela sair correndo.
+// 駆け出していこうとしたのを、どうにか捕まえる.
+<0181> Eu considerei a situação também.
+// 俺も考えてみた.
+<0182> Kano tava exagerando.
+// どうも佳乃のひとりよがりな気がする.
+<0183> Era difícil imaginar aquela idílica bola de pelo caindo em qualquer tipo de apuros.
+// あの牧歌的な毛玉生物が、危機的状態に陥るとは考えにくい.
+<0184> Por outro lado, não me surpreenderia se Potato pudesse usar telepatia.
+// その一方で、あいつならテレパシーぐらい使えてもおかしくない気もする.
+<0185> Acompanhar Kano na busca por Potato
+// 一緒に探してやると言う
+<0186> É cilada, então fique quieto
+// 面倒くさいので黙っている
+<0187> \{Yukito}"Que saco!"
+// \{Yukito}「仕方ないな」
+<0188> Me levantei e falei pra Kano.
+// 俺は立ち上がりざま、佳乃に声をかけた.
+<0189> \{Yukito}"Vamos!"
+// \{Yukito}「行くぞ」
+<0190> \{Kano}"Ué? Você vem comigo?"
+// \{佳乃}「ふぇっ.一緒に来てくれるの？」
+<0191> \{Yukito}"Sim."
+// \{Yukito}「ああ」
+<0192> \{Yukito}"A busca será mais eficiente com duas pessoas, certo?"
+// \{Yukito}「一人で探すよりも効率的だろう」
+<0193> \{Kano}"Mas você não está trabalhando?"
+// \{佳乃}「でも、お仕事中じゃないの？」
+<0194> \{Yukito}"Não me parece uma boa ideia deixar você sair sozinha e nervosa neste calor dos infernos."
+// \{Yukito}「お前一人、この炎天下の中を彷徨わせるわけにもいかないだろう」
+<0195> Eu lancei um olhar de cumplicidade pra Hijiri.
+// 言ってチラリと聖を見る.
+<0196> A chefona esticou o peito e acenou com a cabeça afirmativamente.
+// 俺の雇い主は当然とばかりに胸を張って頷いている.
+<0197> \{Kano}"Está tudo bem mesmo...?"
+// \{佳乃}「本当にいいのぉ…？」
+<0198> \{Yukito}"Eu tenho permissão do chefe."
+// \{Yukito}「ボスからは了承済みだ」
+<0199> Isso tá parecendo uma cilada, melhor ficar na minha.
+// 面倒くさいので黙っていることにした.
+<0200> \{Hijiri}"Kunisaki-kun, você se importaria de ir com ela?"
+// \{聖}「悪いがKunisaki君、一緒に探してやってくれるか？」
+<0201> \{Yukito}"........."
+// \{Yukito}「………」
+<0202> No final, não consegui passar despercebido.
+// 黙っていてもまったく無駄だった.
+<0203> \{Yukito}"Mas eu tô trabalhando agora, não tô?"
+// \{Yukito}「俺は今、バイト中だろ」
+<0204> \{Hijiri}"O amigo de Kano está em apuros. Você não pode simplesmente ficar parado e fingir que nada está acontecendo, pode?"
+// \{聖}「佳乃の親友が難儀しているんだ.助けないわけにはいかないだろ？」
+<0205> \{Yukito}"Ao menos eu serei pago por isso?"
+// \{Yukito}「給料は出るのか？」
+<0206> \{Yukito}"Ficar procurando um cachorro neste calor dos infernos não é algo que eu gostaria de fazer de graça.
+<0207> \{Yukito}"Pra ser sincero, prefiro um milhão de vezes ficar aqui ouvindo groselha e bebendo chá."
+// \{Yukito}「ここでぐーたら茶でも飲んでた方が１００万倍マシだ」
+<0208> \{Hijiri}"........."
+// \{聖}「………」
+<0209> \{Yukito}"Vou procurar Potato até que não reste uma única gota de energia em meu corpo."
+// \{Yukito}「…水分０になるまで探してきます」
+<0210> \{Hijiri}"É claro que você vai."
+// \{聖}「当然だな」
+<0211> De qualquer forma, eu não poderia deixar Kano ir sozinha.
+// どのみち、佳乃ひとりで探しにやるわけにはいかないのだ.
+<0212> Eu me levantei e falei pra ela.
+// 俺は立ち上がりざま、佳乃に声をかけた.
+<0213> \{Yukito}"Vamos."
+// \{Yukito}「行くぞ」
+<0214> \{Kano}"O quê? Você vai comigo?"
+// \{佳乃}「ふぇっ.探してくれるの？」
+<0215> \{Yukito}"Sim."
+// \{Yukito}「ああ」
+<0216> \{Yukito}"São ordens do chefe. Não tenho escolha."
+// \{Yukito}「雇い主様の命令だ.仕方がない」
+<0217> \{Hijiri}"Isso mesmo!"
+// \{聖}「そういうことだ」
+<0218> \{Kano}"Ok!"
+// \{佳乃}「うんっ」
+<0219> Ela se virou pra Hijiri e assentiu alegremente.
+// 聖の方を見て、嬉しそうに頷く.
+<0220> Incapaz de se conter por mais um segundo, ela saiu correndo pela varanda.
+// それから待ちきれないのだろう、玄関に駆けていった.
+<0221> Quando eu tava prestes a segui-la, Hijiri sussurrou pra mim.
+// 後を追おうとした俺に、聖が耳打ちしてきた.
+<0222> \{Hijiri}"Fique de olho nas condições dela."
+// \{聖}「体調に気をつけてやってくれ」
+<0223> \{Hijiri}"Se perceber algo estranho, traga-a de volta imediatamente."
+// \{聖}「異状があったら、すぐに戻ってくるように」
+<0224> Talvez ela pretendesse fazer um comentário passageiro, mas seu rosto parecia sério.
+// さらりと言ったつもりだろうが、瞳は真剣そのものだった.
+<0225> \{Yukito}"Pode ficar tranquila."
+// \{Yukito}「わかった」
+<0226> Eu respondi com outro sussurro.
+// 俺も小声で答えた.
+<0227> Como irmã mais velha, era natural que ela se preocupasse com Kano.
+// それは姉として、当たり前の心遣いだと思っていた.
+<0228> No momento em que coloquei os pés fora da clínica, o suor começou a se formar no meu corpo.
+// 一歩外に出ただけで、汗がしたたった.
+<0229> O calor tava insuportável.
+// 炎天下だった.
+<0230> Eu não ficaria surpreso se o asfalto derretesse e eu tivesse que nadar por ele.
+// アスファルトが溶けだして、靴がめり込んでもおかしくない.
+<0231> O som das cigarras aumentou de intensidade.
+// セミの声も、ますます盛況だ.
+<0232> Nós tínhamos que encontrar o Potato, e rápido.
+// こうなったら、早いとこ見つけるしかない.
+<0233> \{Kano}"Esquadrão Internacional de Resgate de Cães, avante..."
+// \{佳乃}「国際愛犬救助隊、しゅ…」
+<0234> \{Yukito}"Espere!"
+// \{Yukito}「待て」
+<0235> Contive meu capitão que tava prestes a partir sem um plano.
+// 何の考えもなく出発しようとした隊長を、取りあえず引き留めた.
+<0236> \{Yukito}"Melhor decidir onde iremos pesquisar primeiro."
+// \{Yukito}「まず、どこから探すか決めろ」
+<0237> \{Kano}"Vamos ver..."
+// \{佳乃}「えっと…」
+<0238> Ela assentiu pra si mesma com a mão no queixo.
+// 口元に手を当てて、うんうんと考え込む.
+<0239> Eu poderia dizer que os neurônios subutilizados em seu cérebro tavam sendo reativados.
+// 普段は使わない頭をフル回転させているのがわかる.
+<0240> \{Kano}"Eu ouvi a voz de Potato na escola. Mas já olhei lá..."
+// \{佳乃}「声が聞こえたのは学校にいた時だったけど、学校はもう探したからぁ…」
+<0241> \{Kano}"Ele tem que estar em algum lugar perto da escola."
+// \{佳乃}「きっと、学校の近くだと思う」
+<0242> Essa foi uma conclusão decente por parte dela.
+// この少女にしては妥当な判断だ.
+<0243> \{Yukito}"Nesse caso, vamos caminhar primeiro ao longo da costa."
+// \{Yukito}「それならまず、海沿いだな」
+<0244> \{Kano}"Nesse caso, vamos para o litoral!"
+// \{佳乃}「それならまず、海沿いに出動だあっ!」
+<0245> Eu segui Kano.
+// 佳乃に続いて、俺は歩き出した.
+<0246> .........
+// ……….
+<0247> \{Kano}"É por aqui?"
+// \{佳乃}「…この辺かなかなぁ」
+<0248> Nós chegamos na praça em frente à escola.
+// 学校前の広場.
+<0249> Subimos as escadas ao longo da costa.
+// 海沿いの階段を登る.
+<0250> As grades manchadas de ferrugem vermelha pareciam tá fervendo com o calor.
+// 赤錆の浮いた手すりが、じゅうじゅうと焼けているように見えた.
+<0251> Fiquei no topo do paredão.
+// 堤防の上に立った.
+<0252> Como não havia vento, até o cheiro do mar tava estagnado.
+// 風がないせいで、潮の匂いもむっと不快に感じられる.
+<0253> \{Kano}"Potato!"
+// \{佳乃}「ポテト～っ!」
+<0254> Kano gritou de repente.
+// いきなり、佳乃が叫んだ.
+<0255> \{Kano}"Potato!"
+// \{佳乃}「ポテト～っ!」
+<0256> \{Kano}"Piko piko!"
+// \{佳乃}「ぴこぴこ～っ!」
+<0257> \{Kano}"Potato!"
+// \{佳乃}「ポテト～っ!」
+<0258> \{Kano}"Piko piko piko!"
+// \{佳乃}「ぴこぴこぴこ～っ!」
+<0259> \{Yukito}"Pare de misturar nosso idioma com a linguagem do Potato! É confuso!"
+// \{Yukito}「…ポテト語を混ぜるのはやめろ.まぎらわしい」
+<0260> \{Kano}"Piko."
+// \{佳乃}「ぴこ～」
+<0261> Ela concordou com tristeza.
+// 悲しそうに頷く.
+<0262> \{Kano}"Acho que ele não está aqui..."
+// \{佳乃}「やっぱり、いないのかなあ…」
+<0263> \{Yukito}"Nós mal começamos a procurar."
+// \{Yukito}「まだ探しはじめたばかりだろ」
+<0264> \{Yukito}"Vamos dar uma olhada ao longo do caminho pra escola. Venha."
+// \{Yukito}「通学路に沿って探してみよう.行くぞ」
+<0265> \{Kano}"Piko!"
+// \{佳乃}「ぴこっ」
+<0266> \{Yukito}"Eu já disse pra você parar com isso!"
+// \{Yukito}「だからそれはやめろっての」
+<0267> Por um tempo, caminhamos ao longo do paredão.
+// 堤防の上を、しばらく二人で歩いた.
+<0268> À esquerda, as montanhas se estendiam no horizonte, deixando apenas um pequeno trecho de terreno plano entre nós.
+// 左側の山が遠ざかっていき、少しばかりの平地が続く.
+<0269> Acima do concreto aquecido, pude ver a turbulência no ar.
+// 熱されたコンクリートの上では、空気が歪んでいるのがわかる.
+<0270> Praticamente não encontramos nenhum ser humano, muito menos cães.
+// 犬はおろか、通行人さえ滅多に見かけない.
+<0271> \{Yukito}"Ele não tá aqui."
+// \{Yukito}「いそうもないな」
+<0272> \{Kano}"Ununu..."
+// \{佳乃}「うぬぬ…」
+<0273> \{Yukito}"Você tá bem? Seu rosto parece vermelho."
+// \{Yukito}「大丈夫か？ 顔が赤いぞ」
+<0274> \{Kano}"Você também está vermelho brilhante, Yukito-kun."
+// \{佳乃}「Yukitoくんだって真っ赤だよぉ」
+<0275> Kano enxugou o suor da testa.
+// 言いながら、佳乃は額の汗を拭った.
+<0276> Então ela penteou o cabelo curto com os dedos.
+// そのまま頭に手をやって、短い髪をわしゃわしゃと梳く.
+<0277> Ela deve tá sentindo muito calor.
+// よほど暑いらしい.
+<0278> A blusa grudou em suas costas e ficou transparente por causa do suor. Eu não sabia pra onde olhar.
+// 制服の背中が汗ばんでいて、目のやり場に困る.
+<0279> \{Yukito}"De qualquer forma, vamos sair do sol."
+// \{Yukito}「とにかく、道に降りるぞ」
+<0280> \{Kano}"Sim, talvez seja uma boa ideia..."
+// \{佳乃}「うん.その方がいいかも…」
+<0281> Descemos o paredão através de uma série de escadas.
+// いくつめかの階段で、堤防から降りた.
+<0282> O paredão e a calçada estavam igualmente ardentes.
+// 堤防も道も、暑さは全く同じだった.
+<0283> Nos agachamos na sombra.
+// 二人して日陰にしゃがみ込む.
+<0284> Quando me recostei, parecia que tava saindo vapor da minha camiseta encharcada de suor.
+// もたれると、汗ばんだシャツから湯気が立つような気がした.
+<0285> A loja Takeda tava bem na nossa frente.
+// 目の前に、あの武田商店があった.
+<0286> Pra mim, é um lugar que guarda apenas lembranças amargas.
+// 俺にとっては、苦い思い出ばかりの場所だ.
+<0287> \{Kano}"Yukito-kun! Vamos comprar um sorvete!"
+// \{佳乃}「Yukitoくんっ、アイス買おっ!」
+<0288> \{Yukito}"Já vou avisando que não tenho dinheiro."
+// \{Yukito}「言っておくが、俺には金がないぞ」
+<0289> Eu tava equipado com minha marionete, mas experimentos malsucedidos já provaram que não conseguiria ganhar nada por aqui.
+// 一応人形は持っているが、ここでは一銭にもならないことは実証済みだ.
+<0290> \{Kano}"Eu tenho dinheiro. Eu pago para você."
+// \{佳乃}「あたしお金持ってるから、オゴりだよぉ」
+<0291> Ela bateu no peito generosamente.
+// ぱんと胸を叩き、景気よく言う.
+<0292> Olhei pra Kano. Meus olhos quase saltaram das órbitas.
+// きゅぴーん!と、音がでるほどの目つきで佳乃を見る.
+<0293> \{Yukito}"Você tá falando sério?!"
+// \{Yukito}「マジか!？」
+<0294> \{Kano}"Sim!"
+// \{佳乃}「うんっ!」
+<0295> \{Yukito}"Quanto você tem aí?"
+// \{Yukito}「いくら持ってるんだ？」
+<0296> \{Kano}"\g{60 ienes}={Considerando a cotação da moeda japonesa em 2024, seria o equivalente a 2,20 reais, mais ou menos.}!"
+// \{佳乃}「６０円っ!」
+<0297> \{Yukito}"...Você é uma criança?"
+// \{Yukito}「…子供か、おまえは」
+<0298> \{Kano}"Tudo bem! Com esse dinheiro dá para comprar um picolé de limão que podemos dividir em dois!"
+// \{佳乃}「大丈夫だよぉ.パカッって割れて二人で食べられるラムネアイス買うから」
+<0299> Ela parecia incrivelmente orgulhosa de si mesma.
+// ものすごく自慢げに言う.
+<0300> Eu tinha poucos motivos pra recusar.
+// 断る理由もなかった.
+<0301> \{Yukito}"Falando sério agora, eu vou querer um sorvete de qualquer sabor."
+// \{Yukito}「ならご馳走になろう」
+<0302> \{Kano}"Ok, eu vou lá pegar."
+// \{佳乃}「じゃあ買ってくるねぇ」
+<0303> Kano se levantou e atravessou a rua.
+// 立ち上がり、通りの向こうに渡った.
+<0304> Então ela abriu o freezer e inspecionou seu conteúdo.
+// アイスクリームケースを開け、あれこれ物色する.
+<0305> Depois de encontrar o que queria, ela entrou na loja.
+// お目当ての一本を見つけると、店の中に入っていった.
+<0306> \{Yukito}"Ufa..."
+// \{Yukito}「ふう…」
+<0307> Eu suspirei.
+// なんとはなしに、溜息をついた.
+<0308> O suor não parava de escorrer enquanto eu esperava.
+// こうしていても、汗がだらだらと流れ落ちてくる.
+<0309> Nem que fosse um picolé de apenas 30 ienes, ainda seria uma delícia refrescante considerando o meu atual estado.
+// ３０円分とはいえ、この状態でアイスを食ったらさぞや爽快だろう.
+<0310> Algum tempo depois, Kano saiu da loja.
+// その時、佳乃が店から出てきた.
+<0311> Ela fechou a porta de madeira com cuidado e se virou pra mim.
+// 木戸をがたぴしと閉め、こちらを振り返る.
+<0312> \{Kano}"Desfulfe fela demofa..."
+// \{佳乃}「おまたふぇ～」
+<0313> \{Yukito}"........."
+// \{Yukito}「………」
+<0314> Ela já tava de boca cheia.
+// もう頬張っていた.
+<0315> E aquilo na mão dela não era um picolé de limão que pudesse ser dividido em dois.
+// と言うか、パカッと割れるラムネアイスではなかった.
+<0316> \{Kano}"Peguei um sorvete de chocolate com melancia."
+// \{佳乃}「スイカチョコバーだよぉ」
+<0317> \{Kano}"Essa parte vermelha tem gosto de melancia e os flocos são de chocolate."
+// \{佳乃}「赤いところがスイカ味で、種はチョコチップなんだよぉ」
+<0318> \{Yukito}"........."
+// \{Yukito}「………」
+<0319> \{Kano}"Ei, veja! Se a embalagem estiver premiada, podemos ganhar outro!"
+// \{佳乃}「だってねだってね、これって当たるともう一本なんだよ～」
+<0320> \{Kano}"Não se preocupe!"
+// \{佳乃}「だから大丈夫っ!」
+<0321> \{Kano}"Tudo o que preciso fazer é apostar na minha sorte!"
+// \{佳乃}「気合いで当てるから大丈夫っ!」
+<0322> As probabilidades poderiam ser boas e tudo mais, mas eu tinha certeza de que ela não ia ganhar nada.
+// 賭けてもいいが、絶対に当たらないと思う.
+<0323> \{Yukito}"...Pelo menos não deixe cair, por favor."
+// \{Yukito}「…せめて落とすなよ、頼むから」
+<0324> Quando vi Kano balançando o sorvete, isso foi tudo que pude dizer.
+// アイスをぶんぶん振り回す佳乃を見かねて、それだけを伝えた.
+<0325> \{Kano}"Aqui estamos..."
+// \{佳乃}「…んしょっ」
+<0326> Ela se sentou ao meu lado e rapidamente começou a comer.
+// 俺の隣に座り、早速食べはじめる.
+<0327> *Crunch crunch!*
+// さくさくっ.
+<0328> *Slurp slurp slurp!*
+// ぺろぺろぺろ.
+<0329> *Munch munch!*
+// むしゃむしゃ.
+<0330> \{Kano}"Hummmm, está tão gelado e delicioso..."
+// \{佳乃}「む～～っ.つべたくておいしひよぉ…」
+<0331> \{Yukito}"........."
+// \{Yukito}「………」
+<0332> Força, aguente firme! Afinal, sou um adulto...
+// …いいもん.俺は大人だもん.
+<0333> Eu olhei pro céu.
+// 空を見上げる.
+<0334> O sol ainda tava alto.
+// 太陽はまだまだ高い.
+<0335> Enormes nuvens brancas flutuavam no firmamento.
+// 綿毛のように真っ白な雲が、ぷかぷかと浮かんでいる.
+<0336> \{Yukito}"Maldita bola de pelo..."
+// \{Yukito}「ったく、あの毛玉犬め…」
+<0337> \{Kano}"Ué...?"
+// \{佳乃}「ふぇっ？」
+<0338> \{Yukito}"Ei. O Potato não tem nenhum ponto de encontro favorito?"
+// \{Yukito}「なあ.あいつの好きな場所ってないのか？」
+<0339> \{Kano}"Ponto de encontro favorito?"
+// \{佳乃}「好きな場所？」
+<0340> Ela parou de tomar seu sorvete e pensou brevemente sobre isso.
+// アイスを食べる手を休め、しばし考える.
+<0341> \{Kano}"O rio ou o santuário, eu acho..."
+// \{佳乃}「川とか、神社かなぁ…」
+<0342> \{Yukito}"Pensando bem, o Potato me levou até aquele rio..."
+// \{Yukito}「そう言えば、以前あいつに川まで連れていかれたことがあったな」
+<0343> Ele também fez com que o seguisse até o santuário...
+// それどころか、神社まで連れていかれたこともある.
+<0344> Foi quando vi Kano murmurar aquelas palavras estranhas e desmaiar.
+// そして俺は、佳乃がうわごとを言い、倒れるところに出くわしたのだ.
+<0345> \{Yukito}"........."
+// \{Yukito}「………」
+<0346> Eu tô com um estranho pressentimento sobre isso.
+// 何か妙な予感がする.
+<0347> Deveríamos ir dar uma olhada lá.
+// 一応探してみるべきだろう.
+<0348> \{Kano}"Aaahhh!"
+// \{佳乃}「あ～～～～っ!」
+<0349> \{Yukito}"O que foi? O que aconteceu?"
+// \{Yukito}「なんだっ、どうしたっ？」
+<0350> \{Kano}"Desculpe, não ganhei o brinde."
+// \{佳乃}「ごめん、ハズレだったよぉ」
+<0351> \{Yukito}"........."
+// \{Yukito}「………」
+<0352> \{Kano}"É a ponte!"
+// \{佳乃}「橋だよー」
+<0353> \{Yukito}"Não preciso que você me diga o óbvio."
+// \{Yukito}「言われなくてもわかってる」
+<0354> A ponte estreita que atravessa o pequeno rio.
+// 小川にかかった小さな橋.
+<0355> Este lugar é bastante monótono, até mesmo pra uma cidade rural provinciana.
+// 変化のない田舎町の中でも、さらに代わり映えのしない風景.
+<0356> Naturalmente, Potato não tava aqui.
+// 当然、ポテトはいない.
+<0357> A única graça salvadora é que neste lugar tá mais fresco do que no centro da cidade.
+// 町中より涼しいのがせめてもの救いだ.
+<0358> \{Kano}"Ahhh! Olhe ali, Yukito-kun!"
+// \{佳乃}「あ～～～～っ、Yukitoくんあそこっ!」
+<0359> Kano se inclinou sobre o parapeito e gritou.
+// 欄干から身を乗り出すようにして、佳乃が叫んだ.
+<0360> \{Kano}"É uma tartaruga!"
+// \{佳乃}「カメさんだぁ～」
+<0361> \{Yukito}"........."
+// \{Yukito}「………」
+<0362> \{Kano}"É uma tartaruga enorme, não é mesmo?"
+// \{佳乃}「おっきいカメさんだねぇ」
+<0363> \{Yukito}"Ela não é apenas enorme. Diria que é gigantesca, deve ter cerca de cinco metros de comprimento."
+// \{Yukito}「それどころじゃないだろ.体長５メートルぐらいあるぞ、あのカメ」
+<0364> \{Kano}"Mais isso seria mais largo que o rio!"
+// \{佳乃}「それだと川幅よりおっきいねぇ」
+<0365> \{Yukito}"É por isso que ela tá se contorcendo de aflição."
+// \{Yukito}「だからじたばたしてるだろ、苦しくて」
+<0366> \{Kano}"Ah! Ela está cuspindo fogo!"
+// \{佳乃}「あっ、火噴いたよ～」
+<0367> \{Yukito}"Uau, a margem do rio tá se transformando em um mar de lava!"
+// \{Yukito}「川の両岸が火の海になったな」
+<0368> \{Kano}"A tartaruga está recolhendo seus membros de volta para o casco."
+// \{佳乃}「手足縮めたよ～」
+<0369> \{Yukito}"Sua cabeça também."
+// \{Yukito}「首も縮めたな」
+<0370> \{Yukito}"E agora tá começando a girar."
+// \{Yukito}「ぐるぐると回転しはじめたぞ」
+<0371> \{Kano}"Ah, ela está flutuando."
+// \{佳乃}「あっ、浮きあがった」
+<0372> \{Yukito}"E tá subindo pro céu com uma velocidade incrível!"
+// \{Yukito}「すごい勢いで空に昇っていくぞ」
+<0373> \{Kano}"Ah, lá vai ela..."
+// \{佳乃}「あーあ、行っちゃったぁ…」
+<0374> \{Yukito}"Sim, ela se foi."
+// \{Yukito}「そうだな、行っちゃったな」
+<0375> \{Kano}"Que tartaruga incrível!"
+// \{佳乃}「すっごいカメさんだったねー」
+<0376> \{Yukito}"Sim, com certeza."
+// \{Yukito}「ああ.そうだな」
+<0377> \{Kano}"........."
+// \{佳乃}「………」
+<0378> \{Yukito}"........."
+// \{Yukito}「………」
+<0379> \{Yukito}"Vamos, chega de perder tempo com brincadeiras."
+// \{Yukito}「…バカなこと言ってないで、行くぞ」
+<0380> \{Kano}"Foi você que começou, Yukito-kun."
+// \{佳乃}「だって、言い出したのYukitoくんだよぉ」
+<0381> Saí com Kano olhando pra mim insatisfeita.
+// 不満げな佳乃を尻目に、俺は歩き出した.
+<0382> \{Kano}"É o torii do santuário."
+// \{佳乃}「鳥居だよー」
+<0383> O arco do templo finalmente apareceu.
+// 言葉通り、やっと鳥居が見えた.
+<0384> Parei pra recuperar o fôlego.
+// 俺は立ち止まり、呼吸を整えた.
+<0385> \{Yukito}"Gwaaah!"
+// \{Yukito}「…ぐわあっ」
+<0386> Gritei sem nenhum motivo algum.
+// 意味もなく叫ぶ.
+<0387> Sob o sol quente, trilhar esse caminho na montanha era um martírio.
+// この炎天下で、さすがに山道は辛い.
+<0388> Kano já tava subindo as escadas.
+// 佳乃はと見ると、もう階段にかかっていた.
+<0389> \{Yukito}"Não acredito que você ainda tem energia."
+// \{Yukito}「よく平気だな、お前」
+<0390> \{Kano}"Sim, estou acostumada pois muitas vezes saio para passear."
+// \{佳乃}「うん、よくお散歩するから」
+<0391> Ela parecia tá dizendo que nossa peregrinação não era nada de mais.
+// 事も無げに言う.
+<0392> \{Kano}"Vamos, ou vou deixar você para trás!"
+// \{佳乃}「置いてっちゃうよー」
+<0393> \{Yukito}"Sim, sim..."
+// \{Yukito}「はいはい…」
+<0394> Sua voz alegre me fez voltar a caminhar.
+// 明るい声に引っ張られて、俺も歩き出す.
+<0395> Subi as escadas lentamente e passei pelo torii do santuário.
+// 階段をゆっくりと登り、鳥居をくぐる.
+<0396> Como sempre, não havia ninguém por aqui.
+// いつも通り、誰もいなかった.
+<0397> Não havia nada além dos sons das cigarras cantando e do farfalhar das folhas.
+// ただ蝉の声と葉擦れの音だけが溢れていた.
+<0398> Um lugar esquecido.
+// この空間だけが、人々の記憶から抜け落ちているかのように思えた.
+<0399> O sol queimou meu rosto quando olhei pra cima.
+// 顔をあげると、日射しがやけに強い.
+<0400> Tudo ficou branco, brilhante e perdi a noção de onde tava.
+// 目の前が真っ白になり、自分がどこにいるのかわからなくなる.
+<0401> \{Kano}"Potato!"
+// \{佳乃}「ポテト～ぉ」
+<0402> Kano olhou lentamente em volta.
+// 佳乃がゆっくりと辺りを見回す.
+<0403> Então ela caminhou em direção ao santuário.
+// そうして神殿に歩み寄った.
+<0404> \{Kano}"Potato, você está aqui?"
+// \{佳乃}「ポテト～っ、いないかなぁ…」
+<0405> Sua saia balançava enquanto ela circulava até a parte de trás do santuário.
+// スカートの裾を揺らしながら、神殿の裏側に回る.
+<0406> Eu esperei por cerca de dez minutos.
+// 俺は１０分ほど、ひとりで待っていた.
+<0407> A luz do sol, filtrada pelas árvores, ondulava no chão como ondas no mar.
+// 参道に落ちた木漏れ日が、波のようにさざめくのを見ていた.
+<0408> Finalmente...
+// やがて.
+<0409> Kano reapareceu.
+// 佳乃が現れた.
+<0410> Pelo jeito que ela andava, percebi que não conseguiu encontrar Potato.
+// 収穫がなかったことは、歩き方を見ればわかった.
+<0411> \{Yukito}"Então ele também não tá aqui..."
+// \{Yukito}「ここにもいないのか…」
+<0412> \{Kano}"Também não está aqui..."
+// \{佳乃}「ここにもいないのかぁ…」
+<0413> Ela repetiu minhas palavras com decepção.
+// 俺の言葉を繰り返す.
+<0414> Pelo visto, minha intuição não era tão precisa.
+// 俺の勘も大したことはないらしかった.
+<0415> \{Kano}"Ununu... o que devemos fazer?"
+// \{佳乃}「うぬぬ.どうしよう」
+<0416> \{Kano}"Eu tenho certeza que ouvi a voz do Potato..."
+// \{佳乃}「ホントに声、聞こえたんだけどなぁ…」
+<0417> Ela ficou em silêncio.
+// そのまま、黙ってしまう.
+<0418> O canto das cigarras voltou a nos assombrar.
+// セミの声が耳に戻ってきた.
+<0419> O céu tinha um tom pálido de azul.
+// 吸い込まれるほどに、空が青い.
+<0420> Kano olhou pra mim.
+// 佳乃が俺のことを見た.
+<0421> Seus olhos eram um labirinto de desespero.
+// 透明な迷路にとらわれているような、途方に暮れた瞳.
+<0422> Eu senti que tava prestes a me lembrar de algo.
+// 俺は何かを思い出しかけていた.
+<0423> Será que tô finalmente me lembrando onde vi o Potato pela última vez?
+// それは消えてしまったポテトの行方なのか.
+<0424> Ou isso é...
+// それとも….
+<0425> \{Yukito}"Ei, Kano."
+// \{Yukito}「なあ.佳乃」
+<0426> \{Kano}"Hmm?"
+// \{佳乃}「ふぇっ？」
+<0427> \{Yukito}"Você não precisa responder se não quiser..."
+// \{Yukito}「答えたくなかったら、答えなくてもいいからな」
+<0428> \{Yukito}"Mas sobre sua magia..."
+// \{Yukito}「お前のその、魔法だけどな…」
+<0429> \{Yukito}"Você acha que poderia usá-la pra localizar alguém?"
+// \{Yukito}「例えば、誰かの居場所がわかるってことはないのか？」
+<0430> Kano ficou em silêncio.
+// 聞いたとたん、佳乃は黙り込んだ.
+<0431> Eu herdei da minha mãe a habilidade de mover objetos com a minha vontade.
+// 俺が母親から伝えられた、手を触れずに人形を操る力.
+<0432> Era um poder que desafiava a lógica.
+// あるはずのない力を、俺は持っている.
+<0433> E me lembrei dela contando que nossos poderes não eram originalmente limitados à telecinesia.
+// そして母親は、もともと『力』はこれだけではなかったと言っていたような気がする.
+<0434> Se isso fosse verdade...
+// だとすれば.
+<0435> Não seria estranho encontrar alguém com um tipo de poder diferente do meu.
+// 俺とは別の力を持つ者がいても、おかしくないのではないか？
+<0436> A capacidade de ouvir vozes de pessoas distantes, por exemplo.
+// 例えば、いるはずのない者の声を聞く能力.
+<0437> Essa garota na minha frente poderia ter tanto poder...
+// 例えば、目の前にいるこの少女が….
+<0438> Kano ficou perdida em pensamentos por muito tempo.
+// 佳乃は随分長く考え込んでいた.
+<0439> Então ela me respondeu com firmeza.
+// そして、きっぱりと答えた.
+<0440> \{Kano}"Eu não acho que minha magia funcione assim."
+// \{佳乃}「そういうのとはちがうと思う」
+<0441> \{Yukito}"Entendi..."
+// \{Yukito}「そうか…」
+<0442> Então não havia sentido em insistir nesta conversa.
+// それなら、この話はもうするべきではない.
+<0443> \{Yukito}"Tudo bem. Vamos continuar procurando."
+// \{Yukito}「よし.もう少し探そう」
+<0444> Eu tava prestes a ir embora.
+// 俺が歩き出そうとした、その時.
+<0445> Mas Kano agarrou minha camiseta.
+// 佳乃の指が、俺のシャツの裾を掴んでいた.
+<0446> \{Kano}"Ei..."
+// \{佳乃}「えっとね」
+<0447> \{Kano}"Hm..."
+// \{佳乃}「えっと…」
+<0448> \{Yukito}"O que foi?"
+// \{Yukito}「何だよ？」
+<0449> \{Kano}"Hmm..."
+// \{佳乃}「えっとね…」
+<0450> Depois que Kano pareceu ter se decidido, ela olhou pra mim.
+// 何かを決心したように、佳乃が俺のことを見た.
+<0451> Ela colocou a mão direita com a bandana no peito.
+// バンダナのなびく右手を、そっと胸に当てる.
+<0452> \{Kano}"Yukito-kun, vou te contar algo porque acho que você não vai rir de mim..."
+// \{佳乃}「Yukitoくんならきっと、笑わないと思うから…」
+<0453> Ela respirou fundo.
+// そう前置きして、佳乃は語りはじめた.
+<0454> \{Kano}"Essa bandana foi um presente de alguém."
+// \{佳乃}「このバンダナって、もらいものなんだよ」
+<0455> \{Kano}"Eu tenho cuidado dela desde pequena."
+// \{佳乃}「ホントにちっちゃな頃から、ずっと大切にしてるの」
+<0456> Isso provavelmente significa que era desde quando ela conseguia se lembrar.
+// たぶんそれは、佳乃が物心ついた時から、という意味なのだろう.
+<0457> Ainda assim, a bandana amarela não tinha nenhuma mancha nem sinal de desgaste.
+// 黄色いバンダナには汚れもほころびもほとんどない.
+<0458> O tempo tava selado naquele pulso dela.
+// 佳乃の手首の上で、時は封じられている.
+<0459> \{Kano}"A pessoa que me deu me disse isso."
+// \{佳乃}「これをもらった時に言われたの」
+<0460> \{Kano}"'Você deve continuar usando ela até se tornar adulta.'"
+// \{佳乃}「大人になるまで、ずっとつけてなさいって」
+<0461> \{Kano}"'Você não deve removê-la antes disso.'"
+// \{佳乃}「それまで、絶対に外しちゃいけないって」
+<0462> \{Kano}"'Se cumprir esta promessa, você será capaz de usar magia.'"
+// \{佳乃}「そうすれば、魔法が使えるようになるって」
+<0463> Magia...
+// 魔法.
+<0464> O calor diminuiu de repente.
+// 不意に、熱気が退いた.
+<0465> Eu não tinha ideia do porquê.
+// なぜだかわからない.
+<0466> Algo se mexeu nas profundezas das minhas memórias.
+// 心の奥底にある何かを、指先で撫でられたように感じた.
+<0467> \{Yukito}"Quem deu isso pra você?"
+// \{Yukito}「誰に、もらったんだ？」
+<0468> Eu perguntei, apontando pra bandana.
+// バンダナを指さしたまま、俺はそう訊ねていた.
+<0469> \{Kano}"Não me lembro bem. Eu era muito jovem naquela época..."
+// \{佳乃}「ちっちゃかったから、よく覚えてないけど…」
+<0470> A voz dela falhou.
+// そのまま言葉を濁す.
+<0471> \{Yukito}"Entendo."
+// \{Yukito}「そうか」
+<0472> \{Kano}"Sim..."
+// \{佳乃}「うん…」
+<0473> \{Kano}"E desde então, eu tenho usado isso o tempo todo."
+// \{佳乃}「それからずっと、これを巻いてたんだよぉ」
+<0474> \{Yukito}"O tempo todo... Você quer dizer literalmente?"
+// \{Yukito}「『ずっと』って…本当にずっとか？」
+<0475> \{Kano}"Sim."
+// \{佳乃}「うんっ」
+<0476> Ela concordou com um sorriso, como se fosse a coisa natural de se fazer.
+// 当たり前の笑顔で、頷く.
+<0477> Percebi que a havia menosprezado.
+// 俺は、佳乃を見くびっていたことに気づいた.
+<0478> Ela usava aquela bandana no pulso desde criança.
+// 子供の頃から今まで、バンダナを手首に巻きつけておく.
+<0479> Se isso for verdade, então não deve ter sido uma tarefa fácil.
+// それが本当なら、並大抵のことではなかったはずだ.
+<0480> \{Kano}"Tive problemas quando precisava nadar ou fazer exames físicos."
+// \{佳乃}「水泳とか身体測定とか、大ピンチなこともあったよぉ」
+<0481> \{Kano}"Eu também fui escolhida..."
+// \{佳乃}「イジメられたことも、ちょっぴりあったり…」
+<0482> Ela baixou o olhar.
+// 瞳を伏せて、付け加える.
+<0483> Essa garota, por nunca tirar a bandana do pulso, deve ter sido tratada como esquisita pelos colegas.
+// どんな時にもバンダナを外さない少女は、周りから奇異に見られたはずだ.
+<0484> \{Kano}"Mas minha irmã sempre vinha me salvar."
+// \{佳乃}「でもね、いつもお姉ちゃんが助けてくれたんだよぉ」
+<0485> \{Kano}"Ela acabava convencendo as pessoas em meu lugar."
+// \{佳乃}「あたしの代わりに、いつも一生懸命に頼んでくれたんだよ」
+<0486> \{Kano}"Ela batia em todas as crianças que implicavam comigo."
+// \{佳乃}「いじめっ子はみんな、コテンパンにやっつけてくれたよ」
+<0487> \{Kano}"Até meninos grandes foram espancados por ela."
+// \{佳乃}「おっきな男の子だって、容赦なくボコボコにしちゃうんだよぉ」
+<0488> \{Yukito}"........."
+// \{Yukito}「………」
+<0489> Verifiquei os arredores pra ter certeza de que Hijiri não tava por perto.
+// 取りあえず、辺りに聖がいないか確認しておく.
+<0490> \{Kano}"É por isso que consegui ir tão longe com isso."
+// \{佳乃}「だからあたし、ここまで来れたんだぁ」
+<0491> Kano riu.
+// 佳乃が笑う.
+<0492> Ela tava orgulhosa de si mesma e também de sua irmã amorosa e confiável.
+// やさしく頼もしい姉と、自分自身への誇りを込めて.
+<0493> \{Kano}"Hmm..."
+// \{佳乃}「う～んっ」
+<0494> Ela juntou as mãos e se espreguiçou.
+// 両手を組み合わせて、大きく伸びをする.
+<0495> O tecido amarelo flutua levemente sob a luz do sol do verão.
+// 黄色い布がひらひらと揺れ、真夏の太陽を透かす.
+<0496> Porém o rosto de Kano logo fica nublado de preocupação.
+// と、佳乃の顔がなぜか曇った.
+<0497> \{Kano}"Mas..."
+// \{佳乃}「ホントはね…」
+<0498> Ela baixou as mãos e olhou pra sua bandana.
+// 両腕を下げ、バンダナを眺める.
+<0499> \{Kano}"Acho que estou com medo..."
+// \{佳乃}「あたし、これを外すのが怖いんだと思う」
+<0500> \{Kano}"E se eu não conseguir usar magia mesmo depois de tirá-la?"
+// \{佳乃}「これを外しても、魔法なんて使えなかったら…」
+<0501> \{Kano}"Sempre estive preocupada com isso."
+// \{佳乃}「ずっとそう思ってたけど」
+<0502> \{Kano}"Hoje em dia estou começando a ter uma mentalidade diferente."
+// \{佳乃}「このごろ、ちょっと違うかも」
+<0503> Ela inclinou a cabeça.
+// 小首をかしげる.
+<0504> Então ela olhou pra mim.
+// それから、俺のことを見た.
+<0505> \{Kano}"Yukito-kun pode fazer bonecos se mexerem, certo?"
+// \{佳乃}「Yukitoくん、お人形さん動かしてくれたよね？」
+<0506> \{Yukito}"Sim."
+// \{Yukito}「ああ」
+<0507> \{Kano}"Fiquei muito animada quando vi você fazer isso pela primeira vez."
+// \{佳乃}「あの時ね、あたし、ホントにドキドキしたんだよぉ」
+<0508> \{Kano}"Eu nunca tinha visto magia de verdade antes."
+// \{佳乃}「ほんものの魔法を見るのって、はじめてだったから」
+<0509> \{Yukito}"Magia de verdade, hm..."
+// \{Yukito}「ほんものの魔法、か…」
+<0510> Eu murmurei pra mim mesmo.
+// 思わず、俺はそうつぶやいた.
+<0511> \{Kano}"Se eu aprendesse a usar magia..."
+// \{佳乃}「もしも魔法が使えちゃったら…」
+<0512> \{Kano}"Isso seria ainda mais assustador."
+// \{佳乃}「そっちの方が怖いかもしれないねぇ」
+<0513> Ela sorriu com inocência.
+// 無邪気な笑顔.
+<0514> Então Kano percebeu que eu tava olhando pra ela.
+// そうして、俺の視線に気づく.
+<0515> \{Kano}"Ah, desculpe."
+// \{佳乃}「あっ、ゴメンなさい」
+<0516> \{Yukito}"Tudo bem..."
+// \{Yukito}「いや…」
+<0517> Mesmo agora, o boneco tava no bolso de trás da minha calça.
+// 俺の尻ポケットには、今も人形が入っている.
+<0518> Ele tem sido meu parceiro nos últimos dez anos.
+// 十年来のつきあいの、俺の相棒.
+<0519> Por que eu tenho esse poder?
+// なぜ俺には、こんな力があるのだろう？
+<0520> Desde o dia em que comecei a mover minha marionete, nunca tinha parado pra pensar sobre isso.
+// はじめて人形を動かした日から、今まで一度も考えたことがなかった.
+<0521> \{Kano}"Vamos, Yukito-kun!"
+// \{佳乃}「Yukitoくん、行こっ!」
+<0522> Kano saiu correndo.
+// 佳乃がぱっと駆け出した.
+<0523> E eu a segui.
+// 俺も後を追う.
+<0524> Olhei pro céu enquanto corria.
+// 走りながら空を見る.
+<0525> As palavras de Kano permaneceram na minha cabeça.
+// 佳乃の言葉が、消えずに漂っている.
+<0526> 'Se eu aprendesse a usar magia...'
+// 『もしも魔法が使えちゃったら…』
+<0527> A luz do sol ainda tava tão quente que poderia queimar a pele.
+// 日射しはまだ焦げるほどに強い.
+<0528> No entanto, o crepúsculo já tava surgindo.
+// それなのに、夕闇の気配を感じていた.
+<0529> Quando chegamos à clínica, o sol se despedia no horizonte.
+// 診療所に帰り着いた時は、もう日が暮れていた.
+<0530> \{Kano}"Apesar de nossos esforços, não conseguimos encontrar o Potato..."
+// \{佳乃}「見つからなかったね…」
+<0531> Kano se virou na frente da porta de vidro.
+// ガラス扉の前で、佳乃がもう一度振り返った.
+<0532> \{Kano}"Para onde foi o Potato?"
+// \{佳乃}「ポテト、どこかに行っちゃったのかなぁ…」
+<0533> \{Yukito}"Eu também me pergunto sobre isso."
+// \{Yukito}「どこだろうな」
+<0534> \{Kano}"Talvez Potato tenha se cansado da minha companhia..."
+// \{佳乃}「あたしといるの、つまらなくなっちゃったのかなぁ…」
+<0535> \{Yukito}"Isso não é verdade."
+// \{Yukito}「そんなことはないだろ」
+<0536> \{Yukito}"Há alguns que não conseguem ficar no mesmo lugar, por mais felizes que estejam."
+// \{Yukito}「どんなに幸せでも、そこに止まってられない奴もいるのさ」
+<0537> Quando uma pessoa ganha posse de algo, ela tenta protegê-lo.
+// 何かを手に入れれば、守らなければならない.
+<0538> Mas quem não tem nada, não tem o que perder.
+// 最初から何も持っていなければ、失わずに済む.
+<0539> Provavelmente foi isso.
+// たぶん、そういうことなのだろう.
+<0540> \{Kano}"........."
+// \{佳乃}「………」
+<0541> Kano franziu os lábios e olhou pra mim novamente.
+// きゅっと唇を閉じて、佳乃が俺のことを見ていた.
+<0542> Suas bochechas emitiam um brilho dourado. Ela parecia querer me contar alguma coisa.
+// 何か言いたそうな頬を、金色の光が染めあげていた.
+<0543> \{Yukito}"Você pode procurá-lo novamente amanhã."
+// \{Yukito}「明日もまた探せばいいだろ」
+<0544> Coloquei a mão na cabeça dela.
+// 佳乃の頭に、ぽんと手を乗せる.
+<0545> Seu cabelo, submetido ao calor do sol durante o dia todo, ainda tava quente ao toque.
+// 一日太陽にさらされていた髪は、まだほんわりと温かかった.
+<0546> \{Yukito}"Você certamente vai encontrar Potato se continuar procurando."
+// \{Yukito}「お前が会いたいと思ってるなら、いつか見つかるさ」
+<0547> \{Kano}"Você tem razão..."
+// \{佳乃}「そうだねぇ…」
+<0548> Ela concordou comigo.
+// つぶやいて、こくりと頷く.
+<0549> \{Kano}"Amanhã irei procurar pelo Potato novamente."
+// \{佳乃}「また明日、探してみる」
+<0550> \{Yukito}"Esse é o espírito."
+// \{Yukito}「その意気だ」
+<0551> Eu baguncei seu cabelo pra recompensá-la.
+// ご褒美に、髪をかき混ぜてやる.
+<0552> Kano fechou um olho e riu timidamente.
+// 片目をつぶって、佳乃がはにかむように笑う.
+<0553> \{Kano}"Ah, isso mesmo."
+// \{佳乃}「…あっ、そうだぁ」
+<0554> \{Kano}"Vamos levar alguns bentôs e procurar o dia todo amanhã."
+// \{佳乃}「明日はお弁当持って、一日じゅう探そうよ」
+<0555> \{Yukito}"Espere, você quer dizer que eu também terei que ir?"
+// \{Yukito}「って、俺も行くわけか？」
+<0556> \{Kano}"Não se preocupe. Vou pedir para onee-chan fazer o suficiente para nós dois."
+// \{佳乃}「大丈夫だよぉ.お姉ちゃんに二人分作ってもらうからぁ」
+<0557> \{Yukito}"Não, não tô falando do bentô..."
+// \{Yukito}「いや、弁当の問題じゃなくてだな…」
+<0558> \{Voz}"Piko!"
+// \{声}「ぴこっ」
+<0559> \{Kano}"Eh?"
+// \{佳乃}「え？」
+<0560> \{Yukito}"Hm?"
+// \{Yukito}「ん？」
+<0561> Um latido familiar soou sob o céu laranja.
+// 聞き覚えのある鳴き声が茜色の空に響いた.
+<0562> \{Voz}"Pikooo!"
+// \{声}「ぴこーーっ」
+<0563> Potato correu em nossa direção. Seu corpo branco tava manchado de vermelho pelo sol atrás dele.
+// 夕陽を背に受け、白い身体を赤く染めたポテトが、こっちに向かって走ってくる.
+<0564> O rosto de Kano de repente se iluminou.
+// それを見た佳乃の顔が、ぱぁっと明るくなる.
+<0565> \{Kano}"Potato!"
+// \{佳乃}「ポテトぉ!」
+<0566> Ela o recebeu com um sorriso.
+// それを笑顔で迎える佳乃.
+<0567> \{Potato}"Piko pikoo!"
+// \{ポテト}「ぴこぴこー!」
+<0568> \{Kano}"Potatoo!"
+// \{佳乃}「ポテトぉー!」
+<0569> \{Potato}"Piko pikoo!"
+// \{ポテト}「ぴこぴこぉー」
+<0570> \{Kano}"Pootaatoo!"
+// \{佳乃}「ポーテートォー!」
+<0571> Parecia uma cena de filme.
+// それはまるで映画の中のワンシーンのようだった.
+<0572> De uma hora pra outra, a desolada rua do distrito comercial se transformou em um cenário incrível, com os dois se abraçando em câmera lenta e comemorando o reencontro.
+// 寂れた商店街を最高のステージに変えて、二人はスローモーションで抱き合い、その再会を喜んだ.
+<0573> \{Kano}"Onde você estava?"
+// \{佳乃}「どこいってたの」
+<0574> \{Kano}"Estávamos procurando você por toda parte!"
+// \{佳乃}「たくさん探したんだよぉ」
+<0575> \{Potato}"Piko-."
+// \{ポテト}「ぴこぉ～」
+<0576> \{Kano}"Não, não estou brava com você. Mas eu fiquei realmente preocupada!"
+// \{佳乃}「うん、怒っていないよ.いっぱい心配はしたけど」
+<0577> \{Potato}"Piko piko."
+// \{ポテト}「ぴこぴこぉ」
+<0578> \{Kano}"Certo, mas você não deve desaparecer assim de novo, ok?"
+// \{佳乃}「うん、うん、もう勝手にいなくなっちゃダメだよ」
+<0579> \{Potato}"Piko."
+// \{ポテト}「ぴこ」
+<0580> A bola de pelo assentiu com o corpo inteiro.
+// 全身を使って大きく頷く毛玉.
+<0581> Assim como pensei... Esses dois realmente se entendiam.
+// この二人…やっぱり会話をしている.
+<0582> \{Yukito}"A propósito, onde você tava?"
+// \{Yukito}「ところでお前は、今までどこにいたんだ？」
+<0583> \{Potato}"Piko piko, piko."
+// \{ポテト}「ぴこぴこ、ぴこ」
+<0584> \{Yukito}"Hmm, hmm... sei..."
+// \{Yukito}「ふむふむ、ふむ…そうか…」
+<0585> Só a Kano mesmo pra entender essa linguagem...
+// さっぱりわからない.
+<0586> \{Kano}"Uau! Sério? Isso deve ter sido horrível."
+// \{佳乃}「へぇーそうだったんだぁ.ポテト大変だったんだねぇ」
+<0587> Ela parecia entender tudo...
+// こちらは理解しているらしい….
+<0588> \{Kano}"Eu sinto muito mesmo."
+// \{佳乃}「ごめんねぇ」
+<0589> E agora ela tava se desculpando. Foi culpa dela então?
+// しかも謝っている.非はこちらにあるのか？
+<0590> \{Kano}"Farei com que a Onee-chan peça desculpas a você também."
+// \{佳乃}「ちゃんとお姉ちゃんにも謝ってもらうから」
+<0591> \{Yukito}"........."
+// \{Yukito}「………」
+<0592> Até que ponto eles conseguem se comunicar?
+// 人と動物はどこまで心を交わすことが出来るんだろう….
+<0593> \{Kano}"Você está faminto, não está? Vamos correr para casa e comer alguma coisa!"
+// \{佳乃}「お腹空いたねー.早く家に帰って御飯しよっ」
+<0594> \{Potato}"Piko!"
+// \{ポテト}「ぴこっ」
+<0595> Os dois amigos se dirigiram lado a lado pra entrada da clínica.
+// 仲良し二人組は並んで診療所の入り口へと向かった.
+<0596> Vê-los assim me trouxe um sorriso.
+// とても微笑ましい後ろ姿だ.
+<0597> \{Kano}"Yukito-kun, venha também."
+// \{佳乃}「Yukitoくんも早くおいでよ」
+<0598> \{Yukito}"Ok."
+// \{Yukito}「ああ」
+<0599> Eu entrei.
+// 俺も歩き出す.
+<0600> \{Kano}"Chegamos!"
+// \{佳乃}「たっだいまー」
+<0601> Ela abriu a porta de vidro e entrou na sala de espera.
+// ガラス戸を勢いよく開けて待合室に入る.
+<0602> \{Hijiri}"Bem-vindos de volta. Vocês encontraram o Potato?"
+// \{聖}「おかえり.ポテトはいたか？」
+<0603> \{Potato}"Piko!"
+// \{ポテト}「ぴこっ」
+<0604> Ele respondeu por Kano.
+// 佳乃より先に返事をする.
+<0605> \{Hijiri}"Ah, você está de volta."
+// \{聖}「そうか、ポテト帰ってきたか」
+<0606> \{Hijiri}"Mas você não deveria ter feito Kano se preocupar assim."
+// \{聖}「でも、佳乃に心配をかけてはダメだろ」
+<0607> \{Potato}"Piko."
+// \{ポテト}「ぴこ～」
+<0608> \{Hijiri}"Que bom que você entende."
+// \{聖}「わかればいい」
+<0609> \{Kano}"Onee-chan, você não deveria repreender o Potato!"
+// \{佳乃}「お姉ちゃん、ポテトをしかっちゃダメ」
+<0610> Kano se posicionou entre Hijiri e Potato.
+// 佳乃が聖とポテトの間に割って入った.
+<0611> \{Kano}"Potato estava apenas fazendo o que você mandou."
+// \{佳乃}「ポテトはお姉ちゃんの言うことをきいたんだから、しかっちゃダメ」
+<0612> \{Hijiri}"Eu mandei...?"
+// \{聖}「私の？」
+<0613> \{Kano}"Ele estava apenas tentando me entregar o bentô."
+// \{佳乃}「頑張ってお弁当届けようとしてくれたんだよぉ」
+<0614> \{Hijiri}"Bentô..."
+// \{聖}「お弁当…」
+<0615> \{Hijiri}"........."
+// \{聖}「………」
+<0616> \{Hijiri}"Oh!"
+// \{聖}「おお」
+<0617> Ela bateu na palma da mão com o punho.
+// ポンと手を打つ.
+<0618> \{Yukito}"Viu só? Você é a culpada."
+// \{Yukito}「…なんだ犯人はあんたか」
+<0619> \{Hijiri}"Não, a culpa é sua."
+// \{聖}「いや、むしろ君だな」
+<0620> \{Yukito}"Minha? Por quê?"
+// \{Yukito}「なんでそこで俺が出てくる…？」
+<0621> \{Hijiri}"Porque você se recusou a entregar o bentô para mim."
+// \{聖}「君が頼みを断るからだ」
+<0622> \{Yukito}"...?"
+// \{Yukito}「…？」
+<0623> \{Yukito}"Do que você tá falando?"
+// \{Yukito}「何のことだ？」
+<0624> \{Hijiri}"Não me diga que você já não se lembra do que aconteceu há três dias?"
+// \{聖}「一昨々日の事を忘れたとは言わせないぞ」
+<0625> Tentei reconectar os pontos.
+// さっぱり憶えていない.
+<0626> \{Yukito}"Eu esqueci..."
+// \{Yukito}「忘れ…」
+<0627> \{Hijiri}"........."
+// \{聖}「………」
+<0628> \{Yukito}"Por gentileza, você poderia contar o que aconteceu, se não for pedir muito?"
+// \{Yukito}「差し支えがなければ教えて下さい」
+<0629> Eu tentei ser o mais educado possível.
+// 丁寧に言った.
+<0630> \{Hijiri}"Eu queria que você fizesse uma tarefa para mim em troca de um almoço, lembra?"
+// \{聖}「私が昼飯を報酬に頼み事をしようとしただろう」
+<0631> \{Yukito}"Oh, sim. Eu meio que me recordo disso."
+// \{Yukito}「ああ、そう言えばそんなこともあったな」
+<0632> \{Hijiri}"Você disse não, então tive que pedir para o Potato ir."
+// \{聖}「君が断るから、代わりにポテトに行ってもらったんだ」
+<0633> \{Yukito}"Ir pra onde? Fazer o quê?"
+// \{Yukito}「…どこへ何をしにだ？」
+<0634> \{Hijiri}"Ir na escola para entregar o bentô de Kano."
+// \{聖}「学校まで佳乃の弁当を届けにだ」
+<0635> \{Yukito}"Oh..."
+// \{Yukito}「ほう…」
+<0636> Deixar o Potato cuidar da tarefa em meu lugar significa que sou tratado no mesmo nível que um cachorro...
+// 俺の代わりにポテトということは、俺とこの犬畜生はお使いを頼む分では同格なのか….
+<0637> \{Potato}"Piko piko."
+// \{ポテト}「ぴこぴこ」
+<0638> \{Kano}"Ele disse que não sabia o que fazer depois que perdeu o bentô."
+// \{佳乃}「でも、途中でお弁当なくしちゃって困ってたんだって」
+<0639> \{Hijiri}"Honestamente... Nada disso teria acontecido se você tivesse ido."
+// \{聖}「まったく、素直に君が行っていればこんな事にはならなかったんだ」
+<0640> \{Yukito}"Espere, você tá dizendo que a culpa foi minha?"
+// \{Yukito}「まて、俺が悪いのか？」
+<0641> \{Hijiri}"Finalmente você percebeu."
+// \{聖}「当然だ」
+<0642> Ela disse sem hesitação.
+// きっぱり言い切られた.
+<0643> Esta mulher tava sendo irracional.
+// 理不尽だ.
+<0644> \{Yukito}"Ei, ouça bem..."
+// \{Yukito}「あのな」
+<0645> Eu ia começar a minha defesa.
+// さすがに言い返そうと口を開く.
+<0646> \{Hijiri}"A propósito, você está com fome?"
+// \{聖}「ところで腹は空いていないか？」
+<0647> \{Yukito}"...?"
+// \{Yukito}「…？」
+<0648> \{Hijiri}"Esta noite teremos curry caseiro e salada de abóbora."
+// \{聖}「今晩は、私の手作りカレーとカボチャサラダだ」
+<0649> Assim que ouvi isso, meu estômago roncou.
+// メニューを耳にしただけで腹の虫が蠢き始めた.
+<0650> Foi uma reação natural, visto que passei a tarde inteira andando à procura de Potato.
+// 午後一杯、ポテト捜索のために歩き回ったのだから、当然の反応なのだ.
+<0651> \{Kano}"Eba! Vamos ter curry caseiro!"
+// \{佳乃}「わーい、お姉ちゃんのカレーだー」
+<0652> \{Potato}"Piko piko!"
+// \{ポテト}「ぴこぴこ～」
+<0653> A irmã mais nova fez uma dancinha.
+// 小躍りする妹.
+<0654> Aos seus pés, o cachorro se ergueu nas patas traseiras pra expressar também a sua alegria.
+// その足下でも、犬が前足を上げて喜んでいる.
+<0655> \{Hijiri}"Então, você ia dizer alguma coisa?"
+// \{聖}「で、何を言おうとしたんだ？」
+<0656> \{Yukito}"........."
+// \{Yukito}「………」
+<0657> \{Yukito}"Não, deve ter sido apenas a sua imaginação."
+// \{Yukito}「気のせいじゃないか？」
+<0658> \{Hijiri}"Sei... Então, vamos jantar?"
+// \{聖}「そうか.じゃあ晩飯を食っていくか？」
+<0659> \{Yukito}"É a coisa certa a se fazer."
+// \{Yukito}「いただきます」
+<0660> Quando confrontado com a urgência de sobreviver ao presente, o orgulho humano se torna insignificante.
+// 今日を生きていく上で、人のプライドなんてとても小さな物だと気づいた.
+<0661> \{Hijiri}"Já está pronto. Vou trazer o jantar aqui."
+// \{聖}「もう出来ているから、持ってこよう」
+<0662> \{Hijiri}"Mantive o curry cozinhando em fogo baixo. Vai ser um verdadeiro deleite."
+// \{聖}「弱火でことこと煮込み続けているから、いい具合に仕上がっているぞ」
+<0663> \{Yukito}"........."
+// \{Yukito}「………」
+<0664> \{Yukito}"Bentô?"
+// \{Yukito}「…弁当？」
+<0665> Essas palavras sacudiram minha memória.
+// その言葉に、引っかかるものがあった.
+<0666> Eu fiquei pensando sobre isso.
+// ゆっくりと思いを巡らす.
+<0667>Quando procurava o Potato, sentia que algo tava fora do lugar.
+// ポテトを探す間じゅう、ずっと覚えていた違和感.
+<0668> Bentô...
+// 弁当…
+<0669> Entrega na escola...
+// 届ける…
+<0670> Piko piko...
+// ぴこぴこ…
+<0671> Pikkori...
+// …ぴっこり.
+<0672> É isso!
+// …そうだ!
+<0673> Eu descobri...
+// 俺は知っていたのだ.
+<0674> Eu sei quem é o verdadeiro culpado pelo desaparecimento de Potato.
+// ポテト失踪事件の真犯人を.
+<0675> \{Kano}"Aonde você vai, Yukito?"
+// \{佳乃}「Yukitoくん、どこ行くのぉ？」
+<0676> \{Yukito}"Eu sei onde tá o Potato."
+// \{Yukito}「ポテトの居場所がわかった」
+<0677> \{Kano}"Eh? Eh? Eh?"
+// \{佳乃}「…えっえっえっ？」
+<0678> \{Yukito}"Vamos..."
+// \{Yukito}「行くぞ…」
+<0679> \{Kano}"Esta não é a escola?"
+// \{佳乃}「…ここ、学校だよ？」
+<0680> \{Yukito}"Isso mesmo, esta é a escola."
+// \{Yukito}「そうだ、学校だ」
+<0681> \{Kano}"Mas... eu já procurei aqui."
+// \{佳乃}「でもでも、学校はあたし、探したよぉ？」
+<0682> \{Yukito}"Sua pesquisa não foi detalhada o suficiente."
+// \{Yukito}「たぶん、全部は探していないはずだ」
+<0683> \{Kano}"Ununu..."
+// \{佳乃}「うぬぬ…」
+<0684> Enquanto conduzia uma Kano confusa, passamos pelos portões da escola.
+// 不思議顔の佳乃を連れ、校門から中に入る.
+<0685> Logo encontrei os arbustos em questão.
+// すぐに問題の植え込みがあった.
+<0686> \{Yukito}"Você já conferiu aqui?"
+// \{Yukito}「そこは探したか？」
+<0687> Fiquei com medo de confrontar o Potato diretamente, então apenas apontei para os arbustos.
+// 直視するのが怖いので、指さすだけで伝える.
+<0688> \{Kano}"Eh...? Aqui?"
+// \{佳乃}「ふぇっ？ どこ？」
+<0689> \{Yukito}"No meio desses arbustos."
+// \{Yukito}「その植え込みの影だ」
+<0690> \{Kano}"Não, eu não cheguei a olhar aqui..."
+// \{佳乃}「探してない、けど…」
+<0691> \{Kano}"Mas não tem como o Potato estar por aqui!"
+// \{佳乃}「でも、あんなとこにいるわけないよぉ」
+<0692> Pois saiba que é aí que ele tá.
+// ところが、いるんだ.
+<0693> Foi quando eu vim entregar o bentô de Kano.
+// 佳乃に弁当を届けに来た日のことだ.
+<0694> A bola de pelo veio comigo nesse dia.
+// あの時、確かにポテトは俺についてきた.
+<0695> Achei que Potato causaria pânico se fosse descoberto, então mandei que ele ficasse escondido entre os arbustos.
+// 見つかったらパニックになると思った俺は、ポテトをつまみ上げ、植え込みの影にそっと隠した.
+<0696> 'Não saia daqui até que eu diga que tá tudo bem.'
+// 『俺がいいと言うまで、ここを動くな』
+<0697> 'Pikkori.'
+// 『ぴっこり』
+<0698> Eu tinha esquecido completamente disso.
+// 完璧に忘れていた.
+<0699> Três dias tinham se passado desde então.
+// あれから３日が経過.
+<0700> Três dias consecutivos com uma temperatura superior a trinta graus celsius.
+// 気温は連日３０度オーバー.
+<0701> \{Yukito}"........."
+// \{Yukito}「………」
+<0702> Eu apenas rezei para que não encontrássemos um chumaço seco e pútrido ali.
+// 願わくば、干からびたり死臭を発したりしていませんように.
+<0703> *Shrek shrek...*
+// がさがさ.
+<0704> Kano separou os arbustos com as mãos.
+// 佳乃の手が植え込みを掻き分ける.
+<0705> E então...
+// そして….
+<0706> \{Kano}"Aaahhh!"
+// \{佳乃}「…あ～～～～っ!」
+<0707> \{Kano}"Potato! Eu finalmente encontrei você!"
+// \{佳乃}「ポテトぉ、やっと見つけたよ～」
+<0708> Kano levantou a familiar bola de pelo.
+// 佳乃が両腕で、なつかしい毛玉を抱き上げた.
+<0709> \{Potato}"Piko..."
+// \{ポテト}「ぴこ…」
+<0710> Provavelmente o Potato ficou esperando aqui esse tempo todo. Seu pelo parecia desgastado à luz do sol poente.
+// ずっと待っていたのだろう.西日の当たった毛皮はどこかくたびれていた.
+<0711> \{Kano}"Você não deveria me preocupar desse jeito."
+// \{佳乃}「あんまり心配かけたらダメだよぉ」
+<0712> \{Potato}"Piko..."
+// \{ポテト}「ぴこ～…」
+<0713> Esse foi um latido muito fraco.
+// あまりにもか細い鳴き声だった.
+<0714> Provavelmente ele ficou chorando continuamente nesses arbustos.
+// この植え込みの中で、ずっと鳴き続けていたのだろう.
+<0715> \{Kano}"Você perdeu tanto peso, parece até mais magro..."
+// \{佳乃}「こんなに痩せちゃって…」
+<0716> Parece nada...
+// だが、別に痩せてはいなかった.
+<0717> Na verdade, parecia ainda maior com toda a sujeira no corpo.
+// 薄汚た分、大きくなった気さえする.
+<0718> \{Kano}"Mas Yukito-kun, como você sabia que o Potato estava aqui?"
+// \{佳乃}「…でもYukitoくん、なぜここだってわかったのぉ？」
+<0719> \{Yukito}"Isso é um segredo de estado."
+// \{Yukito}「企業秘密だ」
+<0720> \{Kano}"Ununu. Malvado..."
+// \{佳乃}「うぬぬ.ケチ～」
+<0721> Malvado ou não, seria melhor não contar a verdade a ninguém.
+// ケチだろうが卑怯だろうが、こればかりは誰にも教えられない.
+<0722> \{Kano}"Você usou a sua magia?"
+// \{佳乃}「もしかして、魔法？」
+<0723> \{Yukito}"De certo modo, podemos dizer que sim."
+// \{Yukito}「そういうことにしておこう」
+<0724> \{Kano}"Uau!!"
+// \{佳乃}「ふぇ～」
+<0725> Me afastei de uma Kano impressionada e fui até o Potato.
+// 感心しきりの佳乃を尻目に、俺はポテトに向き直った.
+<0726> Como ser humano, havia algo que precisava ser dito de qualquer maneira.
+// 人として、ぜひとも言っておかねばならないことがあった.
+<0727> \{Yukito}"Potato..."
+// \{Yukito}「ポテト…」
+<0728> \{Potato}"Piko..."
+// \{ポテト}「ぴこ…」
+<0729> \{Yukito}"Se você contar a verdade pra alguém, vou te amarrar e jogar no mar."
+// \{Yukito}「バラしたらす巻きにして海に叩き込むからな」
+<0730> \{Potato}"Piko piko..."
+// \{ポテト}「ぴこぴこ～…」
+<0731> Satisfeito com sua obediência, me afastei dele.
+// 素直な返事に満足し、俺は学校に背を向けた.
+<0732> \{Yukito}"Vamos voltar pra casa."
+// \{Yukito}「それじゃ、帰ろう」
+<0733> \{Kano}"Ok!"
+// \{佳乃}「うんっ!」
+<0734> Kano sorriu com Potato nos braços.
+// ポテトを抱いたまま、佳乃がにっこりと笑った.
+<0735> E assim partimos pra clínica.
+// そうして俺たちは、家路を辿った.
+<0736> \{Kano}"Chegamos!"
+// \{佳乃}「ただいま～っ」
+<0737> \{Potato}"Piko piko!"
+// \{ポテト}「ぴこぴこ～」
+<0738> \{Yukito}"Estamos de volta."
+// \{Yukito}「戻ったぞ」
+<0739> \{Hijiri}"Oh, vocês encontraram o Potato."
+// \{聖}「おおポテト、戻ったか」
+<0740> \{Potato}"Piko piko."
+// \{ポテト}「ぴこぴこっ」
+<0741> \{Hijiri}"Você não deveria deixar Kano preocupada desse jeito!"
+// \{聖}「佳乃に心配かけたらダメだろ？」
+<0742> \{Potato}"Piko..."
+// \{ポテト}「ぴこ～…」
+<0743> \{Hijiri}"Bom... Contanto que você esteja arrependido..."
+// \{聖}「うむ.反省しているならいい」
+<0744> \{Hijiri}"Então, onde Potato esteve esse tempo todo?"
+// \{聖}「それで、今までどこに行ってたんだ？」
+<0745> \{Kano}"Bem, isso foi realmente surpreendente..."
+// \{佳乃}「それがね、びっくりだったんだよ～…」
+<0746> Eu interrompi Kano apressadamente quando ela tava prestes a falar.
+// 佳乃が話し出そうとするのを、俺はあわててさえぎった.
+<0747> \{Yukito}"Que tal a gente jantar primeiro?"
+// \{Yukito}「まず飯にしないか？」
+<0748> Afinal, estávamos correndo desde o meio-dia e até pulamos o almoço.
+// 昼飯も食べずに、午後いっぱい走り回っていたのだ.
+<0749> Nada mais justo do que pedir o jantar agora.
+// このぐらいは当然の要求だと思う.
+<0750> \{Hijiri}"O jantar já está pronto. Vou preparar a mesa."
+// \{聖}「もう出来てるから、持ってきてやる」
+<0751> \{Hijiri}"A propósito, hoje à noite teremos curry caseiro e salada de abóbora."
+// \{聖}「ちなみに今晩は、私の手作りカレーとカボチャサラダだ」
+<0752> \{Kano}"Eba! Curry! Curry!"
+// \{佳乃}「わ～い.カレーだカレーだぁ!
+<0753> A irmã mais nova dançou de alegria.
+// 無邪気にはしゃぎ回る妹.
+<0754> A irmã mais velha observava Kano com um sorriso.
+// 温かく見守る姉.
+<0755> A fuga do tópico foi perfeita. Elas não pareciam suspeitar de nada.
+// 何の疑問も感じていないらしい.
+<0756> \{Yukito}"Espere um pouco."
+// \{Yukito}「ちょっと待て」
+<0757> \{Hijiri}"Sem alteração no menu."
+// \{聖}「メニューの変更なら受け付けないぞ」
+<0758> \{Yukito}"Eu não queria perguntar isso... Mas quer dizer que vamos comer aqui?"
+// \{Yukito}「違う.ここで食べるのか？」
+<0759> \{Hijiri}"O que há de errado em comer aqui?"
+// \{聖}「なんだ、不満そうだな」
+<0760> \{Hijiri}"Embora eu entenda seu desejo de invadir o espaço privado de duas garotas, mas..."
+// \{聖}「二人の乙女の生活空間を踏み荒らしたいという君の気持ちはよくわかるが…」
+<0761> \{Yukito}"Não, eu não tô falando sobre isso..."
+// \{Yukito}「そうじゃなくてだな…」
+<0762> \{Yukito}"E quanto a higiene desse lugar?"
+// \{Yukito}「衛生上問題があるだろ？」
+<0763> \{Hijiri}"Se após comermos você limpar corretamente, tenho certeza de que isso não será um problema."
+// \{聖}「君がきちんとモップ掛けすれば、何の問題もない」
+<0764> \{Yukito}"........."
+// \{Yukito}「………」
+<0765> Hijiri colocou uma grande panela de curry na mesinha da sala de recepção.
+// カレーがたっぷりと盛られ、テーブルに置かれた.
+<0766> Três humanos e um cachorro juntaram as mãos.
+// ３人と１匹で手を合わせる.
+<0767> \{Hijiri}"Bom apetite."
+// \{聖}「いただきましょう」
+<0768> \{Kano}"Bom apetite."
+// \{佳乃}「いただきま～すっ」
+<0769> \{Yukito}"Bom apetite."
+// \{Yukito}「いただきます」
+<0770> \{Potato}"Piko piko."
+// \{ポテト}「ぴこぴこ～」
+<0771> .........
+// ……….
+<0772> Sem mais delongas, começamos a comer.
+// 嫌味をいう間もなく、全てたいらげた.
+<0773> Pelo visto, terminaríamos em segundos.
+// おかわりまでした.
+<0774> A comida tava deliciosa.
+// 美味かった.
+<0775> \{Hijiri}"O truque aqui foi adicionar iogurte e uma barra de chocolate para realçar sabor."
+// \{聖}「板チョコとヨーグルトを隠し味に入れるのがコツだ」
+<0776> \{Kano}"Uhm... É como um doce."
+// \{佳乃}「ふぇ～っ.お菓子みたいだねぇ」
+<0777> \{Hijiri}"Para a salada de abóbora, os toques especiais ficam por conta do creme de leite e uma pitada de mostarda."
+// \{聖}「カボチャサラダの方は、生クリームとちょっぴりのカラシがコツだ」
+<0778> \{Kano}"Uwawawah! É uma mistura explosiva de sabores!"
+// \{佳乃}「うわわわっ.なんだか異質なミスマッチ感覚が炸裂だよぉ」
+<0779> Uma irmã mais velha sabe-tudo e sua irmã mais nova impressionada.
+// 物知り顔の姉と、感心顔の妹.
+<0780> Os papéis que elas interpretavam nesta casa nunca mudavam.
+// この家ではずっと、こんな風に役割が決まっていたのだろう.
+<0781> Pra ser honesto, era meio embaraçoso assistir essas performances.
+// 正直言って、俺には照れ臭い.
+<0782> Mas eu não me aborreci.
+// だが、悪い気分ではなかった.
+<0783> Depois do jantar, tomamos o chá verde de Hijiri.
+// 食後は当然、聖の淹れた緑茶だった.
+<0784> Tava delicioso como sempre.
+// 当然、これも美味い.
+<0785> Tomei várias xícaras.
+// 何杯目かを飲んでいる時だった.
+<0786> *Whooshhhhhh*... *Pa! Pa!*
+// …ひゅ～ぱぱん!
+<0787> *Papapapapa!*
+// …ぱぱぱぱぱっ.
+<0788> O som das explosões penetrou o recinto.
+// 派手な破裂音が、天井を通していくつも聞こえてきた.
+<0789> \{Kano}"Fogos de artifício!"
+// \{佳乃}「…花火っ!」
+<0790> \{Hijiri}"É o evento de fogos de artifício da cidade vizinha. Deve haver muitas pessoas por lá vendo isso."
+// \{聖}「隣町の花火大会だな.今日はすごい人出のはずだ」
+<0791> Kano se levantou do sofá.
+// 佳乃がソファーから立ち上がった.
+<0792> Ela abriu as persianas e tentou vislumbrar o céu.
+// ブラインドの間に指を突っ込み、空を見ようとする.
+<0793> \{Kano}"Ununu. Eu não estou conseguindo ver..."
+// \{佳乃}「…うぬぬ.見えない～」
+<0794> \{Hijiri}"Bem, você não vai conseguir ver daqui."
+// \{聖}「ここからでは無理だな」
+<0795> \{Kano}"Eu quero sair para ver os fogos de artifício..."
+// \{佳乃}「見に行きたいよ～」
+<0796> \{Hijiri}"Não vamos conseguir encontrar um bom local de observação agora."
+// \{聖}「今からではいい場所は取れない」
+<0797> \{Kano}"Ununu. Que pena..."
+// \{佳乃}「うぬぬ.残念…」
+<0798> \{Yukito}"Esses fogos de artifício são tão interessantes assim?"
+// \{Yukito}「そんなに面白いのか、花火って」
+<0799> \{Hijiri}"Você nunca viu fogos de artifício?"
+// \{聖}「君は花火を見たことがないのか？」
+<0800> \{Yukito}"Bem, é claro que já vi, mas..."
+// \{Yukito}「そりゃ、見たことぐらいはあるけどな」
+<0801> \{Yukito}"Eles são bonitos, mas não há nada de mais nisso."
+// \{Yukito}「あんなの、ただきれいなだけだろ」
+<0802> Eu não entendia o motivo pelo qual as pessoas iam a locais apenas pra olhar algo que não encheria suas barrigas.
+// 腹の足しにもならないようなものを、わざわざ見に行く奴の気が知れない.
+<0803> Espere... Minha apresentação de marionetes era praticamente a mesma coisa...
+// …というか、俺の人形芸も同じか.
+<0804> \{Hijiri}"Você não foi educado quando era pequeno, né?"
+// \{聖}「君はよほど貧しい情操教育を受けたんだなあ」
+<0805> \{Yukito}"Ah, não enche!"
+// \{Yukito}「ほっとけ」
+<0806> Coloquei minha xícara de chá na mesa.
+// つぶやいて、湯飲みを置く.
+<0807> \{Hijiri}"Não há salvação para um caso perdido como o seu..."
+// \{聖}「仕方ないな…」
+<0808> Hijiri colocou a mão no bolso do casaco.
+// 聖が白衣のポケットに手を入れた.
+<0809> \{Hijiri}"Aqui."
+// \{聖}「ほらっ」
+<0810> Ela jogou algo pra mim.
+// 何かを投げ渡された.
+<0811> Era uma moeda de 100 ienes.
+// １００円玉だった.
+<0812> \{Hijiri}"Vá na loja de conveniência e compre os fogos de artifício que quiser."
+// \{聖}「それで好きな花火を買ってきていいぞ」
+<0813> \{Hijiri}"Recomendo as cortinas de fumaça, as bolas de cobra ou os fogos de artifício do rato."
+// \{聖}「煙幕、ヘビ玉、ネズミ花火あたりがお勧めだ」
+<0814> Era impressão minha ou esses fogos que ela recomendou pareciam terrivelmente obscuros e desinteressantes?
+// …聞くからに陰湿で面白くなさそうなのは、俺の気のせいか？
+<0815> Bem, tanto faz.
+// まあいい.
+<0816> Afinal, recebi 100 ienes. Eu tava prestes a colocar a moeda no bolso...
+// せっかくもらった１００円なので、ありがたくポケットに入れようとする.
+<0817> *Frosh frosh...*
+// …くいくいっ.
+<0818> Alguém tá me puxando pela barra da camiseta.
+// シャツの裾を引っ張られた.
+<0819> Kano tava olhando pra mim com profunda insistência.
+// 上目遣いの佳乃が、何かを強烈に主張したがっていた.
+<0820> \{Kano}"Qualquer um menos os fogos de artifício do rato!"
+// \{佳乃}「ネズミ花火なんてダメぇ」
+<0821> \{Kano}"Eu quero um que possa voar."
+// \{佳乃}「空飛ばないとダメぇ」
+<0822> \{Yukito}"........."
+// \{Yukito}「………」
+<0823> \{Hijiri}"Tudo bem."
+// \{聖}「わかった」
+<0824> Hijiri disse em um tom grave.
+// 重々しい声で、聖が言った.
+<0825> Ela tirou outra coisa do bolso do casaco e jogou pra mim.
+// 白衣のポケットから何かを取り出し、俺に投げてよこす.
+<0826> Desta vez era toda a sua carteira.
+// 今度は財布そのものだった.
+<0827> \{Hijiri}"Vá agora mesmo em todas as lojas e compre todos os foguetes e fogos de artifício de libélula que encontrar."
+// \{聖}「君は今すぐコンビニ及び玩具屋を巡り、ロケット花火とトンボ花火を残らず買い占めて来てくれ」
+<0828> \{Hijiri}"Enquanto isso, eu vou preparar o fogo."
+// \{聖}「私は火種を用意しよう」
+<0829> \{Yukito}"Você tá falando sério sobre comprar todos eles?"
+// \{Yukito}「マジで買い占めるのか？」
+<0830> \{Hijiri}"Absolutamente sério."
+// \{聖}「大マジだ」
+<0831> \{Yukito}"Mensagem recebida!"
+// \{Yukito}「…了解」
+<0832> Sem mais perguntas, fui até a entrada pra calçar os sapatos.
+// それ以上何も聞かず、俺は玄関で靴を履いた.

@@ -1,0 +1,2104 @@
+﻿// Resources for SEEN0430.TXT
+
+#character '女'
+#character '母'
+#character 'みすず'
+
+<0000> 12 de Agosto (Sab) / Sora
+// ８月１２日(土)／そら
+<0001> \{Mulher}"O desejo de Misuzu..."
+// \{女}「観鈴の願い…」
+<0002> \{Mulher}"O festival de verão é amanhã..."
+// \{女}「夏祭りは明日やで…」
+<0003> \{Mulher}"Vamos continuar firmes até lá..."
+// \{女}「それまで頑張りや」
+<0004> \{Mulher}"A mamãe estará com você."
+// \{女}「お母さん、ずっと一緒やからな…」
+<0005> O vínculo dessas duas...
+// ふたりの結びつき…
+<0006> Achei que era como o laço entre mãe e filha.
+// それは親子の絆だと思った.
+<0007> Esta mulher que esteve com a garota o tempo todo... Ela era sua mãe desde o início.
+// ずっと彼女のそばにいたこの女は、彼女の母親だったのだ.
+<0008> Muitas coisas aconteceram entre elas.
+// 振り返ると、ふたりにはいろんなことがあった.
+<0009> Houve momentos em que pensei que as duas definitivamente não eram parentes.
+// どうしても、親子だとは思えない時もあった.
+<0010> Mas elas eram mãe e filha.
+// けど、親子だった.
+<0011> Então eu deveria reconhecê-las como tal.
+// だからこそ、親子だったというべきか.
+<0012> E era óbvio ao permanecer com elas assim.
+// 今、こうしてそばにいてわかる.
+<0013> Era óbvio ao presenciar as dificuldades que superaram juntas.
+// ふたりが乗り越えてきた困難がわかる.
+<0014> Era óbvio porque ainda estavam juntas agora.
+// そして、今もこうしてふたりでいること.
+<0015> Isso era a prova de que eram mãe e filha.
+// それが親子だという証だった.
+<0016> \{Mãe}"Olhando para trás, tudo foi uma prova para nós."
+// \{母}「今考えてみると、ぜんぶ試練やった気がするわ…」
+<0017> \{Mãe}"Você perdeu a capacidade de andar. Depois se esqueceu de mim..."
+// \{母}「足が動かんようになるんも、うちのこと忘れてしもたんも…」
+<0018> \{Mãe}"Tudo aconteceu para que eu pudesse me tornar sua verdadeira mãe."
+// \{母}「ぜんぶうちが、あんたの本当の母親になるために…」
+<0019> \{Mãe}"Tudo foi com o propósito de recomeçar."
+// \{母}「あの日からやり直すための…試練やった思うわ…」
+<0020> \{Mãe}"Eu deveria ter amado você desde o início."
+// \{母}「最初から、出会ったときからそうしておけば、良かったことばかりやった」
+<0021> \{Mãe}"Assim você não teria que passar por esse sofrimento."
+// \{母}「そうしてたら、あんたもこないに苦しまんで済んだはずや…」
+<0022> \{Mãe}"Eu fui uma mãe inútil uma vez..."
+// \{母}「うちがふがいない母親やったせいやな…」
+<0023> \{Mãe}"Mas eu me tornei uma pessoa melhor."
+// \{母}「でも、それを越えたうちらや」
+<0024> \{Mãe}"Sinto que posso superar qualquer coisa."
+// \{母}「なんだって、越えてゆけるわ」
+<0025> \{Mãe}"Você vai melhorar."
+// \{母}「あんたの病気もようなっていく」
+<0026> \{Mãe}"Nosso futuro é brilhante."
+// \{母}「すべてがいいほうに向いていくわ」
+<0027> \{Mãe}"Certo, Misuzu?"
+// \{母}「な、観鈴」
+<0028> \{Misuzu}"Mamãe..."
+// \{みすず}「ママ…」
+<0029> \{Mãe}"Misuzu, amanhã é o festival de verão.\nVocê estava esperando por ele."
+// \{母}「観鈴、明日は夏祭りやで.あんたが楽しみにしとった」
+<0030> \{Misuzu}"Festival?"
+// \{みすず}「お祭り？」
+<0031> \{Misuzu}"Vai ter barraquinhas de rua?"
+// \{みすず}「屋台とかでる？」
+<0032> \{Mãe}"Sim, muitas."
+// \{母}「仰山でるで」
+<0033> \{Misuzu}"Eba!"
+// \{みすず}「わーい」
+<0034> \{Mãe}"Vamos lá juntas e nos divertir, tá bom?"
+// \{母}「それ出て、ふたりで遊ぼな」
+<0035> \{Mãe}"Será o dia mais divertido de todos."
+// \{母}「一番楽しい日や」
+<0036> \{Misuzu}"Mal posso esperar."
+// \{みすず}「たのしみ～」
+<0037> \{Misuzu}"Quero um dinossauro bebê."
+// \{みすず}「わたし、恐竜の赤ちゃん、ほしいな」
+<0038> \{Misuzu}"Será que vai ter uma barraquinha vendendo isso?"
+// \{みすず}「今年も出てるかな」
+<0039> \{Mãe}"Você quer dizer um pintinho? Sim, com certeza."
+// \{母}「ひよこやろ.きっと出てるで」
+<0040> \{Misuzu}"Então posso criar um dinossauro?"
+// \{みすず}「じゃあ、恐竜さん、飼ってもいい？」
+<0041> \{Mãe}"Sim, claro."
+// \{母}「ああ、ええで」
+<0042> \{Misuzu}"Eba!"
+// \{みすず}「やった」
+<0043> \{Mãe}"Então aguente firme, mesmo que doa agora."
+// \{母}「せやから、辛くても頑張ろな」
+<0044> \{Misuzu}"Tá bom, vou aguentar."
+// \{みすず}「うん、がんばる」
+<0045> \{Misuzu}"V."
+// \{みすず}「ぶいっ」
+<0046> \{Mãe}"V."
+// \{母}「ぶいっ」
+<0047> \{Misuzu}"Ha..."
+// \{みすず}「は…」
+<0048> \{Misuzu}"Ah..."
+// \{みすず}「あぅ…」
+<0049> O sofrimento da garota havia começado.
+// 彼女が苦しみ始めた.
+<0050> Fazia tanto tempo que não acontecia...
+// ずっと、なかったのに…
+<0051> Mas, finalmente, isso chegou.
+// とうとう、始まってしまった.
+<0052> \{Mãe}"Misuzu-chuwan, está na hora do almoço."
+// \{母}「観鈴ちゅわん、ご飯やで～」
+<0053> \{Mãe}"Fiz omeletes doces."
+// \{母}「あまあまの卵焼きや～」
+<0054> \{Mãe}"........."
+// \{母}「………」
+<0055> *Bam!*\shake{1}
+// ガチャン.
+<0056> A mãe deixou cair o objeto que segurava.\nEle quebrou em pedaços no chão.
+// 母親が手に持っていたものが、床に落ちて割れた.
+<0057> \{Mãe}"O que houve, Misuzu?!"
+// \{母}「どないしたんや、観鈴っ…!」
+<0058> Ela correu até a garota.
+// 苦しむ彼女の元に駆けつける.
+<0059> \{Misuzu}"Dói..."
+// \{みすず}「イタイ…」
+<0060> \{Mãe}"Onde dói? Eu vou massagear para você."
+// \{母}「どこがや？ お母さんがさすったるで」
+<0061> \{Mãe}"Dói aqui?"
+// \{母}「痛いのて…ここか…？」
+<0062> \{Misuzu}"Não..."
+// \{みすず}「ううん…」
+<0063> \{Mãe}"Não? E aqui?"
+// \{母}「違うんか…ほなここか？」
+<0064> \{Misuzu}"Não, não é aí..."
+// \{みすず}「ちがう…」
+<0065> \{Mãe}"Nas suas pernas? Nas suas mãos?"
+// \{母}「足か？ 手か…」
+<0066> A mãe tocou o corpo da garota com uma expressão de desespero no rosto.
+// 途方に暮れた顔で、彼女の身体に触れる.
+<0067> \{Misuzu}"Não é... Mas dói..."
+// \{みすず}「ちがう…でもイタイ…」
+<0068> \{Misuzu}"Eu não sei onde, mas dói..."
+// \{みすず}「どこかわからないけど、イタイ…」
+<0069> \{Mãe}"Como você não sabe?"
+// \{母}「わからんとこが痛いわけないやろ」
+<0070> \{Mãe}"Por que... O que aconteceu...?"
+// \{母}「なんでや…どないしたんや…」
+<0071> \{Misuzu}"Ah... Dói tanto..."
+// \{みすず}「はっ…イタイ…」
+<0072> Então a mãe percebeu algo.
+// そして、母親は気づいた.
+<0073> \{Mãe}"A mesma coisa aconteceu antes."
+// \{母}「前にもこんなこと、あったな」
+<0074> Ela estava tentando se lembrar.
+// 思い出そうとする.
+<0075> Então ela se recordou do que Misuzu disse.
+// そして、言葉に気づく.
+<0076> \{Mãe}"Misuzu, será que..."
+// \{母}「観鈴…まさか、あんたが痛いとこって…」
+<0077> \{Misuzu}"Minhas asas..."
+// \{みすず}「つばさ…」
+<0078> \{Misuzu}"Se eu tivesse asas..."
+// \{みすず}「…つばさがあったら…」
+<0079> \{Misuzu}"Então eu seria igual ao Sora..."
+// \{みすず}「そらと…おそろいだね…」
+<0080> \{Misuzu}"Nihaha... Dói."
+// \{みすず}「にはは…イタイ」
+<0081> Seu sorriso se contorceu com a dor que ela não conseguia suportar.
+// 苦しみに耐えられず、笑い顔が歪む.
+<0082> A mãe ficou ali, paralisada.
+// 母親は立ち尽くす.
+<0083> \{Mãe}"Isso... Isso é maldade demais."
+// \{母}「そんなん…酷すぎるやん」
+<0084> \{Mãe}"Não posso ajudar a aliviar sua dor assim."
+// \{母}「さすったることさえできへんなんて、そんなん酷すぎるやん」
+<0085> \{Mãe}"Eu devo apenas ficar aqui e ver você sofrer?"
+// \{母}「あんたが苦しむとこ、そばで見とるだけなんか？」
+<0086> \{Mãe}"É só isso que posso fazer?"
+// \{母}「うちにはそれしか許されへんのか？」
+<0087> \{Mãe}"Misuzu..."
+// \{母}「観鈴…」
+<0088> Ela esfregou as costas da garota em desespero.
+// 必死で彼女の背中をさする.
+<0089> Mas a dor não diminuiu.
+// 痛みはおさまらない.
+<0090> Nesse momento, a expressão da mãe mudou.
+// その時、母の顔色が変わった.
+<0091> Ela percebeu algo crucial.
+// もっと大切なことに、母親は気づいてしまった.
+<0092> \{Mãe}"É verdade... Eu ouvi o aproveitador dizer algo assim antes."
+// \{母}「…そういえば、前に居候が言うとったな」
+<0093> \{Mãe}"Algo sobre uma dor insuportável..."
+// \{母}「あるはずのない痛みがどうとか」
+<0094> \{Mãe}"Algo sobre Misuzu esquecer..."
+// \{母}「観鈴が忘れるとかどうとか…」
+<0095> Ela pensou freneticamente.
+// 必死で考える.
+<0096> \{Mãe}"É verdade. Agora eu me lembro."
+// \{母}「…せや.たしかに言うとった」
+<0097> \{Mãe}"Misuzu vai começar a sentir dores estranhas."
+// \{母}「わけわからん痛みで、観鈴が苦しみ出すって」
+<0098> \{Mãe}"Então Misuzu vai me esquecer."
+// \{母}「そんで、観鈴がうちのこと忘れてまうって」
+<0099> \{Mãe}"E na manhã seguinte, ela realmente esqueceu quem eu era..."
+// \{母}「あの次の朝、この子、ほんまにうちのこと忘れてしもうた…」
+<0100> \{Mãe}".........."
+// \{母}「………」
+<0101> A mãe estava atordoada.
+// ただ、呆然とする.
+<0102> \{Mãe}"Por que tudo está acontecendo como o aproveitador previu?"
+// \{母}「なんでや、居候の言うたとおりや…」
+<0103> \{Mãe}"O que vai acontecer depois que ela esquecer de tudo?"
+// \{母}「忘れてしもたら、その後はどうなるんや…」
+<0104> Ela esforçava-se para pensar novamente.
+// さらに考える.
+<0105> Ela procurava o desfecho que já entendia desde o início.
+// はじめからそこにあった結末を、たぐりよせるように.
+<0106> \{Mãe}"Diga que isso não é verdade..."
+// \{母}「…うそやろ？」
+<0107> \{Mãe}"Quando Misuzu acordar amanhã de manhã, ela…"
+// \{母}「明日の朝起きたら、この子…」
+<0108> \{Mãe}"E-Ela... vai morrer?"
+// \{母}「この子、死んでまうんか？」
+<0109> \{Mãe}"Diga que isso não é verdade!"
+// \{母}「うそやろ…？」
+<0110> A mãe abraçou a garota.
+// 母は彼女を抱きしめた.
+<0111> \{Mãe}"Por quê?"
+// \{母}「なんでや…」
+<0112> \{Mãe}"Misuzu sempre foi cheia de energia…"
+// \{母}「ずっと、元気やったやんか…」
+<0113> \{Mãe}"Ela sempre foi saudável…"
+// \{母}「観鈴、ずっと元気やったやんか…」
+<0114> \{Mãe}"Ela deveria ser feliz ao meu lado…"
+// \{母}「観鈴、うちとおったら幸せなはずや…」
+<0115> \{Mãe}"Ela não deveria melhorar se estiver se sentindo feliz?"
+// \{母}「幸せやったら、良うなってゆくんとちゃうんか…」
+<0116> \{Mãe}"Acho que isso não está ajudando...\nA condição dela só vai piorar…"
+// \{母}「そんなん関係ないんか…結局観鈴は悪なってゆくだけなんか…」
+<0117> \{Mãe}"Essa garota ainda vai perder tudo…"
+// \{母}「結局…この子のなにもかも、奪ってゆくんか…」
+<0118> \{Mãe}"Não durma, Misuzu…"
+// \{母}「寝たらあかん、観鈴…」
+<0119> \{Mãe}"Por favor, não durma, Misuzu…"
+// \{母}「観鈴、あかんで…」
+<0120> \{Mãe}"Se você dormir agora, pode acabar morrendo."
+// \{母}「今寝たら、あんた死んでしまうかもしれん」
+<0121> \{Mãe}"O que vou fazer se você me deixar?"
+// \{母}「あんたおらんようになったら、うちどうしたらええんや」
+<0122> \{Mãe}"Você não pode dormir…"
+// \{母}「寝たらあかん…」
+<0123> \{Mãe}"Nós vamos ao festival de verão, lembra?"
+// \{母}「夏祭りいくんやろ…」
+<0124> \{Mãe}"Você vai ao festival de verão com a sua mãe."
+// \{母}「お母さんと一緒に夏祭りいくんやろ…」
+<0125> A mãe abraçou a filha com força.
+// 必死に母親が抱きしめ続ける.
+<0126> \{Misuzu}"Estou me sentindo melhor…"
+// \{みすず}「ラクになった…」
+<0127> A garota disse suavemente depois de um tempo.
+// しばらくして、彼女がぽつりと言った.
+<0128> \{Mãe}"Sério?"
+// \{母}「そか…」
+<0129> A mãe soltou a garota.
+// 母親が彼女を放す.
+<0130> \{Mãe}"Você está bem?"
+// \{母}「もう…大丈夫なんか…？」
+<0131> \{Misuzu}"Não…"
+// \{みすず}「ううん…」
+<0132> \{Misuzu}"Ainda dói um pouco."
+// \{みすず}「まだ少しイタイ…」
+<0133> \{Mãe}"........."
+// \{母}「………」
+<0134> \{Misuzu}"Então eu vou me deitar."
+// \{みすず}「だから、横になってる」
+<0135> \{Mãe}"Você não pode dormir!"
+// \{母}「寝たら、あかんっ」
+<0136> \{Misuzu}"Por que não?"
+// \{みすず}「どーして？」
+<0137> \{Mãe}"Você prometeu ir ao festival de verão comigo."
+// \{母}「ふたりで夏祭りいく約束やったやろ？」
+<0138> \{Misuzu}"Sim, eu prometi."
+// \{みすず}「うん」
+<0139> \{Mãe}"Você quer ir, não quer?"
+// \{母}「いきたいやろ？」
+<0140> \{Misuzu}"Sim."
+// \{みすず}「うん」
+<0141> \{Mãe}"Então você não pode dormir."
+// \{母}「ほな、寝たらあかん…」
+<0142> \{Misuzu}"Por que não?"
+// \{みすず}「どうして？」
+<0143> \{Mãe}"........."
+// \{母}「………」
+<0144> \{Mãe}"Algo ruim vai acontecer com você."
+// \{母}「よくないことが起こる気がするんや…」
+<0145> \{Mãe}"Tenho um pressentimento muito ruim sobre isso."
+// \{母}「…ごっつ嫌な予感や」
+<0146> \{Misuzu}"O que vai acontecer comigo?"
+// \{みすず}「どうなるの？」
+<0147> \{Mãe}"Você e eu seremos separadas…"
+// \{母}「観鈴とうちが…離ればなれになるんや…」
+<0148> \{Mãe}"E não nos veremos mais."
+// \{母}「もう二度と会われへん…そんな予感や」
+<0149> \{Misuzu}"Tudo bem. Então eu não vou dormir."
+// \{みすず}「わかった.じゃ、寝ないね」
+<0150> \{Misuzu}"Eu não quero te deixar, mamãe."
+// \{みすず}「ママと会えなくなるの、やだもん」
+<0151> \{Misuzu}"Ah..."
+// \{みすず}「わっ…」
+<0152> A mãe abraçou a garota novamente.
+// 再び、母が彼女に抱きついていた.
+<0153> \{Mãe}"Eu... te amo tanto."
+// \{母}「うち…あんたのこと大好きや…」
+<0154> \{Misuzu}"Eu também te amo, Mamãe. Nihaha."
+// \{みすず}「うん.わたしもママ大好き.にははっ」
+<0155> \{Misuzu}"Vou jogar cartas para não sentir sono."
+// \{みすず}「じゃ、ねむくならないようにトランプしよーっと」
+<0156> *Plat plat...*
+// ぱたぱた….
+<0157> Ela começou a alinhar as folhas.
+// カードを並べ始める.
+<0158> Algum tempo depois, a mãe se afastou.
+// そして、いつしか母はいなくなっていた.
+<0159> \{Mãe}"........."
+// \{母}「………」
+<0160> Ela estava novamente refletindo neste lugar.
+// 母はまた、この場所でうなだれていた.
+<0161> \{Mãe}"Então..."
+// \{母}「結局…」
+<0162> \{Mãe}"No fim das contas, não posso salvar Misuzu..."
+// \{母}「結局、観鈴は助からんのかいな…」
+<0163> \{Mãe}"Então, para quê?"
+// \{母}「ほなら、なんや…」
+<0164> \{Mãe}"Por que me esforcei tanto?"
+// \{母}「うちら、なんのために頑張ってきたんや…」
+<0165> \{Mãe}"Eu não quero isso..."
+// \{母}「そんなん嫌や…」
+<0166> \{Mãe}"Só quero salvá-la..."
+// \{母}「うちは、あの子さえ助かったらええねん…」
+<0167> \{Mãe}"Não quero mais nada..."
+// \{母}「後は、なんもいらんねん…」
+<0168> Ela se deixou cair no chão.
+// その場に崩れ落ちる.
+<0169> \{Mãe}"........."
+// \{母}「………」
+<0170> \{Mãe}"Isso mesmo..."
+// \{母}「そや…」
+<0171> \{Mãe}"Tenho que realizar o desejo dela, pelo menos..."
+// \{母}「あの子の願いだけは叶えてやらんと…」
+<0172> \{Mãe}"Vamos ao festival."
+// \{母}「ふたりで、祭りにでるんや…」
+<0173> \{Mãe}"Se eu fizer isso, tenho certeza que ela será salva..."
+// \{母}「そうすれば、きっと助かる…」
+<0174> \{Mãe}"Tenho que fazê-la feliz..."
+// \{母}「あの子、幸せにしたるんや…」
+<0175> \{Mãe}"Não me importo com o que acontecer comigo..."
+// \{母}「うちなんかどうなってもええ…」
+<0176> \{Mãe}"Desde que ela possa ser feliz..."
+// \{母}「あの子だけは、幸せにしたらんと…」
+<0177> Ela se levantou novamente.
+// 再び立ち上がった.
+<0178> *Plat plat...*
+// ぱたぱた…
+<0179> Já estava escuro lá fora, mas o som continuava.
+// ずっと暗くなってからも、その音だけが聞こえ続けた.
+<0180> A garota geralmente dormia a essa hora.
+// 普段なら、彼女は眠っているはずだった.
+<0181> Mas ela ainda estava acordada.
+// けど、ずっと起きていた.
+<0182> *Plat...*
+// ぱた….
+<0183> .........
+// ……….
+<0184> \{Mãe}"Misuzu..."
+// \{母}「観鈴…」
+<0185> A mãe chamou o nome da garota quando o som parou.
+// その音が止まると、母親が呼びかける.
+<0186> \{Misuzu}"Estou acordada, mamãe."
+// \{みすず}「起きてるよ、ママ」
+<0187> \{Mãe}"Entendo..."
+// \{母}「そか…」
+<0188> *Plat plat...*
+// ぱたぱた…
+<0189> O som recomeçou.
+// また音が聞こえ始める.
+<0190> Pensei que o som continuaria para sempre.
+// それは永遠に続くかと思われた.
+<0191> 13 de agosto (Dom) / Sora
+// ８月１３日(日)／そら
+<0192> Quanto tempo se passou...?
+// どれだけ経ったのだろうか….
+<0193> \{Mãe}"É de manhã, Misuzu."
+// \{母}「朝や、観鈴…」
+<0194> \{Mãe}"Hoje vamos ao festival."
+// \{母}「お祭りの朝やで…」
+<0195> \{Mãe}"........."
+// \{母}「………」
+<0196> \{Mãe}"Hã?"
+// \{母}「あれ…」
+<0197> \{Mãe}"Por quê?"
+// \{母}「なんでや…」
+<0198> \{Mãe}"Misuzu, me dá um minuto."
+// \{母}「観鈴…ちょっと待ったってや…」
+<0199> A mãe se levantou e deixou o quarto.
+// 母は立ち上がり、部屋を後にする.
+<0200> Eu a segui.
+// 僕もその後に続いた.
+<0201> Ela abriu a porta que dava para fora.
+// 外へと続く戸を開けた.
+<0202> \{Mãe}"........."
+// \{母}「………」
+<0203> \{Mãe}"O que é isso...?"
+// \{母}「なんやこれ…」
+<0204> \{Mãe}"Isso é uma piada?"
+// \{母}「冗談やろ…？」
+<0205> A água caía do céu.
+// 水が、降りしきる.
+<0206> O mundo havia se descolorido com um sombrio tom de cinza.
+// 世界はもの悲しく、灰色に染まっていた.
+<0207> \{Mãe}"Está chovendo tanto... Será que o festival será cancelado?"
+// \{母}「こないに雨降ってたら…祭り中止になるやんか…」
+<0208> \{Mãe}"Como isso pode estar acontecendo?"
+// \{母}「そないな話あるかいな…」
+<0209> Olhei para cima e vi a água escorrendo das bochechas da mãe.
+// 見上げると、母親の顔から水がしたたり落ちていた.
+<0210> Ela ficou parada, molhada pela água que caía.
+// ずぶ濡れになって、立ち尽くしていた.
+<0211> \{Mãe}"........."
+// \{母}「………」
+<0212> \{Mãe}"Isso mesmo, vamos verificar a previsão do tempo."
+// \{母}「そうや…天気予報やっ…」
+<0213> \{Mãe}"\g{177}={Na meteorologia japonesa, o código 177 se refere a "chuva forte" e é utilizado para alertar a população em condições climáticas severas.}..."
+// \{母}「１７７、と…」
+<0214> \{Mãe}"........."
+// \{母}「………」
+<0215> Seu rosto ficou pálido.
+// その顔が青ざめてゆく.
+<0216> \{Mãe}"Um tufão..."
+// \{母}「台風て…」
+<0217> \{Mãe}"O que diabos é isso?"
+// \{母}「なんやそれ…」
+<0218> \{Mãe}"Ninguém me falou sobre isso!"
+// \{母}「そないな話聞いてるかっ、ぼけっ!」
+<0219> *Bam!*\shake{1}
+// がちゃん!
+<0220> \{Mãe}"........."
+// \{母}「………」
+<0221> \{Mãe}"O tufão vai chegar à tarde..."
+// \{母}「午後から暴風圏て…」
+<0222> \{Mãe}"Já era!"
+// \{母}「無理やんか…」
+<0223> \{Mãe}"O festival com certeza será cancelado."
+// \{母}「ぜったい中止やんか…」
+<0224> \{Mãe}"Não... preciso manter a calma..."
+// \{母}「あかん…冷静にならんとあかん…」
+<0225> \{Mãe}"Deve haver algo que eu possa fazer..."
+// \{母}「なんか手があるはずや…」
+<0226> \{Mãe}"O festival não será adiado..."
+// \{母}「祭りは延期されへんし…」
+<0227> \{Mãe}"Mesmo que fosse, Misuzu não aguentaria ficar acordada até amanhã à noite."
+// \{母}「延期されたところで、明日の夕方まで観鈴が起きとるなんて無理や…」
+<0228> \{Mãe}"Devo ir até os organizadores e implorar a eles?"
+// \{母}「祭りの主催者んところ行って、拝み倒すか…？」
+<0229> \{Mãe}"Será que isso vai dar certo?"
+// \{母}「そんなん、通るんかいな…」
+<0230> \{Mãe}"Isso é ruim..."
+// \{母}「あかんわ…」
+<0231> \{Mãe}"Eu sou uma idiota, então não consigo pensar em boas ideias..."
+// \{母}「うち、あほやから、ええ案、思いつかへん…」
+<0232> \{Mãe}"Mas eu tenho que pensar em algo, mesmo sendo burra..."
+// \{母}「それでも…あほでも思いつく限りのことせなな…」
+<0233> Por muito tempo, ela continuou falando com alguém que eu não conseguia ver.
+// その場で、延々と見えない相手と話しつづけた.
+<0234> .........
+// ……….
+<0235> \{Mãe}"É inútil..."
+// \{母}「あかん…」
+<0236> \{Mãe}"Liguei para todos que consegui, mas não deu em nada."
+// \{母}「こんだけ、手当たり次第電話して、なんも打つ手なしやった…」
+<0237> \{Mãe}"Ei, o que você acha que eu devo fazer?"
+// \{母}「なあ…どうしたらええと思う…」
+<0238> .........
+// ……….
+<0239> \{Mãe}"Seria preciso um milagre para o tufão mudar de rota."
+// \{母}「台風が逸れる…そんなん奇跡とおんなじや…」
+<0240> \{Mãe}"Por favor, que a previsão do tempo esteja errada."
+// \{母}「頼むわ、天気予報、はずれてぇな…」
+<0241> \{Mãe}"Que o tempo esteja ensolarado à tarde..."
+// \{母}「午後からは、晴れてぇな…」
+<0242> \{Mãe}"Um pouco de chuva tá bom..."
+// \{母}「小雨でもええわ…」
+<0243> \{Mãe}"Só não cancelem o festival."
+// \{母}「祭りできる天気にしたってや…」
+<0244> \{Mãe}"Eu imploro..."
+// \{母}「頼むわ…」
+<0245> *Tap tap...*
+// ぱたぱた…
+<0246> \{Misuzu}"........."
+// \{みすず}「………」
+<0247> Quando voltamos ao quarto, a garota estava brincando sozinha.
+// 部屋に戻ると、彼女がひとりで遊んでいた.
+<0248> \{Mãe}"Desculpe, Misuzu."
+// \{母}「ごめんや、観鈴…」
+<0249> \{Mãe}"Vamos continuar brincando."
+// \{母}「続きしよ」
+<0250> A garota olhou para fora.
+// 彼女の目が外のほうを向く.
+<0251> \{Misuzu}"........."
+// \{みすず}「………」
+<0252> \{Mãe}"Olha, Misuzu..."
+// \{母}「あのなっ、観鈴っ」
+<0253> \{Mãe}"Está chovendo um pouco agora."
+// \{母}「今、曇ってて、湿気多いけどな」
+<0254> \{Mãe}"Mas vai fazer sol à tarde. A previsão disse isso."
+// \{母}「午後になったら晴れるて.天気予報そう言うてたよ」
+<0255> \{Mãe}"A previsão do tempo está bem precisa ultimamente. Não se preocupe."
+// \{母}「最近の天気予報は当たるからな.安心やなー」
+<0256> \{Mãe}"Vamos jogar cartas até lá."
+// \{母}「それまでトランプしてよな」
+<0257> \{Misuzu}"Ok... Estou ansiosa."
+// \{みすず}「うん…たのしみ」
+<0258> *Plat plat...*
+// ぱたぱた…
+<0259> A mulher desapareceu novamente. Eu a encontrei encharcada na água que caía.
+// 母親の姿が消えたと思ったら、また水に濡れて、立ち尽くしていた.
+<0260> Um vento forte soprava de lado.
+// 風が横から強く吹きつけていた.
+<0261> Eu sentia como se estivesse sendo levado pelo vento.
+// 飛ばされそうになる.
+<0262> \{Mãe}"........."
+// \{母}「………」
+<0263> \{Mãe}"Por quê?"
+// \{母}「なんでやろ…」
+<0264> \{Mãe}"Eu não fiz tantas coisas ruins na minha vida..."
+// \{母}「うち、そんなに悪いことしてきたんやろか…」
+<0265> \{Mãe}"Estava ensolarado até ontem."
+// \{母}「昨日までは、ずっと晴れてたやん…」
+<0266> \{Mãe}"Por que o tufão tem que vir hoje?"
+// \{母}「なんで今日に限って、こうなるんや…」
+<0267> \{Mãe}"Aquela garota se esforçou tanto!"
+// \{母}「あの子、ごっつ頑張ってるやん…」
+<0268> \{Mãe}"Eu tirei toda a sorte dela?"
+// \{母}「うちが、幸運吸い取ってしもとるんかいな…」
+<0269> \{Mãe}"Ei, o que você acha?"
+// \{母}「な、どう思う…」
+<0270> Ela tocou em minhas costas.
+// ぴた、と背を触られる.
+<0271> Eu sabia que aquelas eram as emoções de uma mãe.
+// 母の感情がよくわかる.
+<0272> Essa água caindo do céu era a culpada por tudo.
+// すべてこの天から降る水が悪いのだろう.
+<0273> Tudo que eu sabia era que eu não queria ver essa mãe tão deprimida.
+// こんな悲しい母をみるのは、とにかく嫌だった.
+<0274> Sem meios de animá-la, eu só podia compartilhar sua tristeza.
+// 僕に元気づけるすべもなく、同じように沈むしかなかった.
+<0275> O tempo passou.
+// またしばらく時間が過ぎた.
+<0276> \{Mãe}"Misuzu..."
+// \{母}「観鈴…」
+<0277> \{Mãe}"Você não pode dormir."
+// \{母}「寝たらあかんで」
+<0278> \{Misuzu}"Ok..."
+// \{みすず}「うん…」
+<0279> A garota já não estava respondendo muito.
+// 彼女の反応は、ほとんど無くなっていた.
+<0280> Ela parecia que ia adormecer a qualquer momento agora.
+// 弱々しく、今にも寝入ってしまいそうだった.
+<0281> \{Mãe}"Aqui, segure suas cartas."
+// \{母}「ほら、トランプ持っとき」
+<0282> A garota começou a colocar as folhas em suas coxas.
+// ぱたぱたと、カードを膝の上で並べ始める.
+<0283> \{Mãe}"Isso mesmo."
+// \{母}「そや」
+<0284> \{Mãe}"Aguente firme mais um pouco."
+// \{母}「もう少しの辛抱やからな」
+<0285> \{Mãe}"O festival vai começar em breve."
+// \{母}「…もうすぐ祭り始まるからな」
+<0286> \{Mãe}"Está nublado lá fora, mas não está chovendo."
+// \{母}「外、曇ってるけど、雨は降ってへん」
+<0287> \{Mãe}"Bem, choveu um pouco, mas parou."
+// \{母}「ちょっと降ってたみたいやけどな、もうやんだ」
+<0288> \{Mãe}"A previsão do tempo está precisa afinal."
+// \{母}「やっぱ天気予報はよぅ当たる」
+<0289> \{Mãe}"Provavelmente conseguiremos ver as estrelas esta noite."
+// \{母}「たぶん、夜にはお星様見えるで」
+<0290> \{Mãe}"Vamos assistir às estrelas juntas daquele pequeno morro. Um céu cheio de estrelas, assim como em um planetário."
+// \{母}「一緒に星も見よな.あそこ小高いから、プラネタリウムみたいに、どこもかしこも星空や」
+<0291> \{Mãe}"Mas eu acho que você vai ficar com fome lá. Uma pessoa faminta é uma pessoa irritada, né?"
+// \{母}「でも観鈴は、食い意地張っとるからなー.花より団子、言うやつやろ？」
+<0292> \{Mãe}"Mas não se preocupe. Eu vou te comprar qualquer comida que você quiser."
+// \{母}「ええで.なんでも好きなもん食べたらええ」
+<0293> \{Mãe}"Claro, vamos brincar nos jogos das barracas também."
+// \{母}「もちろん、屋台でも遊ぶで」
+<0294> \{Mãe}"Vamos torcer para você ganhar muitos prêmios."
+// \{母}「いろんな景品もらえたら、ええな」
+<0295> \{Mãe}"E... no final, eu vou te comprar qualquer coisa que você quiser."
+// \{母}「それで…最後にな、うちがなんでも好きなもん、買うたる」
+<0296> \{Mãe}"Então..."
+// \{母}「せやから、な…」
+<0297> \{Mãe}"Vamos trazer muitas lembranças para casa, ok?"
+// \{母}「それ持って、帰ってこよな」
+<0298> \{Mãe}"Serão as nossas memórias felizes."
+// \{母}「思い出と一緒にな」
+<0299> *Plat!*
+// ぱさっ…
+<0300> As folhas caíram das mãos da garota.
+// 彼女の手からカードが落ちていた.
+<0301> \{Mãe}"Misuzu..."
+// \{母}「観鈴っ…」
+<0302> \{Misuzu}"Estou com sono..."
+// \{みすず}「ねむたい…」
+<0303> \{Misuzu}"Estou com vontade de dormir agora..."
+// \{みすず}「もう眠りたいな…」
+<0304> \{Mãe}"Idiota, não diga isso."
+// \{母}「あほ…なんでそんなこと言うんや…」
+<0305> \{Mãe}"Você vai ao festival, certo?"
+// \{母}「お祭り、いくんやろ…？」
+<0306> \{Misuzu}"Sim... eu vou."
+// \{みすず}「うん…いく」
+<0307> \{Mãe}"Fique acordada mais um pouco."
+// \{母}「ほな、もう少し頑張ろ」
+<0308> \{Mãe}"Vamos jogar cartas."
+// \{母}「トランプしてよ…」
+<0309> \{Mãe}"Aqui, segure suas cartas."
+// \{母}「ほら、カード持ちや」
+<0310> \{Misuzu}"Ok..."
+// \{みすず}「うん…」
+<0311> Ela tentou segurar as folhas, mas não havia mais força nela.
+// 札を持とうとするが、もう彼女にはその力も残っていないようだった.
+<0312> Ela desabou.
+// 彼女の体が力なく、崩れる.
+<0313> \{Mãe}"Misuzu..."
+// \{母}「観鈴っ…」
+<0314> A mãe segurou o corpo da garota.
+// それを母が抱き留める.
+<0315> \{Mãe}"Você não pode dormir, Misuzu..."
+// \{母}「あかんよ、観鈴…」
+<0316> \{Mãe}"Você não pode cair no sono..."
+// \{母}「寝たらあかんよ…」
+<0317> \{Misuzu}"Hmm..."
+// \{みすず}「…うん…」
+<0318> A mãe continuou a abraçá-la.
+// ずっと、強く抱きしめ続けた.
+<0319> Até chegar a hora de partir.
+// 出かける時がくるまで.
+<0320> \{Mãe}"Deus... Se você realmente está aí, por favor, ouça meu desejo..."
+// \{母}「神様…もし、いてるんやったら…お願いや…」
+<0321> \{Mãe}"Por favor, deixe esta garota ir ao festival..."
+// \{母}「どうか…この子を夏祭りにいかせたってや…」
+<0322> \{Mãe}"Por favor, nos dê um milagre..."
+// \{母}「奇跡を起こしたってや…」
+<0323> \{Mãe}"Não vou pedir mais nada..."
+// \{母}「そうしたら、うち…もうなんもいらんから…」
+<0324> \{Mãe}"Não me importo se algo ruim acontecer comigo depois..."
+// \{母}「これからずっとうち、不幸やってもええから…」
+<0325> \{Mãe}"Só quero levar ela para o festival..."
+// \{母}「この子さえ、夏祭りにいけたら…」
+<0326> \{Mãe}"Eu imploro a você..."
+// \{母}「頼むわ…」
+<0327> \{Mãe}"Está na hora..."
+// \{母}「時間や…」
+<0328> \{Mãe}"Vamos sair, Misuzu..."
+// \{母}「出かけるで、観鈴…」
+<0329> \{Mãe}"O festival vai começar..."
+// \{母}「お祭りが始まるで…」
+<0330> \{Mãe}"Está tudo bem... Tenho certeza de que está ensolarado lá fora..."
+// \{母}「大丈夫や…きっと晴れてる…」
+<0331> \{Mãe}"Tenho certeza de que está ensolarado lá fora..."
+// \{母}「きっと晴れてる…」
+<0332> \{Mãe}"........."
+// \{母}「………」
+<0333> \{Mãe}"Deus não existe afinal..."
+// \{母}「神様なんて…どこにもおらへん」
+<0334> \{Mãe}"Não existem milagres..."
+// \{母}「奇跡なんて、起きへんのやな…」
+<0335> \{Mãe}"........."
+// \{母}「………」
+<0336> \{Misuzu}"Festival de verão..."
+// \{みすず}「夏まつり…」
+<0337> As duas chegaram até aqui na chuva.
+// ふたりは水に濡れながら、ここまでやってきた.
+<0338> Elas estavam paradas.
+// そして、立ち尽くしていた.
+<0339> A mãe se sentou no chão.
+// 母親がその場に崩れ落ちる.
+<0340> \{Mãe}"Sou uma idiota..."
+// \{母}「あほや…」
+<0341> \{Mãe}"Eu realmente sou uma idiota..."
+// \{母}「うち、あほや…」
+<0342> \{Mãe}"Não há como ainda realizarem o festival..."
+// \{母}「やってるわけあらへんのに…」
+<0343> \{Mãe}"Mas eu pensei... se eu fizesse algo..."
+// \{母}「それでも…頑張ってみたら…」
+<0344> \{Mãe}"Então talvez um milagre acontecesse..."
+// \{母}「何かがあるかもしれん思て…」
+<0345> \{Mãe}"Eu fiz tudo o que pude..."
+// \{母}「ここまでたのに…」
+<0346> \{Mãe}"Mas nada aconteceu..."
+// \{母}「それやのに、やっぱり…なんもあらへんかった…」
+<0347> \{Mãe}"Tudo foi em vão..."
+// \{母}「結局、報われへんのやな…」
+<0348> \{Mãe}"Mesmo que Misuzu tenha dado tudo de si..."
+// \{母}「この子、こないに頑張ってるいうのに…」
+<0349> \{Mãe}"Ei..."
+// \{母}「な…」
+<0350> \{Mãe}"A Misuzu fez algo de errado?"
+// \{母}「この子が、なに悪いことしたいうねん…」
+<0351> \{Mãe}"Ela esperou como uma boa garota."
+// \{母}「いい子にして待ってたやないか…」
+<0352> \{Mãe}"Ela é uma garota realmente boa..."
+// \{母}「ごっついい子にして…」
+<0353> \{Mãe}"Tem que ser culpa minha..."
+// \{母}「やっぱりうちのせいか…」
+<0354> \{Mãe}"Eu devo ter trazido toda essa má sorte para ela."
+// \{母}「うちがこの子、不幸にしてるんか…」
+<0355> \{Mãe}"Hoje seria um dia ensolarado se não fosse por minha causa..."
+// \{母}「うちがおらへんかったら、今日も晴れてて…」
+<0356> \{Mãe}"Este festival de verão estaria cheio de gente..."
+// \{母}「ここも、夏祭りで賑わってたんやろか…」
+<0357> \{Mãe}"Esta garota compraria muitas coisas, comería muitas coisas..."
+// \{母}「この子も、屋台でいろんなもの買って、食べて…」
+<0358> \{Mãe}"...E riria muito..."
+// \{母}「それで笑ってられたんとちゃうか…」
+<0359> \{Mãe}"Ela diria 'Nihaha'."
+// \{母}「にははーっ…て」
+<0360> \{Mãe}"........."
+// \{母}「………」
+<0361> \{Misuzu}"O que aconteceu com o festival?"
+// \{みすず}「お祭りは…？」
+<0362> \{Mãe}"Misuzu..."
+// \{母}「観鈴…」
+<0363> \{Mãe}"O festival foi cancelado."
+// \{母}「祭りはな…中止や…」
+<0364> \{Mãe}"Está cancelado..."
+// \{母}「中止なんや…」
+<0365> \{Mãe}"Como você pode ver."
+// \{母}「見ての通りや…」
+<0366> \{Mãe}"Choveu..."
+// \{母}「雨、降ってんねん…」
+<0367> \{Mãe}"Choveu muito..."
+// \{母}「ざーざー降ってんねん…」
+<0368> \{Misuzu}"E o dinossauro bebê?"
+// \{みすず}「恐竜の赤ちゃんは…？」
+<0369> \{Mãe}"........."
+// \{母}「………」
+<0370> \{Mãe}"Eles não estão vendendo isso."
+// \{母}「…売ってへん」
+<0371> \{Mãe}"Não tem dinossauro bebê aqui."
+// \{母}「そんなもん…どこにもおらへん…」
+<0372> \{Mãe}"Não há nada aqui, Misuzu..."
+// \{母}「ここにはなんもないんや…観鈴…」
+<0373> \{Mãe}"Você não pode criar um..."
+// \{母}「飼いたくても、無理なんや…」
+<0374> \{Misuzu}"........."
+// \{みすず}「………」
+<0375> \{Mãe}"........."
+// \{母}「………」
+<0376> \{Mãe}"Isto é igual à última vez..."
+// \{母}「あのときと…一緒や…」
+<0377> \{Mãe}"Eu não pude fazer nada por você..."
+// \{母}「うちはなんもできへん…」
+<0378> \{Mãe}"Eu só fiquei parada e não fiz nada..."
+// \{母}「突っ立てるだけで…なんもできへん…」
+<0379> \{Mãe}"No final, eu não consegui te dar nada..."
+// \{母}「結局うちは、あんたに何もあげられへんのやな…」
+<0380> \{Misuzu}"Gao..."
+// \{みすず}「がお…」
+<0381> A garota abaixou a cabeça e repetiu aquela palavra, uma e outra vez.
+// 彼女はうつむいて、同じ言葉を繰り返し口にしていた.
+<0382> Ela agia como se a criatura que estava procurando estivesse no chão abaixo dela.
+// まるでそこに、地面に生き物がいるかのように.
+<0383> \{Mãe}"Nosso tempo continuou voltando para trás..."
+// \{母}「ずっとうちらは時間をさかのぼって…」
+<0384> \{Mãe}"E finalmente chegamos àquele dia dez anos atrás..."
+// \{母}「やっと十年前のあの日に辿り着いたいうのに…」
+<0385> \{Mãe}"Mas o resultado final é o mesmo..."
+// \{母}「結局、同じやった…」
+<0386> \{Mãe}"Perdoe-me, Misuzu..."
+// \{母}「許してや、観鈴…」
+<0387> \{Misuzu}"Tudo bem..."
+// \{みすず}「うん…」
+<0388> A garota, que havia confiado na mãe, fechou os olhos.
+// 母に身を委ねていた彼女が、目を閉じる.
+<0389> \{Misuzu}"Estou cansada..."
+// \{みすず}「つかれた…」
+<0390> A mãe a apoiou.
+// それを母は抱き留めた.
+<0391> A água estava caindo sobre elas.
+// ふたりは水に打たれ続ける.
+<0392> A mãe também fechou os olhos.
+// もう母も、目を閉じてしまった.
+<0393> O mundo estava parado, quase como se seu fim estivesse próximo.
+// まるで世界の終わりのように…静かな時.
+<0394> Vai acabar assim?
+// 終わってしまうのだろうか、このまま.
+<0395> Vai acabar aqui?
+// ここで終わってしまうのだろうか.
+<0396> Eu fechei os olhos.
+// 僕も目を閉じる.
+<0397> Tudo que consegui ouvir era o som da água caindo.
+// もう水が降る音しか聞こえなかった.
+<0398> .........
+// ……….
+<0399> ......
+// …….
+<0400> ...
+// ….
+<0401> \{Mãe}"Ah..."
+// \{母}「あ…」
+<0402> Eu ouvi um pequeno choro.
+// 小さく声が聞こえた.
+<0403> Eu abri os olhos.
+// 目を開ける.
+<0404> A mãe estava olhando para frente com as mãos ainda em volta da garota.
+// 母が、彼女を抱いたまま、ずっと先を見ていた.
+<0405> Eu olhei naquela direção.
+// 僕もその方向を見る.
+<0406> \{Mãe}"Por quê?"
+// \{母}「なんでや…」
+<0407> \{Mãe}"Por que está ali?"
+// \{母}「なんで、あんなところにあるんや…」
+<0408> Nosso olhar caiu sobre algo.
+// 僕たちの視線の先…
+<0409> Algo nas escadas.
+// 階段の上に、『それ』があった.
+<0410> \{Mãe}"Eu pensei que tinha jogado fora..."
+// \{母}「捨てたのに…」
+<0411> \{Mãe}"Tenho certeza de que joguei fora naquele dia..."
+// \{母}「あの日、捨てたのに…」
+<0412> Estava ali esperando, cheio dos desejos de muitos.
+// それは、たくさんの人の思いを吸い込んで、そこで待っていた.
+<0413> Para que um dia... Seus desejos se tornassem realidade.
+// この世界の思いを…いつか叶えるために.
+<0414> \{Mãe}"Você estava esperando por nós..."
+// \{母}「ずっと待っててくれたんやな…」
+<0415> \{Mãe}"Que bom..."
+// \{母}「よかった…」
+<0416> \{Mãe}"Obrigada..."
+// \{母}「感謝や…」
+<0417> \{Mãe}"Misuzu..."
+// \{母}「観鈴…」
+<0418> \{Mãe}"Misuzu, acorde."
+// \{母}「観鈴っ、起きるんやっ」
+<0419> \{Misuzu}"Hm..."
+// \{みすず}「ん…」
+<0420> A garota abriu os olhos.
+// 彼女が目を開く.
+<0421> \{Misuzu}"O que foi, mamãe?"
+// \{みすず}「なに、ママ…」
+<0422> \{Mãe}"Seu dinossauro está ali."
+// \{母}「恐竜さん、いてるで、あそこに」
+<0423> \{Misuzu}"Hã?"
+// \{みすず}「え…？」
+<0424> \{Mãe}"Vamos pegá-lo."
+// \{母}「いこ.取りにいこ」
+<0425> \{Mãe}"Eu vou com você."
+// \{母}「ふたりで取りにいこ」
+<0426> \{Misuzu}"Hm..."
+// \{みすず}「うん…」
+<0427> \{Mãe}"Não feche os olhos!"
+// \{母}「目閉じたら、あかんっ」
+<0428> \{Mãe}"Você não pode dormir ainda."
+// \{母}「まだ寝たらあかんでっ」
+<0429> \{Mãe}"Ainda não comprei nada para você."
+// \{母}「まだ観鈴、なんも買うてへんやろ？」
+<0430> \{Mãe}"É apenas o começo para nós..."
+// \{母}「これからやないか…」
+<0431> \{Mãe}"A parte mais divertida está apenas começando..."
+// \{母}「な、一番楽しいのはこれからやないか…」
+<0432> \{Mãe}"Mantenha-se firme, certo?"
+// \{母}「だから、頑張ろっ」
+<0433> \{Mãe}"Memórias... Vamos criar algumas memórias juntas."
+// \{母}「思い出や.ふたりで、ええ思い出つくろ」
+<0434> \{Mãe}"Memórias com sua mãe."
+// \{母}「お母さんとの思い出や」
+<0435> \{Mãe}"Você não quer?"
+// \{母}「嫌か？」
+<0436> \{Misuzu}"Sim... Eu quero criar memórias..."
+// \{みすず}「ううん…おもいで作りたい…」
+<0437> \{Mãe}"Não é? Aguente firme agora, tá?"
+// \{母}「せやろ.な、頑張ろ」
+<0438> \{Misuzu}"Ok... Eu vou."
+// \{みすず}「う、うん…がんばる」
+<0439> \{Misuzu}"Misuzu-chin, avante."
+// \{みすず}「みすずちん、ふぁいと…」
+<0440> \{Mãe}"Bom. Misuzu-chin é uma garota forte."
+// \{母}「せや.観鈴ちんは強い子や」
+<0441> \{Misuzu}"Sim, eu sou uma garota forte..."
+// \{みすず}「うん、つよい子…」
+<0442> \{Mãe}"Ok, vamos."
+// \{母}「よし、いこ」
+<0443> As duas começaram a andar.
+// ふたりで歩いてゆく.
+<0444> Elas estavam indo em direção à criatura nas escadas.
+// 階段に置かれた生き物を目指して.
+<0445> \{Misuzu}"Haa... Haa..."
+// \{みすず}「はっ…はっ…」
+<0446> \{Mãe}"Você consegue..."
+// \{母}「頑張ろ…」
+<0447> \{Mãe}"Viu? O dinossauro bebê está bem na sua frente."
+// \{母}「ええか…恐竜の赤ちゃん、目の前にいてるからな」
+<0448> \{Misuzu}"Ok..."
+// \{みすず}「うん…」
+<0449> \{Mãe}"Estenda a mão e você vai tocá-lo."
+// \{母}「手、伸ばしたら、取れる」
+<0450> \{Mãe}"Aqui, estenda sua mão..."
+// \{母}「ほら、がんばって手、伸ばし…」
+<0451> A mãe segurou o braço da garota.
+// 母は娘の腕を持ちあげる.
+<0452> \{Mãe}"Isso mesmo. Assim."
+// \{母}「そうや.そのままや」
+<0453> Quando a mãe soltou, a mão da garota caiu em seu colo novamente.
+// 母が手を離すと、彼女の手もぱた、と膝の上に落ちた.
+<0454> \{Mãe}"Vou pegar junto com você. Vou segurar sua mão."
+// \{母}「お母さんも一緒に捕まえたる.手、持っとったるから」
+<0455> \{Mãe}"Vamos pegar juntas."
+// \{母}「ふたりで捕まえよな」
+<0456> \{Mãe}"Essas são nossas memórias."
+// \{母}「せやから、それはふたりの思い出や」
+<0457> \{Mãe}"Nossas memórias felizes."
+// \{母}「幸せな思い出や」
+<0458> \{Mãe}"Vamos cuidar disso como se fosse nosso bebê. Vamos cuidar juntas."
+// \{母}「大事に育てよ.ふたりで、育てていこ」
+<0459> Ela levantou a mão da garota novamente.
+// 再びその手を拾い上げる.
+<0460> Com as mãos entrelaçadas, elas alcançaram o vazio à sua frente.
+// 手を繋ぐようにして、ふたりはなにもない目の前に手を伸ばし始める.
+<0461> Uma forte rajada de vento soprou.
+// そのとき、びゅうと強い風が吹いた.
+<0462> A coisa que a mãe estava usando para bloquear a água que caía foi arrancada de sua mão.
+// 母が持っていた、水を防ぐものが一瞬で手から消えた.
+<0463> A água desceu em suas testas como uma cachoeira.
+// ふたりの額から、水が、滝のように流れ落ちる.
+<0464> Mesmo assim, ambas se esticaram desesperadamente para frente.
+// それでも、彼女たちは必死に…手を伸ばし続けた.
+<0465> \{Mãe}"Aqui, estique sua mão um pouco mais..."
+// \{母}「ほら、もっと伸ばし…」
+<0466> \{Mãe}"Você vai tocar em breve..."
+// \{母}「そうしたら、届くから…」
+<0467> \{Mãe}"Está bem na sua frente..."
+// \{母}「すぐそこにいてるから…」
+<0468> \{Mãe}"Agarre bem..."
+// \{母}「うまく、捕まえや…」
+<0469> A água continuou a cair sobre elas.
+// 水がふたりを打ち続ける.
+<0470> \{Misuzu}"Estou cansada..."
+// \{みすず}「もう…つかれた…」
+<0471> Sua mão caiu novamente.
+// 再び、手が落ちる.
+<0472> \{Mãe}"Não, Misuzu..."
+// \{母}「あかん、観鈴…」
+<0473> \{Misuzu}"Estou com sono..."
+// \{みすず}「ねむい…」
+<0474> \{Mãe}"Você consegue, com a ajuda da mamãe."
+// \{母}「お母さんと一緒に頑張ろ」
+<0475> \{Misuzu}"Com a mamãe..."
+// \{みすず}「おかあさんと…」
+<0476> A mãe segurou as mãos da garota.
+// 彼女の手を取る.
+<0477> \{Mãe}"Tudo bem? Junto com a mamãe."
+// \{母}「な…お母さんと頑張ろ」
+<0478> \{Misuzu}"Sim... Eu consigo com você."
+// \{みすず}「うん、おかあさんとがんばる…」
+<0479> \{Mãe}"Essa é minha garota..."
+// \{母}「よっしゃ、ええ子や…」
+<0480> \{Mãe}"Tente mais..."
+// \{母}「頑張ろ…」
+<0481> \{Mãe}"Seu amigo também está no seu ombro."
+// \{母}「あんたの友達も、肩にいてるで」
+<0482> \{Misuzu}"Sim, com o corvo também."
+// \{みすず}「うん、カラスさんも一緒」
+<0483> \{Mãe}"Isso mesmo. Todos estamos com você."
+// \{母}「そうや.みんな一緒や」
+<0484> \{Mãe}"Vamos encontrar a felicidade juntas."
+// \{母}「みんなで幸せになろ」
+<0485> \{Misuzu}"Ok."
+// \{みすず}「うん」
+<0486> A garota estendeu a mão novamente.
+// 再び、手を伸ばす.
+<0487> \{Mãe}"Só um pouquinho mais..."
+// \{母}「ほら、もうちょいや…」
+<0488> \{Mãe}"Um pouco mais..."
+// \{母}「もうちょい…」
+<0489> \{Mãe}"Você vai alcançar..."
+// \{母}「届くで…」
+<0490> \{Mãe}"Nossa felicidade..."
+// \{母}「うちらの幸せに…」
+<0491> \{Mãe}"Aí, você pegou!"
+// \{母}「ほら、つかまえた…」
+<0492> \{Misuzu}"Consegui..."
+// \{みすず}「やった…」
+<0493> \{Mãe}"Esse é meu presente para você."
+// \{母}「うちからのプレゼントや…」
+<0494> \{Mãe}"Meu presente para você, Misuzu."
+// \{母}「観鈴へのプレゼントや…」
+<0495> \{Mãe}"Não consegui te dar isso..."
+// \{母}「ずっとあげられへんかったけど…」
+<0496> \{Mãe}"Desde o primeiro dia que nos conhecemos, não consegui te dar isso..."
+// \{母}「出会った日から、ずっとあげられへんかったけど…」
+<0497> \{Mãe}"Você vai aceitar?"
+// \{母}「受け取ってくれるか…」
+<0498> \{Misuzu}"Sim. Estou realmente feliz."
+// \{みすず}「うん、うれしい」
+<0499> \{Mãe}"Entendi..."
+// \{母}「そか…」
+<0500> \{Mãe}"Isso é ótimo..."
+// \{母}「よかったな…」
+<0501> \{Mãe}"Isso é ótimo, Misuzu."
+// \{母}「…よかったな、観鈴」
+<0502> \{Misuzu}"É fofo... Nihaha."
+// \{みすず}「かわいい…にははっ」
+<0503> \{Mãe}"Está dizendo 'Gao'!"
+// \{母}「がおーって」
+<0504> \{Misuzu}"Gao!"
+// \{みすず}「がおーっ」
+<0505> \{Mãe}"Vamos cuidar dele com carinho."
+// \{母}「ゆっくり育てていこな…」
+<0506> \{Mãe}"Afinal, esta é a nossa felicidade."
+// \{母}「これ、うちらの幸せやから…」
+<0507> \{Mãe}"Vamos criar essa criança a partir de agora."
+// \{母}「ずっと、これからも育てていこな…」
+<0508> \{Mãe}"Ela vai crescer."
+// \{母}「大きなるから…」
+<0509> \{Mãe}"Nossa felicidade vai crescer cada vez mais."
+// \{母}「もっともっと、うちらの幸せ、大きなるから…」
+<0510> \{Mãe}"Vamos viver juntas, Misuzu..."
+// \{母}「一緒に歩いていこな…」
+<0511> \{Mãe}"Hoje é a linha de partida."
+// \{母}「今日からスタートや」
+<0512> \{Mãe}"Finalmente começou..."
+// \{母}「やっと始められた…」
+<0513> \{Mãe}"Nossa vida como uma família finalmente começou."
+// \{母}「うちら家族や」
+<0514> \{Mãe}"Misuzu, eu, Sora, e este dinossauro..."
+// \{母}「観鈴と…うちと…そらと…この恐竜と…」
+<0515> \{Mãe}"Só não deixe o aproveitador se juntar a nós se ele voltar."
+// \{母}「あの居候も帰ってきたら、いれたらなあかんなー」
+<0516> \{Mãe}"Entendeu, Misuzu?"
+// \{母}「な、観鈴」
+<0517> \{Mãe}"Somos uma família."
+// \{母}「うちら家族や」
+<0518> \{Mãe}"Não é mais brincadeira..."
+// \{母}「ごっこやないで…」
+<0519> \{Mãe}"É a nossa vida como uma família de verdade..."
+// \{母}「ほんまもんの家族の暮らし…」
+<0520> \{Mãe}"E isso finalmente vai começar."
+// \{母}「その始まりや」
+<0521> \{Misuzu}"Sim... Gaoo!"
+// \{みすず}「うん…がおーっ」
+<0522> \{Mãe}"Gaoo!"
+// \{母}「がおーっ」
+<0523> \{Mãe}"Haha... Graças a Deus..."
+// \{母}「はは…よかった」
+<0524> \{Mãe}"Realmente... Graças a Deus..."
+// \{母}「ほんまに、よかった…」
+<0525> \{Mãe}"Isso é ótimo..."
+// \{母}「ごっつよかった…」
+<0526> \{Mãe}"Ótimo..."
+// \{母}「よかったわ…」
+<0527> \{Mãe}"Vamos levar nossas memórias para casa."
+// \{母}「思い出持って、帰ろな…」
+<0528> \{Mãe}"De volta à residência Kamio..."
+// \{母}「神尾の家に…」
+<0529> As duas se apoiaram uma na outra...
+// ふたりは寄り添って、じっとしている.
+<0530>  Enquanto isso, elas estavam abraçando a criatura que pegaram juntas.
+// 彼女は母と一緒に捕まえた生き物を抱いて.
+<0531> A mãe enterrou o rosto no ombro da garota.
+// 母は、その彼女の肩に顔を埋めて.
+<0532> \{Mãe}"........."
+// \{母}「………」
+<0533> \{Misuzu}"Mãe?"
+// \{みすず}「おかあさん…？」
+<0534> \{Mãe}"........."
+// \{母}「………」
+<0535> A mãe estava exausta.
+// よほど疲れてるのだろう.
+<0536> Ela não respondeu quando a garota a chamou.
+// 母は彼女の呼びかけにも答えなかった.
+<0537> \{Misuzu}"Você não dormiu o tempo todo."
+// \{みすず}「ずっと、寝てないんだよね」
+<0538> \{Misuzu}"Tudo por minha causa..."
+// \{みすず}「わたしのために…」
+<0539> \{Misuzu}"Mãe, você cuidou de mim."
+// \{みすず}「おかあさん、すごくよくしてくれた…」
+<0540> \{Misuzu}"Agora eu tenho que deixar você descansar."
+// \{みすず}「もう、休ませてあげないとね」
+<0541> O corpo da mãe se contraiu.
+// 母の体がびくっと動いた.
+<0542> \{Mãe}"Haa..."
+// \{母}「は…」
+<0543> \{Mãe}"Ops..."
+// \{母}「いかんっ…」
+<0544> Ela despertou de repente.
+// 飛び起きる.
+<0545> \{Mãe}"Eu cochilei. Desculpe."
+// \{母}「今、寝てたな、うち.堪忍や」
+<0546> \{Mãe}"Vou me dar um tapa."
+// \{母}「ぱんぱんしよっ」
+<0547> \shake{2}*Splat \wait{500}\shake{2}splat!*
+// ぱんぱん.
+<0548> Ela bateu no próprio rosto.
+// 顔をはたく.
+<0549> \{Misuzu}"Mãe, você não está com sono?"
+// \{みすず}「おかあさん、ねむたいんだよね」
+<0550> \{Mãe}"Não se preocupe comigo. Eu quero continuar te observando."
+// \{母}「観鈴が気にすることあらへんよ.うち、ずっと観鈴を見ていたいだけなんや」
+<0551> \{Mãe}"Olha, estou acordada."
+// \{母}「せやから、起きてる」
+<0552> \{Mãe}"Viu?"
+// \{母}「な」
+<0553> \{Misuzu}"Não, vai dormir."
+// \{みすず}「ううん、寝よ」
+<0554> \{Misuzu}"Quero dormir junto com você."
+// \{みすず}「いっしょに寝たいな」
+<0555> \{Mãe}"Não... Você não deve dormir..."
+// \{母}「あかん…あんた、寝たらあかんのや…」
+<0556> \{Misuzu}"Por quê?"
+// \{みすず}「どうして？」
+<0557> \{Mãe}"Você ainda está com dor, não está?"
+// \{母}「痛いんやろ…」
+<0558> \{Misuzu}"Não, não sinto mais dor."
+// \{みすず}「ううん…もういたくないよ」
+<0559> \{Mãe}"Sério?"
+// \{母}「ほんまか…？」
+<0560> \{Misuzu}"Sim, não sinto dor há um tempo. Por que será?"
+// \{みすず}「うん、ずっといたくないよ.どうしてかな」
+<0561> \{Mãe}"Você está falando sério? Nenhuma dor mesmo?"
+// \{母}「ほんまにほんまか…？ 全然痛くないんか？」
+<0562> \{Misuzu}"Sim."
+// \{みすず}「うん」
+<0563> \{Misuzu}"Então só quero dormir e me recuperar."
+// \{みすず}「だから寝たい.いっぱい寝て、もっと元気になる」
+<0564> \{Mãe}"Entendi..."
+// \{母}「そか…」
+<0565> \{Mãe}"Graças a Deus..."
+// \{母}「よかったわ…」
+<0566> \{Mãe}"Você se esforçou..."
+// \{母}「観鈴、頑張ったもんな…」
+<0567> \{Mãe}"E finalmente valeu a pena..."
+// \{母}「報われてたんやな…」
+<0568> \{Misuzu}"Então vamos dormir juntas, tá?"
+// \{みすず}「だから、いっしょに寝よ」
+<0569> \{Mãe}"Claro. Se você dormir, eu também vou dormir."
+// \{母}「ええよ.観鈴が寝たら、うちも寝るから」
+<0570> \{Mãe}"Misuzu, durma primeiro."
+// \{母}「観鈴、先に寝や」
+<0571> \{Misuzu}"Hmm..."
+// \{みすず}「うーん…」
+<0572> \{Misuzu}"Ok, vou dormir primeiro."
+// \{みすず}「じゃ、そうするね」
+<0573> \{Mãe}"Sim, vá em frente."
+// \{母}「ああ、そうし」
+<0574> \{Mãe}"Vou me sentir mais tranquila depois de te ver dormir. E então eu vou dormir também."
+// \{母}「うち、観鈴の寝顔見て、安心したら、寝るからな」
+<0575> \{Misuzu}"Ok. Boa noite."
+// \{みすず}「うん、おやすみ」
+<0576> A garota fechou os olhos.
+// 彼女が目を閉じる.
+<0577> \{Misuzu}"........."
+// \{みすず}「………」
+<0578> Sua expressão ficou suave.
+// 安らかな表情だった.
+<0579> A mãe esperou por um tempo.
+// 母はしばらく待つ.
+<0580> .........
+// ……….
+<0581> \{Mãe}"Misuzu..."
+// \{母}「観鈴…」
+<0582> \{Mãe}"Você está bem?"
+// \{母}「大丈夫なんか？」
+<0583> .........
+// ……….
+<0584> \{Mãe}"Você parece tão tranquila."
+// \{母}「ええ寝顔や…」
+<0585> \{Mãe}"Você realmente se recuperou?"
+// \{母}「ほんまにもう…大丈夫なんやな…」
+<0586> .........
+// ……….
+<0587> \{Mãe}"Haa..."
+// \{母}「はぁ…」
+<0588> \{Mãe}"Isso é uma ótima notícia."
+// \{母}「よかったわ…」
+<0589> \{Mãe}"Realmente uma ótima notícia."
+// \{母}「ほんまによかった…」
+<0590> \{Mãe}"Você está bem, certo?"
+// \{母}「もう、ええんやな…」
+<0591> \{Mãe}"Posso relaxar agora?"
+// \{母}「うち、安心して、ええんやな…」
+<0592> \{Mãe}"Ei, Misuzu."
+// \{母}「な、観鈴」
+<0593> \{Mãe}"........."
+// \{母}「………」
+<0594> A mãe abaixou o rosto.
+// 母親の顔が下がる.
+<0595> \{Mãe}"Misuzu... Sempre estaremos juntas..."
+// \{母}「観鈴…ずっと一緒やで…」
+<0596> Ela pressionou o rosto contra o da garota.
+// 彼女の顔のすぐ隣に自分の顔を埋めた.
+<0597> ..........
+// ……….
+<0598> Ficou completamente silencioso.
+// 静かになる.
+<0599> .........
+// ……….
+<0600> ......
+// …….
+<0601> Finalmente... você foi dormir.
+// そして、彼女がゆっくりと目を開いた.
+<0602> \{Misuzu}"Finalmente... Você foi dormir."
+// \{みすず}「よかった…寝てくれた」
+<0603> \{Misuzu}"Desculpe por mentir para você, mamãe..."
+// \{みすず}「ごめんね、おかあさん…うそついて」
+<0604> \{Misuzu}"Você não dormiria se eu não fizesse isso."
+// \{みすず}「そうしないと、休んでくれそうになかったから…」
+<0605> O corpo da garota ficou curvado.
+// 彼女が身体をねじ曲げる.
+<0606> Então, ela começou a ofegar pesadamente.
+// そして、苦しげに息を吐いた.
+<0607> \{Misuzu}"Não, eu não posso dormir..."
+// \{みすず}「ねたら、ダメなんだよね…わたしは…」
+<0608> \{Misuzu}"........."
+// \{みすず}「………」
+<0609> \{Misuzu}"Mas estou com sono..."
+// \{みすず}「…ねむい…」
+<0610> \{Misuzu}"Está doendo..."
+// \{みすず}「イタイ…」
+<0611> \{Misuzu}"Não é nas costas que está doendo."
+// \{みすず}「せなかじゃないんだけどな」
+<0612> \{Misuzu}"Por que estou assim?"
+// \{みすず}「どうしてかな」
+<0613> \{Misuzu}"Devo dormir?"
+// \{みすず}「ねようかな…」
+<0614> \{Misuzu}"Não?"
+// \{みすず}「ダメかな…」
+<0615> \{Misuzu}"Não, eu não posso."
+// \{みすず}「うーん…ダメだよね…」
+<0616> \{Misuzu}"Não esta noite..."
+// \{みすず}「今晩だけ…」
+<0617> \{Misuzu}"Preciso aguentar mais um dia..."
+// \{みすず}「一日だけ…がんばるね…」
+<0618> \{Misuzu}"Tenho que esperar até a mamãe acordar."
+// \{みすず}「おかあさんが起きるまで、がんばるね…」
+<0619> \{Misuzu}"Precisamos alcançar a linha de chegada juntas."
+// \{みすず}「ゴールは、ふたりで…むかえたいもんね」
+<0620> \{Misuzu}"Precisamos alcançá-la sob o céu azul claro."
+// \{みすず}「青空の下で…むかえたいもんね…」
+<0621> \{Misuzu}"Isso mesmo... Eu deveria escrever meu diário ilustrado."
+// \{みすず}「そうだ…絵日記かこうっと」
+<0622> *Risk...*
+// かきかき…
+<0623> \{Misuzu}"Muitas coisas divertidas aconteceram neste verão."
+// \{みすず}「この夏休みは…たくさん楽しいことあった」
+<0624> *Risk...*
+// かきかき…
+<0625> \{Misuzu}"Minha mãe me comprou um dinossauro bebê."
+// \{みすず}「恐竜の赤ちゃんも買ってもらった」
+<0626> \{Misuzu}"Nihaha."
+// \{みすず}「にはは」
+<0627> \{Misuzu}"Fiquei tão feliz."
+// \{みすず}「よかった」
+<0628> *Risk...*
+// かきかき…
+<0629> O som continuou incessantemente.
+// いつまでも、その音だけが、聞こえ続けた.
+<0630> .........
+// ……….
+<0631> ......
+// …….
+<0632> ...
+// ….
+<0633> 14 de agosto (Seg) / Sora
+// ８月１４日(月)／そら
+<0634> O sol brilhava sobre as duas.
+// そしてまた陽が、ふたりを照らし出す.
+<0635> A mãe acordou primeiro com a luz brilhante.
+// そのまばゆい光の中で、最初に母親が目を覚ました.
+<0636> \{Mãe}"Misuzu..."
+// \{母}「観鈴…」
+<0637> Ela chamou o nome da garota.
+// 呼びかける.
+<0638> Os olhos dela se abriram.
+// 彼女の目が開いた.
+<0639> Ela olhou ao seu redor, perplexa.
+// 不思議そうに、辺りを見回す.
+<0640> \{Misuzu}"Eu adormeci."
+// \{みすず}「わたし、ねてた」
+<0641> \{Mãe}"Sim, você adormeceu."
+// \{母}「あんた、ほんまに寝とったんやな」
+<0642> \{Mãe}"Seu corpo ainda dói?"
+// \{母}「身体、痛ないか？」
+<0643> \{Mãe}"Você ainda se lembra de mim?"
+// \{母}「うちのこと、覚えてるか？」
+<0644> \{Misuzu}"........."
+// \{みすず}「………」
+<0645> \{Misuzu}"Bom dia, Mamãe."
+// \{みすず}「おかあさん、おはよー」
+<0646> \{Mãe}"Graças a Deus..."
+// \{母}「ああ、よかった…」
+<0647> \{Mãe}"Você está sorrindo para mim de novo."
+// \{母}「観鈴、元気で笑てくれとる…」
+<0648> \{Mãe}"Esperei por uma manhã como esta."
+// \{母}「こんな朝を、うちはずっと待ってたんや…」
+<0649> \{Misuzu}"Nihaha."
+// \{みすず}「にはは」
+<0650> \{Mãe}"Ei..."
+// \{母}「な…」
+<0651> \{Mãe}"Eu tive um sonho muito ruim."
+// \{母}「うち、ごっつ嫌な夢見てたんや…」
+<0652> \{Misuzu}"Sobre o que era?"
+// \{みすず}「どんな？」
+<0653> \{Mãe}"No sonho, você ficou acordada a noite toda jogando cartas."
+// \{母}「あんたが一晩中寝んと、トランプしとる夢や…」
+<0654> \{Mãe}"Você ainda estava suportando a dor sozinha."
+// \{母}「まだひとりで頑張ってる夢や…」
+<0655> \{Mãe}"Foi um pesadelo."
+// \{母}「そんな悪夢や…」
+<0656> \{Mãe}"Mas você teve uma boa noite de sono, não teve?"
+// \{母}「観鈴はちゃんとぐっすり寝とったもんな」
+<0657> \{Misuzu}"Sim."
+// \{みすず}「うん」
+<0658> \{Misuzu}"Eu tive um sonho também."
+// \{みすず}「わたしも夢、見たよ」
+<0659> \{Misuzu}"Mãe, você vai me ouvir?"
+// \{みすず}「おかあさん、聞いてくれる？」
+<0660> \{Mãe}"Haha, eu pensei que seus sonhos eram seus segredos?"
+// \{母}「はは.あんた、夢は秘密やったんちゃうの？」
+<0661> \{Misuzu}"Não, está tudo bem agora."
+// \{みすず}「ううん.もういいの」
+<0662> \{Misuzu}"O sonho de hoje foi sobre um dinossauro alado."
+// \{みすず}「今日の夢はね、羽根のある恐竜さん」
+<0663> \{Misuzu}"O dinossauro estava voando alto no céu rugindo 'gao'."
+// \{みすず}「気持ちよさそうに、がおーって飛んでた」
+<0664> \{Misuzu}"E eu também estava voando logo acima dele."
+// \{みすず}「そのもっと上を、わたしが飛んでるの」
+<0665> \{Misuzu}"Então eu olhei para trás."
+// \{みすず}「わたし、肩からうしろを見てみた」
+<0666> \{Misuzu}"Eu encontrei asas nas minhas costas."
+// \{みすず}「つばさがあったの」
+<0667> \{Misuzu}"Eu estava voando no ar com minhas asas brancas."
+// \{みすず}「真っ白なつばさで、わたし、空を飛んでた…」
+<0668> \{Mãe}"Entendi, isso soa como um sonho realmente bom."
+// \{母}「そか、ええ夢見たな」
+<0669> \{Misuzu}"Não..."
+// \{みすず}「ううん」
+<0670> \{Misuzu}"Foi um sonho triste."
+// \{みすず}「かなしい夢だった」
+<0671> \{Misuzu}"Foi o sonho mais triste de todo o mundo."
+// \{みすず}「世界でいちばんかなしい夢」
+<0672> \{Misuzu}"Mas estou bem agora."
+// \{みすず}「でもね、わたしだいじょうぶだよ」
+<0673> \{Misuzu}"Meus sonhos vão acabar hoje."
+// \{みすず}「わたしの夢は、今日でおわりだから」
+<0674> \{Misuzu}"Estarei com você para sempre a partir de hoje."
+// \{みすず}「これからは、ずっとおかあさんといるの」
+<0675> \{Mãe}"Sério..."
+// \{母}「そか…」
+<0676> \{Mãe}"Você me disse algo assim antes."
+// \{母}「あんた、前に言うとったな」
+<0677> \{Mãe}"Você disse que seria salva se tivesse seu último sonho."
+// \{母}「最後まで夢を見れば、きっと助かるって」
+<0678> \{Mãe}"Você deve ter chegado nele."
+// \{母}「あんたはきっと、最後までやりとげたんやな」
+<0679> \{Misuzu}"Sim."
+// \{みすず}「うん」
+<0680> \{Mãe}"Oh, sério?"
+// \{母}「そかそか…」
+<0681> \{Mãe}"Estou tão aliviada."
+// \{母}「よかった…」
+<0682> \{Mãe}"Eu estava me preocupando com você."
+// \{母}「うち、不安やったんや…」
+<0683> \{Mãe}"Eu estava preocupada o tempo todo..."
+// \{母}「ずっと不安やった…」
+<0684> \{Mãe}"Mas você finalmente está livre, né?"
+// \{母}「それから解放されたんやな…」
+<0685> \{Mãe}"Você vai sorrir para mim toda manhã quando eu acordar."
+// \{母}「観鈴が朝起きても…笑ってくれてる…」
+<0686> \{Mãe}"Finalmente cheguei a este dia..."
+// \{母}「そんな朝がやっときてくれた…」
+<0687> \{Mãe}"Todo dia será comum..."
+// \{母}「それが当たり前のように、毎日続いてゆく…」
+<0688> \{Mãe}"Não há nada mais feliz do que isso."
+// \{母}「そんな幸せ…どこにもあらへん」
+<0689> \{Mãe}"........."
+// \{母}「………」
+<0690> \{Mãe}"Tudo que aconteceu até agora pareceu um pesadelo."
+// \{母}「…まるで長い悪夢見とったような日々やった」
+<0691> \{Mãe}"E finalmente acabou..."
+// \{母}「やっと終わったんや…」
+<0692> \{Mãe}"Eu posso ver seu sorriso sempre a partir de agora."
+// \{母}「これからはずっと、観鈴の笑顔見ながら生きていける…」
+<0693> \{Mãe}"Sinto-me tão abençoada."
+// \{母}「うち、ごっつ幸せや…」
+<0694> \{Mãe}"Acho que vou chorar."
+// \{母}「幸せすぎて、うち涙出てきそうや…」
+<0695> \{Mãe}"Haha... não posso mais te chamar de chorona."
+// \{母}「はは…観鈴にもう言えへんなぁ」
+<0696> \{Mãe}"Porque eu também sou uma chorona."
+// \{母}「うちも泣き虫さんや…」
+<0697> \{Misuzu}"Você não pode chorar."
+// \{みすず}「泣いたらあかんよー」
+<0698> \{Mãe}"Você está certa. Não devo chorar quando não tenho nada para me entristecer."
+// \{母}「せやな.悲しいこと、なんもないのに泣いたらあかんな」
+<0699> \{Mãe}"Eu tenho que rir, né?"
+// \{母}「笑ってな、あかんな」
+<0700> \{Misuzu}"Nihaha."
+// \{みすず}「にはは」
+<0701> \{Mãe}"Haha..."
+// \{母}「はは…」
+<0702> A mãe estreitou os olhos sob o sol ofuscante.
+// 母親はまぶしい日差しに目を細める.
+<0703> \{Mãe}"Está ensolarado lá fora."
+// \{母}「外はよう晴れてるで…」
+<0704> \{Mãe}"A chuva de ontem... Não, ontem também estava ensolarado, né? Haha..."
+// \{母}「昨日の雨が…って、昨日も晴れてたんやったな、はは…」
+<0705> \{Misuzu}"Eu quero sair."
+// \{みすず}「…外にでたいな」
+<0706> \{Mãe}"Sério? Boa ideia."
+// \{母}「そか.そやな」
+<0707> \{Misuzu}"Quero ficar debaixo do sol."
+// \{みすず}「太陽の下にでたいな」
+<0708> \{Mãe}"Claro. Vamos lá."
+// \{母}「ええで.そうしよ」
+<0709> \{Mãe}"Mas antes disso, você tem que comer a comida que irei preparar com muito amor."
+// \{母}「せやけど、その前にうちの愛情ご飯やで」
+<0710> \{Mãe}"Coma e você vai ficar melhor."
+// \{母}「ちゃんと食べて、元気になるでー」
+<0711> \{Misuzu}"Ok."
+// \{みすず}「うんっ」
+<0712> \{Mãe}"Ótimo."
+// \{母}「よっしゃ」
+<0713> A mãe plantou um beijo na testa da garota.
+// ちゅ、と彼女の額に母が口をつける.
+<0714> \{Mãe}"Vou preparar algo para você."
+// \{母}「作ってくるわ」
+<0715> Ela se levantou.
+// 立ち上がった.
+<0716> As duas estavam banhadas pela luz do sol.
+// そして、ふたりは陽の光を体中に浴びる.
+<0717> \{Mãe}"Isso é refrescante."
+// \{母}「気持ちええ」
+<0718> \{Mãe}"É muito bom."
+// \{母}「ごっつ気持ちええなー」
+<0719> \{Misuzu}"Sim, é muito bom."
+// \{みすず}「うん、ごっつ気持ちいいねー」
+<0720> \{Mãe}"O ar cheira a verão."
+// \{母}「夏の匂いがするわ…」
+<0721> \{Misuzu}"Sim, cheira."
+// \{みすず}「うん、する」
+<0722> \{Mãe}"Oh? Que cheiro tem para você?"
+// \{母}「そうかー.どんな匂いがする？」
+<0723> \{Misuzu}"Tem cheiro do mar."
+// \{みすず}「潮のにおい」
+<0724> \{Mãe}"Sim, eu sinto."
+// \{母}「せやな.するな」
+<0725> \{Misuzu}"Cheiro do sol."
+// \{みすず}「陽のにおい」
+<0726> \{Mãe}"Sim, isso também tem cheiro."
+// \{母}「せやな.それもするな」
+<0727> \{Misuzu}"Cheiro de mamãe."
+// \{みすず}「おかあさんのにおい」
+<0728> \{Mãe}"Sim, tem meu cheiro."
+// \{母}「せやな.それもするな」
+<0729> \{Mãe}"Espera um segundo! Não quero ter cheiro de nada!"
+// \{母}「って、自分の匂い、ぷんぷんしてたら嫌やんっ!」
+<0730> \{Misuzu}"Mas eu consigo sentir você, mamãe."
+// \{みすず}「いっぱいするよ、おかあさんのにおい」
+<0731> \{Mãe}"Sério?"
+// \{母}「ほんまかいな…」
+<0732> \{Mãe}"Bem, na verdade não sei que cheiro tenho."
+// \{母}「そらまぁ…自分の匂いなんてわからんのやろうけど…」
+<0733> \{Misuzu}"Sim..."
+// \{みすず}「うん」
+<0734> \{Misuzu}"Este verão..."
+// \{みすず}「この夏は…」
+<0735> \{Misuzu}"Está cheio do seu cheiro, mamãe."
+// \{みすず}「おかあさんのにおいがたくさんした」
+<0736> \{Misuzu}"É o cheiro que eu amo."
+// \{みすず}「大好きなおかあさんのにおい」
+<0737> \{Mãe}"Entendi..."
+// \{母}「そか…」
+<0738> \{Mãe}"Espero não cheirar mal."
+// \{母}「くさかったら、たまらんなー」
+<0739> \{Misuzu}"Sim."
+// \{みすず}「たまらんねー」
+<0740> \{Misuzu}"Mas não, você tem um bom cheiro."
+// \{みすず}「でも、いいにおいだった」
+<0741> \{Mãe}"Sério? Que bom ouvir isso."
+// \{母}「そか.よかったわ」
+<0742> \{Misuzu}"Sim, bom ouvir."
+// \{みすず}「うん、よかった」
+<0743> *Creak creak...*
+// きっこきっこ…
+<0744> \{Misuzu}"Está quente."
+// \{みすず}「暑いねー」
+<0745> \{Mãe}"Você tem razão. Está bem quente."
+// \{母}「せやなー.暑いなー」
+<0746> \{Mãe}"Ei, Misuzu. Quer que eu adivinhe no que você está pensando agora?"
+// \{母}「な、観鈴.あんたの考えてること当てたろか」
+<0747> \{Misuzu}"Ok."
+// \{みすず}「うん」
+<0748> \{Mãe}"Você quer beber suco de frutas."
+// \{母}「ジュース飲みたいなー」
+<0749> \{Misuzu}"Você está certa. Incrível."
+// \{みすず}「当たり.すごいね」
+<0750> \{Mãe}"Qualquer um teria adivinhado certo."
+// \{母}「誰かて当てられるわ」
+<0751> \{Mãe}"Não tem jeito. Eu que pago."
+// \{母}「しゃあないなあ.うちのおごりや」
+<0752> *Clack!*
+// かちゃり.
+<0753> \{Mãe}"Esse de novo? O Suco de Fruta Grudento..."
+// \{母}「またこれかー？ どろりなんとか言う…」
+<0754> \{Misuzu}"Sim."
+// \{みすず}「うん」
+<0755> *Beep... gashank!*
+// ぴっ…がちゃんっ.
+<0756> \{Mãe}"O que eu devo escolher?"
+// \{母}「うちはなんにしよーっと」
+<0757> \{Misuzu}"Vamos ver..."
+// \{みすず}「えっとねー」
+<0758> \{Mãe}"Não quero o que você está bebendo."
+// \{母}「あんたと同じはもう嫌やで」
+<0759> \{Misuzu}"Eu recomendo o Suco de Fruta Gelatinosa.\nÉ muito bom."
+// \{みすず}「ゲルルンジュースってのがお薦め.すごくおいしい」
+<0760> \{Mãe}"Você tem certeza disso?"
+// \{母}「ほんまかいな…」
+<0761> \{Mãe}"Ah bem, não me importa desde que não seja grudento."
+// \{母}「ま、どろりしてへんかったらなんでもええわ」
+<0762> *Beep... gashank!*
+// ぴっ…がちゃんっ.
+<0763> \{Mãe}"Que diabos é isso? É tão pesado!"
+// \{母}「なんやこれっ! ごっつ重(おも)っ!」
+<0764> \{Misuzu}"Você pode se acostumar com o gosto se tentar."
+// \{みすず}「がんばれば、おいしい」
+<0765> \{Mãe}"O quê... Eu tenho que me acostumar com o gosto?!"
+// \{母}「なんやそれっ…ジュース飲むのに頑張るてどんな意味やっ!」
+<0766> \{Mãe}"Você quer dizer que vai ter um gosto nojento se eu não me esforçar?!"
+// \{母}「頑張れへんかったら不味いんかっ!？」
+<0767> \{Mãe}"Você é cheia de enigmas."
+// \{母}「わけわからへんっ、謎すぎるでっ」
+<0768> \{Misuzu}"Mamãe, avante!"
+// \{みすず}「おかあさん、ふぁいとっ」
+<0769> \{Mãe}"Me incentivando, hein... Eu vou tentar."
+// \{母}「応援されてるっ…なんやわからんけど、飲んでみよっ」
+<0770> *Dip... gulp...*
+// ぷすっ…ちゅーー…
+<0771> *Gulp-----*
+// ちゅーーーーー…
+<0772> *Gulp-----------*
+// ちゅーーーーーーーーーーーーーー…!!
+<0773> \{Mãe}*Huff... huff...*
+// \{母}「ぜー…はー…」
+<0774> \{Mãe}"Eu não quero mais esse suco de fruta!"
+// \{母}「こんなジュース、いるかーいっ!」
+<0775> \{Misuzu}"Ei, não jogue fora."
+// \{みすず}「わ、捨てたらダメ」
+<0776> \{Misuzu}"Você tem que apertar o pacote enquanto bebe."
+// \{みすず}「これはね、ぎゅっぎゅってして飲むの」
+<0777> \{Mãe}"Apertar?"
+// \{母}「ぎゅっぎゅっ？」
+<0778> \{Misuzu}"Apertar."
+// \{みすず}「ぎゅっぎゅっ」
+<0779> \{Mãe}"Apertar."
+// \{母}「ぎゅっぎゅっ」
+<0780> \{Mãe}"Saiu uma coisa gelatinosa!"
+// \{母}「ゲルっぽいん出てきたっ!」
+<0781> \{Misuzu}"Sim. Estou chocada."
+// \{みすず}「うん、びっくり」
+<0782> \{Mãe}"Não fique chocada com um suco de fruta comum!"
+// \{母}「ジュースでびっくりしたないわっ」
+<0783> \{Misuzu}"E é delicioso, também."
+// \{みすず}「しかも、おいしい」
+<0784> \{Mãe}"Bem, isso não tem um gosto tão ruim..."
+// \{母}「まぁ、まずかあらへんけど…」
+<0785> \{Mãe}"Mas estou com sede agora."
+// \{母}「うち、のど乾いてたんやけどなぁ」
+<0786> \{Misuzu}"Quer o meu?"
+// \{みすず}「わたしの飲む？」
+<0787> \{Mãe}"Isso é como colocar concreto sobre argila..."
+// \{母}「それ粘土の上にコンクリート流しこむようなもんやろ…」
+<0788> \{Mãe}"Haa..."
+// \{母}「はぁ…」
+<0789> \{Mãe}"Eles deviam realmente pensar em trancar essa máquina de vendas no verão."
+// \{母}「ほんま…夏は閉鎖しとかんとあかんのちゃうの、あの自販機」
+<0790> \{Mãe}"Eu tenho pena das crianças que compram dessa máquina por engano."
+// \{母}「間違えて買うた子、かわいそうやで…」
+<0791> \{Misuzu}"Seria uma nova descoberta. Eu ficaria feliz."
+// \{みすず}「新発見.うれしい」
+<0792> \{Mãe}"Só para você."
+// \{母}「そら、あんただけや…」
+<0793> \{Mãe}"Bem, não me importo se você se divertiu."
+// \{母}「でも、楽しいからええか…」
+<0794> \{Misuzu}"Sim, eu me diverti."
+// \{みすず}「うん.楽しい」
+<0795> As duas olharam na direção do vento.
+// ふたりは、風の吹く方向を見る.
+<0796> \{Misuzu}"É férias de verão..."
+// \{みすず}「夏休み…だね」
+<0797> \{Mãe}"Sim, é férias de verão."
+// \{母}「せやな.夏休みや」
+<0798> \{Mãe}"Onde será que todo mundo foi? Eles foram para as montanhas ou para a praia?"
+// \{母}「みんなどこ行ってるんやろなー.山とか海とか行ってるんかなー」
+<0799> \{Mãe}"Parece que a cidade inteira está de férias.\nSó consigo ouvir as cigarras."
+// \{母}「まるで町ごと休みに入ったみたいや.セミの声しかせぇへん」
+<0800> \{Mãe}"A cidade fica tão quieta durante as férias de verão?"
+// \{母}「こんなに静かなもんやったんやなぁ…夏休みの町ってのは」
+<0801> \{Misuzu}"Sim..."
+// \{みすず}「うん…」
+<0802> Por um tempo, elas se deixaram levar pelo vento.
+// しばらく風を受け続ける.
+<0803> A garota havia fechado os olhos.
+// いつのまにか彼女の瞳が閉じていた.
+<0804> Ela tinha uma expressão serena no rosto.
+// 安らかな顔だった.
+<0805> Ela parecia quase ter alcançado o que se propôs a fazer.
+// それはすべてをやり終えた後のような.
+<0806> \{Mãe}"Este é um verão só nosso..."
+// \{母}「ふたりきりの夏休みやな…」
+<0807> \{Mãe}"Mas eu gosto disso. Podemos brincar juntas."
+// \{母}「でも、ええもんな.ふたりで遊ぶもんな」
+<0808> \{Mãe}"O verão está apenas na metade."
+// \{母}「まだ夏休みのまっただ中や」
+<0809> \{Mãe}"Vamos brincar?"
+// \{母}「うちらも遊ぼな」
+<0810> A voz da mãe era o único som... Uma doce canção de ninar.
+// 子守歌のように、母親の声だけが心地よく聞こえてくる.
+<0811> A garota estava cochilando.
+// うとうとと、たゆたう.
+<0812> Então eu entendi.
+// その中で僕は感じていた.
+<0813> Nós éramos uma família.
+// 僕たちは家族であるということ.
+<0814> Quando eu estava com elas, eu podia encontrar paz.
+// この中にいれば、ずっと安心できるのだということ.
+<0815> \{Misuzu}"........."
+// \{みすず}「………」
+<0816> A garota abriu os olhos mais uma vez.
+// 再び彼女の瞳が開かれていた.
+<0817> \{Misuzu}"Ei, mãe..."
+// \{みすず}「ね、おかあさん…」
+<0818> \{Mãe}"Hmm? O que houve?"
+// \{母}「うん？ どしたん？」
+<0819> \{Misuzu}"Eu gostaria que você fosse até lá."
+// \{みすず}「ちょっと先に行っててほしい」
+<0820> \{Mãe}"Hã? Tem algo lá?" 
+// \{母}「ん？ なんでや.なんかあるんか？」
+<0821> \{Misuzu}"Sim."
+// \{みすず}「うん」
+<0822> \{Mãe}"Tudo bem, se você diz."
+// \{母}「そか.あんたがそういうんやったらそうする」
+<0823> \{Misuzu}"Leve Sora com você."
+// \{みすず}「そらも、連れていって」
+<0824> \{Mãe}"Essa coisa azarada, hein..."
+// \{母}「この不吉なんもかいな…」
+<0825> \{Mãe}"Ok. Aqui, suba no meu ombro."
+// \{母}「しゃあないな.ほら、うちの肩に乗りや」
+<0826> *Tap tap...*
+// てこっ.
+<0827> \{Mãe}"Preto! Essa coisa é tão preta!"
+// \{母}「黒っ! ごっつ黒いでこいつっ」
+<0828> \{Misuzu}"Todos os corvos são pretos."
+// \{みすず}「カラスはいつもごっつ黒いの」
+<0829> \{Mãe}"Sim... Eu deveria parar de me surpreender."
+// \{母}「せやな…もういちいち驚くんもアホらしなってきた…」
+<0830> \{Mãe}"Estou indo agora."
+// \{母}「ほな、いってくるで」
+<0831> \{Mãe}"Não me deixe ser essa mulher azarada por muito tempo."
+// \{母}「あんまり長い時間、不吉なお姉さんにしておかんといてや」
+<0832> \{Misuzu}"Ok."
+// \{みすず}「うん」
+<0833> *Pit pat pit pat...*
+// とことこ…
+<0834> \{Mãe}"Está longe o suficiente?" 
+// \{母}「ここぐらいでええのん～？」
+<0835> \{Misuzu}"Quão longe é isso?"
+// \{みすず}「どれぐらいある？」
+<0836> \{Mãe}"Hmm. Cerca de dez metros."
+// \{母}「せやなぁ.十メートルぐらいや」
+<0837> \{Misuzu}"Ok, espere aí."
+// \{みすず}「うん、そこで待ってて」
+<0838> \{Mãe}"O que? O que vai acontecer?"
+// \{母}「なんや？ なにが始まるんやぁ？」
+<0839> \{Mãe}"Uma bacia vai cair na minha cabeça agora?" 
+// \{母}「上からタライでも降ってくんのかいな」
+<0840> \{Mãe}"Eu não quero uma piada sem graça dessas."
+// \{母}「そんなオチ嫌やで～」
+<0841> \{Misuzu}"Não..."
+// \{みすず}「ううん、えとね…」
+<0842> \{Misuzu}"Eu vou terminar isso."
+// \{みすず}「わたしががんばるの」
+<0843> \{Mãe}"O que?"
+// \{母}「はい～？」
+<0844> \{Misuzu}"Ufa..."
+// \{みすず}「よい…しょっ」
+<0845> A garota se levantou sobre os pés.
+// 彼女が二本足で立った.
+<0846> \{Mãe}"Ei... Você não consegue andar ainda. Estou indo até você."
+// \{母}「わ…無理すんなやっ.今うちが行ったるっ」
+<0847> \{Misuzu}"Não, eu posso fazer isso sozinha."
+// \{みすず}「ううん、ひとりでがんばるの」
+<0848> \{Misuzu}"Vou tentar ao máximo andar até você."
+// \{みすず}「がんばって、そこまで歩いてみる」
+<0849> \{Mãe}"Entendi..."
+// \{母}「そか…」
+<0850> \{Misuzu}"Apenas me assista, mãe."
+// \{みすず}「だから、おかあさんは見てて」
+<0851> \{Misuzu}"Você não deve vir até mim, não importa o que aconteça."
+// \{みすず}「何があっても、来たらダメだよ」
+<0852> \{Mãe}"Mas se você cair, eu vou te ajudar. Tudo bem?"
+// \{母}「何があってもって…あんたが転けたりしたら、うち助けにいくで？ ええやろ？」
+<0853> \{Misuzu}"Não."
+// \{みすず}「ダメ」
+<0854> \{Misuzu}"Você tem que ficar aí parada. Você é a minha linha de chegada."
+// \{みすず}「おかあさんは、そこに立ってるの.ゴールだから」
+<0855> \{Mãe}"Entendi. Eu sou sua linha de chegada..."
+// \{母}「そか.うち、ゴールか…」
+<0856> \{Misuzu}"Sim. Sora e você são a minha linha de chegada."
+// \{みすず}「うん.そらと一緒にゴール」
+<0857> \{Mãe}"Tudo bem. Eu vou esperar aqui."
+// \{母}「はぁ…しゃあないな.わかった待ったる」
+<0858> \{Mãe}"Eu sou sua linha de chegada."
+// \{母}「うちが、ゴールや」
+<0859> \{Misuzu}"Sim."
+// \{みすず}「うん」
+<0860> *Pit...*
+// とて…
+<0861> \{Mãe}"Vá com calma. Eu posso esperar para sempre."
+// \{母}「ゆっくりでええで.なんぼでも待ったる」
+<0862> \{Misuzu}"Certo..."
+// \{みすず}「うん…」
+<0863> *Pit pat...*
+// とて…とて…
+<0864> \{Mãe}"Oh, você está andando."
+// \{母}「歩けてるな」
+<0865> \{Misuzu}"Sim, estou andando."
+// \{みすず}「うん、歩いてる」
+<0866> \{Mãe}"Você está bem?"
+// \{母}「大丈夫か？」
+<0867> \{Misuzu}"Sim, estou bem."
+// \{みすず}「うん、だいじょうぶ」
+<0868> \{Misuzu}"V."
+// \{みすず}「ぶいっ」
+<0869> \{Mãe}"V."
+// \{母}「ぶいっ」
+<0870> *Pit pat pit pat...*
+// とてとて…
+<0871> \{Mãe}"Aqui, Misuzu. Estou aqui."
+// \{母}「ここやっ…観鈴、うち、ここや」
+<0872> *Pat pat...*
+// ぱんぱん.
+<0873> \{Misuzu}"Estou indo em direção ao som das palmas..."
+// \{みすず}「手のなるほうまで…」
+<0874> \{Mãe}"Sim, venha até as palmas da mamãe..."
+// \{母}「そや.手の鳴るほうまで」
+<0875> *Pat pat...*
+// ぱんぱん.
+<0876> *Pit pat...*
+// とて…
+<0877> *Pit pat...*
+// とてとて…
+<0878> \{Mãe}"Você está indo muito bem."
+// \{母}「ええ調子や…」
+<0879> *Pit pat pit pat...*
+// とて…とて…
+<0880> \{Mãe}"Isso mesmo."
+// \{母}「そうや」
+<0881> \{Mãe}"Ande devagar..."
+// \{母}「ゆっくりでええ…」
+<0882> \{Mãe}"Desde que você melhore, não me importo com mais nada."
+// \{母}「後はあんたさえ元気になればええだけや」
+<0883> \{Mãe}"Tenho certeza de que você vai conseguir."
+// \{母}「きっと元気になれる」
+<0884> \{Mãe}"Se você está tão determinada, com certeza você vai melhorar."
+// \{母}「こうして頑張っていけば、絶対元気になれる」
+<0885> \{Mãe}"Vamos juntas."
+// \{母}「一緒に頑張っていこ」
+<0886> \{Mãe}"Misuzu, venha para cá."
+// \{母}「観鈴っ、こっちや、ここまでや」
+<0887> *Pat pat...*
+// ぱんぱん.
+<0888> *Pit pat...*
+// とてとて…
+<0889> \{Mãe}"Sim, é isso aí!"
+// \{母}「そうや、その調子や…」
+<0890> *Pit pat pit pat...*
+// …とて.
+<0891> \{Misuzu}"........."
+// \{みすず}「………」
+<0892> \{Misuzu}"Nihaha. V!"
+// \{みすず}「にはは、ぶいっ」
+<0893> \{Mãe}"V!"
+// \{母}「ぶいっ」
+<0894> \{Mãe}"Ei, chega disso. Venha para cá."
+// \{母}「って、んなことしとらんで、はよ、こっちきぃ」
+<0895> \{Misuzu}"........."
+// \{みすず}「………」
+<0896> \{Mãe}"O que há de errado, Misuzu?"
+// \{母}「どないしたん、観鈴」
+<0897> \{Mãe}"Falta só um pouquinho. Três passos a mais. Estou bem aqui."
+// \{母}「もうちょっとや.後、三歩でこれる.目の前やで」
+<0898> \{Mãe}"Sua mãe está bem na sua frente."
+// \{母}「お母さんは、あんたのすぐ目の前や」
+<0899> *Pat pat...*
+// ぱんぱん.
+<0900> \{Mãe}"Vamos lá, estou aqui."
+// \{母}「ほら、ここやで」
+<0901> \{Misuzu}"V!"
+// \{みすず}「ぶいっ」
+<0902> \{Mãe}"V!"
+// \{母}「ぶいっ」
+<0903> \{Mãe}"Ei, pare de fazer essa pose e venha aqui.\nSó mais um pouco."
+// \{母}「って、せやから、もうアホなポーズとっとらんで、はよきぃや.後、少しや」
+<0904> \{Misuzu}"Hm... posso descansar agora?"
+// \{みすず}「もう、いいよね」
+<0905> \{Mãe}"Hã? O que você quer dizer?"
+// \{母}「ん？ なにがや？」
+<0906> \{Misuzu}"Eu fiz tudo o que pude, certo?"
+// \{みすず}「わたし、がんばったよね」
+<0907> \{Mãe}"Do que você está falando? Você ainda não chegou até mim. Não desista."
+// \{母}「なに、言うてるんや？ ここまでまだあるで.手、抜いたらあかんで」
+<0908> \{Mãe}"Você consegue, Misuzu. Tente mais. Você pode chegar até mim."
+// \{母}「観鈴やったら、できる.もっと頑張れる.ここまでこれる」
+<0909> *Pat pat...*
+// ぱんぱん.
+<0910> \{Misuzu}"Eu consigo alcançar a linha de chegada..."
+// \{みすず}「…もうゴール、していいよね」
+<0911> \{Misuzu}"Mais três passos."
+// \{みすず}「後、三歩」
+<0912> \{Misuzu}"Posso descansar quando chegar aí?"
+// \{みすず}「そこまで辿り着いたら、もうゴールしていいよね」
+<0913> \{Mãe}"Você está cansada, né?"
+// \{母}「そか、もう疲れたか」
+<0914> \{Mãe}"Certo. Vamos para casa e jogar cartas depois que você alcançar a linha de chegada."
+// \{母}「よし、ゴールしたら、家に帰ってトランプでもして遊ぼか」
+<0915> \{Misuzu}"Não..."
+// \{みすず}「ううん…」
+<0916> \{Misuzu}"Quando eu chegar aí..."
+// \{みすず}「わたしのゴール」
+<0917> \{Misuzu}"Na linha de chegada que sempre busquei..."
+// \{みすず}「ずっと目指してきたゴール」
+<0918> \{Mãe}"Hã?"
+// \{母}「…は？」
+<0919> \{Mãe}"O que você está dizendo? Eu não entendo."
+// \{母}「わからへん.観鈴がなんのこと言うてるか、うち、わからへん」
+<0920> \{Misuzu}"Eu me esforcei... Isso já é o suficiente, certo?"
+// \{みすず}「わたし、がんばったから、もういいよね」
+<0921> \{Misuzu}"Eu posso... descansar?"
+// \{みすず}「休んでも…いいよね」
+<0922> \{Misuzu}"Niha..."
+// \{みすず}「には…」
+<0923> \{Misuzu}"Ha..."
+// \{みすず}「は…」
+<0924> O sorriso da garota desapareceu.
+// 彼女の笑みが消えてゆく.
+<0925> \{Mãe}"Hã..."
+// \{母}「え…」
+<0926> \{Mãe}"Ei, não me diga..."
+// \{母}「あんた…まさか…」
+<0927> \{Mãe}"Você está sentindo dor?"
+// \{母}「痛いんか？」
+<0928> \{Mãe}"Você realmente está machucada?"
+// \{母}「ほんまは…痛かったんか…？」
+<0929> \{Misuzu}"........."
+// \{みすず}「………」
+<0930> \{Mãe}"Isso não pode ser verdade..."
+// \{母}「嘘や…」
+<0931> \{Mãe}"Diga que é uma piada."
+// \{母}「嘘や、言うてや…」
+<0932> \{Mãe}"Você vai melhorar, não vai?"
+// \{母}「これからはあんた…元気になっていくんやろ？」
+<0933> \{Mãe}"O pesadelo acabou, certo?"
+// \{母}「悪い夢は終わったはずやろ…？」
+<0934> \{Mãe}"Certo?"
+// \{母}「せやろ…？」
+<0935> \{Mãe}"Ei, Misuzu..."
+// \{母}「な、観鈴…」
+<0936> \{Mãe}"Diga que não é verdade..."
+// \{母}「嘘や言うてや、観鈴…」
+<0937> \{Misuzu}"Desculpe, mãe..."
+// \{みすず}「ごめんね、おかあさん…」
+<0938> \{Misuzu}"Mas eu finalmente consegui acabar com tudo."
+// \{みすず}「でもわたしは、ぜんぶやり終えることできたから…」
+<0939> \{Misuzu}"Então eu vou alcançar minha linha de chegada agora."
+// \{みすず}「だから、ゴールするね…」
+<0940> \{Mãe}"Não..."
+// \{母}「あかん…」
+<0941> \{Mãe}"Você ainda vai continuar, Misuzu."
+// \{母}「まだ…頑張るんや、観鈴は」
+<0942> \{Mãe}"Você ainda tem coisas a fazer."
+// \{母}「これから、まだまだ頑張るんや…」
+<0943> \{Mãe}"Sua linha de chegada ainda está muito longe."
+// \{母}「ゴール、まだまだ先や…」
+<0944> \{Mãe}"Ainda está longe. Esta não é sua linha de chegada."
+// \{母}「ずっと先にあって、こんなところにはあらへん…」
+<0945> \{Mãe}"Não deveria ser assim..."
+// \{母}「あらへんはずや…」
+<0946> \{Misuzu}"Vou alcançar meu objetivo agora."
+// \{みすず}「ゴール…するね」
+<0947> \{Mãe}"Pare..."
+// \{母}「あかん…」
+<0948> \{Mãe}"Misuzu, não venha aqui."
+// \{母}「観鈴、きたらあかん…」
+<0949> \{Mãe}"Você não deve alcançar seu objetivo."
+// \{母}「ゴールしたらあかん…」
+<0950> \{Mãe}"Tudo está apenas começando."
+// \{母}「始まったばかりやんか…」
+<0951> \{Mãe}"Você acabou de passar pela linha de partida ontem..."
+// \{母}「昨日、やっとスタートきれたんやないか…」
+<0952> \{Mãe}"É a linha de partida que você não conseguiu passar antes."
+// \{母}「ずっときれへんかったスタートやっ…」
+<0953> \{Mãe}"Vamos recuperar nosso tempo perdido."
+// \{母}「これから取り戻してゆくんや…」
+<0954> \{Mãe}"Nossa vida feliz que deveria ter começado há dez anos..."
+// \{母}「十年前、始まってたはずの幸せな暮らし…」
+<0955> \{Mãe}"Vamos recuperar tudo isso."
+// \{母}「これから、観鈴と取り戻してゆくんや…」
+<0956> \{Mãe}"Vamos brincar, rir e reviver aqueles momentos."
+// \{母}「遊んで、笑って、取り戻してゆくんや…」
+<0957> \{Mãe}"Então..."
+// \{母}「せやのに…」
+<0958> \{Mãe}"Por que você quer que tudo acabe agora?"
+// \{母}「せやのに、なんでもうゴールなんや…」
+<0959> \{Mãe}"Ainda há tanta coisa..."
+// \{母}「まだまだある…」
+<0960> \{Mãe}"Tantas coisas esperando por você..."
+// \{母}「まだこれからやんか…」
+<0961> \{Mãe}"Sua nova vida só está começando."
+// \{母}「なにもかも、始まったばかりやんか…」
+<0962> \{Mãe}"Nossa felicidade só está começando."
+// \{母}「うちらの幸せは始まったばかりやんか…」
+<0963> \{Misuzu}"Não..."
+// \{みすず}「ううん…」
+<0964> \{Misuzu}"Fizemos tudo."
+// \{みすず}「ぜんぶ、した」
+<0965> \{Misuzu}"Concluímos tudo."
+// \{みすず}「なにもかも、やりとげた」
+<0966> \{Misuzu}"Estou satisfeita..."
+// \{みすず}「もうじゅうぶんなぐらい…」
+<0967> \{Misuzu}"Neste verão, vivi uma vida inteira de felicidade."
+// \{みすず}「この夏に一生ぶんの楽しさがつまってた」
+<0968> \{Misuzu}"Eu realmente me diverti."
+// \{みすず}「すごく楽しかった」
+<0969> \{Mãe}"Não, você está errada."
+// \{母}「あかん、ちがう…」
+<0970> \{Mãe}"Ainda há muitas coisas para fazer..."
+// \{母}「まだまだや…これからや…」
+<0971> \{Mãe}"Não fizemos nada ainda."
+// \{母}「うちら、なんもしてへん」
+<0972> \{Mãe}"Não fizemos nada desde que nos tornamos uma família."
+// \{母}「家族になって、なにひとつしてへん…」
+<0973> \{Mãe}"Ainda tenho muitas coisas que quero fazer."
+// \{母}「うち、たくさんしたいことあるんや…」
+<0974> \{Mãe}"Coisas que quero fazer junto com você, Misuzu."
+// \{母}「大好きな観鈴と、たくさんしたいことあるんや…」
+<0975> \{Mãe}"Tudo está apenas começando..."
+// \{母}「全部これからなんや…」
+<0976> \{Misuzu}"Mamãe, fizemos muitas coisas dignas de lembrança."
+// \{みすず}「おかあさんと、たくさん思い出つくった」
+<0977> \{Misuzu}"Tomamos banho juntas e você me deu um beijo."
+// \{みすず}「いっしょにお風呂はいったり、ちゅーしたりした」
+<0978> \{Mãe}"Não... eu ainda vou te beijar muito."
+// \{母}「そんなん…これからも、いっぱいしたる」
+<0979> \{Misuzu}"Fomos juntas ao festival de verão."
+// \{みすず}「夏まつりもいっしょに出た」
+<0980> \{Misuzu}"Nós também pegamos esse dinossauro."
+// \{みすず}「この恐竜さんも、つかまえた」
+<0981> \{Misuzu}"Eu encontrei meu tesouro."
+// \{みすず}「宝物できた」
+<0982> \{Mãe}"Ainda há o próximo ano, e o ano seguinte..."
+// \{母}「まだ来年もあるし、再来年もある…」
+<0983> \{Misuzu}"Decidi tentar mais uma vez nestas férias de verão."
+// \{みすず}「もう一度だけがんばろうって決めた、この夏やすみ…」
+<0984> \{Misuzu}"Minhas férias de verão começaram no dia em que encontrei o Yukito-san..."
+// \{みすず}「Yukitoさんを見つけたあの日からはじまった、夏やすみ…」
+<0985> \{Misuzu}"Muitas coisas aconteceram..."
+// \{みすず}「いろいろなことあったけど…」
+<0986> \{Misuzu}"Mas estou feliz por não ter desistido."
+// \{みすず}「わたし…がんばって、よかった」
+<0987> \{Misuzu}"Foi bem difícil em alguns momentos..."
+// \{みすず}「つらかったり、苦しかったりしたけど…」
+<0988> \{Misuzu}"Mas estou feliz por ter continuado."
+// \{みすず}「でも…がんばって、よかった」
+<0989> \{Misuzu}"Porque minha felicidade está na linha de chegada..."
+// \{みすず}「ゴールは…幸せといっしょだったから」
+<0990> \{Misuzu}"Minha linha de chegada e minha felicidade são uma só..."
+// \{みすず}「わたしのゴールは幸せといっしょだったから」
+<0991> \{Misuzu}"Eu não estava sozinha..."
+// \{みすず}「ひとりきりじゃなかったから…」
+<0992> \{Mãe}"Isso mesmo. Você não está mais sozinha."
+// \{母}「そうや.観鈴はもうひとりきりやない」
+<0993> \{Mãe}"Estarei sempre com você."
+// \{母}「ずっと、うちと一緒や」
+<0994> \{Mãe}"Então, Misuzu..."
+// \{母}「せやから…観鈴…」
+<0995> \{Misuzu}"E é por isso..."
+// \{みすず}「だから…」
+<0996> \{Misuzu}"É por isso..."
+// \{みすず}「だからね…」
+<0997> \{Misuzu}"Vou passar pela linha de chegada agora."
+// \{みすず}「もうゴールするね…」
+<0998> \{Mãe}"Não, você não pode!"
+// \{母}「あかんっ…」
+<0999> \{Mãe}"Ainda há mais..."
+// \{母}「これからやっ…」
+<1000> \{Mãe}"Eu te disse..."
+// \{母}「これからや言うてるやろっ…」
+<1001> *Pit pat...*
+// とて…
+<1002> \{Mãe}"Não venha, Misuzu!"
+// \{母}「観鈴…きたらあかんっ!」
+<1003> \{Mãe}"Tudo está apenas começando!"
+// \{母}「これからや言うてるやろっ!」
+<1004> *Pit...*
+// …とて…
+<1005> *Pat...*
+// ……とて.
+<1006> \{Misuzu}"Consegui..."
+// \{みすず}「やった…」
+<1007> \{Misuzu}"Finalmente cheguei..."
+// \{みすず}「やっと…たどりついた」
+<1008> \{Misuzu}"...No lugar que estava procurando..."
+// \{みすず}「ずっと探してたばしょ…」
+<1009> \{Misuzu}"Aqui é onde minha felicidade está..."
+// \{みすず}「幸せなばしょ…」
+<1010> \{Misuzu}"Onde minha felicidade está... para sempre..."
+// \{みすず}「ずっと、幸せなばしょ…」
+<1011> \{Mãe}"........."
+// \{母}「………」
+<1012> \{Mãe}"Eu não quero isso..."
+// \{母}「そんなん嫌や…」
+<1013> \{Mãe}"Misuzu..."
+// \{母}「観鈴…」
+<1014> \{Mãe}"Eu não quero isso..."
+// \{母}「うち、そんなん嫌や…」
+<1015> \{Mãe}"Eu não quero issooo!"
+// \{母}「そんなん嫌やーーっ!」
+<1016> \{Mãe}"Não me deixe para trás..."
+// \{母}「置いていかんでやっ…」
+<1017> \{Mãe}"Não me deixe sozinha..."
+// \{母}「うちをひとりにせんでやっ…」
+<1018> \{Mãe}"Você me ensinou tantas coisas..."
+// \{母}「あんたに何もかも教えてもらったんやないかっ」
+<1019> \{Mãe}"Você me ensinou a viver com outra pessoa..."
+// \{母}「ひとりきりやない、生き方…」
+<1020> \{Mãe}"Eu sou estúpida e inútil, mas você ainda me ensinou..."
+// \{母}「あほで甲斐性なしやったうちに教えてくれたやんか…」
+<1021> \{Mãe}"Achei que beber era minha única felicidade, mas você me mudou."
+// \{母}「酒飲むことだけが幸せやったうちに教えてくれたやないかっ…」
+<1022> \{Mãe}"Você me ensinou como viver em uma família."
+// \{母}「家族と一緒に生きるいうことや…」
+<1023> \{Mãe}"E eu me tornei forte porque encontrei algo para proteger..."
+// \{母}「その中でうちは守るものができて、強くなれて…」
+<1024> \{Mãe}"E finalmente provei a felicidade..."
+// \{母}「そして、幸せをつかんだんや…」
+<1025> \{Mãe}"Fazer você feliz... Essa é a minha felicidade..."
+// \{母}「あんたを幸せにすることが、うちの幸せやったんや…」
+<1026> \{Mãe}"Enquanto eu estiver com você, sou feliz."
+// \{母}「あんたと一緒にいられたら、幸せなんやっ」
+<1027> \{Mãe}"Vamos viver felizes juntas a partir de agora, tá bom?"
+// \{母}「な、ずっとふたりで幸せに生きてこ…」
+<1028> \{Mãe}"Por muitos anos ainda..."
+// \{母}「これから先ずっと…」
+<1029> \{Mãe}"Só nós duas..."
+// \{母}「うちらふたりで…」
+<1030> \{Mãe}"Não preciso de mais nada..."
+// \{母}「ほかにはなんもいらんから…」
+<1031> \{Mãe}"Nem amigos eu preciso..."
+// \{母}「友達もいらん…」
+<1032> \{Mãe}"Não preciso de roupas novas. Não me importo com luxos."
+// \{母}「新しい服もいらんし、贅沢もできんでええ…」
+<1033> \{Mãe}"Só quero estar com você..."
+// \{母}「ただ、あんたといれたらそれでええんや…」
+<1034> \{Mãe}"Vamos viver juntas..."
+// \{母}「ずっとふたりで暮らしてこ…」
+<1035> \{Mãe}"Vamos à praia de novo..."
+// \{母}「また海を見にいこ…」
+<1036> \{Mãe}"Vou comprar seu suco de fruta favorito e vamos caminhar até lá..."
+// \{母}「あんたが好きなヘンなジュース飲んで歩こうや…」
+<1037> \{Mãe}"Vamos brincar até ficarmos exaustas."
+// \{母}「飽きるぐらい遊ぼ」
+<1038> \{Mãe}"Continue vivendo comigo na residência Kamio."
+// \{母}「ずっと、神尾の家で、ふたりで仲良ぉ暮らそ…」
+<1039> \{Mãe}"Certo?"
+// \{母}「な…」
+<1040> \{Mãe}"Diga que você não vai embora..."
+// \{母}「だから、いかんといてやっ…」
+<1041> \{Mãe}"Diga que você não vai me deixar para trás..."
+// \{母}「うち、おいていかんといてやっ…」
+<1042> \{Mãe}"Diga que você não vai me abandonar..."
+// \{母}「ひとりにせんといてやっ…」
+<1043> \{Mãe}"Diga que você não vai me deixar sozinha!"
+// \{母}「うちをひとりにせんといてやっ…」
+<1044> \{Mãe}"Certo, Misuzu?"
+// \{母}「な、観鈴…」
+<1045> \{Mãe}"Misuzu..."
+// \{母}「観鈴っ…」
+<1046> \{Mãe}"Misuzu... Misuzu..."
+// \{母}「観鈴…観鈴っ…」
+<1047> \{Mãe}"Misuzu..."
+// \{母}「観鈴…」
+<1048> \{Mãe}"Misuzu!"
+// \{母}「観鈴ーっ…!」

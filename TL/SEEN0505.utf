@@ -1,0 +1,549 @@
+﻿// Resources for SEEN0505.TXT
+
+#character 'Voz'
+// '声'
+#character 'Shiraho'
+// '白穂'
+#character 'Sacerdote'
+// '宮司'
+#character 'Kano'
+// '佳乃'
+#character 'Mãe'
+// '母'
+
+<0000> Um vento...
+// 風.
+<0001> Um vento soprando.
+// 風が吹いてくる.
+<0002> Um mar dourado...
+// 金色の海.
+<0003> Velhas lembranças despertando.
+// 呼び覚ます記憶.
+<0004> A pena tava contando uma história.
+// 羽根は伝える.
+<0005> Era a voz suave de uma mulher.
+// やわらかな、女性の声音.
+<0006> \{Voz}"Meu nome é Shiraho."
+// \{声}「わたくしは、名を白穂(しらほ)と申します」
+<0007> \{Voz}"Por favor, ouça minha história..."
+// \{声}「どうか、わたくしの話をお聞きください…」
+<0008> Ainda me lembro daquele lindo outono como se fosse ontem.
+// その年の秋は、それは美しかったのを覚えています.
+<0009> Depois de terminar nosso trabalho, fomos para o campo de capim-dos-pampas, como fazíamos todos os dias.
+// 野良仕事がおわると、わたしたちはきまって芒原(すすきのはら)に出ました.
+<0010> As espigas ondulantes do capim-dos-pampas pareciam um mar dourado ao sol.
+// 夕陽に芒の穂がゆらめき、金色の海のようでした.
+<0011> Meu marido estava segurando Yakumo em seus braços.
+// 夫は腕に、八雲(やくも)を抱いていました.
+<0012> Ele foi o primeiro filho que tivemos a bênção de ter.
+// わたしたち夫婦が、はじめて授かった子でした.
+<0013> Yakumo nasceu com uma marca de nascença feia no pulso direito.
+// 八雲には生まれつき、右の手首に醜い痣(あざ)がありました.
+<0014> Os aldeões disseram que era um sinal de mau presságio.
+// 村人たちは不吉だと言いました.
+<0015> Diziam que nosso filho não viveria muito.
+// この子は長くは生きられないだろうと言いました.
+<0016> Mas não demos atenção para eles.
+// わたしたちは、気にも留めませんでした.
+<0017> Eu gentilmente peguei um Yakumo irritado dos braços do meu marido.
+// むずかる八雲を、夫からそっと預かります.
+<0018> Então cantei para ele uma canção de ninar que minha mãe me ensinou há muito tempo.
+// 母から聞いた子守歌を、わたしは唄ってきかせます.
+<0019> E Yakumo parou de chorar.
+// そうすると、八雲は泣きやむのです.
+<0020> Porém, algo diferente aconteceu hoje.
+// なのに、この日はちがいました.
+<0021> Yakumo estava tentando alcançar algo.
+// 八雲はさかんに手をのばし、何かをつかもうとするのです.
+<0022> Era uma pena.
+// 羽根でした.
+<0023> Uma pena branca desceu flutuando do céu no pôr do sol.
+// 真っ白な羽根が、夕焼けの中をゆらりと落ちてきました.
+<0024> Peguei a pena e dei para Yakumo.
+// わたしは羽根をつかまえ、八雲に手渡してあげました.
+<0025> E foi aí que aconteceu.
+// その時でした.
+<0026> A pena brilhou.
+// 羽根が輝きました.
+<0027> Yakumo riu.
+// 八雲は笑いました.
+<0028> Meu marido também riu.
+// 夫も笑いました.
+<0029> Eu ri junto com eles.
+// わたしも笑いました.
+<0030> Esta pena só podia ser um presente de Deus.
+// きっとこの羽根は、神さまがくださったお守りなのでしょう.
+<0031> E então fiz um pedido à pena.
+// わたしは羽根に願いました.
+<0032> Que meu filho cresça forte e saudável.
+// この子がすこやかに、やさしく育ってくれるようにと.
+<0033> Eu não tinha outros desejos.
+// ほかには願いなど、ありませんでした.
+<0034> Eu estava feliz.
+// わたしは幸せでした.
+<0035> Meu marido e meu filho estavam ao meu lado.
+// 夫と子供がそばにいてくれる.
+<0036> Eu não precisava de mais nada além disso.
+// それだけで幸せでした.
+<0037> Naquele outono...
+// その秋.
+<0038> Uma guerra começou.
+// 戦(いくさ)が、はじまりました.
+<0039> Um país estrangeiro reuniu uma frota de navios e atacou nosso porto.
+// 異国の軍勢が船をつらね、湊(みなと)に攻め入りました.,
+<0040> Diziam que havia mil navios de guerra transportando dezenas de milhares de soldados.
+// 敵は軍船(いくさぶね)千艘、数万という大軍でした.
+<0041> Nosso lado tinha apenas alguns milhares de soldados a cavalo.
+// わが方の騎馬武者は、数千ほどだったと聞いております.
+<0042> A guerra foi perdida antes mesmo de ser travada.
+// 戦にさえ、なりませんでした.
+<0043> Ouvimos o som de um trovão estrondoso vindo da praia.
+// 浜辺の方で、雷(いかづち)のような音がとどろきます.
+<0044> A cada estrondo, cavalos relinchavam e soldados morriam sem qualquer chance de revidar.
+// そのたびに馬がいななき、武者たちはなす術もなく討ち死にしていきました.
+<0045> Eles não conseguiram sequer atirar uma única flecha no inimigo.
+// 戦おうにも、矢の一本さえ射かけられないありさまでした.
+<0046> Todos os homens da nossa aldeia foram expulsos.
+// 村の男たちは、ひとり残らず駆り出されていきました.
+<0047> Meu marido também foi.
+// わたしの夫も、連れていかれました.
+<0048> "Eu voltarei, com certeza."
+// 「必ず戻ってくるから」
+<0049> Depois de dizer isso, ele saiu de casa.
+// そう言って、夫は家を出ていきました.
+<0050> Acenei minha manga para ele, me despedindo.
+// ちぎれるぐらいに袖を振って、わたしは夫を見送りました.
+<0051> Yakumo não conseguia entender nada. Ele simplesmente riu.
+// 八雲はなにもわからないのか、ただきゃっきゃとはしゃいでおりました.
+<0052> Depois disso, meu marido não voltou mais.
+// それきり、夫は戻ってきませんでした.
+<0053> Ouvi sobre as coisas cruéis que os soldados inimigos fizeram.
+// 敵の兵たちは、それは酷い仕打ちをしたと聞いております.
+<0054> Qualquer um que se opusesse a eles era morto.
+// 刃向かった者はすべて、みな殺しにされたと聞いております.
+<0055> Até mesmo o santuário de Hachiman-sama, que consagra um deus da guerra, foi incendiado pelo inimigo.
+// 軍神(いくさがみ)をまつる八幡さまさえ、敵の手にかかり、焼け落ちました.
+<0056> Todos já estavam aceitando que esse era o nosso fim.
+// もはやこれまでと、みなが覚悟しておりました.
+<0057> Uma noite...
+// その夜のことです.
+<0058> Soprou um vendaval.
+// 大風(のわけ)が吹きました.
+<0059> Foi uma tempestade estranhamente forte, incomum para aquela estação do ano.
+// その季節にはまれなほどの、それはすさまじい風でした.
+<0060> Ao amanhecer, tudo havia mudado.
+// 夜が明けた時には、なにもかもが変わっていました.
+<0061> Cada um dos mil navios de guerra, que antes abasteciam o porto, estavam afundados no mar.
+// 湊を埋めつくしていた異国の軍船は、一艘残らず海に沈みました.
+<0062> A guerra acabou.
+// 戦はおわりました.
+<0063> Um boato correu entre os moradores.
+// 村人たちは口々に言いました.
+<0064> O deus do vento desceu à terra para liberar sua fúria sobre o inimigo.
+// 風の神さまが降り立って、敵を討ち滅ぼしてくれたのだ、と.
+<0065> Mas eu só estava esperando meu marido retornar.
+// わたしはただ、夫の帰りを待ちわびていました.
+<0066> Quando ele voltar, eu consertarei suas roupas.
+// あのひとが帰ってきたら、着物をつくろってあげよう.
+<0067> Vou preparar sua comida favorita para recompensá-lo.
+// あのひとの好物をつくって、ねぎらってあげよう.
+<0068> Certamente meu marido me abraçaria mais uma vez.
+// あのひとはきっと、抱きよせてくれるから.
+<0069> Passei maquiagem em meus lábios e, com uma navalha, aparei alguns fios de meus cabelos...
+// 唇に紅をさして、うなじを剃刀でととのえて…
+<0070> No entanto, eu sabia que meu desejo nunca se realizaria.
+// かなわぬ夢であることは、わかっていました.
+<0071> Mesmo assim, continuei esperando.
+// それでもわたしは、待ち続けました.
+<0072> Um dia, um oficial a cavalo visitou a aldeia.
+// ある日、馬に乗ったお役人が村を訪れました.
+<0073> Ele perguntou se alguém havia encontrado uma pena brilhante.
+// 輝く羽根を拾った者はいないか、そう聞き回りました.
+<0074> Ele alegou que a pena estava amaldiçoada e ordenou que qualquer um que tivesse tocado nela deveria se apresentar.
+// 羽根は穢(けが)れたものであるから、触れた者は名乗り出よ、そう命じました.
+<0075> Neste momento, Yakumo estava brincando com sua pena.
+// 八雲は羽根で遊んでいました.
+<0076> Ele parecia estar se divertindo muito com ela.
+// とても楽しそうに、遊んでいました.
+<0077> Abracei Yakumo e escondi a pena no meu bolso.
+// わたしは八雲を抱き、羽根をふところに隠しました.
+<0078> Naquela noite, fugi da aldeia.
+// そうして夜のうちに村を離れました.
+<0079> Embarquei em um navio cargueiro e deixei o lugar que era minha cidade natal.
+// 荷船を乗りつぎ、住みなれた土地を後にしました.
+<0080> Viajar com um bebê amamentando não foi fácil.
+// 乳飲み子を抱いての旅は、楽ではありませんでした.
+<0081> Durante dias, caminhei por trilhas nas montanhas.
+// 幾日も幾日も、山深い道を歩きました.
+<0082> Certamente encontrarei um lugar disposto a nos aceitar.
+// わたしたちを受け入れてくれる土地が、きっとどこかにある.
+<0083> Continuei minha jornada com essa esperança.
+// そう信じて、旅を続けました.
+<0084> Então cheguei a esta aldeia.
+// そうして、この村にたどりつきました.
+<0085> Era um lugar pacífico.
+// おだやかな村でした.
+<0086> Os aldeões aqui ganhavam a vida com a pesca.
+// 村人たちは、漁をして細々と暮らしを立てていました.
+<0087> Em uma colina nos arredores da vila, havia um antigo santuário.
+// 村はずれの丘の上に、古い社(やしろ)がありました.
+<0088> Buscamos refúgio lá.
+// わたしたちは、そこに身を寄せることになりました.
+<0089> Embora fôssemos estrangeiros, o sacerdote nos tratou com muita gentileza.
+// よそ者のわたしたちに、宮司(ぐうじ)さまはとてもよくしてくれました.
+<0090> Aqui, podemos começar uma nova vida.
+// ここでなら、新しい暮らしをはじめることができる.
+<0091> Yakumo e eu podemos viver felizes.
+// 八雲とふたりで、幸せに暮らすことができる.
+<0092> Era nisso que eu acreditava.
+// わたしはそう思いました.
+<0093> E ainda assim...
+// それなのに…
+<0094> \{Shiraho}"Ele está acordado."
+// \{白穂}「…目を覚ましましたわ」
+<0095> Ouvi uma voz suave.
+// 柔らかな声がした.
+<0096> A vela ao lado da cama estava tremeluzindo.
+// 蝋燭の炎が、枕元で揺れていた.
+<0097> Uma mão quente tocou minha testa.
+// 額にそっと添えられる、温かい指先.
+<0098> \{Shiraho}"Sacerdote, como está meu filho?"
+// \{白穂}「宮司さま、この子の具合は…」
+<0099> Desta vez, senti outra mão me tocar.     
+// 今度は別の指が触れる.
+<0100> Tinha dedos velhos e nodosos.
+// 老いて節くれ立った指.
+<0101> \{Sacerdote}"O pior já passou. A febre dele vai amenizar no devido tempo."
+// \{宮司}「峠は越えたな.じきに熱も下がろう」
+<0102> O homem respondeu.
+// 男の声が答えた.
+<0103> \{Sacerdote}"Mas..."
+// \{宮司}「しかし…」
+<0104> \{Sacerdote}"Os aldeões acham que vocês dois trouxeram uma doença para esta aldeia."
+// \{宮司}「村の者たちは、あなたがた親子が疫病(えきびょう)を持ち込んだと考えておる」
+<0105> \{Shiraho}"Não pode ser..."
+// \{白穂}「そんな…」
+<0106> Alguém estava olhando para mim.
+// 誰かが見下ろしている.
+<0107> Era um rosto triste e preocupado.
+// 心配そうな、悲しそうな顔.
+<0108> Eu queria dizer a ela que estava bem.
+// 元気だと伝えたかった.
+<0109> Mas eu não conseguia mover meu corpo.
+// それなのに、身体を動かすことさえできない.
+<0110> \{Sacerdote}"Foi um erro meu deixar vocês ficarem aqui..."
+// \{宮司}「あなた方をここに招き入れたのは、過ちだった…」
+<0111> O homem continuou.
+// 男の声が続けた.
+<0112> \{Sacerdote}"Este santuário abriga um \g{mikogami}={Entidades que podem ser espíritos de lugares naturais, objetos sagrados ou mesmo ancestrais importantes para a comunidade.}."
+// \{宮司}「この社は巫神(みこがみ)をまつっている」
+<0113> \{Sacerdote}"O mikogami deixa uma marca em todos aqueles que trazem calamidade a esta terra."
+// \{宮司}「巫神は、この土地に災いをなす者に徴(しるし)を与える」
+<0114> \{Sacerdote}"Assim como a marca nesta criança."
+// \{宮司}「ちょうど、この子のように」
+<0115> Aqueles dedos envelhecidos seguraram meu pulso direito.
+// 老いた指が、右の手首を持ちあげた.
+<0116> Um pequeno pulso direito.
+// ちっぽけな手首.
+<0117> Na parte interna daquele pulso, havia uma marca de nascença preta.
+// その内側に、どす黒い染みのような痣(あざ)があった.
+<0118> \{Shiraho}"Esta criança não é portadora de doenças!"
+// \{白穂}「この子は疫神などではありませんっ!」
+<0119> \{Sacerdote}"Eu entendo."
+// \{宮司}「わかっておる」
+<0120> \{Sacerdote}"Mas os moradores não vão acreditar nisso."
+// \{宮司}「しかしながら、村の者たちはそうは思わないだろう」
+<0121> \{Sacerdote}"Se descobrirem a marca de nascença desta criança, eles vão exigir que a entreguemos aos deuses."
+// \{宮司}「この子の痣のことを知れば、『神に差し出せ』と詰め寄るだろう…」
+<0122> \{Shiraho}"Você... Você está dizendo que eles vão sacrificar meu filho para o deus deles?!"
+// \{白穂}「この子を…この子を贄(にえ)にしろというのですか!」
+<0123> \{Sacerdote}"É assim que esta terra tem suprimido calamidades por eras."
+// \{宮司}「この土地では、そうやって災いを鎮めてきたのだ」
+<0124> Um silêncio pesado se seguiu.
+// 重苦しい沈黙.
+<0125> O homem tentou persuadi-la.
+// 男の声が諭すように言った.
+<0126> \{Sacerdote}"Você ainda é jovem."
+// \{宮司}「あなたはまだ若い」
+<0127> \{Sacerdote}"Você ainda é capaz de ter muitos filhos."
+// \{宮司}「この先、子をなす機会など、いくらでもある」
+<0128> \{Shiraho}"Eu já disse."
+// \{白穂}「前にお聞かせしたとおりです」
+<0129> \{Shiraho}"Esta criança é minha vida."
+// \{白穂}「この子は、わたくしのいのちです」
+<0130> \{Shiraho}"Ele é o único tesouro que meu marido me deixou."
+// \{白穂}「あのひとが遺してくれた、たったひとつの宝です」
+<0131> \{Sacerdote}"Resigne-se."
+// \{宮司}「あきらめなさい」
+<0132> \{Sacerdote}"Caso contrário, vocês dois serão mortos."
+// \{宮司}「そうしなければ、もろともに殺されてしまう」
+<0133> \{Sacerdote}"E isso não é tudo. Até minha vida pode estar em perigo."
+// \{宮司}「あなただけではない.私の身も危うくなるだろう」
+<0134> \{Shiraho}"........."
+// \{白穂}「………」
+<0135> Olhos tristes.
+// 静かな瞳.
+<0136> Eles estavam apontados para mim.
+// こちらを見つめている.
+<0137> Senti uma manga se mover.
+// 袖が動く気配がする.
+<0138> Um pulso fino.
+// ほっそりとした手首.
+<0139> Seus dedos macios se enrolaram em volta do meu pescoço.
+// 喉元に絡みついてくる、柔らかな指….
+<0140> \{Shiraho}"Se for assim, me permita acabar com a vida dele com minhas próprias mãos..."
+// \{白穂}「ならばいっそ、わたしの手で…」
+<0141> Aqueles dedos finos se apertaram em volta de mim.
+// 細い指に、力がこもる.
+<0142> Eu podia sentir suas unhas tremendo contra minha pele.
+// 爪の先が震えているのが伝わってくる.
+<0143> Eu não conseguia respirar.
+// 息ができなくなる.
+<0144> Eu não conseguia mais enxergar.
+// 目が見えなくなる.
+<0145> Não houve dor.
+// 痛みはない.
+<0146> Não havia medo.
+// 怖いとは思わなかった.
+<0147> Não houve arrependimento.
+// 悔しいとも思わなかった.
+<0148> No entanto, senti tristeza.
+// ただ、悲しかった.
+<0149> Uma tristeza insuportável.
+// たまらなく悲しかった.
+<0150> Não poderei mais vê-la sorrir.
+// この人の笑う顔は、もう見られないんだ.
+<0151> Não poderei mais ouvi-la cantar para mim.
+// この人が唄う声は、もう聞けないんだ.
+<0152> Enquanto esses pensamentos passavam pela minha cabeça...
+// そう思った時.
+<0153> Ela afrouxou o aperto.
+// ふっと、指から力が抜けた.
+<0154> \{Shiraho}"Não posso..."
+// \{白穂}「できませんっ」
+<0155> \{Shiraho}"Eu não posso fazer isso..."
+// \{白穂}「わたくしには、できません…」
+<0156> Algo brilhou na escuridão.
+// 暗がりの中で、何かが光ったのが見えた.
+<0157> Eram gotas de lágrimas.
+// 涙の粒だった.
+<0158> \{Shiraho}"Existe alguma mãe neste mundo que mataria seu próprio filho?"
+// \{白穂}「わが子を殺す母が、どこにおりましょう」
+<0159> \{Shiraho}"Mesmo que seu filho seja uma praga..."
+// \{白穂}「たとえ、わが子が疫神だとしても…」
+<0160> \{Shiraho}"Mesmo que seu filho seja a destruição do mundo..."
+// \{白穂}「たとえ、わが子が世を滅ぼすとしても…」
+<0161> \{Shiraho}"Não existe uma mãe que mataria seu próprio filho."
+// \{白穂}「わが子を殺す母が、どこにおりましょうか」
+<0162> \{Shiraho}"Não há nenhuma..."
+// \{白穂}「どこに、おりましょうか…」
+<0163> Havia um balde de madeira ao lado da cama.
+// 枕元に木桶があった.
+<0164> Entre os acessórios de maquiagem rudimentares, havia uma navalha.
+// 粗末な化粧の道具と共に、剃刀が入っていた.
+<0165> Com os dedos trêmulos, ela pegou a lâmina.
+// 震える指が、その柄ををつかむ….
+<0166> \{Shiraho}"Deixe-me tomar o lugar do meu filho."
+// \{白穂}「わたくしが、身代わりになります」
+<0167> \{Shiraho}"Por favor..."
+// \{白穂}「どうか、この子だけは…」
+<0168> \{Shiraho}"Por favor, deixe meu filho viver."
+// \{白穂}「この子だけは、お助けください」
+<0169> \{Sacerdote}"Não faça isso!"
+// \{宮司}「早まるでない…!」
+<0170> O homem correu até ela, mas já era tarde demais.
+// 男が駆け寄ったが、間に合わなかった.
+<0171> A navalha deslizou pela pele macia.
+// 剃刀の刃が、肌の上を走る.
+<0172> Vários cortes se cruzaram.
+// 幾重にも傷を重ねる.
+<0173> Era quase como se ela quisesse arrancar uma marca de nascença que nem existia.
+// そこにあったはずの痣を、覆い隠すかのように.
+<0174> Seu pulso estava tingido de sangue.
+// 手首が血で染まる.
+<0175> Seu corpo esbelto desmoronou.
+// 痩せた身体が崩れ落ちる.
+<0176> \{Shiraho}"Por... favor..."
+// \{白穂}「どうか、どうか…」
+<0177> \{Shiraho}"Deixe minha criança viver..."
+// \{白穂}「この子だけは…」
+<0178> Seu pulso afundou em uma poça de sangue.
+// 血だまりに、手首が沈む.
+<0179> Suas pálpebras se fecharam.
+// まぶたが閉じる.
+<0180> Só que as lágrimas continuavam escorrendo.
+// 涙だけが、流れ続ける.
+<0181> Uma vida perdida.
+// 失われていく命.
+<0182> Um ente querido desaparece na distância.
+// 大切な人が、遠くに消えていく.
+<0183> Eu só podia assistir, pois não tinha forças nem meios para intervir.
+// 何の力もなく、なす術もなく見ていた.
+<0184> E então...
+// そして…
+<0185> Tudo explodiu em um clarão.
+// 光がはじけた.
+<0186> Um vento soprou.
+// 風が吹く.
+<0187> A pena se agitou.
+// 羽根が震える.
+<0188> O sonho final.
+// 最後の夢.
+<0189> Sonhos que não são sonhos.
+// 夢でない夢.
+<0190> Memórias que não são memórias.
+// 記憶でない記憶.
+<0191> Um mar dourado.
+// 金色の海.
+<0192> Algo dormia em suas profundezas.
+// 奥底に眠る.
+<0193> Esse era...
+// それは…
+<0194> ...o lar das almas.
+// たましいのありか.
+<0195> Nos arredores de um santuário.
+// 神社の境内だった.
+<0196> Diversas barracas coloridas estavam alinhadas.
+// 色とりどりの屋台が並んでいる.
+<0197> As lanternas de papel brilhavam com uma luz laranja.
+// 橙色ににじむ、提灯の光.
+<0198> O festival estava repleto de pessoas.
+// 祭を楽しむ人々で賑わっている.
+<0199> Kano estava sozinha no meio da multidão.
+// その中にぽつんと、佳乃が立っていた.
+<0200> Ela estava usando um yukata e segurando um balão.
+// おろしたての浴衣を着て、手には風船を持っている.
+<0201> Isso a fazia parecer mais jovem do que era.
+// そのせいか、どこか幼く見える.
+<0202> \{Kano}"Mãe?"
+// \{佳乃}「…お母さんっ」
+<0203> Ela olhou ao seu redor com ansiedade.
+// 心細そうに、辺りを見回す.
+<0204> \{Kano}"Mãe, onde está você?"
+// \{佳乃}「お母さん、どこっ？」
+<0205> Uma voz gentil respondeu.
+// やさしげな声が返ってきた.
+<0206> \{Mãe}"Estou aqui."
+// \{母}「ここですよ」
+<0207> \{Kano}"Mãe..."
+// \{佳乃}「お母さん…」
+<0208> \{Mãe}"Está tudo bem. Eu estou aqui."
+// \{母}「はいはい.ここにいますよ」
+<0209> Kano parecia aliviada.
+// 佳乃は安心したようだった.
+<0210> Mas havia algo estranho naquele sorriso.
+// しかしその微笑みは、どこかぎこちない.
+<0211> Ela parecia incerta sobre sua própria felicidade.
+// 幸せな自分に、戸惑っているかのようだった.
+<0212> \{Mãe}"Tem alguma coisa que você queira comer?"
+// \{母}「食べたいもの、ある？」
+<0213> \{Kano}"Não, estou satisfeita."
+// \{佳乃}「もうお腹いっぱい」
+<0214> \{Mãe}"Tem alguma coisa que você queira comprar?"
+// \{母}「ほしい物はある？」
+<0215> \{Kano}"Não."
+// \{佳乃}「ううん」
+<0216> \{Mãe}"Você gostaria de outro balão?"
+// \{母}「もっと風船、ほしい？」
+<0217> \{Kano}"Não..."
+// \{佳乃}「ううん…」
+<0218> Ela ficou em silêncio.
+// そのまま黙り込む.
+<0219> Sua mãe também não disse nada.
+// 母親も何も言わない.
+<0220> A música do festival não parava de tocar.
+// 祭囃子の音色だけが、繰り返し流れている.
+<0221> \{Kano}"Mãe..."
+// \{佳乃}「お母さん」
+<0222> \{Mãe}"O que foi?"
+// \{母}「なあに？」
+<0223> \{Kano}"Hm..."
+// \{佳乃}「えっとね…」
+<0224> \{Kano}"Hmm..."
+// \{佳乃}「えっと…」
+<0225> \{Kano}"........."
+// \{佳乃}「………」
+<0226> Ela olhou ao redor.
+// 辺りを見回す.
+<0227> Ela parecia estar tentando descobrir onde estava.
+// 自分の居場所を確かめるように.
+<0228> Finalmente, Kano disse.
+// そして、佳乃は言った.
+<0229> \{Kano}"Estou indo para casa agora."
+// \{佳乃}「あたし、もう帰る」
+<0230> \{Kano}"Onee-chan esta esperando por mim."
+// \{佳乃}「お姉ちゃんが待ってるから」
+<0231> \{Kano}"Tenho certeza de que ela está preocupada comigo."
+// \{佳乃}「お姉ちゃん、きっと心配してるから」
+<0232> \{Kano}"Potato também."
+// \{佳乃}「ポテトもいるから」
+<0233> \{Kano}"Acho que o Potato deve estar mais preocupado ainda."
+// \{佳乃}「ポテトも心配してると思うから」
+<0234> \{Kano}"Além disso..."
+// \{佳乃}「それにね…」
+<0235> Ela se inclinou ligeiramente para a frente para contar seu segredo.
+// うつむき加減に、打ち明ける.
+<0236> \{Kano}"Encontrei alguém de quem gosto."
+// \{佳乃}「好きな人が、できたの」
+<0237> \{Kano}"Ele é um pouco estranho, mas é legal comigo."
+// \{佳乃}「ちょっと変わってるけど、やさしくしてくれるの」
+<0238> \{Kano}"Ele me disse que está procurando uma garota."
+// \{佳乃}「女の子を探してるんだって」
+<0239> \{Kano}"Uma garota no céu."
+// \{佳乃}「空にいる女の子」
+<0240> \{Kano}"Pensei que talvez eu fosse a garota que ele estava procurando."
+// \{佳乃}「その子がね、あたしだったらいいなあって、ちょっと思ったけど」
+<0241> \{Kano}"Mas eu estava errada."
+// \{佳乃}「でも、違うみたい」
+<0242> \{Kano}"Ahaha, é apenas um amor não correspondido…"
+// \{佳乃}「あははっ、片思いだねぇ…」
+<0243> Ela sorriu fracamente e ficou em silêncio novamente.
+// 笑おうとして、黙り込んでしまう.
+<0244> A mãe simplesmente ficou olhando para sua filha.
+// 母親はただ、娘のことを見守っている.
+<0245> Seu contorno se tornou difuso com a luz.
+// その輪郭が、じんわりと光にぼやけている.
+<0246> \{Mãe}"Venha até mim se não conseguir lidar com isso."
+// \{母}「辛いのなら、わたしと来てもいいのよ」
+<0247> \{Mãe}"Você sempre será meu bebê."
+// \{母}「あなたはいつまでも、甘えんぼだから」
+<0248> \{Mãe}"Você pode ficar comigo para sempre."
+// \{母}「わたしと一緒に、いつまでもいていいのよ」
+<0249> \{Mãe}"Aqui..."
+// \{母}「ほら…」
+<0250> Ela estendeu a mão.
+// 差し出された、手のひら.
+<0251> Era um calor que Kano desejava mais do que qualquer outra coisa.
+// 佳乃が何より望んだはずの温もり.
+<0252> Uma imagem de sua infância que ela sempre guardou com carinho em seu coração.
+// 心の奥で大切にしてきた、幼い日の印象.
+<0253> Mas Kano não tentou se aproximar dela.
+// 佳乃はもう、それに触れようとはしなかった.
+<0254> \{Kano}"Bem, mãe..."
+// \{佳乃}「えっとね、お母さん」
+<0255> \{Kano}"Obrigada."
+// \{佳乃}「ありがとう」
+<0256> \{Kano}"Não me lembro muito bem de você."
+// \{佳乃}「あたしはお母さんのこと、よく覚えてないけど」
+<0257> \{Kano}"Você morreu cedo por minha causa..."
+// \{佳乃}「あたしのためにお母さん、長生きできなかったのかもしれないけど…」
+<0258> \{Kano}"Mas..."
+// \{佳乃}「でも…」
+<0259> \{Kano}"Quero lhe agradecer por ter me dado à luz."
+// \{佳乃}「あたしを生んでくれて、ありがとう」
+<0260> \{Kano}"Essa é a única coisa que quero que você saiba."
+// \{佳乃}「それだけ、言いたかったの」
+<0261> Sua mãe não respondeu.
+// 母親は何も答えなかった.
+<0262> Sua mão estendida tremia levemente.
+// 差し出した指が、わずかに震える.
+<0263> Sua boca se curvou ligeiramente para cima em um sorriso.
+// ほんのわずかに、口元で微笑む.
+<0264> \{Mãe}"Kano."
+// \{母}「佳乃」
+<0265> \{Mãe}"Você não tem asas."
+// \{母}「あなたには、羽根はないから」
+<0266> \{Mãe}"Você não pode vir para o céu, mesmo que esteja sofrendo..."
+// \{母}「辛くても、空には来られないから…」
+<0267> \{Mãe}"Por favor, encontre a felicidade onde você está."
+// \{母}「そこで幸せに、おなりなさい」

@@ -1,0 +1,1058 @@
+﻿// Resources for SEEN0311.TXT
+
+#character '*Ａ'
+#character 'Voz'
+#character 'Criança'
+#character 'Menina'
+#character 'Crianças'
+#character 'Menino'
+#character 'Misuzu'
+
+<0000> 31 de Julho (Seg)
+// ７月３１日(月)
+<0001> Passei o dia inteiro em estado de letargia.
+// 無気力に一日をやり過ごした.
+<0002> Alguns ônibus passaram por aqui.
+// 何台かバスが、通り過ぎた.
+<0003> Como eu tava deitado no banco, todos pararam.
+// 俺がベンチで寝ているためか、いちいち停車してくれた.
+<0004> No final, ninguém desceu, eu não entrei e os ônibus partiram.
+// 結局誰も降りず、誰も乗せずにバスは去っていった.
+<0005> O calor sufocante e a fumaça do escapamento, deixada pelos ônibus, me envolveram.
+// もわっとした熱気とバスの残した排気に包まれる.
+<0006> Quando respirei fundo, o cheiro do mar encheu meu nariz.
+// 息を吸うと、潮の匂いが鼻をつく.
+<0007> Era um cheiro com o qual eu já tinha me acostumado.
+// もう慣れてしまった匂いだ.
+<0008> O sol continuou a queimar meu pescoço nu.
+// 陽光は何にも遮られることなく首筋を焼き続けていた.
+<0009> \{Yukito}"Tá quente..."
+// \{Yukito}「アジィ…」
+<0010> Ninguém em sã consciência iria caminhar até a próxima cidade neste calor.
+// そもそもこんな暑さの中、徒歩で隣町までゆくなんて、正気の沙汰じゃない.
+<0011> Se eu soubesse... teria saído à noite, quando o tempo ainda tava fresco.
+// 夜の涼しいうちに出ておけばよかった.
+<0012> Além do mais...
+// それに…
+<0013> *Rooonc...*
+// ぐぅ～…
+<0014> \{Yukito}"Tô morrendo de fome..."
+// \{Yukito}「腹減った…」
+<0015> Tudo começou aqui.
+// なにもかもが、振り出しだった.
+<0016> Me lembrei do dia em que desci do ônibus nesta cidade.
+// この町に初めて下車したときのことを思い出す.
+<0017> Tentei vender meu show pra algumas crianças que passavam, mas uma delas chutou meu boneco e o fez voar...
+// 通りかかった子供相手に、商売を始めて、人形を蹴られて…
+<0018> Fui ultrapassado por uma velhinha, desmaiei no meio da rua e acordei na sede de um sindicato de pescadores.
+// 老婆に追い抜かれ、気を失って、そして、漁協組合で目を覚まして…
+<0019> \{Yukito}(Se as coisas continuarem assim, acabarei no mesmo estado novamente...)
+// \{Yukito}(このままだと、同じ道を辿るな…)
+<0020> E então eu a conheci.
+// そして出会い.
+<0021> Naquele paredão, Misuzu e eu nos encontramos pela primeira vez.
+// 堤防の上で観鈴と出会った.
+<0022> Uma experiência que nunca mais aconteceria.
+// だが、それだけは繰り返すことがない.
+<0023> No fim, não consegui levar Misuzu pra praia.
+// 結局、観鈴を海まで連れてくることはできなかった.
+<0024> Mas esse não era mais meu dever.
+// それはもう、俺の役目ではなかった.
+<0025> Olhei na direção da brisa do mar.
+// 潮風が吹いてくる方を見渡す.
+<0026> Vamos parar de pensar nisso.
+// もう、考えるのはよそう.
+<0027> Não colocarei meus pés nesta cidade novamente.
+// この町には二度とこない.
+<0028> Não verei Misuzu novamente.
+// 観鈴にも二度と会うことはない.
+<0029> Minha saúde já tá melhorando.
+// 体の調子も良くなっている.
+<0030> Meus pés parecem leves.
+// 足も軽い.
+<0031> Talvez Misuzu já tenha se recuperado também.
+// 観鈴だって、今頃けろりとしてるかもしれない.
+<0032> Me levantei.
+// 俺は立ち上がる.
+<0033> Mas então me sentei novamente.
+// そしてまた座り直した.
+<0034> Repeti a mesma ação muitas vezes.
+// そんなことを何度も繰り返した.
+<0035> Os ônibus pararam e partiram.
+// バスが停まっては、通りすぎていった.
+<0036> Eu cochilei...?
+// 少し寝ていたのだろうか….
+<0037> O som das crianças me acordou.
+// 子供達の声で目覚めた.
+<0038> Eu vi uma garotinha cercada por seu grupo de amigos. Eles brincavam juntos.
+// 顔を横に向けると、小さな女の子が輪の中心になって、友達と遊んでいた.
+<0039> Tal cena era comum.
+// 日常的な光景だ.
+<0040> Eu poderia ver isso em qualquer cidade.
+// どこの町にもありふれた.
+<0041> Mas o sorriso dessa garotinha parecia com o de Misuzu.
+// 小さな女の子の笑顔が、観鈴と似ていた.
+<0042> \{Yukito}(Será que foi porque Misuzu sempre agia de um modo muito infantil pra sua idade...?)
+// \{Yukito}(あいつは、歳のわりにガキだったからな…)
+<0043> Rodeada por seus amigos, ela corria e sorria sem parar.
+// いろんな友達に囲まれて、ずっと笑顔でいる.
+<0044> Eu fiquei assistindo.
+// じっと見ていた.
+<0045> .........
+// ……….
+<0046> Mesmo essa cena banal tava fora do alcance de Misuzu...
+// そんなささやかな日常でさえも、手に入れることができなかったんだ、あいつは….
+<0047> Isso foi o que ela sempre desejou, mas nunca conseguiu concretizar.
+// ずっと切望していたはずなのに、結局得られなかったもの.
+<0048> Misuzu foi capaz de sentir ao menos um gostinho dessa vida normal, quando eu tava com ela?
+// 彼女は俺といたときだけでも、それを感じられていたのだろうか.
+<0049> Sua mãe a abandonou. Eu a deixei...
+// そして、母親もいなくなって、俺もいなくなって…
+<0050> Agora que ficou novamente sozinha, no que será que ela tá pensando?
+// ひとりきりになって、今、なにを思っているだろうか.
+<0051> Ela não tá chorando, né?
+// 泣いていないだろうか.
+<0052> Misuzu sempre tinha um sorriso no rosto...
+// でもあいつはいつだって笑ってる奴だったから…
+<0053> Ela não choraria, não importa o quão difícil a vida fosse.
+// きっとどれだけ苦しくても泣かないだろう.
+<0054> .........
+// ……….
+<0055> Eu não poderia ficar aqui.
+// ここにいると、駄目だった.
+<0056> Eu não conseguia parar de pensar na Misuzu.
+// 観鈴のことばかり考えてしまう.
+<0057> Eu tive que deixar este lugar.
+// だから、もういこう.
+<0058> \{Yukito}"Tchau."
+// \{Yukito}「じゃあな」
+<0059> Me despedi das crianças e me levantei.
+// 遠くで遊ぶ子供たちに向けてそう告げて、立ち上がる.
+<0060> Para onde eu tava indo, o céu tava aberto.
+// 目指す先は閉ざすものなく、空が広がっていた.
+<0061> Não havia obstrução alguma.
+// 遮へい物のひとつもない.
+<0062> O céu e o solo foram divididos em dois na altura dos olhos.
+// 空と地上が目の高さでふたつに割れている.
+<0063> Quando olhei mais pra cima, tudo na terra desapareceu de vista.
+// さらに顎を高くあげて、視界から地上の物を消す.
+<0064> \  Ponto de partida
+// \  振 出  
+<0065> O céu era uma interminável folha azul.
+// 一面が青に染まった.
+<0066> \{Yukito}"........."
+// \{Yukito}「………」
+<0067> Contei os dias desde que cheguei a este lugar.
+// ここに、辿り着いた日.
+<0068> Tudo o que aconteceu daquele dia até agora parecia um sonho.
+// その日からずっと夢を見ていたような気がする.
+<0069> Em direção a alturas ilimitadas e infinitas.
+// どこまでも、どこまでも高みへ.
+<0070> Certa vez, sonhei que tava tentando alcançar o céu.
+// 空を目指した夢.
+<0071> Mas eu não consegui.
+// けど、そこには届かなかった.
+<0072> Há uma garota sozinha no céu.
+// ただ、ひとり、そこには少女がいた.
+<0073> Ela continua a sentir o vento, mesmo agora.
+// ずっと、今も風を受け続けている.
+<0074> Seu sonho ainda continua.
+// 彼女の夢は、続いてゆく.
+<0075> Até agora e pra sempre.
+// これから先もずっと.
+<0076> Fechei meus olhos mais uma vez.
+// 再び目を閉じる.
+<0077> Uma imagem do vasto céu se materializou diante de mim.
+// そうしてもなお、目に浮かぶ光景は一面の空だった.
+<0078> Eu ouvi uma voz.
+// 声がした.
+<0079> "Quer vir comigo?"
+// 『一緒にいく？』
+<0080> Era a minha mãe.
+// …母の言葉.
+<0081> Eu tava sozinho todo esse tempo... e minha mãe tava me convidando pra fazer uma viagem com ela.
+// ひとりだった俺を旅に誘う、あの日の母の言葉だった.
+<0082> Eu tava com a marionete na minha mão.
+// 人形を手に握っていた.
+<0083> As vozes alegres das crianças continuaram inabaláveis.
+// 子供たちの遊ぶ声が聞こえ続けていた.
+<0084> Mais uma vez, eu fechei meus olhos.
+// もう一度、目を閉じる.
+<0085> Os sons das risadas e as memórias da minha infância se tornaram uma coisa só...
+// 賑やかな歓声が、幼い日の情景と重なっていく…
+<0086> Eu tava na rua de uma cidade.
+// 町の通り.
+<0087> Uma multidão de pessoas se reuniu.
+// そこに人だかりが出来ていた.
+<0088> Deslizei entre as pernas dos adultos, forcei a passagem e cheguei na frente.
+// 大人たちの足の間をすり抜けて、一番先頭に出る.
+<0089> Diante de mim, se descortinou uma cena que parecia ter saído de um conto de fadas.
+// そこに広がっていたのは、幻想的な光景だった.
+<0090> Bolas, facas, espelhos, fitas, relógios...
+// ボール、ナイフ、鏡、リボン、懐中時計…
+<0091> Numerosos objetos flutuavam, voavam e giravam no ar.
+// いろいろなものが宙に浮き、飛び交い、くるくると回っていた.
+<0092> Parecia quase um pequeno circo.
+// 小さなサーカスのようだった.
+<0093> Uma mulher tava parada no centro de tudo.
+// けど、その中心には、女性がひとり.
+<0094> No ritmo da dança da mulher, os adereços desfilavam no ar, cheios de vida.
+// 彼女の舞いに合わせて、命を吹き込まれた小道具たちが空中を踊っている.
+<0095> Observei paralisado em meio aos aplausos estridentes e ao cheiro de suor.
+// 鳴りやまない歓声と、汗の臭いの中、じっと見つめていた.
+<0096> Um mundo em miniatura que parecia um pequeno sonho.
+// 小さな夢のような世界を.
+<0097> Quando a multidão finalmente se dispersou, a mulher se virou pra falar comigo.
+// ひとけがなくなった後、芸をしていた女性が幼い俺に向けて言った.
+<0098> "Olá!"
+// 「こんにちは」
+<0099> Esta mulher era minha mãe.
+// それが母だった.
+<0100> Durante todo esse tempo, fui deixado aos cuidados de um antigo templo.
+// ずっと俺は、古い寺に預けられていた.
+<0101> Minha mãe, que era minha única parente, me confiou ao templo e foi pra algum lugar.
+// 唯一の家族であった母親は、俺をそんな場所に預けたまま、行方知れずになっていた.
+<0102> "Ei, sou eu. A sua mãe."
+// 「ね、わたしがお母さん.あなたの母親」
+<0103> Eu não sabia o que pensar disso.
+// 唐突にそんなことを言われても、どんな感動も覚えなかった.
+<0104> "Esta marionete pode fazer as pessoas rirem e lhes trazer alegria."
+// 「この人形はね、ひとを笑わせる…楽しませることができる道具」
+<0105> "Aqui, pegue."
+// 「ほら、持って」
+<0106> "Faça ela se mover."
+// 「動かしてみて」
+<0107> .........
+// ……….
+<0108> "Você faz assim... Toque com o dedo..."
+// 「こうするのよ.指先を当てて…」
+<0109> Ela pressionou meu dedo no boneco.
+// 人形に指を押し当てる.
+<0110> "Deseje e isso se tornará realidade. Concentre-se e sua vontade será concretizada."
+// 「思えば通じる.思いは通じるから」
+<0111> .........
+// ……….
+<0112> Mas a marionete não se mexeu.
+// 人形は動かなかった.
+<0113> "Yukito, no que você está pensando agora?"
+// 「今、Yukitoはどう思ってる？」
+<0114> "Você quer fazer as pessoas rirem?"
+// 「人を笑わせたいと思ってる？」
+<0115> "Se você não desejar isso, o boneco não vai se mover."
+// 「そうじゃないと動かないよ？」
+<0116> "Não pense apenas em movê-lo. Pense na sua motivação para movê-lo."
+// 「動かしたい思いだけじゃなくて、その先の願いに触れて、人形は動きだすんだから」
+<0117> Eu não tinha ideia do que ela tava falando.
+// 何を言ってるのか、さっぱりわからなかった.
+<0118> No final, não consegui mover o boneco.
+// 結局、動かすことはできなかった.
+<0119> "Yukito, venha aqui."
+// 「Yukito、来なさい.こっちよ」
+<0120> "Olhe! Há muitas crianças da sua idade aqui..."
+// 「ほら、Yukitoと同じ歳ぐらいの子供がいっぱいいるから…」
+<0121> "Leve este boneco até elas."
+// 「だから、その人形を持っていきなさい」
+<0122> "Use seu poder para colocar um sorriso em seus rostos."
+// 「その力で、みんなを笑わせてあげるの」
+<0123> "Porque eu não posso fazer isso sozinha..."
+// 「わたしじゃ、ダメみたいだから…」
+<0124> "Agora vá."
+// 「だからね、行ってくるの」
+<0125> Eu não entendi o sentido disso.
+// その必要がわからなかった.
+<0126> Mesmo quando fui jogado no meio delas, não consegui fazer o boneco se mover.
+// だから、その中に放り込まれたとしても、人形を動かすことができなかった.
+<0127> "Yukito."
+// 「Yukito」
+<0128> Quando todas foram embora, minha mãe me abraçou.
+// 誰もいなくなった後、ひとり立ち尽くしていると肩を抱かれる.
+<0129> "Você não quer fazer os outros rirem?"
+// 「Yukitoは誰にも笑ってほしくない？」
+<0130> .........
+// ……….
+<0131> "Eu adoro ver seus sorrisos. Quero ver todo mundo rir."
+// 「わたしは笑って欲しいな.出会ったひとたち、みんな」
+<0132> Se eu conseguisse mesmo fazer isso...
+// もし、そうなれば…
+<0133> ...Seria incrível!
+// それは、すごいことだ、と思った.
+<0134> Depois disso, minha mãe fez o melhor que pôde...
+// それからの母はずっと一生懸命だった.
+<0135> ...Para me ensinar outra coisa. Alguma coisa importante.
+// 何かを教えようとしていた.
+<0136> "No céu, há uma garota com asas."
+// 「この空の向こうには、翼を持った少女がいる」
+<0137> "Ela está lá há muito tempo."
+// 「それは、ずっと昔から」
+<0138> "Ela está lá, mesmo agora."
+// 「そして、今、この時も」
+<0139> "No mesmo ar, ela continua sentindo o vento com suas asas abertas."
+// 「同じ大気の中で、翼を広げて風を受け続けている」
+<0140> "Lá em cima, a garota está tendo o mesmo sonho repetidas vezes."
+// 「そこで少女は、同じ夢を見続けている」
+<0141> "A garota está sempre sozinha..."
+// 「彼女はいつでもひとりきりで…」
+<0142> "Ela desaparece antes de ter a chance de crescer."
+// 「大人になれずに消えていく」
+<0143> "Ela continua sonhando o mesmo sonho triste."
+// 「そんな悲しい夢を、何度でも繰り返す…」
+<0144> "Estou em uma jornada desde que me lembro."
+// 「わたしはずっと、旅を続けてきたの」
+<0145> "Meu objetivo é encontrar a garota no céu."
+// 「空にいる少女を探す旅」
+<0146> "Minha mãe e minha avó também a procuraram."
+// 「わたしのお母さんも、お母さんのお母さんも、ずっとそうしてきた」
+<0147> "Cada uma de nós a encontrou."
+// 「そしてみんな、その子に出会った」
+<0148> "E em todas as vezes, isso nos deixou com uma cicatriz em nossos corações..."
+// 「とても悲しい思いをした…」
+<0149> "Mas Yukito..."
+// 「でもね、Yukito」
+<0150> "Não vou forçá-lo a fazer o mesmo."
+// 「わたしはあなたにそれを強要はしたくないの」
+<0151> "Eu quero que você encontre sua própria felicidade."
+// 「あなたはあなたの幸せを見つけて」
+<0152> "Porque esse é o propósito da vida."
+// 「ひとは自分の幸せを見つけるために生きているんだから」
+<0153> "Você me entende, Yukito?"
+// 「ね、Yukito」
+<0154> Um mês se passou.
+// そして、一ヶ月が過ぎた.
+<0155> Aí minha mãe me falou.
+// 母は俺に言った.
+<0156> "Estou voltando para minha jornada."
+// 「これからは、わたしは旅に戻る」
+<0157> "É assim que eu ganho a vida."
+// 「それがわたしの生業(なりわい)だから」
+<0158> "Fazer as pessoas rirem é a minha razão de viver."
+// 「いろんな人たちを笑わせるのが、わたしの生きがいだから」
+<0159> "Suponha que se..."
+// 「もし…もしね」
+<0160> "Se você ainda pensa em mim como sua mãe, posso levá-lo junto comigo."
+// 「こんなわたしでも、家族だと思ってくれるなら…わたしはあなたを連れてゆくことができる」
+<0161> "Mas você deve tomar essa decisão, porque não creio que eu tenha o direito de decidir por você."
+// 「けど、わたしにそんな権利なんてないと思うから、それはあなたがr決めて」
+<0162> Esse foi o primeiro mês que passei com minha mãe...
+// 初めて母と過ごした一ヶ月.
+<0163> Ela tava tentando desesperadamente me ensinar alguma coisa.
+// 必死で、何かを教えようとしてくれた一ヶ月.
+<0164> Eu aprendi alguma coisa com ela?
+// 何かを得たのだろうか.
+<0165> Não, absolutamente nada.
+// 何もなかった.
+<0166> Eu não era diferente de quando ainda tava sozinho.
+// 今はまだ、ひとりきりの頃と変わらない.
+<0167> Era a manhã em que ela deveria partir.
+// 出立の朝.
+<0168> Minha mãe havia terminado de se preparar pra sua viagem. Ela tava de costas pro sol da manhã.
+// 支度を終えた母が、朝日を背に立っていた.
+<0169> Olhei pra ela enquanto eu ainda tava vestido com minhas roupas de dormir.
+// 少年の俺はそれを寝起きの格好のまま、見ていた.
+<0170> "Estou saindo agora."
+// 「わたし、行ってくる」
+<0171> .........
+// ……….
+<0172> "Yukito, você vai ficar?"
+// 「Yukitoは…ここに残る？」
+<0173> .........
+// ……….
+<0174> "Ou... Você vem comigo?"
+// 「それとも…一緒にいく？」
+<0175> "Quer vir comigo?"
+// 「一緒にいく？」
+<0176> Eu balancei a cabeça afirmativamente.
+// 俺は、うん、と頷いていた.
+<0177> Eu ainda era uma criança.
+// 小さな頃の俺.
+<0178> Jovem e ignorante, eu escolhi seguir minha mãe.
+// 何も知らなかった頃の俺が母の後をついてゆく.
+<0179> A jornada que iniciei com ela...
+// 母親とふたりで辿った旅路.
+<0180> Não durou nem um ano.
+// それは一年にも満たなかったはずだ.
+<0181> Sempre que chegávamos a uma cidade, minha mãe rapidamente arrumava seus adereços e começava sua apresentação na rua.
+// 小さな町に着くと、母は早速小道具を広げ、大道芸を始める.
+<0182> Descobri um sentimento de orgulho ao ver os olhos, tanto dos adultos quanto das crianças, brilhando.
+// 大人も子供も目を輝かせているのを見て、俺は誇らしかった.
+<0183> À noite, eu dormia ao lado dela.
+// 寄り添って眠る夜.
+<0184> Senti o calor da minha mãe.
+// 母の温もり.
+<0185> Ela foi a minha primeira família.
+// 初めての家族.
+<0186> Peguei emprestado o boneco dela e comecei a praticar os meus poderes.
+// 人形を借り、念を込める練習をした.
+<0187> No início, eu não sabia como mover a marionete.
+// 最初は全くやり方がわからなかった.
+<0188> Mas minha mãe pacientemente me ensinou como fazer isso.
+// 母は根気強く教えてくれた.
+<0189> Uma noite, o boneco finalmente caminhou.
+// そうしてある夜、人形がひとりでに歩き出した.
+<0190> "Esse realmente foi um trabalho bem feito."
+// 「うまくできたね」
+<0191> Minha mãe deu um tapinha na minha cabeça.
+// 母はそう言って、俺の頭を撫でた.
+<0192> Eu simplesmente continuei a mover o boneco com toda a força do meu coração.
+// 俺はただ一生懸命に、人形を動かし続けた.
+<0193> Eu só queria ver minha mãe sorrir pra mim. Não havia recompensa mais valiosa.
+// 母が笑う顔をもっと見たい、その一心で.
+<0194> Mas esse foi o começo da nossa separação.
+// そしてそれが、別れの始まりだった.
+<0195> Foi em uma noite de verão.
+// 夏の夜だった.
+<0196> A lenha tava queimando.
+// 焚き火が燃えていた.
+<0197> Minha mãe falou comigo com uma voz firme.
+// 穏やかな声で、母が話している.
+<0198> "Aquela garota me disse que queria ir à praia."
+// 「…海に行きたいって、その子は言ったの」
+<0199> "Mas não consegui levá-la até lá.
+// 「でも、連れていってあげられなかった」
+<0200> "Havia tantas coisas que ela queria fazer..."
+// 「やりたいことがたくさんあったの」
+<0201> "Mas eu não pude fazer nada por ela."
+// 「でもなにひとつ、してあげられなかった」
+<0202> "O verão estava apenas começando..."
+// 「夏はまだ、はじまったばかりなのに…」
+<0203> "Eu sabia o que estava por vir, mas não pude fazer nada."
+// 「知っていたのに、わたしはなにもできなかった」
+<0204> "Eu era a pessoa mais próxima dela, mas não pude salvá-la..."
+// 「誰よりもその子の側にいたのに、救えなかった…」
+<0205> Ela pronunciou cada palavra com segurança e cuidado.
+// 一言一言、ていねいに語る声.
+<0206> "A garota terá sonhos."
+// 「女の子は、夢を見るの」
+<0207> "No começo ela sonhará com o céu."
+// 「最初は、空の夢」
+<0208> "Os sonhos começarão a voltar ao passado."
+// 「夢はだんだん、昔へと遡っていく」
+<0209> "Esses sonhos vão corroer a garota."
+// 「その夢が、女の子を蝕んでいくの」
+<0210> Eu não conseguia entender algumas das palavras que tavam sendo ditas.
+// わからない言葉もあった.
+<0211> Mas eu as escutei com atenção.
+// でも俺は、一生懸命に話を聞いた.
+<0212> Eu entendi que minha mãe tava tentando me transmitir algo muito importante.
+// 大事なことを伝えようとしているのは、わかっていたからだ.
+<0213> "No início, ela perderá a capacidade de andar."
+// 「最初は、だんだん身体が動かなくなる」
+<0214> "Em seguida, ela sentirá uma dor insuportável."
+// 「それから、あるはずのない痛みを感じるようになる」
+<0215> "E então..."
+// 「そして…」
+<0216> "A garota vai esquecer tudo."
+// 「女の子は、全てを忘れていく」
+<0217> "Ela não será capaz de se lembrar nem mesmo da pessoa que mais gosta."
+// 「いちばん大切な人のことさえ、思い出せなくなる」
+<0218> "E na manhã seguinte ao seu último sonho..."
+// 「そして、最後の夢を見終わった朝…」
+<0219> "Ela vai morrer."
+// 「女の子は、死んでしまうの」
+<0220> Minha mãe fez uma pausa por um momento.
+// そこで一度、言葉が途切れた.
+<0221> Ela parecia estar contendo suas emoções.
+// こみ上げてくるものを、必死で抑えているようだった.
+<0222> "Quanto mais próximos os dois ficarem, mais doentes ficarão."
+// 「二人の心が近づけば、二人とも病んでしまう」
+<0223> "Então nenhum deles poderá ser salvo."
+// 「二人とも助からない」
+<0224> "E então aquela garota..."
+// 「だから、その子は言ってくれたの」
+<0225> "...me disse para deixá-la."
+// 「わたしから離れて、って」
+<0226> "Ela era tão enérgica e gentil."
+// 「やさしくて、とても強い子だったの」
+<0227> "Por isso..."
+// 「だから…」
+<0228> "Yukito, eu quero que você a salve desta vez."
+// 「Yukito.今度こそ、あなたが救ってほしいの」
+<0229> "Você é o único que pode salvá-la."
+// 「その子を救えるのは、あなただけなのだから」
+<0230> Ela ergueu a marionete pra mim.
+// そうして、人形をそっと持ち上げた.
+<0231> "Este boneco está imbuído de nossos desejos não realizados."
+// 「この人形の中にはね.叶わなかった願いが籠められてるの」
+<0232> "Minha mãe e minha avó fizeram a mesma coisa."
+// 「わたしのお母さんも、お母さんのお母さんも、ずっとそうしてきた」
+<0233> "Antes que seus poderes desaparecessem, elas selaram todas as suas energias nesta marionete."
+// 「衰えてしまう前に、この人形に『力』を封じ込めてきた」
+<0234> "Para que seus desejos possam ser atendidos quando chegar a hora certa."
+// 「いつか誰かが、願いを解き放つ時のために」
+<0235> "Um dia, eu também irei fazer isso."
+// 「だからわたしも、願いのひとつになる」
+<0236> E então minha mãe olhou no fundo dos meus olhos.
+// 俺の目を真っ直ぐに見つめた.
+<0237> "Yukito..."
+// 「Yukito…」
+<0238> Depois que ela chamou meu nome, não consegui mais desviar o olhar por algum motivo.
+// 呼びかけられると、どうしても視線を外せなくなった.
+<0239> "Agora você vai esquecer tudo o que acabei de dizer."
+// 「今、わたしが話していることを、あなたは全て忘れてしまう」
+<0240> "Este também é um dos poderes que herdei."
+// 「それも、わたしが受け継いだ『力』のひとつ」
+<0241> "Se você não conseguir se lembrar do que eu disse, então nossos desejos terminarão com você."
+// 「あなたが思い出さなければ、わたしたちの願いはそこで終わる」
+<0242> "Eu não deveria fazer isso."
+// 「これは本当なら許されないこと」
+<0243> "Como mãe, este é o meu desejo egoísta."
+// 「あたりまえの母親に憧れ続けた、わたしのわがまま」
+<0244> "Quero que você decida por si mesmo o caminho que deseja seguir."
+// 「あなたには自分の意志で、道を決めて欲しいから…」
+<0245> Ela colocou o boneco na minha mão.
+// 俺の手のひらに、人形を乗せる.
+<0246> "De agora em diante, isso pertence a você."
+// 「今からこれは、あなたのもの」
+<0247> "Você é livre para fazer o que quiser com ele."
+// 「これをどう使うかは、あなたの自由」
+<0248> "Você pode usá-lo apenas para ganhar dinheiro."
+// 「ただお金を稼ぐためだけに、人形を動かしてもいい」
+<0249> "Você pode parar de viajar. Você também pode jogar este boneco fora."
+// 「旅をやめてしまってもいい.人形を捨ててしまってもいい」
+<0250> "Você também pode esquecer a garota no céu."
+// 「空にいる女の子のことは、忘れて生きていってもいい」
+<0251> "Mas Yukito..."
+// 「でもね、Yukito…」
+<0252> "Eu tenho certeza de que chegará o momento em que você se lembrará de tudo."
+// 「きっと思い出す時がくる」
+<0253> "Porque o seu sangue é atraído pelo dela."
+// 「あなたの血が、その子と引き合うから」
+<0254> "Um dia, você definitivamente encontrará a garota em alguma cidade."
+// 「どこかの町で、あなたはきっと女の子に出会う」
+<0255> "Ela será uma garota enérgica e gentil."
+// 「やさしくて、とても強い子」
+<0256> "E suponha que você realmente queira salvá-la, não importa o que aconteça..."
+// 「その子のことを、どうしても助けてあげたいと思ったら…」
+<0257> "Então faça um pedido a esta marionete com toda força de seu coração."
+// 「人形に心を籠めなさい」
+<0258> "Eu sempre estarei com você."
+// 「わたしはあなたと共にあるから」
+<0259> "Até..."
+// 「その時まで…」
+<0260> Então...
+// そして…
+<0261> Algo inacreditável aconteceu.
+// 信じられないことが起こった.
+<0262> O corpo da minha mãe desapareceu lentamente bem na minha frente.
+// 俺の見ている前で、母の体が透き通っていった.
+<0263> Era como se ela nunca tivesse existido.
+// まるで最初から存在しなかったように.
+<0264> "Até a próxima..."
+// 『さよなら…』
+<0265> Em seus momentos finais, ela sorriu brilhantemente pra mim.
+// 眩しそうな笑顔が、最後にそう言った.
+<0266> E logo em seguida ela não existia mais.
+// そして、母は消え失せた.
+<0267> Quando acordei, não havia mais ninguém comigo.
+// 気がついた時には、誰もいなかった.
+<0268> Apenas seu pequeno boneco permaneceu.
+// 残ったのは、ちっぽけな人形だけだった.
+<0269> O fogo balançava sua língua, aparentemente indiferente a tudo o que havia acontecido.
+// 何事もなかったかのように、炎がちろちろと燃えていた.
+<0270> Eu não conseguia me lembrar de nada.
+// 俺は何も覚えていなかった.
+<0271> Minha mãe deve ter me abandonado...
+// …置き去りにされた.
+<0272> Na minha idade, essa foi a única resposta que consegui achar.
+// 少年の俺には、そう考えるのが精一杯だった.
+<0273> Com a marionete na mão, comecei a busca pela minha mãe.
+// 人形を手に、母を探した.
+<0274> Dia após dia, procurei por ela...
+// 来る日も来る日も探し続けた….
+<0275> Originalmente, tudo começou apenas como uma jornada pra encontrar minha mãe.
+// 始まりは、母を探す旅.
+<0276> Eu só queria ver o sorriso da minha mãe novamente.
+// もう一度母の笑顔を見たかった.それだけだった.
+<0277> Quando finalmente reconheci que minha mãe não tava mais por perto, o propósito da minha jornada mudou.
+// 母がいないことを受け入れた時、旅の目的は変わった.
+<0278> Mee lembrei de fragmentos do que minha mãe me ensinou.
+// 母から教えられた言葉のかけらがあった.
+<0279> Há uma garota no céu.
+// この空に少女がいる.
+<0280> Ela tá presa a uma tristeza sem fim.
+// 彼女は終わらない悲しみの中にいる.
+<0281> Foi aí que decidi que iria fazer aquela garota rir.
+// だから、その少女を笑わせてみたいと思った.
+<0282> Com um novo propósito em mente, comecei a caminhar.
+// 今度はそれを目的に、歩き始めた.
+<0283> O que eu perdi naqueles dias...
+// あの日、失ったもの.
+<0284> Deveria tentar recuperar nos próximos.
+// それをもう一度見つけようとしていたはずなのに.
+<0285> No entanto, comecei a ver meu boneco como nada mais do que uma ferramenta pra ganhar a vida.
+// なのに、俺は人形を生きるための道具として見るようになっていった.
+<0286> Ele se transformou em algo que costumava usar pra faturar uma grana dos pais de outras crianças...
+// ただ口上を言って、子供たちの親から日銭を稼ぐようになって…
+<0287> Quantos verões se passaram desde então?
+// そして何度めの夏だろう…
+<0288> Nesta cidade, conheci uma garota que tava sozinha.
+// この町で、ひとりの少女と出会った.
+<0289> Ela tava sempre ao meu lado, sorrindo pra mim.
+// そいつはいつだって笑顔で俺のそばにいた.
+<0290> Esses dias de verão que passei sob o vasto céu azul.
+// 青空の下で、続いてきた夏.
+<0291> Com Misuzu me fazendo companhia.
+// ずっと隣にいた観鈴.
+<0292> Com seu sorriso.
+// いつだって笑っていた観鈴.
+<0293> Eu tinha encontrado...
+// 俺は見つけていた.
+<0294> O que perdi naquele dia.
+// あの日、失ったもの.
+<0295> Desde aquele dia, vivi apenas pra encontrar o que havia perdido e finalmente consegui.
+// あの日から、それを探すために生きてきて、そして、それを見つけていた.
+<0296> Eu só precisava de alguém que sorrisse pra mim.
+// 俺はただ、笑ってくれる誰かがそばにいればよかった. 
+<0297> Eu só queria fazer alguém feliz.
+// 俺はそうして、ひとを幸せにしたかった.
+<0298> Eu só queria que meus poderes fossem capaz de fazer alguém feliz.
+// 自分の力で、誰かを幸せにしたかった.
+<0299> Nada mais importa.
+// そうしていれば、よかったんだ.
+<0300> O que eu sempre procurei era na verdade algo tão simples.
+// ずっと探していたものとは、そんなありふれたものだったんだ.
+<0301> Alguém a quem eu possa trazer um sorriso.
+// この手で笑わせてあげたいと思う存在.
+<0302> Misuzu era a garota que conheci nesta cidade litorânea.
+// 海辺の町で出会った少女.
+<0303> Ela sempre foi alegre. Ela sempre tava comigo.
+// いつだって元気で、俺と一緒にいた少女.
+<0304> Ela sempre me mostrou seu sorriso.
+// あいつはいつだって、俺のそばで笑っていてくれたのに.
+<0305> E neste momento, eu tava prestes a perdê-la.
+// なのに今、俺はそれをなくそうとしている.
+<0306> Por que eu só fui capaz de perceber isso tarde demais?
+// いつだって俺は気づくのが遅すぎる.
+<0307> Vou perder algo valioso de novo?
+// また失ってしまうのだろうか.
+<0308> \{Voz}"Este senhor tá agindo de forma estranha..."
+// \{声}「このお兄さん、さっきからヘンだよ」
+<0309> \{Voz}"Será que ele tá passando mal por causa do calor?"
+// \{声}「暑いから病気になっちゃったのかなぁ」
+<0310> *Bam!*
+// がばっ!
+<0311> Eu me sentei.
+// 俺は起きあがる.
+<0312> \{Criança}"Eita!"
+// \{子供}「わーっ!」
+<0313> \{Criança}"Kyaa!"
+// \{子供}「きゃーっ!」
+<0314> Acabei assustando as crianças.
+// 子供たちが散ってゆく.
+<0315> \{Yukito}"Esperem!"
+// \{Yukito}「待てっ」
+<0316> Eu peguei uma delas.
+// 俺はその中のひとりを捕まえる.
+<0317> \{Menina}"Kyaa!"
+// \{女の子}「きゃーっ!」
+<0318> \{Yukito}"Por favor, eu preciso da sua ajuda!"
+// \{Yukito}「頼むっ、助けてくれ!」
+<0319> Eu implorei pra menina.
+// 頭を下げる.
+<0320> \{Menina}"Eh...?"
+// \{女の子}「え…？」
+<0321> Ela parecia surpresa.
+// 女の子は驚いたようだった.
+<0322> Mas não fugiu de mim.
+// でも、逃げずにいてくれた.
+<0323> \{Yukito}"Por favor, dê uma olhada nisso."
+// \{Yukito}「とりあえずこれを見てほしいんだ」
+<0324> Peguei meu boneco.
+// 俺は人形を取り出す.
+<0325> \{Menina}"Ah, é uma marionete!"
+// \{女の子}「あ、人形さん」
+<0326> \{Yukito}"Eu vou fazer esse boneco andar."
+// \{Yukito}「今からこの人形さんが歩いてみせるからな」
+<0327> \{Menina}"Sério?"
+// \{女の子}「ほんと？」
+<0328> \{Yukito}"Sim."
+// \{Yukito}「ああ」
+<0329> Coloquei o boneco no chão.
+// 俺はそれを地面に寝かせる.
+<0330> E me concentrei.
+// そして、思いを込める.
+<0331> O boneco se levantou.
+// 人形がぴょこりと立ち上がった.
+<0332> \{Menina}"Uau... Incrível!"
+// \{女の子}「わぁ…すごい」
+<0333> *Pit pat pit pat...*
+// とてとて…
+<0334> E começou andar.
+// 歩き始める.
+<0335> A menina observou os movimentos da marionete.
+// 女の子は人形の動きをじっと見つめている.
+<0336> \{Yukito}"O que achou disso?"
+// \{Yukito}「どうだ？」
+<0337> \{Menina}"Hm... É incrível!"
+// \{女の子}「うーん…ふしぎ～」
+<0338> \{Yukito}"Você achou isso divertido?"
+// \{Yukito}「面白いか？」
+<0339> \{Menina}"Eu achei incrível... mas... não sei se é divertido..."
+// \{女の子}「ふしぎだけど…おもしろくはないよ」
+<0340> \{Yukito}"É isso que eu temia..."
+// \{Yukito}「だよな…」
+<0341> \{Yukito}"E é por isso que preciso da sua ajuda."
+// \{Yukito}「だからな、助けてほしいんだ」
+<0342> \{Menina}"Com o quê?"
+// \{女の子}「なにを？」
+<0343> \{Yukito}"O que falta pra tornar essa apresentação divertida? Quero trazer felicidade com meu show!"
+// \{Yukito}「どうすれば、おもしろくなるか.見ているひとが笑えるようになるか」
+<0344> \{Menina}"Hmm..."
+// \{女の子}「うーん…」
+<0345> \{Menina}"Só um momentinho..."
+// \{女の子}「ちょっと待ってね…」
+<0346> \{Menina}"Pessoal!!!"
+// \{女の子}「みんなぁーっ」
+<0347> A menina chamou seus amigos.
+// 女の子は友達を呼んだ.
+<0348> \{Crianças}"O que foi, Yurippe?"
+// \{子供たち}「どうした、ゆりっぺぇ～」
+<0349> De repente, um bando de crianças se reuniu ao nosso redor.
+// どっから湧いてきたのか、その場にいなかった子供まで寄ってきた.
+<0350> \{Yurippe}"Ouçam... Este senhor..."
+// \{女の子}「あのねあのねー、このお兄ちゃんがねー」
+<0351> Em algum lugar ao longo do caminho, esqueci como fazer as pessoas rirem.
+// いつか忘れてしまった、ひとを笑わせるということ.
+<0352> Eu seria capaz de recuperar essa habilidade?
+// それをもう一度取り戻すことができるだろうか.
+<0353> Passei a tarde aprendendo uma lição com as crianças.
+// 俺は子供たちから、時間をかけて習った.
+<0354> Elas me repreendiam de vez em quando porque eu aprendia devagar.
+// あまりに要領を得ない俺に、ああだこうだと文句を言う.
+<0355> Mas essas crianças não desistiram de mim.
+// それでも子供たちは、見捨てることはしなかった.
+<0356> Eles foram pacientes, desde que eu estivesse disposto a ouvir suas críticas.
+// 皆、ひたむきに向き合えば、どれだけでも根気よく付き合ってくれた.
+<0357> E assim...
+// そして…
+<0358> *Pit pat pit...*
+// とてとてとて…
+<0359> *Ploft!*
+// ぽてっ.
+<0360> O boneco caiu, como se tivesse tropeçado em alguma coisa.
+// 何かにつまづいたように、人形が倒れた.
+<0361> As crianças riram muito.
+// そのとたん、歓声がはじけた.
+<0362> \{Menino}"Ei, isso foi bem engraçado!"
+// \{男の子}「今の、面白かった」
+<0363> \{Yukito}"Sério?"
+// \{Yukito}「そうか？」
+<0364> \{Yurippe}"Sim!"
+// \{女の子}「うんっ」
+<0365> \{Yukito}"Qual parte foi engraçada?"
+// \{Yukito}「どこが面白かった？」
+<0366> \{Yurippe}"Hmm..."
+// \{女の子}「えっとね…」
+<0367> \{Yurippe}"Tudo isso!"
+// \{女の子}「ぜんぶ、おもしろかったよ」
+<0368> \{Yukito}"Entendi..."
+// \{Yukito}「そうか…」
+<0369> Não se tratava apenas de fazer os outros rirem.
+// ただ笑わせるんじゃない.
+<0370> Se alguém pudesse rir por minha causa, eu tava feliz.
+// 誰かが笑ってくれれば、俺は嬉しい.
+<0371> Então, coloquei todo meu sentimento pra mover a marionete.
+// だから、一生懸命に動かす.
+<0372> Finalmente me lembrei do que minha mãe me disse.
+// やっと思い出すことができた、母の言葉が響く.
+<0373> 'Faça um pedido a esta marionete com toda força de seu coração.'
+// 『人形に心を籠めなさい』
+<0374> Eu senti que seria capaz de fazer isso agora.
+// 今ならできそうな気がした.
+<0375> \{Menino}"Podemos ir para casa agora?"
+// \{女の子}「もう、かえっていい？」
+<0376> Uma das crianças perguntou. Ela parecia prestes a chorar.
+// 別の子が、泣きそうな声で訊く.
+<0377> \{Yurippe}"Minha mãe vai ficar preocupada comigo."
+// \{女の子}「お母さん、心配するから…」
+<0378> \{Yukito}"Oh, me desculpe. Obrigado pelas dicas!"
+// \{Yukito}「ああ.悪かった.サンキュな」
+<0379> \{Crianças}"Tchau, tchau."
+// \{子供たち}「ばいばい」
+<0380> \{Yukito}"Tchau, tchau."
+// \{Yukito}「ああ、ばいばい」
+<0381> As crianças acenaram pra mim e foram embora.
+// いっぱいに手を振りながら、子供たちは去っていった.
+<0382> Eu também me preparei pra sair.
+// 俺も出立の準備をする.
+<0383> Arrumei os pequenos pertences que tinha.
+// 少ない荷物をまとめて.
+<0384> E voltei pelo caminho de onde vim.
+// 来た道を戻る.
+<0385> Meu ritmo acelerou sem eu perceber.
+// 自然に足が早まる.
+<0386> Esta rua que percorri com Misuzu.
+// 観鈴と歩いた道.
+<0387> Esta cidade onde morei com ela.
+// 観鈴が暮らした町.
+<0388> Sem fôlego, virei a esquina.
+// 息を切らして、角を曲がる.
+<0389> Um cenário familiar tava diante de mim.
+// 見覚えのある風景が広がる.
+<0390> Mas neste verão eterno, só faltava uma coisa pra completar a imagem.
+// いつまでも続く夏の中、たったひとつ足りないもの.
+<0391> Faltava a garota que sorriu pra mim quando cheguei aqui.
+// この町に降りたって間もない俺に、笑いかけてくれたひとりの少女.
+<0392> 'Venha comigo para a praia.'
+// 『浜辺にいこっ』
+<0393> Huh?
+// …は？
+<0394> 'A praia ali.'
+// 『浜辺.そこ』
+<0395> Por que eu deveria?
+// …どうして.
+<0396> 'Porque eu quero brincar.'
+// 『遊びたいから』
+<0397> .........
+// ……….
+<0398> 'Você estava dormindo no mesmo lugar ontem à noite, não estava?'
+// 『夕べ寝てましたよね、さっきの場所で』
+<0399> 'Você devia estar muito cansado.'
+// 『よっぽど疲れてたんですね』
+<0400> 'Seu cansaço desapareceu?'
+// 『疲れはとれましたか？』
+<0401> 'Você está livre hoje?'
+// 『今日は暇ですか？』
+<0402> .........
+// ……….
+<0403> 'Você não parece que está ocupado...'
+// 『やっぱりダメかな…』
+<0404> \{Yukito}"Pois é..."
+// \{Yukito}「いや…」
+<0405> \{Yukito}"Meu cansaço desapareceu. E estou livre a partir de hoje."
+// \{Yukito}「疲れもとれたし、今日からずっと暇だ」
+<0406> \{Yukito}"Então..."
+// \{Yukito}「だから…」
+<0407> \{Yukito}"Vamos brincar juntos durante todo esse verão!"
+// \{Yukito}「夏休み、めいっぱい遊ぼうな」
+<0408> "Ok!" \wait{2000}
+// 『うんっ』\wait{2000}
+<0409> O frio do ar condicionado tava estagnado no quarto escuro.
+// 暗い部屋に、クーラーの冷気が淀んでいた.
+<0410> Misuzu ainda tava dormindo.
+// 観鈴は眠っていた.
+<0411> Até a respiração dela parecia dolorosa.
+// 寝息さえもが苦しそうだった.
+<0412> Observei o seu rosto.
+// その顔を見つめる.
+<0413> Era o rosto de alguém que havia perdido a esperança de conseguir ajuda.
+// 助けは来ないと諦めた人の顔に思えた.
+<0414> \{Yukito}"Misuzu..."
+// \{Yukito}「観鈴…」
+<0415> \{Yukito}"Eu só vou me sentar aqui."
+// \{Yukito}「ここ、座るな」
+<0416> Fiquei no local de sempre.
+// いつも寄り添っていた場所に、俺は腰を下ろす.
+<0417> \{Yukito}"Eu voltei."
+// \{Yukito}「戻ってきたんだ」
+<0418> \{Yukito}"E eu não vou mais a lugar algum."
+// \{Yukito}「もうどこにもいかない」
+<0419> \{Yukito}"Vou ficar aqui com você e continuar te fazendo sorrir."
+// \{Yukito}「おまえと一緒にいて、おまえを笑わせ続ける」
+<0420> \{Yukito}"Eu já me decidi."
+// \{Yukito}「そうすることにしたんだ」
+<0421> \{Yukito}"Então... Misuzu, acorde."
+// \{Yukito}「だからな、観鈴…起きろ」
+<0422> Balancei seus ombros suavemente.
+// 肩をそっと揺する.
+<0423> \{Yukito}"Misuzu... Sou eu."
+// \{Yukito}「観鈴…俺だ」
+<0424> Chamei o nome dela.
+// 根気強く呼びかけ続ける.
+<0425> \{Yukito}"Misuzu..."
+// \{Yukito}「観鈴…」
+<0426> \{Misuzu}"Hnn..."
+// \{観鈴}「う…ん…」
+<0427> Ela finalmente abriu as pálpebras.
+// すると、ようやくその目が薄く開かれた.
+<0428> \{Misuzu}"........."
+// \{観鈴}「………」
+<0429> \{Yukito}"Misuzu? Você tá me reconhecendo?"
+// \{Yukito}「観鈴、わかるか.俺だ」
+<0430> \{Misuzu}"Yukito-san..."
+// \{観鈴}「…Yukitoさん…」
+<0431> Sua voz tava fraca.
+// か細い声.
+<0432> Ela parecia alguém que ficou de cama por anos.
+// もう何年も床に伏せている病人のようだった.
+<0433> \{Yukito}"Apenas fique parada se doer."
+// \{Yukito}「辛いなら、そのままでいい」
+<0434> \{Yukito}"Veja, vou fazer minha marionete andar pra você."
+// \{Yukito}「いいか、これからおまえのために人形を歩かせてみせるから」
+<0435> \{Yukito}"Apenas observe atentamente."
+// \{Yukito}「だから、よおく見てろよ」
+<0436> \{Yukito}"Já peguei o jeito. Você certamente achará minha atuação divertida."
+// \{Yukito}「コツ掴んだんだ.絶対面白いから」
+<0437> \{Yukito}"Você definitivamente vai voltar a sorrir."
+// \{Yukito}「だから、また笑えるようになる」
+<0438> Peguei meu boneco e o coloquei ao lado da cama dela.
+// 人形を取り出し、枕元に置いた.
+<0439> Então fiz um desejo pra marionete.
+// 祈るように念を込める.
+<0440> *Pit pat pit pat...*
+// とてとて…
+<0441> *Pit pat pit...*\p *Ploft!*
+// …とてとて…
+<0442> \{Yukito}"Viu? Minha atuação não tá divertida?"
+// \{Yukito}「な、おもしろいだろ」
+<0443> .........
+// ……….
+<0444> \{Yukito}"Misuzu, você tá assistindo?"
+// \{Yukito}「観鈴、見てくれてるか」
+<0445> \{Yukito}"Isso foi engraçado, né?"
+// \{Yukito}「おかしいだろ」
+<0446> .........
+// ……….
+<0447>  Os olhos de Misuzu não tavam mais abertos.
+// 観鈴はもう、目を開けていなかった.
+<0448> \{Yukito}"Misuzu, acorde."
+// \{Yukito}「観鈴、起きろよ」
+<0449> \{Yukito}"Olhe pra marionete. Veja a minha apresentação."
+// \{Yukito}「見てくれよ.それで、笑ってくれよ」
+<0450> \{Yukito}"Ei, Misuzu..."
+// \{Yukito}「な、観鈴…」
+<0451> Eu segurei a mão de Misuzu.
+// 俺はその手を握る.
+<0452> Ela não tava se movendo.
+// かすかな力で、握り返してくる.
+<0453> Seus dedos tavam frios ao toque.
+// その指先が冷たい.
+<0454> \{Yukito}"Eu finalmente percebi algo."
+// \{Yukito}「俺、やっと気づいたんだ」
+<0455> \{Yukito}"Tudo que eu queria era estar ao seu lado e te ver sorrir."
+// \{Yukito}「俺はおまえのそばにいて、おまえが笑うのを見ていればそれでよかったんだ」
+<0456> \{Yukito}"Essa é a minha felicidade."
+// \{Yukito}「そうしていれば、俺は幸せだったんだ」
+<0457> \{Yukito}"É por isso que estarei com você."
+// \{Yukito}「だから、俺はおまえのそばにいる」
+<0458> \{Yukito}"Você nunca mais passará outra noite sozinha."
+// \{Yukito}「もうひとりで、夜を越えることもない」
+<0459> \{Yukito}"Porque eu estarei ao seu lado."
+// \{Yukito}「俺がいるからな」
+<0460> \{Yukito}"Eu farei você sorrir, sempre."
+// \{Yukito}「俺が、笑わせ続けるから」
+<0461> \{Yukito}"Mesmo quando você estiver sofrendo, farei você sorrir."
+// \{Yukito}「おまえが苦しいときだって俺が笑わせるから」
+<0462> \{Yukito}"Então, por favor, fique comigo e nunca pare de sorrir."
+// \{Yukito}「だから、おまえはずっと、俺の横で笑っていろ」
+<0463> \{Yukito}"Sorria sem nenhuma preocupação no mundo."
+// \{Yukito}「安心して笑っていろ」
+<0464> \{Yukito}"Ok, Misuzu?"
+// \{Yukito}「な、観鈴」
+<0465> O tempo passou.
+// 時間だけが過ぎてゆく.
+<0466> E eu não saí do lado de Misuzu.
+// 俺は一度も、観鈴の元を離れなかった.
+<0467> Eu simplesmente continuei fazendo meu boneco se mover com toda a minha força de vontade.
+// ただ心を籠めて、人形を動かし続けた.
+<0468> Misuzu...
+// 観鈴…
+<0469> Finalmente encontrei o que tanto procurava.
+// 俺は見つけたから.
+<0470> Você é o meu tesouro.
+// 一番大切なものを.
+<0471> Você é a minha felicidade.
+// 俺の幸せを.
+<0472> Eu vou ficar aqui pra sempre.
+// だから、ずっとここにいる.
+<0473> Não importa o que aconteça...
+// どうなろうとも…
+<0474> Não importa o que aconteça com você e comigo...
+// 俺が…おまえがどうなってしまおうとも…
+<0475> Estaremos aqui juntos.
+// ふたりはここにいる.
+<0476> Eu nunca te deixarei.
+// 居続ける.
+<0477> Encontraremos a felicidade.
+// ふたりで幸せになる.
+<0478> \{Yukito}(Certo, Misuzu...?)
+// \{Yukito}(な、観鈴…)
+<0479> .........
+// ……….
+<0480> ......
+// …….
+<0481> ...
+// ….
+<0482> De repente, senti uma luz branca oscilante através das minhas pálpebras fechadas.
+// まぶたの向こうで、白い光が揺らいでいた.
+<0483> É de manhã?
+// 朝か….
+<0484> Eu abri meus olhos.
+// 俺は目を開く.
+<0485> Porém, percebi que ainda era madrugada...\p\nE o que eu vi...
+// けれど、そこに待っていたのは夜明けではなかった.
+<0486> ...Foi algo inacreditável.
+// 不思議な光景だった.
+<0487> A marionete irradiava uma luz branca e intensa.
+// 人形が真っ白に輝いていた.
+<0488> Isso me fez apertar os olhos.
+// それを薄く開けた瞳に映していた.
+<0489> Senti como se minha consciência tivesse sendo sugada pela marionete.
+// 自分の意識が、人形に吸い込まれていくのを感じる.
+<0490> Fui envolvido por algo quente.
+// 温かい流れの中に、身体ごと包まれていく.
+<0491> Minha mente tá ficando tão leve, como se um vento estivesse soprando sobre mim.
+// 心が風に洗われるように、透明に透き通っていく.
+<0492> O que tá acontecendo...?
+// なんなんだろう…これは…
+<0493> "Yukito..."
+// 『…Yukito』
+<0494> Eu ouvi uma voz me chamar.
+// 声が聞こえた.
+<0495> "Agora é a hora de lembrar."
+// 『…今こそ、思い出しなさい』
+<0496> Sua voz trouxe de volta memórias adormecidas.
+// 懐かしい人の声だった.
+<0497> "Lembre-se do que você precisa fazer..."
+// 『あなたのなすべきことを…』
+<0498> Com minha consciência me abandonando, procurei por Misuzu.
+// おぼろげになっていく意識の中で、俺は必死に観鈴の姿を求めた.
+<0499> Não havia mais nada que eu precisasse lembrar.
+// 思い出すことなんて、もう何もない.
+<0500> Eu não me importava com o que precisava fazer.
+// なすべきことなんて、俺は知らない.
+<0501> Tudo que eu queria era ficar com ela.
+// 俺はただ、こいつのそばにいたいだけなんだ.
+<0502> Tudo que eu queria era passar esses dias monótonos junto com Misuzu.
+// ただもう一度、観鈴の側で穏やかな日々を過ごしたいだけなんだ.
+<0503> Tudo que eu queria era fazer Misuzu sorrir.
+// ただ、観鈴を笑わせてやりたいだけなんだ.
+<0504> Mais uma vez...
+// もう一度…
+<0505> Se eu puder recomeçar, mais uma vez...
+// もう一度だけやり直せるのなら.
+<0506> Então eu irei, sem sombra de dúvida, escolher ficar com você...
+// そうすれば、俺は間違えずにそれを求められるから…
+<0507> \{Yukito}(Então, por favor...)
+// \{Yukito}(だから、どうか…)
+<0508> \{Yukito}(Me deixe voltar pra época em que conheci Misuzu...)
+// \{Yukito}(観鈴と出会った頃に戻って…)
+<0509> \{Yukito}(Me deixe estar com Misuzu mais uma vez...)
+// \{Yukito}(もう一度…観鈴のそばに…)
+<0510> Então...\p finalmente aconteceu.
+// そして.
+<0511> A luz preencheu o quarto.
+// 辺りに光が満ちた.
+<0512> \{Misuzu}"Por quê...?"
+// \{観鈴}「どうしてだろ…」
+<0513> \{Misuzu}"Eu pensei que nunca mais acordaria..."
+// \{観鈴}「もう起きられないと思ってたのに…」
+<0514> \{Misuzu}"Achei que não havia mais esperança para mim."
+// \{観鈴}「もうダメだって、思ってたのに…」
+<0515> \{Misuzu}"........."
+// \{観鈴}「………」
+<0516> \{Misuzu}"Yukito-san?"
+// \{観鈴}「Yukitoさん？」
+<0517> \{Misuzu}"Onde você está, Yukito-san?"
+// \{観鈴}「Yukitoさん、どこにいっちゃったの？」
+<0518> \{Misuzu}"Você voltou por mim, não foi?"
+// \{観鈴}「戻ってきてくれたんだよね…」
+<0519> \{Misuzu}"Yukito-san..."
+// \{観鈴}「Yukitoさん…」
+<0520> \{Misuzu}"Ei, estou me sentindo melhor agora."
+// \{観鈴}「ね、わたし、また元気になったよ」
+<0521> \{Misuzu}"Sinto que ainda posso continuar."
+// \{観鈴}「まだ、がんばれそうだよ」
+<0522> \{Misuzu}"Ei, Yukito-san..."
+// \{観鈴}「ね、Yukitoさん…」
+<0523> \{Misuzu}"Yukito-san..."
+// \{観鈴}「Yukitoさん…」

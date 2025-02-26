@@ -1,0 +1,3547 @@
+// Resources for SEEN0702.TXT
+
+#character 'Kanna'
+//#character '神奈'
+#character 'Ryuuya'
+//#character '柳也'
+#character 'Uraha'
+//#character '裏葉'
+#character '僧兵'
+//#character '僧兵'
+#character 'Voz'
+//#character 'Voice'
+#character 'Mãe'
+//#character '母'
+#character 'Soldado'
+//#character '雑兵'
+
+<0000> [ Montanha Sagrada ] / Ryuuya
+// ［ 霊 山 ］／柳也
+<0001> A lua brilhava sobre a terra.
+// 月光が、降りそそいでいた.
+<0002> Sua luz pálida se infiltrava em todos os cantos dessa floresta sem nome.
+// 名もない森の隅々まで、淡い光が満ちていた.
+<0003> As lembranças daquele dia voltaram à minha mente.
+// 俺は思いだしていた.
+<0004> Era uma noite quente e úmida no santuário.
+// 蒸し暑い社殿の夜.
+<0005> Kanna havia murmurado.
+// 神奈がつぶやいた言葉.
+<0006> 'Eu quero ver ela...'
+// 『逢いたい…』
+<0007> Tudo começou a se mover a partir daquela noite.
+// すべてはあの夜からはじまった.
+<0008> Exatamente um mês havia se passado desde aquele dia.
+// あれからちょうど、一月が過ぎようとしていた.
+<0009> Chegamos ao topo do Monte Kouya.
+// 霊峰高野山.
+<0010> Estávamos perto do Templo Adamantina.
+// 金剛峰寺のふところに、俺たちはいた.
+<0011> \{Kanna}"Não há nenhum templo por aqui!"
+// \{神奈}「寺などどこにもないではないか」
+<0012> \{Kanna}"Só floresta para onde quer que eu olhe."
+// \{神奈}「どこまで行っても見たような森ばかりだ」
+<0013> \{Kanna}"Que paisagem mais chata!"
+// \{神奈}「景色がかわらず退屈だぞ」
+<0014> \{Ryuuya}"Fique quieta e continue caminhando."
+// \{柳也}「…だまって歩け」
+<0015> O Templo Adamantina é o nome dado ao conjunto de cem santuários do Monte Kouya.
+// 金剛峰寺とは、高野山にある幾百もの寺院をまとめて指す名だ.
+<0016> Por isso, todo o Monte Kouya é comumente chamado simplesmente de Templo Adamantina.
+// 高野山そのものも、同じように金剛峰寺と呼びならわす.
+<0017> \{Ryuuya}"Já devemos estar dentro de Kouya agora."
+// \{柳也}「もう高野の領内に入っているはずだ」
+<0018> Eu não ficaria surpreso se encontrasse patrulhas.
+// 警護の者がいても不思議はない.
+<0019> \{Kanna}"Tenho a sensação de que estamos andando em círculos."
+// \{神奈}「さっきから同じところを回っている気がするぞ」
+<0020> \{Ryuuya}"Isso é apenas sua imaginação. Fique quieta e continue andando."
+// \{柳也}「気のせいだ、だまって歩け」
+<0021> \{Kanna}"Hmm..."
+// \{神奈}「…むぅ」
+<0022> Tivemos a mesma conversa por um bom tempo.
+// さっきから同じ会話を何度もしている.
+<0023> Eu estava começando a duvidar de mim mesmo.
+// 俺も何かおかしいと思いはじめていた.
+<0024> As pessoas se perdem nas montanhas porque tendem a confiar demais em seus arredores para avaliar sua localização.
+// 山中で道に迷うのは、周りの景色に頼りすぎるためだ.
+<0025> No entanto, eu estava usando a lua como nosso guia.
+// ここまで俺は、月を頼りに歩いてきた.
+<0026> Assim não havia como seguirmos na direção errada.
+// 方角を間違えるはずはないのだ.
+<0027> Mas algo ainda parecia estranho.
+// だが、何かが微妙におかしい.
+<0028> A lua estava excepcionalmente clara para uma noite de verão.
+// 夏の夜にはめずらしく、月は冴え渡っている.
+<0029> A lua está quase cheia.
+// 満月にはほんの少し満たない月.
+<0030> Uraha, que estava andando por último, parou de repente.
+// しんがりを歩いていた裏葉が、不意に立ちどまった.
+<0031> \{Ryuuya}"O que há de errado, Uraha?"
+// \{柳也}「どうした、裏葉」
+<0032> \{Uraha}"Ryuuya-san, dê uma olhada nisso."
+// \{裏葉}「柳也さま、これを」
+<0033> Uma corda de cânhamo foi amarrada ao redor do tronco grosso de uma árvore de cedro.
+// 見ると、太い杉の幹に麻縄が巻かれていた.
+<0034> Tiras brancas de papel, espaçadas uniformemente, estavam penduradas nela.
+// そこから等間隔に、白い紙が垂らされている.
+<0035> \{Ryuuya}"Uma corda sagrada?"
+// \{柳也}「注連縄(しめなわ)か」
+<0036> \{Uraha}"Parece que alguém colocou uma barreira."
+// \{裏葉}「結界が張られているようですわ」
+<0037> \{Kanna}"O que é uma barreira?"
+// \{神奈}「結界とは何だ？」
+<0038> \{Uraha}"É uma divisão para impedir a entrada de entidades impuras."
+// \{裏葉}「不浄なものを入れぬための、仕切(しきり)のようなものでございます」
+<0039> \{Kanna}"O que são entidades impuras?"
+// \{神奈}「不浄なものとは、どのようなものだ？」
+<0040> \{Ryuuya}"Fantasmas, espíritos vingativos, seres alados glutões e assim por diante."
+// \{柳也}「鬼とか怨霊とか大食らいの翼人とかだな」
+<0041> \{Kanna}"Quem você está chamando de glutão?"
+// \{神奈}「だれが大食らいかっ!」
+<0042> \{Ryuuya}"Eu não disse em momento algum que era você."
+// \{柳也}「おまえだなんて一言も言ってないぞ」
+<0043> \{Uraha}"Silêncio, por favor."
+// \{裏葉}「おしずかに」
+<0044> Rapidamente, cobri minha boca depois que Uraha me deu uma bronca com uma voz ríspida.
+// 鋭い声でたしなめられ、あわてて口をつぐむ.
+<0045> Uraha estava imóvel, encarando a escuridão à sua frente.
+// 裏葉は身じろぎもせずに、行く手の闇を見つめている.
+<0046> Ela parecia estar trancando a respiração.
+// 息さえも止めているようだった.
+<0047> Por fim, ela levantou uma manga e apontou em uma direção.
+// やがてするりと袖を持ち上げ、一方を指さした.
+<0048> \{Uraha}"É por aqui."
+// \{裏葉}「こちらでございます」
+<0049> \{Ryuuya}"Como você sabe o caminho?"
+// \{柳也}「わかるのか？」
+<0050> \{Uraha}"É só a minha intuição."
+// \{裏葉}「何とはなしにでございますが」
+<0051> Ela sorriu sutilmente.
+// うっすらと微笑む.
+<0052> Eu troquei olhares com Kanna.
+// 思わず神奈と顔を見合わせた.
+<0053> As ações de Uraha eram sempre enigmáticas.
+// 裏葉の行動には今も謎が多い.
+<0054> No entanto, eu acreditava nela.
+// しかし、信じられると思った.
+<0055> E assim fomos mais fundo na floresta enluarada, seguindo a orientação de Uraha.
+// 裏葉の導きで、月光の森を進んでいく.
+<0056> Encontramos mais algumas cordas de cânhamo pelo caminho.
+// 途中、いくつかの注連縄を見つけた.
+<0057> A lua aparecia, às vezes à esquerda, outras vezes à direita.
+// 月はある時は左に見え、ある時は右に見えた.
+<0058> Meus sentidos me diziam que estávamos presos em um círculo sem fim.
+// 俺の感覚に従えば、同じ場所を堂々巡りしているようにしか思えない.
+<0059> De repente, a lua se escondeu por trás das nuvens, como se tivesse sido apagada do céu.
+// その時不意に、月が雲に隠れた.
+<0060> A aparência da floresta também havia mudado.
+// 森の様子が変わった.
+<0061> Parecia uma floresta virgem, onde nenhum ser humano havia pisado.
+// 人が入ったことのない、原生林のようだった.
+<0062> Os ramos retorcidos das árvores obstruíam nosso caminho.
+// ねじくれた木々の枝が、行く手をふさいでいる.
+<0063> Uma névoa úmida pairava no ar, como se fosse lã macia.
+// 湿り気を帯びた靄(もや)が、綿屑のようにたなびいている.
+<0064> Essa atmosfera era completamente diferente da floresta por onde havíamos caminhado há pouco tempo atrás."
+// さっきまで歩いていた森とは、まったくおもむきが違った.
+<0065> \{Kanna}"Este lugar é assustador."
+// \{神奈}「薄気味が悪いぞ…」
+<0066> "A voz de Kanna ecoou de forma estranha, distorcida."
+// 神奈の声が、嫌にゆがんで響いた.
+<0067> Senti uma certa pressão.
+// 頭の奧に、ひどい圧迫感がある.
+<0068> Eu não tinha certeza se conseguiria mais ficar em pé.
+// 自分がまっすぐに立っているのか、それさえわからない.
+<0069> \{Ryuuya}"O que está acontecendo?"
+// \{柳也}「どういうことだ…？」
+<0070> \{Uraha}"Acabamos de entrar na barreira."
+// \{裏葉}「結界の只中(ただなか)に入ったのでございましょう」
+<0071> \{Ryuuya}"Estamos dentro da barreira?"
+// \{柳也}「結界の、只中？」
+<0072> Eu dei um passo à frente.
+// 足を踏み出してみた.
+<0073> As samambaias úmidas se agarraram aos meus pés e dificultaram minha caminhada.
+// 濡れた羊歯(しだ)が足にからみつき、ひどく歩きにくい.
+<0074> \{Ryuuya}"Para onde devemos ir?"
+// \{柳也}「どっちに進めばいいんだ」
+<0075> Logo depois de eu ter dito isso...
+// つぶやいた時.
+<0076> Senti o cheiro de alguma coisa.
+// ひとすじの匂いが、鼻先をかすめていった.
+<0077> Um alarme soou na minha mente.
+// 鈍った頭がぴんと警報を発した.
+<0078> Eu reconheceria esse odor em qualquer lugar.
+// この匂いだけは間違えようがなかった.
+<0079> Alguma coisa estava queimando.
+// 何かが焼ける匂い.
+<0080> No ar, o cheiro de metal enferrujado se misturava com o do fogo... cânhamo e couro encharcados de suor e sangue.
+// 錆びた鉄と松明、汗で濡れた革と麻、そして血の匂い.
+<0081> \{Ryuuya}"Fiquem quietas e não façam barulho."
+// \{柳也}「とまれ、声を立てるな」
+<0082> \{Kanna}"O que está acontecendo?"
+// \{神奈}「いきなりどうしたのだ？」
+<0083> \{Ryuuya}"Há uma batalha em andamento à frente."
+// \{柳也}「この先で戦(いくさ)をしている…」
+<0084> Sons agudos vinham de fora da névoa.
+// 靄の向こうから、甲高い音が聞こえる.
+<0085> *Clink... Clank...*
+// きん…かっ…
+<0086> Era o som de katanas se chocando.
+// 刀と刀が切り結ぶ音だ.
+<0087> \{Ryuuya}"Está perto... não... Está longe?""
+// \{柳也}「近い…いや、遠いのか？」
+<0088> Não consegui saber a distância da fonte.
+// 音までの距離が、まったくわからない.
+<0089> Era a primeira vez que isso estava acontecendo comigo.
+// こんなことは初めてだった.
+<0090> Uraha e Kanna se aproximaram de mim.
+// 裏葉と神奈が、左右から俺に身を寄せてきた.
+<0091> Eu não podia deixar essas duas se preocuparem.
+// この二人に不安を悟られてはいけない.
+<0092> Mas não consegui pensar em uma maneira de fazer isso.
+// それなのに、どうするべきなのか考えがまとまらない.
+<0093> Só então...
+// その時だった.
+<0094> A escuridão à nossa frente diminuiu.
+// 目前の闇が、どろりと溶け落ちた.
+<0095> Uma sensação estranha me assaltou, pois o espaço à nossa frente parecia ter sido rasgado.
+// 空間そのものが引き裂かれたような、強烈な違和感が襲った.
+<0096> Forcei a abertura de meus olhos fechados.
+// つぶりかけた眼を、無理にこじ開ける.
+<0097> Então vi as silhuetas de pessoas...
+// 人影が見えた.
+<0098> ...E suas lâminas brilhantes.
+// ぬらりと光る、刃物の切っ先も.
+<0099> \{Ryuuya}"Corram!"
+// \{柳也}「走れっ!」
+<0100> Eu as levei de volta para a névoa.
+// 裏葉と神奈の背を押すように、靄の中に送り出す.
+<0101> \{Ryuuya}"Uraha, proteja Kanna!"
+// \{柳也}「裏葉、神奈を護れっ」
+<0102> \{Uraha}"Sim!"
+// \{裏葉}「はいっ」
+<0103> Uraha tirou uma adaga de dentro de suas roupas.
+// 裏葉がふところから短刀を引き抜いたのが見えた.
+<0104> Ao mesmo tempo, desembainhei minha katana.
+// 同時に、俺も抜刀する.
+<0105> Três figuras surgiram à nossa frente.
+// 現れた人影は…三つ.
+<0106> Cada uma delas tinha cerca de 1,80 m de altura.
+// どれも身の丈六尺近い大男だ.
+<0107> Estavam vestidas com roupas de monge cinza e carregavam armas longas com bainha preta.
+// 灰色の僧衣に、黒鞘の長太刀.
+<0108> Seus olhares penetrantes nos examinaram por baixo de seus capuzes.
+// すっぽりと被った頭巾(ずきん)から、鋭い眼だけが覗いている.
+<0109> \{Ryuuya}"Os monges guerreiros de Kouya..."
+// \{柳也}「高野の武者法師か…」
+<0110> Esses homens eram um grupo de assassinos vestidos com roupas de monges que guardavam toda a vizinhança do Templo Adamantina.
+// 金剛峰寺全山を守護する、僧形(そうぎょう)の荒くれ者たち.
+<0111> Eles eram conhecidos por sua bravura e sua experiência em guerras nas montanhas.
+// 勇猛で名高く、山岳で戦うのに慣れている.
+<0112> Além disso, eles acreditavam que tinham a proteção de Buda mesmo após a morte.
+// おまけに、死んでさえ仏の加護があると信じている.
+<0113> Eles eram o tipo de homem com quem você evitaria começar uma briga.
+// できればまともには斬り結びたくない相手だ.
+<0114> Dois deles estavam armados com \g{naginatas}={Alabarda japonesa, consiste de uma lâmina curva fixada numa haste longa de madeira.} e o último estava segurando uma katana longa.
+// 武装は薙刀(なぎなた)が二人、太刀が一人.
+<0115> \{Monge:}"Como um samurai do campo como você entrou aqui?"
+// \{僧兵}「田舎侍風情(ふぜい)が、どうやってここに入り込んだのだ」
+<0116> Um dos homens encapuzados segurando uma naginata perguntou com uma voz áspera.
+// 薙刀をたずさえた一人が、頭巾ごしの野太い声で言った.
+<0117> \{Ryuuya}"Parece que encontramos algumas raposas."
+// \{柳也}「浮かれて夜道を歩いてたら、野狐に化かされたらしい」
+<0118> \{Ryuuya}"Não, parecem mais com guaxinins."
+// \{柳也}「いや、どちらかというと野狸かな」
+<0119> \{Monge:}"Diga isso de novo?!"
+// \{僧兵}「何をっ…」
+<0120> O monge guerreiro, enfurecido, deu um passo à frente.
+// いきり立った僧兵が、ずいっと歩を進めた.
+<0121> Posicionei minha katana na altura da cintura.
+// 俺は刀を中段にかまえた.
+<0122> Em seguida, virei a lâmina de modo que o lado cego ficasse voltado para cima.
+// 掌の中で太刀を返し、刀背(むね)を上向ける.
+<0123> Manterei minha promessa de não tirar vidas.
+// 不殺の誓いというやつだ.
+<0124> Embora não houvesse como saber o que faria se a luta ficasse difícil, eu tentaria o meu melhor para atacar com o lado cego da minha katana.
+// 乱戦になれば怪しいが、やれるところまでは峰打ちでしのぐ.
+<0125> Estudei meus oponentes e mantive a respiração firme.
+// 相手を見据えたまま、呼吸を落ち着ける.
+<0126> Deixei meu corpo inteiro relaxar.
+// 全身の力を抜く.
+<0127> Meu corpo se tornou tão maleável quanto um lençol de seda esvoaçando na brisa suave.
+// 微風になびく絹のように、己をゆるやかに保つ.
+<0128> De repente, a atmosfera ficou tensa.
+// ふっと、気が乱れた.
+<0129> \{Monge:}"Hah!"
+// \{僧兵}「どうりやぁあぁあぁあぁ～～」
+<0130> Um dos monges guerreiros avançou sua naginata contra mim.
+// 薙刀の僧兵が打ちかかってきた.
+<0131> As naginatas não podiam ser balançadas livremente em uma floresta.
+// 森の中では薙刀を振り回すわけにはいかない.
+<0132> Ele definitivamente miraria em meus pés, onde era difícil desviar com uma katana.
+// 太刀では防ぎにくい踝(くるぶし)を確実に狙ってくる.
+<0133> Chutei o chão e pulei para o lado.
+// 地面を蹴り、斜め前に跳んだ.
+<0134> O local em que eu estava antes foi escavado por sua lâmina crescente.
+// 俺の足があった場所を、三日月型の刃が空しく刈りとる.
+<0135> Sem hesitar, diminuí a distância entre nós.
+// そのまま一気に間合いをつめる.
+<0136> Há apenas uma estratégia para combater adversários com armas longas.
+// 長柄物と戦うなら、勝法はひとつ.
+<0137> Em uma curta distância, a lâmina na ponta de uma naginata se torna inútil.
+// 相手の懐(ふところ)に入ってしまえば、穂先にある刃は無力だ.
+<0138> Os olhos do monge se arregalaram de surpresa com meu ataque repentino.
+// 不意をつかれた僧兵の眼が、驚愕で歪む.
+<0139> Apontei o lado cego de minha lâmina para sua cintura.
+// 刀の峰で、その胴を薙ぎ払った.
+<0140> *Slash!*
+// …ざすっ.
+<0141> \{Monge:}"Argh..."
+// \{僧兵}「ぐふぅ…」
+<0142> O homem enorme caiu de joelhos.
+// 巨体ががっくりと膝をつき、地面に崩れ落ちた.
+<0143> Um vento soprou entre os dois monges restantes.
+// 残った僧兵たちの間に、ざわりと風が起こる.
+<0144> \{Monge:}"Ele é melhor do que eu imaginava."
+// \{僧兵}「存外腕が立つぞ」
+<0145> \{Monge:}"Samurai do campo insolente!"
+// \{僧兵}「小癪(こしゃく)な田舎侍がっ」
+<0146> \{Monge:}"Esse homem não é de Azuma."
+// \{僧兵}「こやつ、吾妻者ではないぞ」
+<0147> Os dois monges inspecionaram minha aparência.
+// 俺の身なりを食い入るように見つめ、言った.
+<0148> \{Monge:}"Quem é você? Diga seu nome!"
+// \{僧兵}「うぬは何奴ぞ？ 名を名乗れ」
+<0149> Para para o  azar deles, eu não tive uma boa educação.
+// あいにくだが、こっちは育ちが悪い.
+<0150> Não faz sentido dizer meu nome quando não há nenhuma recompensa.
+// 何も褒美が出ないのでは、名を教えてもつまらない.
+<0151> \{Ryuuya}"Meu nome não vale a pena ser mencionado."
+// \{柳也}「名乗るほどのものじゃない」
+<0152> \{Monge:}"O quê?!"
+// \{僧兵}「何だと？」
+<0153> \{Ryuuya}"Em guarda!"
+// \{柳也}「参るっ」
+<0154> Tomei a iniciativa enquanto meus oponentes ainda estavam hesitantes.
+// 相手が鼻じろんだ一瞬の隙に、次の行動を起こした.
+<0155> Meu alvo dessa vez era o segundo usuário com a naginata na frente.
+// 狙いは敵の前衛、二人目の薙刀使いだ.
+<0156> \{Monge:}"Eiii...!"
+// \{僧兵}「…でえいっ!」
+<0157> Saltei para o lado, me esquivando de seu impulso relâmpago.
+// 一閃目の突きを、横に跳ね飛びかわす.
+<0158> Então, dei um passo à frente em direção ao seu ponto cego.
+// そのまま回り込むように死角を狙う.
+<0159> Ele tentou sacar a arma para se defender, mas as árvores o impediram. 
+// 敵もついてこようとするが、立木が邪魔して薙刀を回せない.
+<0160> No entanto, esse oponente era mais esperto.
+// だが、今度の敵はもっと利口だった.
+<0161> No momento em que estava dentro do meu alcance de corte, ele jogou fora sua naginata sem pensar duas vezes.
+// 俺が間合いに入った瞬間、ためらうことなく薙刀を捨てた.
+<0162> No mesmo movimento, ele pegou a katana em sua cintura.
+// そのまま腰の太刀を探る.
+<0163> O monge desembainhou a katana rapidamente.
+// 抜く手も早い.
+<0164> Mas eu não brandi minha lâmina contra ele.
+// 俺は刀を振るわなかった.
+<0165> Em vez disso, eu o ataquei golpeando-o com meu ombro.
+// 勢いにまかせ、敵に肩口からぶつかっていく.
+<0166> No instante seguinte...
+// 次の瞬間.
+<0167> \{Monge:}"Ugh..."
+// \{僧兵}「ううっ…」
+<0168> Enterrei o punho da minha katana profundamente em seu plexo solar.
+// 俺の太刀の柄が、僧兵の鳩尾(みぞおち)にめり込んでいた.
+<0169> O rosto do homem se encolheu em agonia enquanto ele caía curvado no chão.
+// 苦悶の表情を浮かべ、敵が地面にうずくまる.
+<0170> Ainda falta um.
+// 残りは一人.
+<0171> O último homem estava balançando a katana descontroladamente e olhando desesperadamente ao seu redor.
+// 太刀を大げさに振りかぶったまま、おろおろと辺りを見回している.
+<0172> Ele não conseguiu assimilar o fato de que seus companheiros foram derrotados em poucos segundos.
+// 一呼吸のうちに仲間がやられたのが、まだ信じられないらしい.
+<0173> \{Monge:}"Ugh..."
+// \{僧兵}「うっ…」
+<0174> \{Monge:}"Waaaah..."
+// \{僧兵}「うあああああぁっ…」
+<0175> Ele avançou diretamente sobre mim com o desespero de um rato encurralado.
+// やぶれかぶれの足取りで、真正面から斬りかかってきた.
+<0176> Não havia necessidade nem de me defender.
+// 刀で受ける必要もなかった.
+<0177> Eu me esquivei tanto de sua katana quanto de seu corpo.
+// 相手の太刀を体ごと受け流す.
+<0178> Quando ele passou por mim, golpeei sua nuca com a parte de trás da minha lâmina.
+// すれちがいざま、首筋を峰で打ちつけた.
+<0179> \{Ryuuya}"Ei!"
+// \{柳也}「…せいっ」
+<0180> O último monge guerreiro caiu inconsciente antes que pudesse gritar.
+// 最後の僧兵は、悲鳴をあげる間もなく昏倒した.
+<0181> *Swish...*
+// …ぶんっ.
+<0182> Por hábito, balancei a lâmina para me livrar do sangue inexistente.
+// いつもの癖で太刀をふるい、ついてもいない血糊(ちのり)を払い落とした.
+<0183> Depois disso, devolvi minha katana à bainha.
+// そして太刀を鞘におさめた.
+<0184> \{Ryuuya}"Ufa..."
+// \{柳也}「ふう…」
+<0185> Deixei escapar um suspiro.
+// 溜めていた息を吐き出す.
+<0186> Os três monges guerreiros estavam deitados no chão como três ursos esfolados.
+// 三人の僧兵たちは、毛皮を取られた熊のように地面にうずくまっている.
+<0187> Eles não seriam capazes de se mover por um bom tempo.
+// しばらくまともには動けないだろう.
+<0188> \{Ryuuya}"Talvez eu tenha exagerado um pouco."
+// \{柳也}「こりゃ、できすぎだな」
+<0189> Depois de olhar para os meus oponentes mais uma vez, saí do local.
+// 僧兵たちを一瞥(いちべつ)し、俺はその場を離れた.
+<0190> Corri em direção à escuridão para onde Kanna e Uraha supostamente tinham ido.
+// 神奈たちが向かったはずの闇を駈ける.
+<0191> A grama embaixo de mim parecia espessa como lama, dificultando meu progresso.
+// 足下の草が泥のようにまとわりつき、ひどく走りにくい.
+<0192> Uraha havia dito que estávamos dentro de uma barreira.
+// 裏葉は『ここは結界の只中だ』と言った.
+<0193> Eu já tinha ouvido falar de feitiços capazes de fechar uma área.
+// 空間そのものを封じこめる呪術があると聞く.
+<0194> Esse era um poder que os sacerdotes do budismo e do \g{Onmyodo}={Antiga prática esotérica que combina elementos do taoismo, budismo e xintoísmo, centrada no equilíbrio entre o yin-yang.} possuíam.
+// 法師や陰陽師(おんみょうじ)があやつる力だ.
+<0195> Uma névoa pesada pairava no ar, obstruindo minha visão.
+// 靄はぶ厚くたちこめ、行く手が見通せない.
+<0196> Eu não tinha ideia para onde estava indo.
+// どこに向かって走っているのか、まったくわからない.
+<0197> Era quase como se eu estivesse em um sonho febril.
+// 熱にうかされた時に見る、悪夢のようだった.
+<0198> Em pouco tempo...
+// やがて.
+<0199> De repente, senti a presença de pessoas.
+// まったくだしぬけに、人の気配を感じた.
+<0200> Elas estavam atrás de mim.
+// 背後からだった.
+<0201> Puxei minha katana e me virei.
+// 太刀を抜きざま、体ごと振り向く.
+<0202> A névoa se dissipou e a floresta ao meu redor voltou a ser vista.
+// 靄が切れ、視界に森が戻った.
+<0203> Não havia uma única alma.
+// だれもいない.
+<0204> Ou não.
+// いや、違う.
+<0205> Avistei os contornos de Kanna e Uraha.
+// 神奈と裏葉の後ろ姿が、寄り添うように立っている.
+<0206> Dois monges guerreiros bloqueavam seu caminho.
+// 二人の僧兵が、その行く手をふさいでいた.
+<0207> \{Monge:}"Vocês aí! Não é permitida a entrada de mulheres em Kouya!"
+// \{僧兵}「そこな女、高野は女人禁制ぞ」
+<0208> Um deles estendeu a mão bruscamente para agarrar a manga de Kanna.
+// 無骨な手が伸び、神奈の袖をつかもうとする.
+<0209> \{Kanna}"Não ouse me tocar, seu desgraçado insolente!"
+// \{神奈}「余に触れるでない、無礼者っ!」
+<0210> Sua voz clara e nítida congelou o tempo.
+// 澄みわたった声が、一瞬その場を圧する.
+<0211> O monge, assustado, se conteve.
+// 僧兵がぎくりと腕をとめた.
+<0212> \{Monge:}"Não seja rude."
+// \{僧兵}「手荒をするでない」
+<0213> O outro monge repreendeu seu companheiro com uma voz de comando.
+// もう一人の僧兵が、威厳のある声で仲間を制した.
+<0214> Ele então começou a inspecionar o rosto da jovem.
+// 目前の少女の顔を凝視する.
+<0215> \{Monge:}"Você... não é possível que você seja..."
+// \{僧兵}「そっ、そなたはまさか…」
+<0216> \{Uraha}"Kanna-sama, afaste-se!"
+// \{裏葉}「神奈さま、お早くっ!」
+<0217> Uraha ficou na frente de Kanna com sua adaga em punho.
+// 短刀を目前でかまえたまま、裏葉が神奈を背でかばう.
+<0218> Não havia espaço para hesitação.
+// ためらっている暇はなかった.
+<0219> \{Ryuuya}"Eu, Ryuuya, guarda de Kannabi no Mikoto, exijo um duelo!"
+// \{柳也}「神奈備命が随身柳也、参るっ!」
+<0220> Eu gritei para eles com minha katana erguida.
+// 太刀を上段に振りかぶり、大声で叫んだ.
+<0221> Eu queria que eles concentrassem sua atenção em mim.
+// 敵の注意をこちらに引きつけるためだ.
+<0222> Com isso, eu me lancei contra os inimigos.
+// そのまま地を蹴り、敵中に飛びこむ.
+<0223> Os dois monges guerreiros sacaram suas espadas em rápida sucessão.
+// 二人の僧兵が、てんでに剣を抜いた.
+<0224> Suas lâminas eram retas, com ornamentos exclusivos afixados na extremidade dos punhos.
+// 柄尻に独特の装飾がほどこされた、直刃(すぐは)の剣だった.
+<0225> \{Ryuuya}"Haah!"
+// \{柳也}「せあっ!」
+<0226> Eu ataquei um deles com um grito de guerra.
+// 気合いと共に、一撃目を放つ.
+<0227> \shake{1}*Clink!*
+// …きんっ.
+<0228> Faíscas brilhantes voaram quando o aço se encontrou com o aço.
+// 刃金(はがね)と刃金が交わり、青白い火花が散った.
+<0229> \{Monge:}"Hmmph!"
+// \{僧兵}「…ふんっ」
+<0230> O outro monge brandiu sua espada em direção ao meu ombro.
+// もう一人の僧兵が、袈裟懸けに斬りつけてきた.
+<0231> Girei a parte superior do corpo para me esquivar de seu ataque.
+// 大きく上体を逸らしてかわす.
+<0232> No entanto, o primeiro Monge havia diminuído a distância em uma fração de segundo.
+// すかさず最初の僧兵が間合いに入ってくる.
+<0233> \shake{1}*Clink!\wait{100}\shake{2} Clank!\wait{100}\shake{1} Clink!*
+// …きん…かっ…きん!
+<0234> \{Ryuuya}"Ugh..."
+// \{柳也}「くっ…」
+<0235> Nossas lâminas se encontraram, mas um dos monges me empurrou para trás com uma força tremenda.
+// 鍔迫合(つばぜりあい)では向こうに分がある.
+<0236> Deixei sua espada deslizar para fora da minha lâmina, libertando-me assim.
+// 鎬(しのぎ)を滑らし、刀身を引き剥がした.
+<0237> \{Monge:}"Ei!"
+// \{僧兵}「でえいっ」
+<0238> Sem me dar um momento para respirar, o outro monge atacou novamente.
+// 間髪を入れずに、真横からの突きが迫る.
+<0239> Saltei para trás, me esquivando de seu ataque.
+// 後ろに跳ね退き、これをかわした.
+<0240> \{Monge:}"Você é bom..."
+// \{僧兵}「…できるな、ぬし」
+<0241> Ele rosnou por baixo do capuz.
+// 頭巾の下からうなり声が聞こえた.
+<0242> Respirei fundo e reajustei a empunhadura da minha espada.
+// 俺も呼吸を整え、太刀を握りなおした.
+<0243> Esses homens são habilidosos.
+// …手強い.
+<0244> Gotas de suor escorriam pela minha testa.
+// 額を汗が伝うのがわかった.
+<0245> Eu ainda podia sentir Kanna e Uraha atrás de mim.
+// 背後にはまだ神奈たちの気配があった.
+<0246> \{Ryuuya}"Corram e não olhem para trás!"
+// \{柳也}「うしろを見るな、走れっ」
+<0247> Eu gritei, ainda de frente para os monges.
+// 僧兵たちに相対したまま叫ぶ.
+<0248> Passos hesitantes podiam ser ouvidos recuando à distância.
+// ためらった足音が動き、俺から遠ざかっていく.
+<0249> \{Monge:}"Vá atrás de Kannabi no Mikoto. Capture-a antes que ela cruze a barreira!"
+// \{僧兵}「ぬしは神奈備命を追え.結界を越えられたら終(しま)いぞ」
+<0250> O monge guerreiro mais velho ordenou ao outro.
+// 年長らしい僧兵が、もう一人に伝えた.
+<0251> \{Ryuuya}"Você não vai sair daqui!"
+// \{柳也}「させるかあっ!」
+<0252> O monge guerreiro está prestes a passar por mim quando desfiro um golpe na diagonal.
+// 去りかけた僧兵に、斜め後ろから斬りかかる.
+<0253> \{Monge:}"Saia do meu caminho!"
+// \{僧兵}「邪魔立てするなっ」
+<0254> Ele se virou repentinamente e desviou da minha katana.
+// 振り向きざまの突きを、太刀で受け払った.
+<0255> Minha batalha contra os dois foi retomada.
+// 二対一での激しい切り結びが続く.
+<0256> Esses monges guerreiros estavam obviamente em um nível diferente se comparados com os outros que encontramos antes.
+// さっきの僧兵たちとは、明らかに格がちがう.
+<0257> Eu tinha poucas chances de vencer nessa situação.
+// このままでは勝算は薄い.
+<0258> Nesse caso...
+// となれば…
+<0259> Ergui a katana bem acima da minha cabeça.
+// 構えを上段に移した.
+<0260> *Vrosh, vrosh, vrosh...*
+// ざっ、ざっ、ざっ…
+<0261> Eu me mexi para os lados.
+// にじり足のまま、真横に動く.
+<0262> Os dois monges guerreiros se moveram para me encarar.
+// 二人の僧兵も、俺に合わせて位置を変える.
+<0263> Os galhos acima de nós balançavam ruidosamente.
+// 俺たちの頭上で、木々の枝がざわめく.
+<0264> Logo, cheguei à posição pretendida.
+// 狙いの位置に達した時.
+<0265> E fiz minha última jogada.
+// 一気に勝負に出た.
+<0266> \{Ryuuya}"Hah!"
+// \{柳也}「であっ…」
+<0267> Girei minha lâmina em um arco amplo, como se estivesse tentando cortar o ar ao meio.
+// 空気ごと両断するように、力任せに太刀を振るう.
+<0268> No entanto, a ponta da minha espada atingiu o chão.
+// だが、俺の刃は何も捉えず、切っ先が土を引っ掻いた.
+<0269> Minha cabeça ficou completamente desprotegida no momento seguinte.
+// 次の瞬間、頭が無防備になった.
+<0270> Essa era uma chance que meus adversários não perderiam.
+// この隙を敵が見逃すはずがなかった.
+<0271> \{Monge:}"Morraaa!"
+// \{僧兵}「覚悟おっ」
+<0272> Ele me deu um golpe de cima para baixo.
+// 直刃の剣が上段に振りかぶられた.
+<0273> *Gruk!*\shake{1}
+// …がすっ.\shake{1}
+<0274> Um som abafado veio de cima de minha cabeça.
+// 鈍い音が、俺の頭上ではじけた.
+<0275> O monge guerreiro havia parado de se mover.
+// 僧兵は動きを止めていた.
+<0276> Seu golpe supostamente fatal foi cravado profundamente em um galho suspenso.
+// 必殺のはずの剣は、頭上に張り出した太い枝に食いこんでいた.
+<0277> *Thud!*
+// …だしゅっ.
+<0278> O lado cego da minha espada atingiu a lateral de seu corpo desprotegido.
+// 俺の太刀の峰が、がら空きになった僧兵の胴を横なぎにした.
+<0279> \{Monge:}"Que descuido..."
+// \{僧兵}「ぬかった、わ…」
+<0280> Ele se ajoelhou com um gemido que soou como um amaldiçoar.
+// 呪文のようにうめき、片膝をつく.
+<0281> Em seguida, o monge caiu de cara no chão.
+// 肩からもんどり打って、地面に巨体を沈めた.
+<0282> A lâmina de sua espada ainda balançava, presa no galho.
+// 主を失った直刃剣だけが、枝にぶら下がっていた.
+<0283> Só restou o monge mais velho.
+// 残ったのは、年長の僧兵だった.
+<0284> Minha katana contra sua espada reta.
+// 俺の長太刀と、相手の直刃剣.
+<0285> Nós nos enfrentamos em silêncio, com as pontas de nossas espadas a um metro de distância.
+// それぞれの切っ先を二尺ほど離し、静かに正対する.
+<0286> Mantendo sua postura, ele perguntou em voz baixa.
+// 油断なくかまえたまま、僧兵は低くつぶやくように言った.
+<0287> \{Monge:}"Qual é o propósito de vocês?"
+// \{僧兵}「うぬらは、なにをたくらんでおる」
+<0288> \{Monge:}"Não permitiremos que vocês vejam a \g{Yaobikuni}={Figura do folclore japonês. Segundo a lenda, Yaobikuni era uma mulher que obteve vida eterna ao comer a carne de uma sereia.}."
+// \{僧兵}「八百比丘尼には会わせまいぞ」
+<0289> Yaobikuni?
+// …やおびくに？
+<0290> Ele se aproximou de mim, sem me dar tempo para pensar.
+// 思う間もなく、間合いを詰めてきた.
+<0291> Sua entrada foi um movimento suave e deslizante, inimaginável para seu corpo enorme.
+// 体躯に似合わない、氷を滑るような踏みこみ.
+<0292> Truques básicos não funcionariam com esse adversário.
+// 小細工が通用する相手ではない.
+<0293> O mais rápido triunfaria.
+// ただ、速い方が勝つ.
+<0294> \{Monge:}"Nn...!"
+// \{僧兵}「ぬんっ…」
+<0295> \{Ryuuya}"Hyah!"
+// \{柳也}「せあっ…」
+<0296> No momento seguinte...
+// 次の瞬間.
+<0297> Sua lâmina, que estava apontada para o meu coração, perfurou minha manga esquerda.
+// 心臓を狙った直刃剣は、俺の左袖を突き通していた.
+<0298> Minha katana, por outro lado, atingiu sua cintura.
+// 対する俺の長太刀は、敵の脇腹を捉えていた.
+<0299> Isso não se deveu a uma diferença nas habilidades com a espada.
+// 剣技に優劣はなかった.
+<0300> Fui mais rápido porque não estava buscando um golpe fatal.
+// 最初から急所を狙わなかった分、俺の方が速かった.
+<0301> Simples assim.
+// それだけのことだ.
+<0302> \{Monge:}"Gah..."
+// \{僧兵}「ごふっ…」
+<0303> Com uma tosse abafada, o monge guerreiro caiu no chão.
+// にごった咳とともに、僧兵が地面に横たわった.
+<0304> \{Monge:}"Cof... cof..."
+// \{僧兵}「ごふっごふっ…」
+<0305> Ele se virou para cima, revelando sua expressão de dor.
+// 苦悶の表情を浮かべながら、体を返して仰向けになる.
+<0306> Embora eu não tenha perfurado suas costelas, seus órgãos internos sofreram o impacto do golpe.
+// 肋骨の下とはいえ、臓腑(ぞうふ)をまともに打ちつけられたのだ.
+<0307> Ele deve estar com dificuldade para respirar.
+// 息をするのもつらいはずだ.
+<0308> Ainda assim, o monge guerreiro me questionou.
+// なのに、僧兵は俺に訊いた.
+<0309> \{Monge:}"P-Por que... você teve piedade?"
+// \{僧兵}「…なにゆえに、情(なさけ)をかけた？」
+<0310> Sua voz estava séria e surpresa.
+// 真剣な声音に、驚愕がこめられていた.
+<0311> Mais do que qualquer outra coisa, ele parecia achar estranho o fato de ainda estar vivo.
+// 自分が斬られていないことが、よほど不思議だったらしい.
+<0312> \{Ryuuya}"Não era essa a minha intenção."
+// \{柳也}「情をかけたわけじゃない」
+<0313> Eu respondi.
+// 俺はそう答えた.
+<0314> Os olhos do monge guerreiro pareciam sorrir levemente.
+// 僧兵の眼が、かすかに笑ったように見えた.
+<0315> Ele começou a cantar por baixo do capuz.
+// 頭巾の向こうの唇が、何かを唱える.
+<0316> Não soava como um \g{sutra}={Texto religioso. No budismo, um sutra refere-se aos ensinamentos atribuídos diretamente a Buda ou a seus discípulos.} ou uma maldição, mas sim como o zumbido de uma mosca.
+// 読経とも呪詛ともつかない、虻(あぶ)の羽音めいたうなり声.
+<0317> \{Monge:}"Eu vejo a escuridão."
+// \{僧兵}「闇を見るぞ」
+<0318> \{Ryuuya}"O quê...?"
+// \{柳也}「何だと…？」
+<0319> Logo depois que perguntei isso a ele...
+// 訊ねかけた時.
+<0320> *Throb...*
+// …ずきん.
+<0321> Fui atacado por uma forte dor de cabeça.
+// 鋭い頭痛に襲われた.
+<0322> Ela veio do ponto mais profundo do meu crânio.
+// 頭の奥の、いちばん深いところ.
+<0323> Algo estava emergindo dos recessos lamacentos da minha mente.
+// 汚泥のように、何かが浮かびあがってくる.
+<0324> O que é isso...?
+// これは…
+<0325> Eu sei.
+// そうだ.
+<0326> Já vi essa imagem antes.
+// 今と同じ光景を、俺は見たことがある.
+<0327> Era um céu azul claro.
+// 真っ青に晴れた空.
+<0328> Eu estava em uma trilha na montanha, apenas com o som das cigarras.
+// 蝉の声だけが響く山道.
+<0329> Eu ainda era uma criança.
+// 童子の頃の俺.
+<0330> As orações foram pisoteadas.
+// 踏みにじられた祈り.
+<0331> O cadáver de um velho monge estava deitado em uma poça de sangue.
+// 血だまりの中に転がる、老僧の屍.
+<0332> Eu estava chorando.
+// 泣きじゃくる俺.
+<0333> Uma espada manchada de sangue.
+// 血塗られた刃.
+<0334> Eu deveria ter sido o único a ser morto.
+// 殺されるはずだった俺.
+<0335> Eu deveria ter sido morto, mas não fui.
+// 殺せるのに、殺さなかった.
+<0336> E assim fiquei sozinho.
+// そして、ひとりになった俺…
+<0337> Uma sensação de perigo me trouxe de volta à realidade. 
+// 突然の殺気が、俺を現実に引き戻した.
+<0338> O outro monge já havia retirado sua espada do galho.
+// もう一人の僧兵が、枝に食いこんだままの剣を抜き取るところだった.
+<0339> Ele estava vindo atrás de mim.
+// そのまま打ちかかってくる.
+<0340> \{Monge:}"Tome isso!"
+// \{僧兵}「食らえっ…」
+<0341> No entanto, suas pernas estavam trêmulas.
+// だが、僧兵の足元はまだおぼつかない.
+<0342> Consegui me esquivar facilmente de seu primeiro ataque.
+// 一撃目をなんなく受け流した.
+<0343> No momento seguinte, apontei para sua testa.
+// 返す刀で敵の眉間(みけん)を狙った.
+<0344> Então percebi algo.
+// だが、その瞬間.
+<0345> Eu estava usando o lado afiado da minha katana.
+// 自分が真剣を振ったことに気づいた.
+<0346> Ele definitivamente morreria se esse golpe fosse desferido.
+// そのまま太刀を振り抜けば、僧兵は即死する.
+<0347> 'Você está proibido de tirar outra vida enquanto for meu servo.'
+// 『余を主とするかぎり、一切の殺生を禁ずる』
+<0348> \{Ryuuya}"Ugh..."
+// \{柳也}「くっ…」
+<0349> Torci meus pulsos para desviar o ataque.
+// 両腕をねじ曲げるようにして、無理に太刀筋を変えた.
+<0350> Foi uma atitude insensata.
+// 馬鹿げた行動だった.
+<0351> Eu me permiti hesitar nesse momento crucial.
+// 一瞬の気の迷い.
+<0352> Isso custaria minha vida, uma hora ou outra.
+// それが命取りになることを、俺は知りぬいていたはずなのに.
+<0353> Minha espada passou por seu ombro, sem atingir nada.
+// 太刀の刃は僧兵の肩口を撫で、そのまま空を斬った.
+<0354> Em troca, perdi meu equilíbrio.
+// ひきかえに、俺の体勢は大きく崩れた.
+<0355> Minhas costas ficaram expostas ao inimigo.
+// 自分から敵に背中をさらすことになった.
+<0356> \{Monge:}"Hah!"
+// \{僧兵}「ふんっ…」
+<0357> \shake{2}Houve um som desagradável de tecido e carne se rasgando.
+// 絹と肉が裂ける、嫌な音がした.
+<0358> Uma sensação de queimação percorreu minhas costas.
+// 灼(や)けるような衝撃が、背を斜めに走り抜けた.
+<0359> Com isso, pude avaliar a distância entre nós.
+// それで相手との間合いがわかった.
+<0360> Eu me virei e ataquei.
+// 振り向きざまに太刀を振るう.
+<0361> \{Ryuuya}"Haah!"
+// \{柳也}「…せりゃあぁぁあっ!」
+<0362> Com todo o meu ímpeto, enfiei o lado cego da minha espada na axila do monge guerreiro.
+// 渾身の気合いとともに、僧兵の肩口に刀背を叩きこんだ.
+<0363> \{Monge:}"Guoh!"
+// \{僧兵}「ぐおあっ…」
+<0364> Seus olhos se arregalaram e ele desmaiou na hora.
+// 僧兵は白目を剥き、その場に昏倒した.
+<0365> Ele ainda deveria estar vivo.
+// だが、殺してはいないはずだ.
+<0366> O voto de não tirar outra vida.
+// 不殺の誓い.
+<0367> Eu não podia me dar ao luxo de quebrar a promessa que fiz para Kanna.
+// 俺と神奈が交わした、破ることのできない誓い.
+<0368> Minhas costas pareciam estar pegando fogo.
+// 背中が焼けるように熱い.
+<0369> Eu não conseguia me manter ereto.
+// 立っていられなくなった.
+<0370> Preciso encontrar Kanna e Uraha.
+// 神奈たちを追わなければ.
+<0371> Mas minha consciência estava se esvaindo lentamente...
+// 必死でそう思っても、意識が遠のいていく…
+<0372> ...
+// ……….
+<0373> Ouvi uma voz familiar.
+// 聞き慣れた声がした.
+<0374> \{Kanna}"Uraha, aqui! Rápido!"
+// \{神奈}「裏葉、こちらだっ! はようせいっ」
+<0375> \{Uraha}"Ryuuya-san, por favor, aguente firme!"
+// \{裏葉}「…柳也さま、しっかりなさいませっ」
+<0376> Elas voltaram?
+// …また戻ってきたのか、こいつらは.
+<0377> Eu disse para elas fugirem daqui... Eu...
+// 俺の言うことはちゃんと守れと、あれほど言ったのに…
+<0378> \{Kanna}"Ryuuya! Ryuuya! Ryuu..."
+// \{神奈}「柳也どの、柳也どのっ! りゅう…」
+<0379> \{Uraha}"Kanna-sama, você está no meu caminho."
+// \{裏葉}「神奈さま、邪魔でございますっ」
+<0380> Ouvi o som de tecido sendo rasgado.
+// 絹を破っている音がする.
+<0381> Ela provavelmente estava tentando estancar meu sangramento.
+// 俺の止血をするつもりなのだろう.
+<0382> Eu abri os olhos.
+// 目を開けた.
+<0383> O rosto de Kanna estava bem na minha frente.
+// 神奈の顔が真正面にあった.
+<0384> \{Ryuuya}"Eu não matei uma única pessoa..."
+// \{柳也}「…だれも、殺さなかったぞ」
+<0385> \{Kanna}"Ryuuya! Você está bem?!"
+// \{神奈}「柳也どの、無事かっ」
+<0386> \{Ryuuya}"Meu ferimento não é tão grave quanto parece."
+// \{柳也}「見た目ほどの怪我じゃない」
+<0387> \{Ryuuya}"Não se preocupe... comigo..."
+// \{柳也}「心配、するな…」
+<0388> Mas eu ainda estava perdendo meu sangue.
+// 自分の言葉とはうらはらに、血の気が引いていくのがわかる.
+<0389> É isso mesmo. Agora não é o momento para isso.
+// そうだ、こんなことをしている場合ではないのだ.
+<0390> \{Ryuuya}"Você pode me tratar mais tarde..."
+// \{柳也}「手当ては、あとでいい…」
+<0391> \{Ryuuya}"Corram. Eles ainda estão vivos..."
+// \{柳也}「逃げろ.とどめを刺してあるわけじゃ、ないんだ…」
+<0392> Os dois monges guerreiros estavam deitados no chão a uma certa distância.
+// 二人の僧兵が、すぐ向こうの地面に転がっている.
+<0393> Eles pareciam estar prestes a se levantar a qualquer momento.
+// 今にもむくりと動き出すような気がした.
+<0394> \{Uraha}"Kanna-sama, por favor, me ajude."
+// \{裏葉}「神奈さま、お手をお貸しくださいっ」
+<0395> Uraha arregaçou as mangas.
+// 裏葉が着物の袖をまくった.
+<0396> Kanna seguiu suas orientações e fez o mesmo.
+// 神奈もそれにならう.
+<0397> Eles colocaram as mãos em meu colarinho.
+// 二人の指が、俺の狩衣の襟にかけらた.
+<0398> Fui arrastado lentamente por duas mulheres.
+// 女手ふたつで、ずるずると引きずられていく俺.
+<0399> Isso é constrangedor...
+// かなり情けないぞ…
+<0400> \{Ryuuya}"Suas idiotas, eu disse para me deixarem..."
+// \{柳也}「馬鹿、俺はあとでいいって…」
+<0401> O monge mais velho estava se esforçando para se levantar.
+// 年長の僧兵が、必死に体を起こそうとしているのが見えた.
+<0402> \{Monge:}"Esperem! Não posso permitir que vocês fujam!"
+// \{僧兵}「…待てっ、そこより先には行かせぬっ」
+<0403> Ele estava gritando conosco.
+// 俺に向かって、何かを必死に呼びかけている.
+<0404> \{Monge:}"Vocês pretendem libertar Yaobikuni?"
+// \{僧兵}「八百比丘尼を解き放つ気か？…」
+<0405> Ele estava falando sobre aquilo novamente.
+// また『やおびくに』か.
+<0406> O que é isso?
+// 何のことだよ、それは.
+<0407> \{Monge:}"Você não sairá ileso dessa..."
+// \{僧兵}「ぬしらも、無事ではすまぬのだぞ…」
+<0408> Mas eu já estou machucado...
+// とっくに無事ではすんでないさ…
+<0409> Minha consciência estava me abandonando novamente.
+// そこで、気が遠くなった.
+<0410> Ouvi o som de asas batendo.
+// 羽音が聞こえた.
+<0411> Um pássaro abriu suas asas brilhantes.
+// 輝く翼を広げた鳥.
+<0412> Ele voou pelo ar.
+// ふわりと舞いあがる.
+<0413> Me deixando para trás.
+// 俺を残して.
+<0414> Rumo a um lugar que eu nunca poderia alcançar.
+// 決してたどりつけない所.
+<0415> Em direção a alturas ilimitadas e infinitas.
+// はるかな高みへ.
+<0416> Tentei persegui-lo...
+// 俺は後を追おうとして…
+<0417> E foi então que me dei conta que estava sonhando.
+// そして、夢だと気づいた.
+<0418> Abri meus olhos lentamente.
+// ゆっくりと目を開いた.
+<0419> Eu estava nas profundezas da floresta.
+// 深い森の中だった.
+<0420> As copas das árvores estavam sussurrando umas para as outras.
+// さやさやと鳴る梢.
+<0421> A névoa envolvente ofuscava a luz do sol.
+// たなびく霞(かすみ)に、陽光がけむっている.
+<0422> Tudo estava calmo.
+// 辺りは静まりかえっている.
+<0423> O ar limpo tinha um leve cheiro de orvalho.
+// 清浄な空気の芯に、かすかに水の匂いがする.
+<0424> Este lugar...
+// ここは…
+<0425> É o paraíso?
+// 極楽浄土、というやつだろうか？
+<0426> Não havia sequer uma alma viva por aqui.
+// 人の気配はない.
+<0427> \{Uraha}"Você está acordado?"
+// \{裏葉}「お目覚めでございますか」
+<0428> \{Ryuuya}"........."
+// \{柳也}「………」
+<0429> Ela não é humana?
+// 人じゃないのか、こいつは.
+<0430> \{Ryuuya}"Bom dia."
+// \{柳也}「おはよう」
+<0431> Deitei-me sobre a grama macia.
+// やわらかな草の上に、俺は体を横にして寝かされていた.
+<0432> Uma dor irradiava das minhas costas.
+// じくじくする痛みが背中を這いまわっていた.
+<0433> Lembrei-me do que havia acontecido.
+// そうか.
+<0434> Aquele monge guerreiro tinha me acertado um golpe. 
+// 僧兵に斬られたんだった.
+<0435> Uraha e Kanna me arrastaram para longe...
+// 裏葉と神奈に、ここまで引きずられて…
+<0436> \{Ryuuya}"Você removeu a trilha de sangue?"
+// \{柳也}「…血の痕(あと)は消したかっ？」
+<0437> \{Uraha}"Huh?"
+// \{裏葉}「はあ」
+<0438> Ela me deu um olhar vazio.
+// きょとんとした顔で、こちらを見返す.
+<0439> \{Ryuuya}"Se os perseguidores seguirem meu sangue..."
+// \{柳也}「追っ手に血をたどられたら…」
+<0440> Tentei me levantar, mas uma onda de dor percorreu todo meu corpo.
+// 上体を起こそうとしたとたん、激痛が走った.
+<0441> \{Ryuuya}"A-Ai!"
+// \{柳也}「あつっ」
+<0442> \{Uraha}"Tenha calma."
+// \{裏葉}「ご無理をなさらずに」
+<0443> \{Uraha}"Seu ferimento acabou de fechar."
+// \{裏葉}「まだ傷が閉じたばかりです」
+<0444> \{Ryuuya}"Mas..."
+// \{柳也}「しかし…」
+<0445> \{Uraha}"Você não precisa se preocupar agora."
+// \{裏葉}「ここなら心配はございません」
+<0446> \{Uraha}"Nós já ultrapassamos a barreira."
+// \{裏葉}「すでに結界を越えております」
+<0447> Lembrei-me da batalha de ontem à noite.
+// 昨夜の斬り合いが、断片として頭に戻ってきた.
+<0448> 'Vá atrás de Kannabi no Mikoto. Capture-a antes que ela cruze a barreira!'
+// 『ぬしは神奈備命を追え.結界を越えられたら終(しま)いぞ』
+<0449> Então, nem mesmo os monges podem entrar aqui...
+// 僧兵さえ、ここには入れないということか.
+<0450> Parei por um momento para me examinar novamente.
+// あらためて自分のなりを見てみた.
+<0451> A parte de cima de meu quimono havia sido tirada.
+// 狩衣は脱がされていた.
+<0452> Meu torso estava enfaixado com várias camadas de tecidos brancos.
+// 上体に真っ白な布が幾重にも巻かれている.
+<0453> Levantei-me com cuidado.
+// 慎重に体を起こした.
+<0454> Olhando ao redor, vi montanhas suavemente inclinadas além das árvores.
+// 首を巡らすと、木々の向こうになだらかな山陵があった.
+<0455> Havia algo emitindo luz perto do topo da montanha.
+// 山頂の近くで、なにかが光ったように見えた.
+<0456> \{Uraha}"A mãe de Kanna-sama está lá."
+// \{裏葉}「神奈さまの母君は、あそこにおられます」
+<0457> Uraha disse suavemente quando percebeu para onde eu estava olhando.
+// 俺の視線を追って、裏葉が静かに言った.
+<0458> \{Ryuuya}"Por que você acha isso?"
+// \{柳也}「なぜそう思う？」
+<0459> \{Uraha}"É a minha intuição."
+// \{裏葉}「勘でございます」
+<0460> Ela respondeu com naturalidade.
+// しれっとした顔で言う.
+<0461> \{Ryuuya}"É isso mesmo?"
+// \{柳也}「そうか」
+<0462> \{Ryuuya}"Bem, a sua intuição nunca erra."
+// \{柳也}「裏葉の勘はいつもたしかだからな」
+<0463> Decidi não questioná-la mais.
+// それ以上深く尋ねるのはやめておいた.
+<0464> \{Ryuuya}"Onde está Kanna?"
+// \{柳也}「神奈は？」
+<0465> \{Uraha}"Ela foi até a fonte para pegar água."
+// \{裏葉}「泉で水を汲んでおられます」
+<0466> \{Ryuuya}"Uma fonte?"
+// \{柳也}「泉？」
+<0467> \{Uraha}"É nessa direção."
+// \{裏葉}「あちらにございます」
+<0468> Tateei o chão e encontrei minha katana à direita.
+// 地面を探ると、右側に俺の太刀があった.
+<0469> Usando-a como bengala, eu me levantei.
+// 鞘ごと杖にして、立ちあがる.
+<0470> Uraha tentou me dar uma mão, mas eu a afastei.
+// 裏葉が手を貸そうとしたが、手を振って断った.
+<0471> \{Ryuuya}"Eu estou bem."
+// \{柳也}「大したことはないさ」
+<0472> Meu rosto estava prestes a se contorcer de dor, mas apressei-me em forçar um sorriso.
+// 痛みに歪みそうになる顔を、あわてて笑顔にする.
+<0473> Meus dedos, meus pulsos, meus braços, minhas pernas... Todos estavam aptos a se mover.
+// 指、手首、腕、脚、どこも普通に動かせる.
+<0474> O corte não atingiu minha coluna vertebral.
+// 背骨の髄(ずい)に刃は受けていない.
+<0475> Devo conseguir andar, desde que o ferimento não se abra novamente.
+// 傷口さえ開かなければ、どうにか歩けそうだ.
+<0476> \{Uraha}"Ryuuya-san, talvez seja bom limpar seu ferimento na fonte."
+// \{裏葉}「柳也さま、泉で傷口を清めた方がよろしいかと」
+<0477> \{Ryuuya}"Você pode me ajudar? Mas seja gentil."
+// \{柳也}「手伝ってくれるか？ 手取り足取りって感じで」
+<0478> \{Uraha}"Vá você mesmo."
+// \{裏葉}「ご自分でどうぞ」
+<0479> Ela respondeu com frieza.
+// つれない返事が返ってきた.
+<0480> \{Ryuuya}"Estou ferido, você sabe."
+// \{柳也}「これでも一応、怪我人なんだがな」
+<0481> \{Uraha}"Há roupas esperando por mim para serem consertadas."
+// \{裏葉}「わたくしは衣(ころも)をつくろっておきますので」
+<0482> Vi minhas roupas estendidas em seu colo.
+// 見ると、裏葉は俺の狩衣を膝の上に広げていた.
+<0483> Algumas partes estão rasgadas na parte de trás e nas mangas.
+// 背中と袖の布地がばっくりと裂けてしまっていた.
+<0484> \{Uraha}"Um trabalho artesanal tão bom, agora em frangalhos..."
+// \{裏葉}「上等な仕立てが、こんなになってしまって…」
+<0485> \{Ryuuya}"Você certamente se preocupa muito com as roupas."
+// \{柳也}「衣にはやさしいんだな」
+<0486> \{Uraha}"Esses furos não vão se curar sozinhos."
+// \{裏葉}「衣の破れ目は、放っておいてもふさがりませんので」
+<0487> \{Ryuuya}"......"
+// \{柳也}「………」
+<0488> A fonte estava bem próxima.
+// 泉はすぐ近くにあった.
+<0489> A superfície da água refletia o céu como um espelho escondido entre as árvores.
+// 木々に隠された鏡のように、水面が空を映していた.
+<0490> Kanna estava parada na margem.
+// そのほとりに、神奈は立っていた.
+<0491> \{Kanna}"Ah..."
+// \{神奈}「あっ…」
+<0492> Ao me ver, percebi que ela estava prestes a correr em minha direção, mas hesitou.
+// 俺に駈け寄ろうとして、ためらったのがわかった.
+<0493> \{Ryuuya}"Você parece bem."
+// \{柳也}「元気そうだな」
+<0494> Quando me aproximei, ela me perguntou com uma voz suave.
+// 俺が近づくと、小声で訊いてきた.
+<0495> \{Kanna}"Está tudo bem para você estar de pé e em movimento?"
+// \{神奈}「もう歩いてよいのか？」
+<0496> \{Ryuuya}"Só vim aqui para lavar meu ferimento."
+// \{柳也}「傷口を洗いに来ただけだ」
+<0497> \{Kanna}"Não me importo de ajudá-lo."
+// \{神奈}「余でよければ、手伝うぞ」
+<0498> \{Ryuuya}"Não tem problema. Eu posso fazer isso sozinho."
+// \{柳也}「いや、一人でできる」
+<0499> Entrei na fonte ainda de calça.
+// 袴のまま、泉に歩み入る.
+<0500> A água dolorosamente gelada chegava até meus joelhos.
+// 水は痛いほどに冷たく、膝までの深さがあった.
+<0501> Uma sensação de frio me arrepiou e sacudiu minha mente meio acordada.
+// 凍み入るような感触が、起き抜けの頭をひきしめてくれる.
+<0502> \{Ryuuya}"Volte para Uraha. Não poderei protegê-la enquanto estiver lavando meu ferimento."
+// \{柳也}「裏葉のところにもどれ.傷口を洗ってる間は太刀が使えないから」
+<0503> Ela permaneceu na margem da fonte.
+// 俺がそう言っても、神奈は岸辺を離れようとしなかった.
+<0504> \{Kanna}"Você também sente vergonha de expor seu corpo a outras pessoas?"
+// \{神奈}「殿方も、人前で肌をさらすのは恥ずかしいものなのか？」
+<0505> \{Ryuuya}"É claro que sim."
+// \{柳也}「そりゃ恥ずかしいさ」
+<0506> Eu só não quero... Só não quero que ela veja meus ferimentos.
+// 恥ずかしいわけではなく、神奈には傷口を見せたくなかった.
+<0507> Eu também tinha algumas outras cicatrizes de espada nas minhas costas.
+// 背中に刻まれた刀傷は他にもいくつかある.
+<0508> Todas elas eram lembranças de ferimentos sofridos enquanto fugia de um campo de batalha.
+// すべて戦場から逃げ出す時に受けたものだ.
+<0509> Então, no fim das contas, isso era embaraçoso para mim...
+// …やっぱり俺も恥ずかしいだけか.
+<0510> \{Kanna}"Você está falando sério?"
+// \{神奈}「そうなのか」
+<0511> \{Kanna}"Então você é como eu..."
+// \{神奈}「余と同じよの…」
+<0512> Ela murmurou com a cabeça baixa, mas logo olhou para cima novamente.
+// うつむき加減につぶやいてから、ふっと顔を上げた.
+<0513> \{Kanna}"Ryuuya."
+// \{神奈}「柳也どの」
+<0514> \{Ryuuya}"O que foi agora?"
+// \{柳也}「なんだよ、あらたまって」
+<0515> \{Kanna}"Eu lhe ordenei que não tirasse outra vida..."
+// \{神奈}「余は柳也どのに『だれも殺めるな』と命じたが」
+<0516> \{Kanna}"Agora que penso melhor sobre meu pedido, percebo que essa ordem foi..."
+// \{神奈}「今思えば、あれは余の…」
+<0517> \{Ryuuya}"Pare imediatamente."
+// \{柳也}「それ以上は言うな」
+<0518> Receber essa ordem foi minha culpa.
+// 『不殺の誓いは、余の過ちであった』
+<0519> Eu não queria que ela se responsabilizasse por eu ter me machucado...
+// その言葉だけは、言わせたくなかった.
+<0520> E eu nunca permitiria que ela dissesse que era necessário matar.
+// 『人を殺してもかまわない』なんて、この少女にだけは絶対に言わせたくなかった.
+<0521> E mesmo que isso implicasse no risco de mais lesões para mim, que assim fosse.
+// たとえそのために、俺が傷を重ねることになっても.
+<0522> \{Ryuuya}"Fui descuidado ontem. Da próxima vez, com certeza..."
+// \{柳也}「昨夜はちょっと油断しただけだ.次からはちゃんと…」
+<0523> \{Kanna}"Pare de bancar o durão!"
+// \{神奈}「強がりを申すな!」
+<0524> Por algum motivo, ela arregalou os olhos.
+// 叫ぶと同時に、神奈はなぜか瞳を見開いた.
+<0525> Ela pareceu surpresa com seu próprio grito.
+// 自分の語勢の激しさに、自分で驚いているように見えた.
+<0526> \{Kanna}"Oh, desculpe-me."
+// \{神奈}「いや、すまぬ」
+<0527> \{Kanna}"Mas... Eu..."
+// \{神奈}「ただな.余は…」
+<0528> \{Kanna}"Você ainda se lembra do que aconteceu na noite em que fugimos do santuário?"
+// \{神奈}「…社殿を出た晩のことを覚えておるか？」
+<0529> \{Ryuuya}"Eu lembro."
+// \{柳也}「ああ」
+<0530> \{Kanna}"Fui eu que quebrei minha promessa com você naquela época."
+// \{神奈}「あの折、先に言いつけを破ったのは余の方であった」
+<0531> \{Ryuuya}"Não se preocupe com isso."
+// \{柳也}「そのことはもういいさ」
+<0532> \{Kanna}"Naquele momento, achei que você seria morto."
+// \{神奈}「あの時は、柳也どのが殺されてしまうと思うたのだ」
+<0533> \{Kanna}"Então... Agora..."
+// \{神奈}「だがな、今は…」
+<0534> \{Kanna}"Eu tenho uma mentalidade diferente."
+// \{神奈}「…あの時とは、ちがう心持ちなのだ」
+<0535> \{Kanna}"Vou lhe dar ordens como sua mestra."
+// \{神奈}「これは主として申しておるのではないぞ」
+<0536> \{Kanna}"Mas eu..."
+// \{神奈}「余は…」
+<0537> \{Kanna}"......"
+// \{神奈}「………」
+<0538> \{Kanna}"Não sei como dizer isso..."
+// \{神奈}「なんと申せばいいのか、よくわからん」
+<0539> \{Kanna}"Mas... Hm..."
+// \{神奈}「ただな、ただ…」
+<0540> \{Kanna}"Se você morresse, eu..."
+// \{神奈}「柳也どのに死なれたら、余は…」
+<0541> \{Kanna}"Eu..."
+// \{神奈}「余は…」
+<0542> Ela não conseguiu terminar suas palavras.
+// そこから先に、言葉は進めない.
+<0543> De pé na fonte, seu rosto inocente estava bem na minha frente.
+// 水の中に立っていると、あどけない顔がちょうど正面にある.
+<0544> Não pude deixar de sorrir ao ver seus olhos se movendo como ondulações na superfície da água.
+// 波紋のように揺らぐ瞳に、俺は笑いかけてやった.
+<0545> \{Ryuuya}"Então você não quer que eu morra? Isso é simples."
+// \{柳也}「俺が死なないようにするなんて、簡単さ」
+<0546> \{Ryuuya}"Apenas me ordene para não morrer."
+// \{柳也}「神奈が俺に『死ぬな』と命じればいい」
+<0547> \{Ryuuya}"Sou seu servo leal."
+// \{柳也}「俺は忠臣だからな」
+<0548> \{Ryuuya}"Seja qual for a ordem da minha mestra, eu a cumprirei até o fim."
+// \{柳也}「主の言いつけは何でも守るぞ」
+<0549> \{Kanna}"Então, eu lhe ordeno..."
+// \{神奈}「では、余はおぬしに命ずる…」
+<0550> Ela parou na metade de sua frase habitual.
+// いつもの調子で言いかけ、途中で止めた.
+<0551> Ela estava pensando em alguma coisa.
+// 何かを考える.
+<0552> Em seguida, ela falou em um ritmo mais lento.
+// そして、ゆっくりとこう言いかえた.
+<0553> \{Kanna}"Essa não é minha ordem, mas meu desejo."
+// \{神奈}「これは命ではなく、余の願いである」
+<0554> \{Kanna}"Ryuuya."
+// \{神奈}「柳也どの」
+<0555> \{Kanna}"Não morra, por favor."
+// \{神奈}「死なないでほしい」
+<0556> \{Ryuuya}"Tudo bem."
+// \{柳也}「ああ」
+<0557> \{Ryuuya}"Eu prometo a você."
+// \{柳也}「約束する」
+<0558> Esse não era um juramento entre uma mestra e um servo.
+// 主従の誓いではない.
+<0559> Esse era o desejo sincero de Kanna.
+// 神奈の心からの願い.
+<0560> E eu prometi cumprir esse desejo.
+// 俺と神奈が交わした、はじめての約束.
+<0561> O que é isso que estou sentindo?
+// これは…なんだろう？
+<0562> Um calor envolvente que eu havia esquecido há muito tempo.
+// ずっと昔に忘れたと思っていた、温かく包まれるような感覚.
+<0563> Isso sempre esteve comigo, escondido na escuridão dentro do meu ser.
+// それは俺の中で、常に闇と隣り合ってきた….
+<0564> Kanna sussurrou.
+// と、神奈がぼそっと言った.
+<0565> \{Kanna}"Diga alguma coisa."
+// \{神奈}「なにか、話せ」
+<0566> \{Ryuuya}"Huh?"
+// \{柳也}「はっ？」
+<0567> \{Kanna}"Você parou de falar..."
+// \{神奈}「間が持たぬではないか…」
+<0568> Ela parecia um pouco irritada enquanto mantinha a cabeça baixa.
+// うつむき加減のまま、怒ったように言う.
+<0569> \{Ryuuya}"Eu parei? Então..."
+// \{柳也}「そうか、なら…」
+<0570> \{Ryuuya}"Quer ouvir uma história chata minha?"
+// \{柳也}「つまらない話だけど、聞いてくれるか？」
+<0571> \{Kanna}"Vá em frente e fale."
+// \{神奈}「なんなりと申せ」
+<0572> Ao ver seu sorriso habitual, continuei.
+// いつもの笑顔に導かれて、俺は話しはじめた.
+<0573> \{Ryuuya}"Eu não me lembro de como eram meus pais."
+// \{柳也}「俺は親の顔を知らない」
+<0574> \{Kanna}"Por quê?"
+// \{神奈}「…なにゆえに？」
+<0575> \{Ryuuya}"Porque eles provavelmente me abandonaram."
+// \{柳也}「たぶん、捨てられたんだろうな」
+<0576> \{Ryuuya}"Fui adotado por um monge errante quando fui encontrado chorando na beira da estrada."
+// \{柳也}「道端で泣いてたところを、雲水に拾われたんだ」
+<0577> Isso soou tão distante quando coloquei em palavras.
+// 言葉にしてみると、それはひどく色褪せて感じられた.
+<0578> Kanna ficou em silêncio por um tempo e, por fim, me perguntou.
+// 神奈はしばらく無言だったが、やがてそっと訊いてきた.
+<0579> \{Kanna}"O que é um monge errante?"
+// \{神奈}「雲水とはなんだ？」
+<0580> \{Ryuuya}"É um monge sem templo, que vive peregrinando de um lugar para outro."
+// \{柳也}「旅の坊主のことさ」
+<0581> \{Ryuuya}"Um monge errante é um nome bonito, mas eles não são diferentes dos mendigos."
+// \{柳也}「行脚僧(あんぎゃそう)って言えば聞こえはいいけど、乞食みたいなもんだ」
+<0582> \{Ryuuya}"Eu viajei por muitas terras com ele."
+// \{柳也}「二人きりで、色々な土地を旅した…」
+<0583> Eu não chegaria ao ponto de chamá-lo de meu pai.
+// 育ての親、と言えるほどの存在ではない.
+<0584> Entretanto, uma coisa de que me lembro é que ele era rigoroso comigo.
+// ただ厳しい人だった、としか覚えていない.
+<0585> Eu nem mesmo entendia por que ele me salvou.
+// どうして俺を助けてくれたのかもわからない.
+<0586> Além de cantar as escrituras, ele era um homem de poucas palavras.
+// 経を唱える時以外、無駄口はいっさい開かなかった.
+<0587> Ele nem sequer havia me dito seu nome budista antes de morrer.
+// 法名(ほうみょう)さえ、最期まで教えてもらえなかった.
+<0588> \{Ryuuya}"Eu tinha cinco anos naquele verão."
+// \{柳也}「俺が五つかそこらの夏だ」
+<0589> \{Ryuuya}"Fomos atacados por bandidos em uma passagem na montanha."
+// \{柳也}「峠道で山賊に襲われてさ」
+<0590> \{Ryuuya}"Ele foi morto com um único golpe."
+// \{柳也}「雲水は一太刀で殺された」
+<0591> Os olhos de Kanna se arregalaram.
+// 神奈が瞳を見開いた.
+<0592> Um vento turbulento passou, rompendo a superfície pacífica da fonte.
+// 激しい風が吹き渡り、泉の水面を乱していった.
+<0593> \{Ryuuya}"Mesmo depois de ter sido ferido mortalmente, ele orou."
+// \{柳也}「その雲水は、斬られたあとも祈ってたよ」
+<0594> \{Ryuuya}"'Que o homem que tirou minha vida possa ir para o paraíso.'"
+// \{柳也}「『自分を殺す者が浄土に行けますように』ってさ」
+<0595> \{Ryuuya}"Dito isso, ele morreu coberto com seu próprio sangue."
+// \{柳也}「それでいて自分は、血まみれになって死んだ」
+<0596> \{Ryuuya}"Os bandidos disseram que me matar era uma perda de tempo, então pouparam minha vida."
+// \{柳也}「『刀の錆にするほどもない』って、俺は殺されなかったけどな…」
+<0597> E, mais uma vez, fui abandonado na beira da estrada.
+// そして俺は、また道端に見捨てられた.
+<0598> Eu era a criança insignificante que nem valia a pena matar.
+// 殺される価値さえない、ちっぽけな子供だった.
+<0599> Depois disso, fiquei sozinho.
+// あれからずっと、俺はひとりだった.
+<0600> Fiz tudo que pude para sobreviver.
+// 生き抜くためならなんでもやった.
+<0601> Roubei uma espada e fui para a guerra.
+// 太刀を盗み、戦に加わった.
+<0602> Eu também aprendi como tirar a vida de outras pessoas.
+// 人も殺した.
+<0603> Em nenhum momento acreditei que os deuses ouviam nossas orações.
+// 祈りが神に届くなんて、考えたこともなかった.
+<0604> Isso foi... até eu conhecer a garota que estava na minha frente agora.
+// 目の前にいる、この少女に出会うまでは.
+<0605> Kanna simplesmente ficou ali em silêncio e me observou.
+// 神奈はただすんなりとたたずみ、俺のことを見つめていた.
+<0606> Por fim, ela falou.
+// そして、こう言った.
+<0607> \{Kanna}"Esse bandido deve ter se arrependido do que fez."
+// \{神奈}「その山賊はさぞ悔やんだであろうな」
+<0608> \{Ryuuya}"Huh?"
+// \{柳也}「へっ？」
+<0609> \{Kanna}"Por que ele não sentiria vergonha por ter matado uma pessoa que não faz mal a ninguém, como um monge?"
+// \{神奈}「立派な高僧を殺めてしまったのだから、悔やむのが当然であろ？」
+<0610> \{Ryuuya}"Eu não o chamaria exatamente de uma pessoa que não faz mal a ninguém."
+// \{柳也}「立派な高僧だったかは、かなり怪しいけどな」
+<0611> \{Kanna}"Por que não?"
+// \{神奈}「なにを怪しむことがある？」
+<0612> \{Kanna}"Se os bandidos não te mataram é porque as preces do monge foram ouvidas, não acha?"
+// \{神奈}「雲水どのの祈りが通じたからこそ、山賊は柳也どのを殺さなかったのではないか」
+<0613> \{Ryuuya}"Não..."
+// \{柳也}「いや…」
+<0614> Tentei explicar a ela, mas fiquei hesitante.
+// 説明しようとして、思わずたじろいだ.
+<0615> Os olhos de Kanna penetraram minha alma.
+// 神奈の瞳が深い.
+<0616> Eram os olhos de alguém que não tinha a menor dúvida em suas palavras.
+// つむぎだす言葉に、一片の疑いも持っていない者の瞳.
+<0617> \{Ryuuya}"Bem..."
+// \{柳也}「そうか…」
+<0618> Uma emoção que eu não esperava iluminou os cantos mais escuros do meu coração. 
+// 思いもかけない感情が、闇の奧を照らすのを感じた.
+<0619> Agora eu entendo.
+// そうだ.
+<0620> Pode ser que eu estivesse errado, afinal.
+// 間違っていたのは、俺の方かもしれない.
+<0621> Talvez aquele monge tenha realmente salvado minha vida naquela época...
+// あの時俺は、たしかに救われていたのかもしれない、と…
+<0622> \{Ryuuya}"Por que não percebi isso antes...?"
+// \{柳也}「もっと早く、それに気づいていればな…」
+<0623> Eu me peguei falando em voz alta.
+// 知らず、言葉がこぼれ落ちた.
+<0624> \{Ryuuya}"Talvez eu tivesse seguido um caminho diferente na vida."
+// \{柳也}「俺はきっと、別の道を歩いてたのに」
+<0625> \{Kanna}"Isso me incomodaria."
+// \{神奈}「それは困るぞ」
+<0626> \{Ryuuya}"Por quê?"
+// \{柳也}「なんで？」
+<0627> \{Kanna}"Se você tivesse seguido um caminho diferente, eu não teria te conhecido."
+// \{神奈}「それでは余は、柳也どのと逢えぬではないか」
+<0628> \{Ryuuya}"Isso é verdade."
+// \{柳也}「そうだったな」
+<0629> \{Ryuuya}"Fico feliz por ter conhecido você."
+// \{柳也}「俺もな、神奈に逢えてよかったと思ってるよ」
+<0630> \{Kanna}"Ryuuya..."
+// \{神奈}「柳也どの…」
+<0631> Sua voz falhou.
+// 言葉が途切れる.
+<0632> Silêncio.
+// そのまま黙りこむ.
+<0633> Ela parecia ter tomado uma decisão.
+// 何かを決意したように.
+<0634> Aquela pequena figura se aproximou de mim.
+// きゃしゃな身体が、俺の方に近づいてくる.
+<0635> Foi só então que notei que Kanna estava descalça.
+// その時はじめて、神奈が素足なのに気づいた.
+<0636> Suas bochechas estavam ligeiramente vermelhas.
+// ほのかに紅く染まった頬.
+<0637> Seus olhos pareciam molhados.
+// 心なしか、瞳も潤んでいる.
+<0638> \{Kanna}"Ryuuya, sabe, hm..."
+// \{神奈}「柳也どの、その、な」
+<0639> \{Kanna}"Hm..."
+// \{神奈}「その…」
+<0640> \{Ryuuya}"O que foi?"
+// \{柳也}「なんだよ？」
+<0641> \{Kanna}"Eu não sei como devo proceder daqui para frente."
+// \{神奈}「この続きはどうするのか、ようわからんのだ」
+<0642> \{Kanna}"Então..."
+// \{神奈}「だからな…」
+<0643> \{Kanna}"Então, deixarei o resto com você."
+// \{神奈}「あとの手筈(てはず)は、柳也どのにまかせるぞ」
+<0644> \{Ryuuya}"O resto..."
+// \{柳也}「手筈って…」
+<0645> Ouvi o som de roupas deslizando sobre o corpo.
+// さらさらと、衣が滑る音がした.
+<0646> Kanna desatou a faixa e mostrou seus ombros bem na minha frente.
+// 俺の目の前で、神奈は帯をほどき、衣の肩をはだけた.
+<0647> Em seguida, ela se aproximou.
+// そのまま、俺に近づいてくる.
+<0648> Justamente quando seus dedos dos pés estavam prestes a tocar a água...
+// 爪先が水面に触れる寸前.
+<0649> \{Kanna}"Ah..."
+// \{神奈}「あっ…」
+<0650> Ela tropeçou na bainha de sua vestimenta...
+// 裾を踏んでしったらしい.
+<0651> ...E caiu desajeitada naquele exato momento.
+// ぺたんとその場に座りこんだ.
+<0652> \{Kanna}"Isso é vergonhoso."
+// \{神奈}「恥ずかしいのだ」
+<0653> \{Kanna}"Apresse-se com isso já."
+// \{神奈}「はよう、せい」
+<0654> Kanna franziu os lábios.
+// きゅっと唇をむすぶ.
+<0655> Ela me olhou timidamente.
+// 上目づかいに、俺の顔を覗きこむ.
+<0656> Sua pele macia se arrepiou ao entrar em contato com o ar livre.
+// きめ細やかな肌が、外気にさらされて震える.
+<0657> Seus dois montes não desenvolvidos foram expostos.
+// 育ちきっていない、ふたつの膨らみ.
+<0658> Mas as asas em suas costas ainda estavam escondidas.
+// 背中にあるはずの羽は、まだ隠されている.
+<0659> No entanto, ela ainda emitia a aura de um ser inocente e belo dos céus.
+// しかし、清らかな美しさは天の使いそのものだった.
+<0660> Quando estendi a mão para ela, Kanna se esquivou com medo.
+// 手を伸ばそうとすると、神奈はびくっと身をそらした.
+<0661> \{Kanna}"Você vai me tocar...?"
+// \{神奈}「触れる…のか？」
+<0662> \{Ryuuya}"Não posso fazer nada se não tocar em você."
+// \{柳也}「さわらなきゃ何もできないぞ」
+<0663> Ao ouvir isso, ela se virou para mim com uma expressão decidida.
+// 俺が言うと、観念したように正面を向く.
+<0664> Todos os seus movimentos eram tão adoráveis que eu queria pular em cima dela.
+// その仕草が、むしゃぶりつきたくなるほどに可愛らしい.
+<0665> Deixar passar essa oportunidade seria pura idiotice.
+// 据え膳食わぬは男の恥、というやつだ.
+<0666> Mas mesmo assim...
+// だが、しかし….
+<0667> \{Ryuuya}"Você tem alguma ideia do que estou prestes a fazer com você?"
+// \{柳也}「これから俺がどういうことをするか、わかってるか？」
+<0668> Perguntei apenas para me certificar.
+// 念のために訊いてみた.
+<0669> \{Kanna}"N-Não me tome por idiota."
+// \{神奈}「ばっ、馬鹿にするでないぞ」
+<0670> \{Kanna}"Estou totalmente preparada para tudo."
+// \{神奈}「万事こころえておるわ」
+<0671> Ela não estava entendendo nada, afinal...
+// …全然こころえてないと見た.
+<0672> \{Ryuuya}"Em primeiro lugar, vou despir você."
+// \{柳也}「とりあえず、衣は全部ひっぺがして素っ裸にするぞ？」
+<0673> \{Kanna}"I-Isso não pode ser evitado."
+// \{神奈}「しっ、仕方あるまいの」
+<0674> \{Ryuuya}"Então vou fazer mais do que apenas acariciá-la."
+// \{柳也}「撫でたり揉んだりたりするぞ？」
+<0675> \{Kanna}"Isso vai fazer cócegas?"
+// \{神奈}「くすぐったいのか？」
+<0676> \{Ryuuya}"Bem, talvez faça."
+// \{柳也}「まあ、そうとも言うな」
+<0677> \{Kanna}"Eu tenho certeza que sou capaz de aguentar isso."
+// \{神奈}「多少のことは我慢しようぞ」
+<0678> \{Ryuuya}"Mas não quero que você simplesmente aguente isso."
+// \{柳也}「…我慢されてもそれはそれで嫌なもんだが」
+<0679> \{Kanna}"E-Então, o que devo fazer?"
+// \{神奈}「でっ、ではどうすればよいのだ？」
+<0680> Sua exposição indecente não combinava bem com a inocência em seu rosto.
+// あられもない姿と途方に暮れた顔が、まったく噛み合っていない.
+<0681> \{Ryuuya}"Já que você está me perguntando..."
+// \{柳也}「どうすればって言われてもなあ…」
+<0682> \{Ryuuya}"Vou avisá-la logo de início. Isso vai doer."
+// \{柳也}「…断っておくが、痛いぞ」
+<0683> \{Kanna}"O quê? Vai doer?"
+// \{神奈}「なんと、痛いのかっ？」
+<0684> \{Ryuuya}"Sim, mas apenas no começo."
+// \{柳也}「そりゃまあ、最初はな」
+<0685> \{Kanna}"Hmm..."
+// \{神奈}「むぅ…」
+<0686> Ela refletiu profundamente por um tempo antes de me perguntar novamente.
+// 何やら真剣に考えこんだ後、こう訊いてきた.
+<0687> \{Kanna}"Disseram-me que a sensação de fazer isso é de estar subindo aos céus. É verdade?"
+// \{神奈}「…『天にも昇る心地』と聞いたのだが、まことではないのか？」
+<0688> \{Ryuuya}"Você se sentirá assim quando se tornar uma especialista nisso."
+// \{柳也}「そりゃ、その道の達人になればな」
+<0689> \{Kanna}"Então, eu vou precisar de treinamento..."
+// \{神奈}「やはり修練が必要なのか…」
+<0690> \{Kanna}"Bem que achei que parecia bom demais para ser verdade."
+// \{神奈}「なにやら話がうますぎると思うたのだ」
+<0691> Ela tirou as palavras da minha boca.
+// それはこっちの台詞だっての.
+<0692> \{Kanna}"Então, quanto treinamento é necessário para subir aos céus?"
+// \{神奈}「して、どのぐらい習えば心地よくなるものなのだ？」
+<0693> Como você pode perguntar isso a um homem?
+// 男にそれを聞いてどうするよ？
+<0694> Pensando bem, Kanna não tinha a menor noção de amor e romance.
+// 考えてみれば、色恋にかけては神奈は呆れるほどに奥手かつ無知だ.
+<0695> Ela não parecia ser uma pessoa que tomaria a iniciativa.
+// 自分から男を誘えるはずがないのだ.
+<0696> Portanto...
+// となれば.
+<0697> Alguém deve ter incutido essas noções nela.
+// 入れ知恵をした達人がいるに決まっている.
+<0698> \{Ryuuya}"Quem lhe falou sobre essa história de 'subir aos céus'?"
+// \{柳也}「『天にも昇る心地』ってのは、だれに聞いたんだ？」
+<0699> \{Kanna}"Uraha, é claro."
+// \{神奈}「むろん、裏葉にだぞ」
+<0700> O nome do verdadeiro mentor foi revelado.
+// あっさり黒幕の名前を吐いたな.
+<0701> \{Ryuuya}"O que ela lhe disse? Deixe-me ouvir tudo."
+// \{柳也}「どう聞いたか、全部話してみろよ」
+<0702> \{Kanna}"Hmm..."
+// \{神奈}「うむ…」
+<0703> \{Kanna}"Sabe, conversei com Uraha ontem à noite."
+// \{神奈}「実はな、昨夜、裏葉に話したのだ」
+<0704> \{Kanna}"Eu disse a ela que não conseguiria viver se você estivesse morto."
+// \{神奈}「もしも柳也どのが死ぬようなことがあれば、余も生きてはゆけまいぞ、と」
+<0705> \{Ryuuya}"......"
+// \{柳也}「………」
+<0706> \{Kanna}"É claro que não estou querendo dizer que não posso continuar sem um guarda."
+// \{神奈}「むろん、護衛がいなくなるからではないぞ」
+<0707> \{Kanna}"Porque, para mim, você é..."
+// \{神奈}「その、余にとって、柳也どのというのは…」
+<0708> \{Kanna}"......"
+// \{神奈}「………」
+<0709> \{Ryuuya}"Então você estava preocupada comigo?"
+// \{柳也}「とにかく、俺の身を案じてくれていたわけだな」
+<0710> \{Kanna}"Sim."
+// \{神奈}「うむ」
+<0711> \{Kanna}"Depois que lhe contei isso, ela disse..."
+// \{神奈}「余が打ち明けると、裏葉はこう申した」
+<0712> \{Kanna}"...Que eu deveria esquecer meu status e apenas falar honestamente como me sinto."
+// \{神奈}「身分や立場を忘れ、柳也どのに素直な心持ちを告げてみろと」
+<0713> \{Ryuuya}"Até agora, esse é um bom conselho."
+// \{柳也}「そこまではまともな忠告だな」
+<0714> \{Kanna}"E que eu deveria me abster de chamá-lo de idiota, pervertido e coisas do gênero."
+// \{神奈}「なおその際、決して『うつけ』とか『痴れ者』とは呼んではならんと」
+<0715> \{Ryuuya}"Ela deveria ter lhe ensinado isso muito antes."
+// \{柳也}「なにを今さらって感じだけどな」
+<0716> \{Kanna}"Se tudo corresse bem, você me contaria sobre seu passado, e eu deveria ouvir sem interromper."
+// \{神奈}「首尾よくゆけば、柳也どのは昔のことを語り出すから、だまって聞くようにと」
+<0717> \{Ryuuya}"Como ela sabia disso?"
+// \{柳也}「…なんでわかったんだよ？」
+<0718> \{Kanna}"Ela disse que todos os homens falam sobre seu passado para as mulheres de quem gostam."
+// \{神奈}「『殿方というのは、好いた女人には必ず昔語りをするものでございます』と申しておったぞ」
+<0719> \{Ryuuya}"......"
+// \{柳也}「………」
+<0720> Foi bem constrangedor ser revelado dessa forma.
+// 完璧に読まれているだけに、ものすごく悔しい.
+<0721> \{Kanna}"Aí, depois que você terminasse de falar, eu deveria desamarrar minhas roupas lentamente."
+// \{神奈}「柳也どのの話がおわったら、おもむろに衣の前をはだける」
+<0722> \{Kanna}"É fundamental não revelar totalmente meus seios ao fazer isso."
+// \{神奈}「この時、胸乳がもろには見えぬぐらいにするのが肝要だとか」
+<0723> É impressionante que Uraha tenha planejado toda essa estratégia com Kanna.
+// こまかな演技指導までつけてるし.
+<0724> \{Kanna}"Então, a partir daí, eu deixaria o resto com você e tudo daria certo... pelo menos de acordo com ela..."
+// \{神奈}「あとは柳也どのにまかせれば万事うまくゆく、とのことだったが…」
+<0725> \{Kanna}"Será que cometi um erro em algum lugar?"
+// \{神奈}「どこか、まちがっておったか？」
+<0726> Você cometeu um erro no momento em que começou a ouvir as dicas da Uraha...
+// 裏葉に訊いた時点で、すでに致命的にまちがっている.
+<0727> \{Kanna}"Ou talvez..."
+// \{神奈}「とすると…」
+<0728> \{Kanna}"Você prefere os homens?"
+// \{神奈}「柳也どのは男色が好みであったか」
+<0729> \{Ryuuya}"Espere um pouco!"
+// \{柳也}「ちょっと待てっ!」
+<0730> \{Kanna}"Você não prefere? Então..."
+// \{神奈}「ちがうのか？ では…」
+<0731> \{Kanna}"Ah, já sei!"
+// \{神奈}「おお、そうだ」
+<0732> Ela bateu palmas.
+// 何かを思い出したのか、ぽんと手を叩く.
+<0733> \{Kanna}"Você é um daqueles homens que amam as mulheres, mas não conseguem..."
+// \{神奈}「女好きでも益体(やくたい)なしな殿方もまれにあると…」
+<0734> \{Ryuuya}"Isso não é verdade!"
+// \{柳也}「人聞きの悪いことを言うなあっ!」
+<0735> Sabe-se lá que outras coisas lhe foram ensinadas.
+// この分では、ほかにもなにを吹きこんだか知れたものではない.
+<0736> \{Ryuuya}"Caramba, essa mulher..."
+// \{柳也}「まったく、あの女狐め…」
+<0737> Não me surpreenderia se o Uraha tivesse uma cauda.
+// 裏葉なら尻尾の二、三本ぐらい生えていてもおかしくない.
+<0738> \{Kanna}"Então, talvez eu devo ter mostrado muito o meu corpo..."
+// \{神奈}「やはり衣をはだけすぎたか…」
+<0739> \{Ryuuya}"Você ainda está preocupada com isso..."
+// \{柳也}「…こいつはまだぶつぶつ言ってるし」
+<0740> \{Ryuuya}"......"
+// \{柳也}「………」
+<0741> \{Ryuuya}"Tudo bem, tudo bem!"
+// \{柳也}「よし、わかったっ」
+<0742> \{Ryuuya}"Vou lhe mostrar que sou um verdadeiro homem!"
+// \{柳也}「俺も男だってところを見せつけてやるから覚悟しろ」
+<0743> Fiz uma exclamação em voz alta para a floresta.
+// 森中に響きわたるような大声で宣言する.
+<0744> \{Kanna}"Seus olhos estão estranhos, Ryuuya..."
+// \{神奈}「柳也どの、なにやら目つきがおかしいぞ…」
+<0745> \{Ryuuya}"Você colocou a isca primeiro. Fique quieta enquanto eu cravo minhas presas venenosas em você."
+// \{柳也}「誘ってきたのはおまえだぞ、おとなしく俺の毒牙にかかれ」
+<0746> \{Kanna}"Ryuuya, você é venenoso?"
+// \{神奈}「柳也どのには毒があるのか？」
+<0747> \{Ryuuya}"Todos os homens são."
+// \{柳也}「男にはみんなあるんだ」
+<0748> \{Kanna}"I-Isso é novidade para mim."
+// \{神奈}「は、初耳だぞ」
+<0749> \{Ryuuya}"Há muitas coisas que você não sabe sobre os homens."
+// \{柳也}「実はな、他にもおまえの知らないものが色々とあったりするんだ」
+<0750> \{Kanna}"O-O quê...?"
+// \{神奈}「なっ、なんと…」
+<0751> \{Ryuuya}"E hoje eu vou lhe ensinar até os mínimos detalhes."
+// \{柳也}「手取り足取り胸取り腰取り、たっぷり教えてやるからな」
+<0752> Agarrei seus ombros finos com as duas mãos.
+// か細い肩にがっちりと両手をかける.
+<0753> \{Kanna}"Ei! P-Pare!"\shake{0}\shake{0}
+// \{神奈}「こら、やっ、やめんかっ…」\shake{0}\shake{0}
+<0754> Suas bochechas estavam ficando vermelhas. Ela se contorceu para se libertar.
+// 顔を真っ赤にし、激しく身をよじる.
+<0755> Mas uma mulher não pode se afastar de um homem que está falando sério sobre conquistá-la.
+// だが、男が本気になれば振りほどけるはずがない.
+<0756> \{Kanna}"Para com isso... Pare..."\shake{0}\shake{0}\shake{0}\shake{0}
+// \{神奈}「やめよっ…やめっ…」\shake{0}\shake{0}\shake{0}\shake{0}
+<0757> \{Ryuuya}"Nenhum homem vai parar só porque lhe foi dito para parar."
+// \{柳也}「やめろと言われてやめる男はいないぞっ」
+<0758> Então, eu finalmente perdi o controle...
+// 俺はそこで我慢できなくなり…
+<0759> \{Ryuuya}"Uraha, sei que você está escondida em algum lugar. Saia logo daí!"
+// \{柳也}「…裏葉っ、どうせまたその辺に隠れてるんだろ、出てこいっ!」
+<0760> Examinei meus arredores e gritei bem alto.
+// 辺りを見回しながら、声を張りあげた.
+<0761> \{Uraha}"Desculpe-me por interromper seu momento de diversão."
+// \{裏葉}「お楽しみのところ、失礼いたします」
+<0762> \{Ryuuya}"Pelo visto é você quem está se divertindo!"
+// \{柳也}「楽しんでたのはおまえだけだっ!」
+<0763> \{Uraha}"Está tudo bem com você, Kanna-sama?"
+// \{裏葉}「神奈さま、ご無事でございますか？」
+<0764> Uraha correu até Kanna, que estava aliviada, e rapidamenter a ajudou a vestir suas roupas.
+// 放心した神奈に走り寄り、てきぱきと衣を着せる.
+<0765> \{Kanna}"Acho que nem tudo saiu como esperado."
+// \{神奈}「…ようわからんが、うまくいかなんだぞ」
+<0766> \{Uraha}"Ora, ora. Isso é realmente uma pena."
+// \{裏葉}「あらあらまあまあ.それは残念でございましたね」
+<0767> \{Ryuuya}"Você poderia ser mais sarcástica?"
+// \{柳也}「白々しすぎるぞ」
+<0768> Uraha ignorou minha reclamação e apontou para a floresta.
+// 俺のつぶやきを無視して、裏葉は森の奧を手で示しながら言った.
+<0769> \{Uraha}"Sua refeição já está pronta."
+// \{裏葉}「あちらに御膳の支度がととのってございます」
+<0770> \{Kanna}"Ah. Bom trabalho."
+// \{神奈}「そうか.大儀であった」
+<0771> Kanna saiu rapidamente.
+// そそくさと歩きだす神奈.
+<0772> A comida a atraiu para longe.
+// …あっさり飯に釣られていくわけな？
+<0773> \{Kanna}"Ryuuya."
+// \{神奈}「柳也どの」
+<0774> \{Ryuuya}"O quê?"
+// \{柳也}「なんだ？」
+<0775> \{Kanna}"Hm..."
+// \{神奈}「その…」
+<0776> Seu cabelo ainda estava todo bagunçado.
+// まだ乱れたままの髪.
+<0777> Um leve rubor ainda permanecia em sua bochecha.
+// さっきの余韻が残っているような、ほんのりと上気した頬.
+<0778> \{Kanna}"Eu o irritei de alguma forma?"
+// \{神奈}「…余は、柳也どのを怒らせてしもうたのか？」
+<0779> \{Ryuuya}"Não estou irritado nem nada."
+// \{柳也}「別に怒ってなんかないさ」
+<0780> \{Kanna}"Isso é bom..."
+// \{神奈}「ならよいのだが…」
+<0781> Ela assentiu com a cabeça e colocou a mão no peito.
+// ほっとしたように頷き、手のひらを胸に添える.
+<0782> Essa ação me fez lembrar de seus montes que estavam brotando por baixo.
+// その下にある小振りな膨らみを、どうしても思い出してしまう.
+<0783> Eu estava começando a me arrepender um pouco por não ter aproveitado a oportunidade.
+// 勢いにまかせてしまわなかったことを、すこしばかり後悔した.
+<0784> \{Uraha}"Vamos lá, Kanna-sama."
+// \{裏葉}「ささ、神奈さまお早く」
+<0785> \{Kanna}"Certo."
+// \{神奈}「うむ」
+<0786> Uraha empurrou as costas de Kanna para afastá-la.
+// 神奈の背を押して去りかけた裏葉に、今度は俺が声をかけた.
+<0787> \{Ryuuya}"Uraha."
+// \{柳也}「…裏葉」
+<0788> \{Uraha}"O que foi?"
+// \{裏葉}「なんでございましょう？」
+<0789> \{Ryuuya}"Você sabia que eu não encostaria a mão nela, não é?"
+// \{柳也}「俺が絶対に手を出さないって踏んでたろ」
+<0790> \{Uraha}"Foi uma aposta arriscada, mas sim."
+// \{裏葉}「分の悪い賭けではございましたが」
+<0791> \{Ryuuya}"......"
+// \{柳也}「………」
+<0792> Fiquei chocado e sem palavras, mas ela parecia a mesma de sempre.
+// 二の句のつげない俺と、いつも通りの裏葉.
+<0793> \{Ryuuya}"Você não encontrará outro homem inofensivo como eu em nenhum outro lugar."
+// \{柳也}「…俺ほど人畜無害な男はないぞ」
+<0794> \{Uraha}"Você quer dizer um homem inútil."
+// \{裏葉}「益体なしとも申しますわね」
+<0795> \{Ryuuya}"Ah, cale-se!"
+// \{柳也}「やかましいっての」
+<0796> Kanna nos olhava perplexa porque não conseguia entender nossa conversa.
+// 俺たちの会話の意味がわからず、神奈はただきょとんとしている.
+<0797> \{Uraha}"Agora, se me permite, irei me retirar."
+// \{裏葉}「それではお先に」
+<0798> \{Uraha}"Vou educar Kanna-sama sobre as regras de etiqueta no quarto."
+// \{裏葉}「これから神奈さまに房事をお教えいたしますので」
+<0799> \{Ryuuya}"Por favor, não faça isso."
+// \{柳也}「頼むからやめてくれ」
+<0800> \{Kanna}"O que são as regras de etiqueta no quarto?"
+// \{神奈}「房事とはなんだ？」
+<0801> \{Ryuuya}"Não pergunte mais nada!"
+// \{柳也}「…おまえも訊くんじゃないっ」
+<0802> O sol já está se pondo ao sul.
+// 太陽は既に真南を過ぎている.
+<0803> A floresta à tarde não parecia tão quente.
+// 昼下がりの森に、以前ほどの熱気は感じられない.
+<0804> Os traços do outono permaneciam nos ventos que passavam.
+// 吹き抜ける風も、秋の気配をたしかに含んでいる.
+<0805> As cigarras estavam cantando.
+// 寒蝉(つくつくぼうし)が鳴いている.
+<0806> Era como se elas estivessem tentando mostrar suas localizações para o céu.
+// 自分の居所を、空に伝えるように.
+<0807> \{Uraha}"O verão está chegando ao fim."
+// \{裏葉}「夏も終わりでございますね」
+<0808> \{Ryuuya}"É verdade..."
+// \{柳也}「そうだな…」
+<0809> O contorno nebuloso de uma montanha suave estava aparecendo por entre as copas das árvores.
+// 梢を通して、なだらかな山嶺が霞んでいる.
+<0810> Quando o sol se pôr, partiríamos para lá.
+// 日が落ちたら、三人であの峰に向かう.
+<0811> Kanna estava dormindo.
+// 神奈は眠っている.
+<0812> Ela estava cochilando no colo de Uraha.
+// 裏葉の膝で、すうすうと寝息を立てている.
+<0813> Uraha sorriu tranquilamente.
+// 裏葉はたおやかに微笑んでいる.
+<0814> Enquanto penteava o cabelo de Kanna com os dedos, ela murmurou baixinho.
+// 神奈の髪を指で梳きながら、ささやくように言った.
+<0815> \{Uraha}"Ela não dormiu nada na noite passada..."
+// \{裏葉}「昨夜は一睡もされませんでしたから…」
+<0816> \{Ryuuya}"Por quê?"
+// \{柳也}「そうなのか？」
+<0817> \{Uraha}"Acho que ela estava muito preocupada com Ryuuya-san."
+// \{裏葉}「柳也さまのことが、よほど気がかりだったのでしょう」
+<0818> \{Ryuuya}"Sério...?"
+// \{柳也}「そうか…」
+<0819> Olhando para a Kanna adormecida, eu comentei.
+// 神奈の寝顔を見下ろし、言うでもなく言った.
+<0820> \{Ryuuya}"Ela realmente parece uma linda princesa quando fica quieta assim."
+// \{柳也}「こうして見れば、なかなかの美姫(びき)なんだけどな」
+<0821> Uraha me lançou um olhar de reprovação.
+// とたんに裏葉ににらまれた.
+<0822> \{Uraha}"Kanna-sama, em qualquer situação, sempre se parecerá com uma linda princesa."
+// \{裏葉}「もとより神奈さまは、とびきりの美姫でございます」
+<0823> \{Uraha}"Antes que insetos desinteressantes se aproximem, preciso lhe ensinar os truques do amor..."
+// \{裏葉}「つまらぬ虫が寄る前に、色恋の手管(てくだ)をお仕込みしなければ…」
+<0824> \{Ryuuya}"Isso não significa que você deva me usar como campo de treinamento."
+// \{柳也}「だからって俺を練習台に使うことはないだろ」
+<0825> \{Uraha}"Do que você está falando, eu me pergunto?"
+// \{裏葉}「なんのことでございましょう？」
+<0826> \{Ryuuya}"Não se faça de inocente para mim."
+// \{柳也}「真顔でとぼけるなよ」
+<0827> Kanna continuava dormindo, alheia a tudo.
+// 神奈はなにも知らず、すうすうと寝息を立てている.
+<0828> \{Ryuuya}"Ela não passa de uma criança."
+// \{柳也}「こいつはまだ女童(めわらわ)さ」
+<0829> \{Ryuuya}"Uma que ainda não se cansou de brincar de casinha e jogar saquinhos de feijão no ar."
+// \{柳也}「人形遊びやお手玉さえ、満足にしたことがなかったんだからな」
+<0830> \{Kanna}"Mmm..."
+// \{神奈}「う…ん…」
+<0831> Kanna se remexeu. Ela estava tentando se virar durante o sono.
+// 寝返りをうとうとしたらしい.神奈が身じろぎした.
+<0832> Uraha ajustou gentilmente a cabeça de Kanna em seu colo.
+// 裏葉は神奈の頭にそっと手を添え、さりげなく膝に乗せなおした.
+<0833> Seus pequenos lábios se moviam com alegria.
+// 小さな唇が、幸せそうに動いた.
+<0834> \{Kanna}"Mãe..."
+// \{神奈}「…ははうえ…」
+<0835> Uraha acariciou os cabelos de Kanna sem dizer uma palavra.
+// 裏葉はただ、やさしく髪を撫で続けていた.
+<0836> O reencontro estava chegando.
+// 再会の時は近づいていた.
+<0837> E, com isso, viria a despedida.
+// そして、別れの時も.
+<0838> Partimos logo após o pôr do sol.
+// 日が落ちて、すぐに出立した.
+<0839> Não se via uma única nuvem no céu. A lua não apareceu.
+// 雲がある様子もないのに、月は現れなかった.
+<0840> Mesmo assim, a floresta era pouco iluminada e nossa viagem por ela não foi difícil.
+// それでいて、森の中はほの明るく、山道も苦にはならなかった.
+<0841> Kanna estava andando rapidamente.
+// 神奈の足は早かった.
+<0842> Ela deve estar ansiosa para ver sua mãe novamente.
+// 再会に気が急くのだろう.
+<0843> Por outro lado, eu estava ficando para trás por causa do meu ferimento.
+// 傷を負った俺の方が、遅れがちになる始末だった.
+<0844> Finalmente...
+// そして…
+<0845> Chegamos ao topo da montanha.
+// 俺たちは山頂に着いた.
+<0846> Havia uma espécie de monte nas profundezas da floresta.
+// 木々の中央に、なにか小山のようなものがあった.
+<0847> Era uma pilha de pedras cobertas de musgo, com cerca de duas vezes a altura de um homem.
+// こけむした石が、人の背丈の倍ほどまで高々と積まれている.
+<0848> Parecia ser antigo.
+// かなり古いもののようだった.
+<0849> \{Ryuuya}"Um túmulo?"
+// \{柳也}「石塚？」
+<0850> Era grande demais para ser um.
+// …にしては大きすぎる.
+<0851> Eu não ficaria surpreso se houvesse um quarto lá dentro.
+// それこそ、中に部屋があってもおかしくない.
+<0852> \{Uraha}"Ryuuya-san, dê uma olhada nisso."
+// \{裏葉}「柳也さま、こちらを」
+<0853> Uma árvore excepcionalmente alta estava entre os bosques próximos ao monte.
+// ひときわ大きな木が、石塚の脇にある森に立っていた.
+<0854> Um objeto circular do tamanho do rosto de uma pessoa estava preso ao tronco.
+// 幹の中央に、顔ほどの大きさの丸いものが結わえつけてある.
+<0855> \{Ryuuya}"Um espelho?"
+// \{柳也}「…鏡？」
+<0856> Virei-me para Uraha.
+// 裏葉の方を振り向き、尋ねる.
+<0857> \{Ryuuya}"O que você acha que é isso?"
+// \{柳也}「なんだと思う？」
+<0858> \{Uraha}"Não tenho certeza, mas acredito que seja um feitiço."
+// \{裏葉}「しかとはわかりませんが、いずれ呪法のたぐいでしょう」
+<0859> \{Kanna}"Podemos entrar por aqui."
+// \{神奈}「こちらから入れるぞっ」
+<0860> A voz de Kanna soou do lado da lápide.
+// 石塚の側方から、神奈の声がした.
+<0861> \{Ryuuya}"Espere!"
+// \{柳也}「待てっ」
+<0862> Eu a agarrei pelo colarinho.
+// すんでのところで襟首をつかまえた.
+<0863> Era uma caverna com largura suficiente apenas para a passagem de uma pessoa.
+// 神奈が飛びこもうとしたのは、人ひとりがどうにか通れるほどの穴だった.
+<0864> O ar gelado emergiu de seu interior escuro.
+// 氷室のような冷気が、黒々とした闇から流れ出してくる.
+<0865> \{Ryuuya}"Deixe-me dar uma olhada primeiro..."
+// \{柳也}「まず、俺が様子を…」
+<0866> Uma voz severa me interrompeu.
+// 言いかけたとたんに、きびしい声が飛んだ.
+<0867> \{Kanna}"Não."
+// \{神奈}「ならぬ」
+<0868> \{Kanna}"Não se lembra do que eu lhe disse?"
+// \{神奈}「昼間、申したであろ」
+<0869> \{Kanna}"Eu não vou permitir que algo perigoso aconteça com você."
+// \{神奈}「柳也どのの身に何かあったら、余も生きてはゆけぬと」
+<0870> \{Ryuuya}"......"
+// \{柳也}「………」
+<0871> Embora eu tenha ficado feliz em ouvi-la dizer isso, meu trabalho era encarar o perigo.
+// 気持ちは嬉しいが、危険をたしかめるのが俺の役目だ.
+<0872> Ainda mais aqui...
+// なぜなら….
+<0873> Pode ser que um “demônio” esteja alojado aí dentro.
+// ここに囚われているのは『悪鬼』かもしれないのだ.
+<0874> \{Uraha}"Chegamos juntos até aqui, então vamos entrar juntos."
+// \{裏葉}「ここまで来たのですから、仲よく三人で参りましょう」
+<0875> Até mesmo Uraha parecia despreocupada.
+// 裏葉までが呑気なことを言う.
+<0876> Você não é responsável por levar Kanna para um lugar seguro se algo ruim acontecer comigo?
+// …おまえは俺になにかあった時に、神奈を逃がす役目だろうが.
+<0877> No entanto, nenhuma delas estava recuando.
+// だが、裏葉も神奈も退くつもりはないようだった.
+<0878> \{Ryuuya}"Tudo bem..."
+// \{柳也}「…わかったよ」
+<0879> \{Ryuuya}"Mas eu vou assumir a liderança."
+// \{柳也}「ただし、先頭は俺だぞ」
+<0880> \{Kanna}"Muito bem. Deixo isso com você."
+// \{神奈}「よい.おぬしにゆずろうぞ」
+<0881> \{Uraha}"Vamos lá."
+// \{裏葉}「では、参りましょう」
+<0882> Entramos na caverna.
+// 洞穴に足を入れる.
+<0883> O local estava envolto em uma escuridão ofuscante. 
+// 墨を流したように、何も見えなかった.
+<0884> Avancei com cautela, testando minha posição a cada passo.
+// 足元を一歩一歩たしかめながら、慎重に進む.
+<0885> A brisa que acariciava meu rosto me informou a direção a ser tomada no interior da caverna.
+// 頬を撫でる風から、行く手が空洞になっているのがわかる.
+<0886> Caminhei por uma boa distância, mas não havia sinal de um beco sem saída.
+// だが、いくら歩いても突き当たる気配はなかった.
+<0887> Essa caverna não deveria ser tão profunda.
+// この穴がこんなに深いはずはない.
+<0888> Isso também é um feitiço de algum tipo?
+// これもまた、呪術のひとつなのか？
+<0889> \{Voz}"Pare."
+// \{声}「…とまりなさい」
+<0890> Uma voz ecoou.
+// どこからか、声が響いた.
+<0891> \{Voz}"Não chegue mais perto."
+// \{声}「近づいてはなりません」
+<0892> Era uma voz de comando feminina.
+// 凛(りん)とした女の声.
+<0893> \{Voz}"Se você veio para me enviar para a guerra, saiba que não sairá vivo daqui."
+// \{声}「わらわを戦に駆り立てるのなら、生きてはここを出られぬと知りなさい」
+<0894> Eu não conseguia entender o que ela dizia.
+// 言葉の意味はわからない.
+<0895> No entanto, era perceptível uma imensa dignidade e elegância cravejada naquela voz.
+// だが、持って生まれた威厳と気品は隠しようがない.
+<0896> Corrigi minha postura e chamei na escuridão.
+// 俺は居住まいを正し、闇に向かって呼びかけた.
+<0897> \{Ryuuya}"Eu sou Ryuuya, um servo de Kannabi no Mikoto."
+// \{柳也}「私は神奈備命が随身、柳也と申す者です」
+<0898> \{Uraha}"E eu sou Uraha."
+// \{裏葉}「同じく、裏葉と申します」
+<0899> \{Ryuuya}"Com todo o respeito, presumo que você seja a mãe de Kannabi no Mikoto..."
+// \{柳也}「おそれながら、神奈備命の御母君と推察いたしますが…」
+<0900> \{Voz}"Kan...na...?"
+// \{声}「かん、な…？」
+<0901> \{Kanna}"É você... Mãe?"
+// \{神奈}「ははうえ…なのか？」
+<0902> A voz da mulher ficou mais tensa ao ouvir a pergunta de Kanna.
+// 神奈の言葉を聞いたとたん、女の声に緊張が戻った.
+<0903> \{Voz}"Então você está dizendo que trouxe a minha filha até aqui?"
+// \{声}「娘子を連れているのですか」
+<0904> \{Voz}"Que tipo de truque é esse desta vez?"
+// \{声}「今度はどのように、わらわを誑(たぶら)かすつもりですか」
+<0905> \{Voz}"Eu não tenho nenhuma filha."
+// \{声}「わらわに娘子などおりません」
+<0906> \{Voz}"Minha filha já está..."
+// \{声}「わらわの娘は、とうに…」
+<0907> \{Uraha}"Kanna-sama, suas roupas."
+// \{裏葉}「神奈さま、お召し物を」
+<0908> Uraha falou com sua voz firme de sempre.
+// いつもと同じ、冷静な声色が言った.
+<0909> Ouviu-se o som de tecido se movendo.
+// しゅるしゅると、衣擦れの音がした.
+<0910> Logo percebi o que elas estavam fazendo.
+// なにをしているのか悟るのに、少々時間がかかった.
+<0911> Então, ajoelhei-me no chão e me agachei.
+// 俺は片膝を地面につき、その場にかしこまった.
+<0912> A luz encheu o ambiente.
+// 光が満ちた.
+<0913> A caverna inteira estava cheia de um brilho branco.
+// 洞穴全体が真っ白に滲んでいる.
+<0914> Minha sombra tremulou no chão de pedras.
+// 石を敷きつめた床で、自分の影が揺らいでいるのが見えた.
+<0915> Depois que meus olhos se ajustaram à luminosidade, levantei a cabeça com cuidado.
+// 明るさに目が慣れてから、俺はおそるおそる顔を起こした.
+<0916> À minha frente...
+// そこには.
+<0917> ...Está um par de asas.
+// 翼があった.
+<0918> Kanna havia tirado suas roupas.
+// 神奈が衣をするりと落とした.
+<0919> Ela estava expondo seu corpo sem a menor reserva.
+// ためらうことなく、裸身をさらす.
+<0920> Seus lábios estavam franzidos.
+// きゅっと引き締めた口元.
+<0921> Em suas costas esbeltas...
+// ほっそりとしたその背中.
+<0922> ...há um par de asas bem abertas.
+// 左右に広がる、一対の白翼…
+<0923> Lembrei-me de minha primeira conversa com Kanna.
+// 神奈とかわしたはじめての会話を、俺は思いだしていた.
+<0924> 'Bem... Eles são os mensageiros de Deus.'
+// 『そうだな.なんたって神の使いだ』
+<0925> 'Na era Tang e Zhu, eles eram chamados de Hou-you, também conhecidos como Fu-ji ou Ku-mari no nome antigo.'
+// 『唐天竺では鳳翼と呼びならわし、異名を風司、古き名では空真理ともいう』
+<0926> 'Eles têm pele de veludo, olhos de ágata e lágrimas de diamante.'
+// 『肌はびろうど、瞳はめのう、涙は金剛石』
+<0927> 'Na verdade, eles são seres celestiais.'
+// 『やんごとなきその姿はまさしくあまつびと』
+<0928> Que palavras banais foram aquelas...
+// なんて陳腐な言葉だったろう.
+<0929> Aqui está Kanna, exibindo seu corpo com todo o seu esplendor divino.
+// 神々しいばかりの輝きの中央に、神奈の身はささえられている.
+<0930> Simplesmente linda.
+// 美しい.
+<0931> Isso foi tudo o que me veio à mente.
+// そうとしか、言いようがなかった.
+<0932> Havia uma grade de metal com duas camadas mais adiante na caverna.
+// 洞窟の奧に、ものものしい二重の鉄格子があった.
+<0933> A nobre dama estava enjaulada lá dentro.
+// その向こうに、貴人が囚われていた.
+<0934> Ela ficou hipnotizada ao ver Kanna.
+// 神奈のことを食い入るように見つめている.
+<0935> Seu corpo magro estava envolvido com um manto descolorido e rústico.
+// 色のない粗末な衣に、痩せた身体を包んでいる.
+<0936> Olhos deprimidos, bochechas emaciadas, cabelos que haviam perdido o brilho...
+// 憂(うれ)いに沈んだ瞳、ひどくやつれた頬、艶を失った髪…
+<0937> No entanto, não havia dúvidas quanto a isso.
+// だが、間違えようがない.
+<0938> Essa mulher era a mãe de Kanna.
+// 神奈の母君だった.
+<0939> Ainda nua, Kanna se virou para mostrar suas asas à mãe.
+// 神奈は裸のままくるりと振り向き、母君に自分の翼をさらした.
+<0940> \{Kanna}"Essas são as minhas asas."
+// \{神奈}「余の背羽だ」
+<0941> \{Kanna}"Não posso batê-las nem voar com elas."
+// \{神奈}「羽ばたくことも、飛ぶこともできぬが」
+<0942> \{Kanna}"Se você também tiver as mesmas asas que eu..."
+// \{神奈}「もしもこれと同じものを、持っておられるなら…」
+<0943> A mulher não respondeu.
+// だが、答えは返ってこない.
+<0944> Uraha, que havia ficado em silêncio, percebeu para onde eu estava olhando.
+// 神奈の側にかしこまっていた裏葉が、俺の視線に気づいた.
+<0945> \{Uraha}"Pronto, Kanna-sama."
+// \{裏葉}「さあ、神奈さま」
+<0946> Ela vestiu Kanna com rapidez e cuidado.
+// 宝物をしまうように、そそくさと衣を着せる.
+<0947> Eu queria ficar olhando mais para a Kanna, mas a mãe dela estava aqui.
+// 減るもんじゃなしと思ったが、母君の面前とあれば仕方がない.
+<0948> A escuridão retornou à caverna.
+// 辺りに闇が戻った.
+<0949> \{Voz}"Isso deve ser o \g{karma}={Lei de causa e efeito, onde ações influenciam o destino. Presente em várias tradições religiosas, como o hinduísmo e o budismo.}."
+// \{声}「因果なものですね」
+<0950> \{Voz}"Nem em meus sonhos mais loucos pensei em vê-la novamente depois de todos esses anos..."
+// \{声}「ふたたび我が子と逢う日が来ようとは」
+<0951> \{Voz}"E pensar que o nome que lhe dei significa 'sem Deus'..."
+// \{声}「『神などなし』と名づけた我が子と…」
+<0952> \{Voz}"Kanna..."
+// \{声}「神奈」
+<0953> \{Voz}"Como você cresceu."
+// \{声}「立派になりましたね」
+<0954> \{Kanna}"Mãe."
+// \{神奈}「はは…うえ」
+<0955> *Bam!*\shake{1}
+// …ごんっ.\shake{1}
+<0956> \{Kanna}"Ai..."
+// \{神奈}「…痛いぞ」
+<0957> \{Uraha}"Está tudo bem com você, Kanna-sama?"
+// \{裏葉}「神奈さまっ、ご無事でございますか」
+<0958> As grades de metal impediram que elas fizessem contato.
+// 鉄格子越しでは、触れ合うこともできない.
+<0959> Nossa prioridade agora era tirar a mãe dela dessa prisão.
+// 母君をここから出すのが先決だ.
+<0960> Enquanto eu estava considerando as opções...
+// 俺がそう考えた時.
+<0961> \{Mãe}"Aquele que se autodenomina Ryuuya."
+// \{母}「柳也と申した者」
+<0962> \{Ryuuya}"Sim, estou aqui."
+// \{柳也}「はい、ここに」
+<0963> \{Mãe}"Por favor, pegue Kanna e saia desta montanha imediatamente."
+// \{母}「神奈を連れて、すぐに山を降りなさい」
+<0964> \{Kanna}"Por quê?!"
+// \{神奈}「…なぜだっ」
+<0965> \{Kanna}"É porque eu não posso voar?"
+// \{神奈}「余が飛べぬからか？」
+<0966> \{Kanna}"Ou porque não consigo mover bem minhas asas?"
+// \{神奈}「余の背羽が上手に羽ばたかぬからか？」
+<0967> Eu parei a sempre ansiosa Kanna com uma mão.
+// 必死で問い返す神奈を、俺はそっと手で制した.
+<0968> *Plof!*
+// …むにっ.
+<0969> \{Kanna}"Onde você está me tocando?"
+// \{神奈}「…どこを触っておるか」
+<0970> \{Ryuuya}"Provavelmente em seus seios."
+// \{柳也}「胸だろうな、たぶん」
+<0971> \{Ryuuya}"Deixe a conversa fiada para depois."
+// \{柳也}「…とにかく話は後だ」
+<0972> Eu não entendia completamente a situação dela, mas não havia como voltar atrás agora.
+// どんな事情があるかは知らないが、俺だってもうあとには退けない.
+<0973> \{Ryuuya}"Kanna, você quer ficar com sua mãe?"
+// \{柳也}「神奈、母君と一緒にいたいか？」
+<0974> \{Kanna}"......"
+// \{神奈}「………」
+<0975> \{Ryuuya}"Você quer ficar com sua mãe?"
+// \{柳也}「母君と一緒にいたいか？」
+<0976> \{Kanna}"Eu quero."
+// \{神奈}「…たいぞ」
+<0977> \{Mãe}"Você não pode."
+// \{母}「なりません!」
+<0978> Kanna se encolheu diante da voz aguda de sua mãe.
+// 鋭い声に、神奈の身がびくっとのけぞる.
+<0979> A rejeição de sua mãe foi um choque para ela.
+// 思いもよらなかった母君の拒絶に、気圧(けお)されてしまっている.
+<0980> \{Ryuuya}"Deixe-me perguntar novamente."
+// \{柳也}「もう一度訊くぞ」
+<0981> \{Ryuuya}"Você... quer ficar com sua mãe?"
+// \{柳也}「母君と、一緒にいたいか？」
+<0982> Os caminhos que percorremos até agora... Os desejos que guardamos em nossos corações...
+// ここまでの俺たちの道のり、そして俺たちの願い.
+<0983> Com isso em mente, perguntei a ela mais uma vez.
+// すべてをこめて、尋ねたつもりだった.
+<0984> Dessa vez, Kanna não se atrapalhou.
+// 神奈ははっきりとこう言った.
+<0985> \{Kanna}"Eu quero estar com ela."
+// \{神奈}「一緒にいたいぞ」
+<0986> Uma resposta satisfatória...
+// 満足できる答えだった.
+<0987> Tanto para mim quanto para Uraha.
+// 俺にも、そして裏葉にも.
+<0988> \{Ryuuya}"É como você ouviu."
+// \{柳也}「お聞きの通りです」
+<0989> Encarei a escuridão e falei novamente.
+// 俺は闇の先に向かって言った.
+<0990> \{Ryuuya}"Com todo o respeito, sou o servo de Kanna-sama."
+// \{柳也}「おそれながら、私どもは神奈様の随身です」
+<0991> \{Ryuuya}"Não posso ir contra suas ordens, seja qual for a situação."
+// \{柳也}「神奈様のご意向に従わぬわけにはゆきません」
+<0992> \{Mãe}"O que você quer de mim?"
+// \{母}「…わらわをどうするつもりですか」
+<0993> Dessa vez, Uraha respondeu.
+// その問いには裏葉が答えた.
+<0994> \{Uraha}"Queremos tirar você daqui."
+// \{裏葉}「お母君にはここより出ていただきます」
+<0995> \{Uraha}"Você e Kanna-sama poderão viver juntas daqui para a frente."
+// \{裏葉}「そののち、神奈さまと末永く幸せに暮らしていただきます」
+<0996> Mesmo na escuridão, percebi que sua mãe estava sem palavras.
+// 闇の向こうの気配が、絶句したのがわかった.
+<0997> \{Mãe}"Ryuuya."
+// \{母}「柳也どの」
+<0998> \{Ryuuya}"Sim."
+// \{柳也}「はい」
+<0999> \{Mãe}"Você não é um homem muito inteligente, certo?"
+// \{母}「おぬしは利口者ではありませんね」
+<1000> Ao contrário de suas palavras, sua voz era amável.
+// 言葉とはうらはらに、声音がやわらいでいた.
+<1001> \{Ryuuya}"Certa vez, Kanna-sama me disse o mesmo."
+// \{柳也}「神奈様にも同じように叱られます」
+<1002> \{Mãe}"Uraha."
+// \{母}「裏葉どの」
+<1003> \{Uraha}"Sim."
+// \{裏葉}「はい」
+<1004> \{Mãe}"Você prestou um grande serviço para nós, ao proteger Kanna durante todo esse tempo."
+// \{母}「神奈のお守(も)りはさぞ大儀だったでしょう」
+<1005> \{Uraha}"Me sinto lisonjeada com seu reconhecimento."
+// \{裏葉}「おそれいりましてございます」
+<1006> \{Mãe}"Se ao menos houvesse mais pessoas como você neste mundo..."
+// \{母}「おぬしたちのような人が世に数多ければ…」
+<1007> \{Mãe}"Então, talvez nosso destino tivesse sido diferente."
+// \{母}「わらわたちの運命(さだ)めも、変わったやもしれませんね」
+<1008> Seu discurso era de saudade e resignação.
+// おそらくそれは、憧れとも諦めともつかないつぶやきだった.
+<1009> 'Você' e 'nós'...
+// 『おぬしたち』と『わらわたち』
+<1010> A humanidade e os seres alados...
+// 人間と翼人.
+<1011> O destino de sua espécie...
+// そして、翼人たちの運命め…
+<1012> \{Uraha}"Ryuuya-san, por favor, rápido."
+// \{裏葉}「柳也さま、お早くっ」
+<1013> Uraha me apressou e eu me lembrei da tarefa que tínhamos em mãos.
+// 裏葉に急かされて、俺は我にかえった.
+<1014> Depois de tatear na escuridão, toquei as barras de metal.
+// 手探りで闇を進み、鉄格子に触れた.
+<1015> Essas barras não podem ser dobradas ou cortadas.
+// 曲げることも、切ることもできそうにない.
+<1016> \{Uraha}"Não podemos simplesmente retirar toda a grade?"
+// \{裏葉}「格子ごと外すわけにはまいりませんか？」
+<1017> No entanto, as paredes de pedra instáveis eram sustentadas apenas por toras de madeira.
+// 壁の石積みはもろく、丸太で支えているだけだ.
+<1018> \{Ryuuya}"Essa cela foi construída de tal forma que o teto inteiro cairá se removermos a grade."
+// \{柳也}「無理に外そうとすれば、天井ごと崩れる仕掛けだな」
+<1019> \{Uraha}"Não há nada que possamos fazer?"
+// \{裏葉}「ここまで来て…どうにかならないのですかっ」
+<1020> \{Ryuuya}"Usar uma serra é nossa única opção."
+// \{柳也}「鑢(やすり)で削るしかないか」
+<1021> Mas quem sabe quanto tempo isso pode levar.
+// だが、それでは何刻かかるかわからない.
+<1022> \{Uraha}"Você não pode simplesmente abrir isso?"
+// \{裏葉}「これしきのもの、えいやっとお斬りくださいまし」
+<1023> \{Ryuuya}"Não seja ridícula."
+// \{柳也}「無茶言うなっての」
+<1024> \{Uraha}"Argh! Que homem mais inútil!" \shake{1}
+// \{裏葉}「ええい、この益体なしっ!」\shake{1}
+<1025> \{Ryuuya}"Pare de me chamar assim!"
+// \{柳也}「その呼び方はやめろっっ!」
+<1026> A mãe de Kanna falou calmamente.
+// と、母君が静かに言った.
+<1027> \{Mãe}"Há um espelho na floresta bem próximo a esse monte."
+// \{母}「この石塚を出た森に、鏡がありましょう」
+<1028> \{Uraha}"Sim, nós já vimos isso."
+// \{裏葉}「はい、たしかに」
+<1029> \{Mãe}"Devolva o espelho à água."
+// \{母}「それを水に戻しなさい」
+<1030> \{Mãe}"E a lua também retornará com ele."
+// \{母}「月も戻りましょう」
+<1031> Deixamos o calabouço sem a mãe de Kanna.
+// 母君を残し、三人で石塚から出た.
+<1032> Então nos vimos diante do espelho redondo pendurado no tronco de uma árvore gigante.
+// 大木にかけられた丸鏡の前に立つ.
+<1033> \{Ryuuya}"Devolva o espelho à água...?"
+// \{柳也}「鏡を水に戻せ、か…」
+<1034> \{Ryuuya}"Ela quer que eu jogue o espelho na fonte?"
+// \{柳也}「泉に鏡を投げこめってことか？」
+<1035> Uraha não disse nada.
+// 裏葉は何も言わない.
+<1036> Embora a lua não estivesse no céu, o espelho estava refletindo uma luz.
+// 月もないのに、鏡の表面はきらきらと輝いている.
+<1037> \{Kanna}"Está tão brilhante."
+// \{神奈}「やけに明るいの」
+<1038> Ela cutucou o espelho com o dedo.
+// 言いながら、神奈が指先で鏡に触れた.
+<1039> Uma ondulação se formou na superfície do espelho, como aconteceria se uma gota de água caísse em um lago.
+// 雫が落ちたように、波紋が広がった.
+<1040> \{Kanna}"Ah!"
+// \{神奈}「…ひうっ」
+<1041> Kanna retirou sua mão rapidamente.
+// あわてて指を引っこめる.
+<1042> \{Kanna}"Que estranho..."
+// \{神奈}「なんと面妖な…」
+<1043> \{Ryuuya}"O que foi...?"
+// \{柳也}「これは…」
+<1044> Quando me virei para Uraha, ela me deu um olhar afirmativo.
+// 裏葉を振り返ると、正解だという顔をしている.
+<1045> \{Ryuuya}"Kanna, afaste-se."
+// \{柳也}「神奈、どいてろ」
+<1046> Eu desembainhei minha katana.
+// するりと太刀を抜いた.
+<1047> Minhas costas ainda doíam, mas isso não estava afetando minha habilidade com a espada.
+// まだ背中が痛むが、腕を振るのに支障はない.
+<1048> Abaixei um pouco a lâmina e relaxei meus braços.
+// こころもち刀身を下げ、腕の力を抜く.
+<1049> Eu expirei e segurei a minha respiração.
+// 息を吐き、そして止める.
+<1050> \{Ryuuya}"Hah!"
+// \{柳也}「せやっ」
+<1051> Minha katana atingiu bem o centro do espelho.
+// 鏡の中心に、刃を突き立てた.
+<1052> O espelho que parecia ser feito de bronze se curvou sem esforço.
+// 青銅のはずの鏡がぐにゃりと曲がった.
+<1053> Em seguida, transformou-se em água que se derramou no chão.
+// そして水になり、地面に降りそそいだ.
+<1054> A luz prateada era filtrada pelos galhos das árvores.
+// 木々の枝から、銀色の光が射し込んだ.
+<1055> A lua cheia agora brilhava descaradamente no céu.
+// 中天で満月がこうこうと輝き渡る.
+<1056> A floresta parecia um lugar completamente diferente.
+// 森は別の場所のようになった.
+<1057> Ou melhor, estávamos em um lugar diferente até pouco tempo atrás.
+// いや、おそらく今までが別の場所だったのだろう.
+<1058> Guardei minha katana e me virei.
+// 太刀をおさめ、背後を振り向いた.
+<1059> O monte de pedras desapareceu.
+// 石塚は消え失せていた.
+<1060> Em seu lugar, uma mulher vestida de branco puro estava parada com aparente indiferença.
+// 純白の衣に身を包んだ女性が、何事もなかったかのように立っていた.
+<1061> \{Mãe}"Vamos sair daqui."
+// \{母}「参りましょう」
+<1062> Ela começou a caminhar, ainda descalça.
+// 素足のまま、歩き出そうとする.
+<1063> Seu andar era instável.
+// その足取りがあまりにも危うい.
+<1064> É provável que ela não tenha dado um passo desde que foi aprisionada aqui.
+// 囚われて以来、おそらく野外を歩いたことはないのだろう.
+<1065> \{Uraha}"Permita-me..."
+// \{裏葉}「お手を…」
+<1066> \{Mãe}"Não se aproxime de mim."
+// \{母}「近づいてはなりません」
+<1067> Ela parecia firme quanto a isso.
+// 走り寄った裏葉に、毅然とした声で告げた.
+<1068> \{Mãe}"Meu corpo já está corrompido."
+// \{母}「この身はすでに穢(けが)れています」
+<1069> \{Kanna}"O quê..."
+// \{神奈}「なっ…」
+<1070> Seu olhar severo se voltou para Kanna.
+// 思わず声をあげた神奈にまで、きびしい視線を向ける.
+<1071> \{Mãe}"Kanna, o mesmo se aplica a você."
+// \{母}「神奈、あなたもです」
+<1072> \{Mãe}"Você não deve entrar em contato com meu corpo."
+// \{母}「わらわに触れてはなりません」
+<1073> Nós quatro deixamos o topo da montanha.
+// 四人で山頂を後にした.
+<1074> Correr não era uma opção para nós.
+// 駈け降りるというわけにはいかなかった.
+<1075> O ferimento em minhas costas de repente começou a doer novamente.
+// 俺の傷が、にわかに痛みだした.
+<1076> Uma dor latejante e maçante percorreu minhas costas, retardando meus movimentos.
+// 泥に身を浸しているような、じくじくとした鈍痛が背を這いまわる.
+<1077> A mãe de Kanna também não estava muito bem.
+// 母君の具合も思わしくない.
+<1078> Uraha e eu lhe oferecemos ajuda, mas ela recusou.
+// 俺や裏葉が助けを申し出ても、決して手を借りようとしない.
+<1079> Kanna permaneceu em silêncio.
+// 神奈はなにも喋らなかった.
+<1080> Ela parecia mais desamparada do que quando ainda estava sozinha naquele santuário.
+// 社殿でひとりだった時より、ずっと心細そうだった.
+<1081> Mas talvez sua mãe se abra com Kanna depois que sairmos desse lugar.
+// だが、この地を脱すれば、母君の警戒心も薄らぐだろう.
+<1082> Elas poderiam falar o quanto quisessem.
+// 母子の語らいは、それからでも遅くはない.
+<1083> Foi isso que eu pensei.
+// 俺はそう考えていた.
+<1084> A vegetação foi se adensando à medida que descíamos. A luz da lua estava ficando mais escassa.
+// 下るにつれて森は深くなり、枝を透して降る月光が衰えていった.
+<1085> A mãe de Kanna tropeçou em uma raiz.
+// と、母君が木の根に足を取られた.
+<1086> Ela cambaleou alguns passos antes de cair de joelhos.
+// ふらふらとよろけ、その場に膝をつく.
+<1087> \{Kanna}"Mãe!"
+// \{神奈}「ははうえっ」
+<1088> \{Mãe}"Não se aproxime."
+// \{母}「近づいてはなりませんっ」
+<1089> Ela se levantou sozinha e continuou andando.
+// ひとりで立ち上がり、また進もうとする.
+<1090> Kanna mordeu os lábios e seguiu atrás de sua mãe.
+// 唇をぐっと噛みしめ、神奈もその背中に続こうとする.
+<1091> \{Uraha}"Perdoe-me pelo que estou prestes a dizer..."
+// \{裏葉}「おそれながら、申しあげます」
+<1092> Uraha se prostrou diante da mãe de Kanna, parando-a em seu caminho.
+// 裏葉がその場にひれ伏し、母君の歩みをさえぎった.
+<1093> \{Uraha}"Por favor, permita que Kanna-sama segure sua mão."
+// \{裏葉}「神奈さまと、お手をつないでいただきたく存じます」
+<1094> Palavras fortes que não devem ser usadas na presença de um nobre.
+// 貴人に向けてとは思えないほどの、毅然とした声音.
+<1095> Mas a mãe de Kanna permaneceu sem expressão.
+// だが、母君は顔色ひとつ変えなかった.
+<1096> \{Mãe}"Eu já lhe disse que não posso fazer isso."
+// \{母}「できないと申したはずです」
+<1097> \{Uraha}"Entendo que você tem seus motivos..."
+// \{裏葉}「よんどころない事情がおありなのは、承知いたしております」
+<1098> \{Uraha}"Mas mesmo assim..."
+// \{裏葉}「しかしながら…」
+<1099> \{Mãe}"Você tem um filho de sua própria carne e sangue?"
+// \{母}「そなたには子がいますか？」
+<1100> \{Uraha}"Não..."
+// \{裏葉}「いえ…」
+<1101> \{Mãe}"Nesse caso, não é possível que você entenda como me sinto."
+// \{母}「それなら、わらわの心持ちはわかりますまい」
+<1102> Ela cobriu o rosto com a manga, indicando o fim da conversa.
+// 話は終わりだというように、片袖で顔を覆い隠す.
+<1103> No entanto, Uraha não tinha intenção de recuar.
+// だが、裏葉は引き下がらない.
+<1104> \{Uraha}"É verdade que não consigo entender seus sentimentos."
+// \{裏葉}「わたくしには、母御の気持ちはわかりません」
+<1105> \{Uraha}"Mas posso entender muito bem os sentimentos de Kanna-sama."
+// \{裏葉}「しかしながら、神奈さまのお気持ちはよくわかります」
+<1106> \{Uraha}"Ao longo de nossa jornada, Kanna-sama sempre..."
+// \{裏葉}「旅の間じゅう、神奈さまはずっと…」
+<1107> \{Ryuuya}"Fique em silêncio."
+// \{柳也}「静かに」
+<1108> Seria raro ver Uraha perder a compostura, mas eu tinha que impedi-la.
+// めずらしく我を忘れている裏葉を、俺はさえぎった.
+<1109> Porque senti que algo passou voando por cima de mim.
+// なにかが頭上を横切っていく気配がしたからだ.
+<1110> *Shrill...*
+// ひゅるるるるるるる…
+<1111> Um assobio soou nas profundezas da noite. 
+// 鋭い笛の音が、夜空に響き渡った.
+<1112> \{Kanna}"Um pássaro?"
+// \{神奈}「…鳥か？」
+<1113> Kanna se virou para olhar o céu.
+// 夜空に首をめぐらし、神奈が訊いた.
+<1114> \{Ryuuya}"Não... Isso é uma flecha de sinalização."
+// \{柳也}「ちがう、鏑矢(かぶらや)だ」
+<1115> *Shrill...*
+// ひゅるるるるるるるるる…
+<1116> \ *Shrill...*
+// \ ひゅるるるるるるるるるるるる…
+<1117> Uma após a outra, as flechas de sinalização assobiaram pelo ar em resposta à primeira.
+// 一の矢に呼応するように、次々と放たれる.
+<1118> Era um som que eu já odiava há muito tempo.
+// 昔、嫌というほど聞かされた音色.
+<1119> Era o som que anunciava que uma batalha ia começar.
+// これは、合戦の徴(しるし)だ.
+<1120> *Brooom...*
+// うおおおおおおおおお…
+<1121> Um estrondo terrestre ecoou pelo ar.
+// 地響きのようなうねりが、夜気をびりびりと揺り動かした.
+<1122> Era o grito de guerra de milhares de soldados.
+// それは、何千という軍勢があげる鬨(とき)の声だった.
+<1123> \{Ryuuya}"Eles vão atacar Kouya?"
+// \{柳也}「…高野に攻め入ろうとしているのか？」
+<1124> \{Uraha}"Muito provavelmente, já que a barreira desapareceu."
+// \{裏葉}「結界が破れたのなら、おそらく」
+<1125> Uraha, que se levantou, respondeu com sua voz habitual.
+// 立ちあがった裏葉が、いつもの声音で言った.
+<1126> Eu engoli em seco.
+// ごくりと喉が鳴った.
+<1127> Eu senti algo imenso se agitando além das minhas expectativas.
+// 俺の思惑を越えたところで、巨大ななにかがうごめくのを感じた.
+<1128> \{Ryuuya}"Vamos nos apressar."
+// \{柳也}「急ごう」
+<1129> Eu estava prestes a me mexer.
+// 進み出そうとした時.
+<1130> A nobre dama levantou uma mão e apontou para a floresta na direção oposta.
+// 母君が袖を持ちあげ、反対側の林間を指さした.
+<1131> \{Mãe}"Por aqui."
+// \{母}「こちらです」
+<1132> Ela se afastou sem esperar pela minha resposta.
+// 俺が訊き返すのも待たずに、すいと歩き出す.
+<1133> Nós seguimos ela.
+// 俺たちもあとに続いた.
+<1134> O caminho que ela escolheu estava coberto de densa vegetação rasteira e era um pesadelo para atravessar.
+// 母君が選んだ道は、下草が深くひどく歩きづらかった.
+<1135> Ela parecia estar andando mais rápido do que antes.
+// 心なしか、さっきより足が早まっている.
+<1136> Ou melhor, eu estava ficando mais lento.
+// …そうじゃない、俺が遅れているんだ.
+<1137> \{Uraha}"Ryuuya-san, você está parecendo bastante pálido..."
+// \{裏葉}「柳也さま、顔色がすぐれないようですが…」
+<1138> Uraha sussurrou para mim, mas eu não estava em condições de respondê-la.
+// 裏葉が耳打ちしてきたが、答える余裕もない.
+<1139> Meu corpo gemia a cada passo que eu dava.
+// 一歩ごとに、身体がみしみしと軋(きし)む.
+<1140> Logo percebi que minha mão esquerda estava na minha bainha há algum tempo.
+// 気がつくと、太刀の鞘に左手を添えていた.
+<1141> De repente, meu campo de visão se alargou.
+// まったく出し抜けに、目の前がひらけた.
+<1142> Nós tínhamos chegado em um pequeno espaço de terreno vazio na floresta. 
+// 森の中のそこだけが、ちょっとした空き地になっていた.
+<1143> Pedras de vários tamanhos estavam espalhadas na encosta em nosso caminho.
+// 行く手の斜面に沿って、大小の石が積まれていた.
+<1144> Era uma parede de pedras bastante antiga.
+// かなり古い石垣だった.
+<1145> A luz da lua inundou a paisagem...
+// 月は煌々(こうこう)と照り輝いている.
+<1146> Como se estivesse indicando que este local é o palco principal.
+// 舞台の上に引き出されたかのようだった.
+<1147> Não havia lugar para nos escondermos.
+// 身を隠せるようなものはなにもない.
+<1148> *Pin...*
+// びんっ.
+<1149> Ouvi um som semelhante ao de uma corda de instrumento musical sendo dedilhada.
+// 森のどこかで、楽器めいた弦の音が鳴った.
+<1150> *Creak, creak, creak...*
+// ぎりぎりぎりぎり…
+<1151> Em seguida, veio o som de arcos se curvando.
+// 次いで、弓を引き絞る音.
+<1152> Eu me cobri de suor frio em um instante.
+// 冷たい汗が、一瞬で背中に噴き出す.
+<1153> \{Ryuuya}"Espalhem-se! E fiquem abaixadas!"
+// \{柳也}「散れっ! 身を低くしろっ…」
+<1154> Eu gritei, desembainhei minha katana e me coloquei na frente das três.
+// 叫びざま抜刀し、三人の前に出る.
+<1155> Uraha pressionou Kanna contra o chão e se deitou por cima dela.
+// 神奈を無理矢理引き倒すようにしながら、裏葉がその場に伏せた.
+<1156> *Whizz whizz whizz whizz*
+// ひゅん、ひゅん、ひゅん、ひゅんっ…
+<1157> Uma chuva de flechas caiu sobre nós.
+// 無数の矢が降り注いだ.
+<1158> Desviar de apenas uma delas, que voou em minha direção, já tomou toda a minha força."
+// 至近に飛んできた一本を払い落とすので、精一杯だった.
+<1159> \{Mãe}"Argh..."
+// \{母}「あぐっ…」
+<1160> Um grito abafado veio da mãe de Kanna.
+// くぐもった悲鳴を聞いた.
+<1161> Duas flechas haviam se cravado profundamente nela.
+// 母君の胸元に、二本の矢が深々と突き刺さっていた.
+<1162> \{Soldado}"Eu matei ela!"
+// \{雑兵}「…殺(と)ったりっ!」
+<1163> \{Soldado}"O quê?! Eu a acertei primeiro!"
+// \{雑兵}「なにをっ、先の矢は我ぞ!」
+<1164> Vozes altas competiam para se apropriar de seus próprios feitos.
+// 高らかな声が、自らの手柄を奪い合う.
+<1165> Mas no momento seguinte...
+// その刹那.
+<1166> Todos os sons deixaram de existir.
+// 音がなくなった.
+<1167> Nem mesmo o zumbido de um inseto ou o farfalhar de uma folha podiam ser ouvidos.
+// 虫の声一片、葉擦れの音すらない.
+<1168> Além daquela fina barreira transparente que nos separava deles...
+// 透明な膜をへだてた、その向こう.
+<1169> A tempestade rugia, como uma fera faminta.
+// 風が、たけり狂っていた.
+<1170> Soldados que estavam deitados no chão foram levantados no ar junto com as folhas.
+// 伏せていた雑兵たちが、木の葉と共に空中に吹きあげられる.
+<1171> Alguns foram despedaçados, enquanto outros foram arremessados como bonecas de pano."
+// ある者は切り刻まれ、ある者は叩きつけられ…
+<1172> Armadura rasgada, carne e sangue giravam em um vórtice de morte.
+// はぎ取られた武具と肉片と血が、ぐるぐると渦巻いている.
+<1173> E no centro de tudo isso estava a mãe de Kanna.
+// 中心には母君がいた.
+<1174> O vento furioso era uma manifestação de sua fúria.
+// 怒りを力と変え、荒れ狂わせるかのように.
+<1175> \{Ryuuya}"Não olhe."
+// \{柳也}「…見るなっ」
+<1176> Uraha fez o seu melhor para proteger Kanna com sua manga, que estava assistindo com os olhos arregalados.
+// 目を見張っていた神奈を、裏葉が必死に袖で被った.
+<1177> Esta é a verdadeira face do terror?
+// これが恐怖の正体なのか.
+<1178> Uma voz dentro de mim me disse para correr.
+// 心のどこかで、『逃げろ』と警鐘を鳴らし続けている.
+<1179> Era um instinto de sobrevivência que eu havia desenvolvido em situações de vida ou morte.
+// 生き残るために研いてきた勘が、絶え間なく叫んでいる.
+<1180>"'Essa coisa não é humana', gritou incessantemente para mim."
+// 『これは人ではない』と.
+<1181> Eventualmente, os sons voltaram.
+// やがて、音が戻った.
+<1182> O cheiro de sangue permaneceu no ar.
+// 血の匂いが漂っていた.
+<1183> Cerca da metade das várias dezenas de arqueiros estavam mortos.
+// 十数人はいただろう射手の半分が、即死していた.
+<1184> Aqueles que restaram já haviam perdido a coragem de lutar.
+// 残った兵たちも、既に戦意を失っていた.
+<1185> \{Soldado}"Ah...!"
+// \{雑兵}「ひっ…」
+<1186> \{Soldado}"A-Ah, é um monstro...!"
+// \{雑兵}「ばっ、化け物だあ…」
+<1187> Largando seus arcos e flechas, eles fugiram para a floresta.
+// 弓や箙(えびら)を放り出し、森の奧に逃げ失せた.
+<1188> A mãe de Kanna apenas permaneceu em pé, em silêncio.
+// 母君は、ただ静かに立ちつくしていた
+<1189> Ela olhou para a distante lua cheia, com as mangas esvoaçando ao vento da noite.
+// 衣の袖を夜風に遊ばせ、遠い満月を見つめていた.
+<1190> Finalmente, seu corpo balançou e ela lentamente caiu no chão.
+// やがてその身が揺らぎ、ゆっくりと土に倒れた.
+<1191> \{Kanna}"Mãe!"
+// \{神奈}「…ははうえっ!」
+<1192> \{Ryuuya}"Não arranque as flechas!"
+// \{柳也}「抜くなっ」
+<1193> Eu impedi Kanna quando ela tentou fazer isso.
+// 矢に手を伸ばそうとした神奈を、俺は制止した.
+<1194> \{Kanna}"O que você está dizendo?!"
+// \{神奈}「なにを申すかっ」
+<1195> \{Ryuuya}"Você só vai piorar o sangramento..."
+// \{柳也}「血が…吹き出るだけだ」
+<1196> Uma flecha no ombro direito dela.
+// 一本は右の肩に.
+<1197> A outra cravada diretamente em seu coração.
+// もう一本は心臓に.
+<1198> Flechas rudimentares feitas com penas de algum pássaro sem nome.
+// 何の鳥のものとも知れない、雑羽(ざっぱ)の矢羽根.
+<1199> Nos campos de batalha, milhares de flechas como essas voavam, e soldados rasos sem nome morriam como insetos."
+// 戦場ではこれが幾千本も飛び交い、名もない雑兵たちが虫けらのように死んでいく.
+<1200> \{Ryuuya}"Droga!"
+// \{柳也}「くそおっ」
+<1201> \{Ryuuya}"Como uma flecha tão rudimentar poderia..."
+// \{柳也}「こんな、こんな粗末な矢で…」
+<1202> \{Mãe}"Não se sinta aflito por mim."
+// \{母}「そなたが…悔いることは、ありません」
+<1203> \{Mãe}"Meu destino sempre foi apodrecer nesta montanha desde o início..."
+// \{母}「もとよりわらわは、この山で朽ちる運命め、だったのです…」
+<1204> Então eu compreendi...
+// その時、俺は悟った.
+<1205> Ela intencionalmente se expôs às flechas.
+// 母君は自ら矢に身体をさらしたのだ、と.
+<1206> Ela desejou esse fim o tempo todo.
+// そうなることを、最初から望んでいたかのように.
+<1207> \{Kanna}"Mãe..."
+// \{神奈}「ははうえ…」
+<1208> \{Mãe}"Você não deve me tocar..."
+// \{母}「触れては…なりません」
+<1209> \{Mãe}"Cof, cof..."
+// \{母}「ごふっ、ごふっ…」
+<1210> Sangue gotejava de seus lábios junto com sua tosse sufocada.
+// にごった咳と共に、唇から血がしたたる.
+<1211> \{Kanna}"Não...!"
+// \{神奈}「…いやだっ!」
+<1212> Kanna gritou de repente.
+// 突然、神奈が叫んだ.
+<1213> \{Kanna}"Não, não, não!"
+// \{神奈}「いやだいやだいやだっ!」
+<1214> Ela balançou a cabeça febrilmente como uma criança fazendo birra.
+// 駄々っ子のように、激しく首を振る.
+<1215> Então Kanna levantou sua mãe pelos ombros.
+// そして神奈は、母君の肩をしっかりと抱き起こした.
+<1216> \{Kanna}"Mãe! Mãe!"
+// \{神奈}「ははうえっ、ははうえ!…」
+<1217> Suas bochechas se tocaram.
+// 頬と頬とが触れ合う.
+<1218> \{Mãe}"Ah..."
+// \{母}「ああ…」
+<1219> Um suspiro escapou de seus lábios azuis.
+// 血の気のない唇から、温かな息が漏れた.
+<1220> Um suspiro de tristeza e alegria.
+// それは、哀切とも歓喜とも取れた.
+<1221> \{Mãe}"Eu nem me lembrava mais..."
+// \{母}「…ひさしく忘れていました」
+<1222> \{Mãe}"...Que o corpo de outra pessoa poderia ser tão quente ao toque..."
+// \{母}「人肌がこのように温(ぬく)いとは…」
+<1223> Sua mão esquerda estendeu-se fraca em direção ao rosto da filha.
+// 左手が弱々しく動き、娘の頬に触れた.
+<1224> \{Mãe}"Se esta é a vontade dos céus, então que assim seja..."
+// \{母}「これが、因果であるのなら…」
+<1225> Ela penteou o cabelo de Kanna com seus dedos frágeis.
+// 痩せこけた指が、神奈の髪をぎこちなく撫でる.
+<1226> \{Mãe}"Kanna... Escute com atenção."
+// \{母}「神奈…よくお聞きなさい」
+<1227> \{Mãe}"Esta é uma oração antiga que eu deveria ter levado comigo para o túmulo..."
+// \{母}「わらわと共に朽ちるはずだった、いにしえの詞(のりと)」
+<1228> \{Mãe}"Mas agora eu a passarei para você."
+// \{母}「今こそ、あなたに授けましょう…」
+<1229> O vento circulava ao redor de seu corpo.
+// 母君の体が風をまとう.
+<1230> Olhando nos olhos de Kanna, ela começou a recitar uma canção.
+// 瞳と瞳が向き合い、詠唱がはじまった.
+<1231> \{Mãe}"Força... Vento... Nossos ancestrais... Agora é o momento..."
+// \{母}「……ちから……かぜ……われらのそ……いまこそ…」
+<1232> \{Mãe}"Os alados... que herdam... esta terra..."
+// \{母}「………ものが……うけつぐ……ほし……」
+<1233> Sua voz seguia um certo ritmo, rápido e lento.
+// 独特の韻を踏み、高く低く流れる.
+<1234> \{Mãe}"Dez vezes maior... eterno... assim é... apropriado..."
+// \{母}「とえ……ゆうきゅうの……なに……ふさわしき…」
+<1235> \{Mãe}"Aqueles... abençoados sejam... asas... almas..."
+// \{母}「…もの……よ……はねに……たましいに………すべを……」
+<1236> Ela cantava cada vez mais rápido, de modo que o resto se tornou ininteligível para mim.
+// だんだんと早くなり、やがて意味は聞き取れなくなった.
+<1237> Camadas de línguas perdidas foram transmitidas ao tênue luar.
+// 失われた言語を幾重にも束ね、淡い光に託して渡す.
+<1238> Era como se ela estivesse contando uma história de tudo o que aconteceu desde a criação.
+// 森羅万象、すべてを伝えきるかのように.
+<1239> Finalmente, a canção de sua mãe chegou ao fim.
+// やがて、母君の詞は終わった.
+<1240> \{Mãe}"Por favor, me perdoe, minha filha."
+// \{母}「母を、ゆるしてくださいね」
+<1241> \{Mãe}"Mas este é o dever da nossa espécie..."
+// \{母}「これこそが、わらわたちの務めなのです…」
+<1242> Kanna não respondeu a ela.
+// 神奈はなにも答えなかった.
+<1243> Seus olhos, brilhando sob a luz da lua, estavam cheios de desespero.
+// 月光の中でまたたいた瞳が、途方に暮れているように見えた.
+<1244> \{Mãe}"Agora, Kanna..."
+// \{母}「さあ、神奈」
+<1245> \{Mãe}"É a sua vez de falar..."
+// \{母}「今度は…あなたの番ですよ」
+<1246> \{Mãe}"Como foi a sua jornada?"
+// \{母}「あなたは、どのように、旅をして来たのですか？」
+<1247> Um sorriso sereno apareceu em seu rosto.
+// ただ穏やかで、澄みきった笑顔.
+<1248> Ela não parecia nem um pouco preocupada com a flecha que havia perfurado seu coração pulsante.
+// 脈打つ心臓をえぐる鏃(やじり)を、気にもとめていないかのように.
+<1249> \{Kanna}"Tenho permissão para falar?"
+// \{神奈}「話して…よいのか？」
+<1250> Ela sorriu e fez um aceno para a tímida Kanna.
+// おそるおそる尋ねた神奈に、にっこりと頷く.
+<1251> Eu entendi.
+// 俺にはわかった.
+<1252> A vida de sua mãe era a chama de uma vela tremulando ao vento.
+// 今の母君は、消えかかる灯火だ.
+<1253> Ela estava prestes a consumir o restante de sua existência pelo bem de seu filha...
+// 我が子のために、全てを燃やしつくそうとしている…
+<1254> Kanna começou a falar.
+// 神奈は喋りはじめた.
+<1255> No início, hesitante... depois, com mais e mais fluência.
+// 最初はおずおずと、そして少しづつ滑らかに.
+<1256> Sua vida no santuário.
+// 社殿での暮らし.
+<1257> A noite em que fugimos.
+// 出発の夜.
+<1258> Nossa viagem pela montanha no verão.
+// 夏山の旅路.
+<1259> A confusão com suas roupas novas.
+// 衣替えの騒動.
+<1260> Por fim, o movimentado mercado de rua...
+// そして、市場のにぎわい…
+<1261> Sua mãe quase não falava mais.
+// 母君にもう、言葉は少ない.
+<1262> Até mesmo uma resposta ocasional e um sorriso momentâneo minavam sua força.
+// 短く相づちを打ち、時に微笑むのが精一杯だった.
+<1263> \{Kanna}"Nunca vi um pássaro tão horrível na minha vida!"
+// \{神奈}「…あのように不細工な鳥は見たこともなかったぞ」
+<1264> \{Kanna}"Eu queria arrancar uma das penas dele para mostrar a vocês, mas..."
+// \{神奈}「尾羽のひとつも抜いて、母上にも見せようと思うたのだが…」
+<1265> \{Mãe}"Não devemos maltratar as galinhas..."
+// \{母}「鶏(かけ)をいじめては…なりませんよ」
+<1266> \{Kanna}"Se você diz, não farei isso de novo."
+// \{神奈}「母上がそう申すのなら、二度とせぬ」
+<1267> Ela acenou com a cabeça em resposta à suave bronca de sua mãe."
+// やさしい声でさとされ、神妙に頷く.
+<1268> \{Kanna}"Ah, Uraha também encontrou uma noz para mim."
+// \{神奈}「それでな、裏葉どのが胡桃を見つけてくれたのだ」
+<1269> Ela escolheu suas palavras com muito cuidado para conseguir a total atenção de sua mãe.
+// 一所懸命に言葉を選び、母君の耳に吹き入れるように喋る.
+<1270> \{Kanna}"Não é só isso. Uraha consegue encontrar qualquer coisa que eu quiser."
+// \{神奈}「胡桃だけではないぞ.余がほしいと申した物は、必ず手に入れてくる」
+<1271> \{Kanna}"Eu nunca conheci ninguém tão diligente quanto Uraha."
+// \{神奈}「裏葉どのほど、よく気を働かす者はおらぬぞ」
+<1272> \{Kanna}"Ela perde a paciência às vezes, mas é só porque se importa comigo."
+// \{神奈}「時折怒りもするが、それも余を案じてのこと」
+<1273> \{Kanna}"Graças a Uraha, eu não me senti tão sozinha no santuário."
+// \{神奈}「裏葉どののおかげで、社でもそう淋しくはなかったぞ」
+<1274> \{Mãe}"I-Isso é... *cof cof...* bom de ouvir."
+// \{母}「それは、ごほっ…よかったですね」
+<1275> Ela está se esforçando para não se engasgar com o próprio sangue.
+// 血で咽せかえりそうになるのを、どうにかおさえている.
+<1276> \{Kanna}"...Mãe, você não está se sentindo bem?"
+// \{神奈}「…母上、具合がよくないのか？」
+<1277> \{Mãe}"Não. Continue falando."
+// \{母}「いえ.先をお続けなさい」
+<1278> \{Kanna}"Ah, eu estava falando sobre a noz."
+// \{神奈}「そうか.胡桃の話であったな」
+<1279> \{Kanna}"Eu tive dificuldades para abrir a noz, então Ryuuya a cortou para mim com a sua katana."
+// \{神奈}「殻が割れぬので困っておるとな.柳也どのが太刀で斬ってくれたのだ」
+<1280> \{Mãe}"Hmm... Com a katana?"
+// \{母}「…まあ、太刀で？」
+<1281> \{Kanna}"Isso mesmo. Ele a jogou para o alto e a cortou ao meio com um golpe.""
+// \{神奈}「それもな.胡桃を宙に放り投げ、真っぷたつにしたのだぞ」
+<1282> Ela encenou sua descrição com gestos exagerados.
+// 大袈裟な身振りをまじえて言う.
+<1283> Então ela me viu fazendo isso.
+// 見られていたのか.
+<1284> Naquela floresta sombria ao pôr do sol...
+// あの夕闇の森.
+<1285> Kanna ainda estava usando aqueles sinos brilhantes no cabelo...
+// ちろちろと光る神奈の響無鈴…
+<1286> \{Kanna}"Apesar de ser um mestre desse nível, Ryuuya nunca tirará a vida de outra pessoa."
+// \{神奈}「それほどの達人なのに、柳也どのは決して人を殺めぬのだ」
+<1287> \{Kanna}"Ryuuya é, de fato, um verdadeiro samurai."
+// \{神奈}「柳也どのこそ、まことの士(もののふ)」
+<1288> \{Kanna}"Ele é um verdadeiro servo leal..."
+// \{神奈}「まことの忠臣だぞ…」
+<1289> Kanna falava sem parar.
+// 声を弾ませ、神奈は語り続ける.
+<1290> Ao seu lado, Uraha observa a conversa entre mãe e filha sem se mover.
+// そのかたわらでは、裏葉が身じろぎもせずに母子の対話を見つめている.
+<1291> Isso mesmo.
+// そうだ.
+<1292> Temos viajado por tanto tempo e fomos tão longe...
+// 俺たちは旅を続けてきた.
+<1293> Apenas por este dia... Somente por este momento...
+// この日、この時のために.
+<1294> E ainda assim...
+// ただ.
+<1295> O que obtivemos no fim da jornada foi um momento tão efêmero."
+// 旅路の果てに手にしたものは、あまりにもちっぽけな刻(とき)だった.
+<1296> \{Uraha}"Kanna-sama, posso falar com você?"
+// \{裏葉}「…神奈さま、よろしいですか？」
+<1297> \{Kanna}"Sim, o que é?"
+// \{神奈}「うむ.なんだ？」
+<1298> \{Uraha}"Você não tem algo que quer mostrar para ela?"
+// \{裏葉}「お母君にお見せしたいものがあるのではございませんか？」
+<1299> \{Kanna}"Não estrague a surpresa! Eu estava guardando isso para o final!"
+// \{神奈}「申すでないっ.それはとっておきなのだ」
+<1300> \{Uraha}"Sua mãe parece bastante cansada... Talvez você devesse mostrar a ela agora..."
+// \{裏葉}「お母君はお疲れのご様子.そろそろご披露された方が…」
+<1301> Sua voz estava tão calma quanto sempre.
+// 普段と少しも変わらない、落ち着きはらった声音.
+<1302> Mas a mãe percebeu a intenção de Uraha e sorriu.
+// 裏葉の意図を汲み、母君も微笑みながら言った.
+<1303> \{Mãe}"Eu realmente gostaria de ver o que você tem para me mostrar."
+// \{母}「わらわも、今すぐ見たいものです」
+<1304> \{Kanna}"Tudo bem, nesse caso..."
+// \{神奈}「うむ.母上がそう申すのなら…」
+<1305> Kanna retirou algo de seu bolso.
+// 神奈は言いながら、着物のふところからなにかを取り出した.
+<1306> \{Kanna}"Você sabe o que é isso, mãe?"
+// \{神奈}「母上はこのようなものを見たことがあるか？」
+<1307> \{Mãe}"São... saquinhos de feijão para malabares."
+// \{母}「いしなとりの玉…ですね」
+<1308> \{Kanna}"Ah, então você conhece."
+// \{神奈}「なんと、母上も知っておられたか」
+<1309> \{Mãe}"Mas eu não sou boa em brincar com eles..."
+// \{母}「わらわは、上手にはできませんでしたが…」
+<1310> \{Kanna}"Ah! Então prepare-se para ficar surpreendida!"
+// \{神奈}「そうかっ! なら喜ぶがよいぞ」
+<1311> \{Kanna}"Eu venho treinando isso há algum tempo..."
+// \{神奈}「決めておったのだ」
+<1312> \{Kanna}"...Para poder te mostrar meu malabarismo quando te encontrasse."
+// \{神奈}「母上に逢えたおりには、ぜひにもこれを披露しようと」
+<1313> Kanna encostou as costas de sua mãe na parede de pedra.
+// 神奈は言うと、母君の背にそっと手を回し、石垣にもたれかけさせた.
+<1314> Então, ela se sentou com as costas voltadas para a floresta, onde sua mãe podia vê-la bem.
+// それから母君に見えやすいようにと、森を背にして座りなおした.
+<1315> A luz inclinada da lua brilhou sobre Kanna.
+// かたむいて射す月光が、神奈を明るく照らしている.
+<1316> O primeiro saquinho de feijão voou para o alto.
+// 最初のお手玉が、宙を舞った.
+<1317> Um.
+// ひとつ.
+<1318> Dois.
+// ふたつ.
+<1319> Mas o terceiro errou sua mão e caiu no chão.
+// だが三つ目は神奈の手を逸れ、ぽとりと地面に落ちた.
+<1320> \{Kanna}"Eu consigo fazer isso!"
+// \{神奈}「まことにできるのだぞっ」
+<1321> Ela pegou o saquinho de feijão e retomou sua posição.
+// お手玉を拾いあげ、もう一度構えなおす.
+<1322> Memórias voltaram à minha mente.
+// 俺は思い出していた.
+<1323> O dia em que Kanna pôs as mãos nesses saquinhos pela primeira vez.
+// 神奈がはじめてお手玉に触った日のことを.
+<1324> \{Kanna}"Eu vou ter sucesso desta vez, mãe."
+// \{神奈}「母上、次こそ上手に放るぞ」
+<1325> \{Kanna}"Ei!"
+// \{神奈}「それっ…」
+<1326> 'Eu posso fazer isso também?'
+// 『…余にもできるか？』
+<1327> 'Você não vai saber até tentar.'
+// 『そりゃ、やってみなけりゃわからないだろ』
+<1328> 'Com um pouco de prática, você com certeza ficará boa nisso.'
+// 『すこしばかり習えば、必ずお上手になりますとも』
+<1329> 'Ensine-me agora mesmo.'
+// 『では、今すぐ余に教えるがよい』
+<1330> Mais uma vez, o saquinho escapuliu entre seus dedos.
+// また、お手玉が指を逸れる.
+<1331> \{Kanna}"Desta vez vai ser para valer!"
+// \{神奈}「今度こそっ」
+<1332> Ela o pegou imediatamente e o jogou de volta para o alto...
+// すぐに拾いあげ、宙に還そうとする…
+<1333> 'É chato brincar sozinha.'
+// 『ひとりではつまらぬ』
+<1334> 'Você não tem seus brinquedos?'
+// 『おもちゃならそこにいくらでもあるだろ』
+<1335> 'Eu já enjoei deles.'
+// 『飽きたぞ』
+<1336> 'Esses saquinhos de feijão são as únicas coisas de que você não enjoa.'
+// 『お手玉だけは飽きないみたいだな…』
+<1337> \{Kanna}"Aw..."
+// \{神奈}「あぅ…」
+<1338> Dois saquinhos colidiram no ar e caíram na cabeça de Kanna.
+// 二つの玉が空中でぶつかり、神奈の頭に降ってきた.
+<1339> Sua mãe a observava com um sorriso.
+// 母君は、にこにこと眺めていた.
+<1340> A visão de sua filha já crescida trouxe luz aos seus olhos.
+// 愛らしく育った我が子を、まぶしそうに目を細めて.
+<1341> \{Kanna}"Desta vez, com certeza. Eu vou conseguir desta vez."
+// \{神奈}「次こそ、次こそ上手くゆくぞ」
+<1342> \{Kanna}"Ei..."
+// \{神奈}「えいっ…」
+<1343> 'Quero melhorar nisso.'
+// 『…もっと、上手になりたいぞ』
+<1344> 'Você se tornará uma especialista se praticar todos os dias.'
+// 『毎日続ければ、きっと達人になれるさ』
+<1345> 'Você vai me assistir jogar novamente?'
+// 『…余のお手玉、また見てくれるか？』
+<1346> 'Com certeza. Estarei sempre aqui para assistir quando você quiser.'
+// 『ああ、俺でよければいつでも見てやるよ…』
+<1347> \{Kanna}"Ah..."
+// \{神奈}「あっ…」
+<1348> Ela não conseguia ter sucesso, não importava quantas vezes tentasse.
+// 何度やっても、お手玉はうまく飛ぼうとしなかった.
+<1349> \{Kanna}"Por que você não quer cooperar?!"
+// \{神奈}「なぜ舞わぬっ!」
+<1350> \{Kanna}"Minha mãe está assistindo! Por que você não quer cooperar?!"
+// \{神奈}「母上の面前だぞ、なぜ舞わぬかっ!」
+<1351> Ela aproximou os saquinhos de feijão do rosto e os repreendeu.
+// 拾い集めたお手玉たちに口を寄せ、必死で言い聞かせる.
+<1352> \{Kanna}"Eu treinei por tanto tempo!"
+// \{神奈}「ずっと修練したのだぞ」
+<1353> \{Kanna}Treinei apenas para este dia!"
+// \{神奈}「この日のために、ずっと鍛えておったのだぞ」
+<1354> \{Kanna}"Por que você não me ouve?"
+// \{神奈}「なのに…なぜ舞わんのだっ」
+<1355> Inconformada, Kanna cerrou os dentes e retomou o malabarismo.
+// それでも歯を食いしばり、ひたすらにお手玉を続ける.
+<1356> \{Kanna}"Ei!"
+// \{神奈}「えいっ…」
+<1357> Ela nem mesmo tentou controlar sua respiração e postura mais.
+// 構えも呼吸も、気にする余裕はない.
+<1358> Ela apenas repetia suas ações sem sucesso, como se estivesse possuída.
+// 取り憑かれたように、同じ動作と失敗を繰り返す.
+<1359> Kanna deve ter percebido...
+// 神奈ももう、感づいているはずだ.
+<1360> ...Que o tempo que estava passando ao lado de sua mãe logo acabaria.
+// 母君と共に過ごす時が、あとわずかで終わることに.
+<1361> O corpo de Uraha estava tremendo.
+// 裏葉がぶるぶると身を震わせている.
+<1362> Ela estava tentando se impedir de correr para ajudar Kanna.
+// 助け寄りたくなる自分を、必死で抑えている.
+<1363> Não havia nada que pudéssemos fazer por ela.
+// 俺たちには、なにもしてやれない.
+<1364> Kanna tem que enfrentar isso sozinha.
+// 神奈がひとりで、やりとげるしかない.
+<1365> Ela jogou os saquinhos de feijão desajeitadamente para o alto.
+// 神奈はぎこちなくお手玉を放る.
+<1366> No entanto, não havia como manipulá-los com suas mãos trêmulas."
+// あんなに震える指で、上手にできるはずがない.
+<1367> Não havia como ela ver os saquinhos à sua frente com os olhos cheios de lágrimas.
+// あんなに潤んだ瞳で、手元が見えるはずがない.
+<1368> Então, a única coisa que eu pude fazer foi orar para os saquinhos de feijão.
+// だから俺は、お手玉に願うしかなかった.
+<1369> Por favor...
+// 頼む.
+<1370> Eu imploro a você...
+// 頼むから.
+<1371> Somente desta vez...
+// 一度だけだっていいから.
+<1372> Por favor, voem pelo bem da Kanna...
+// 神奈のために、舞ってやってくれと.
+<1373> Após inúmeras tentativas fracassadas...
+// 幾度めの挑戦か、わからなくなった頃.
+<1374> Os lábios de sua mãe se moveram.
+// 母君の唇が動いた.
+<1375> \{Mãe}"Você é boa nisso..."
+// \{母}「上手ですね…」
+<1376> \{Mãe}"Você deve ter... trabalhado duro para isso..."
+// \{母}「本当に…よく…頑張りました…」
+<1377> As pálpebras dela se fecharam lentamente.
+// うすれゆく言葉と共に、力なく目蓋が降りる…
+<1378> \{Kanna}"Mãe...?"
+// \{神奈}「はは…うえ？」
+<1379> Os olhos dela se abriram novamente quando foi chamada pela voz da filha.
+// 娘の呼びかけに、もう一度瞳が開いた.
+<1380> \{Mãe}"Continue."
+// \{母}「お続けなさい」
+<1381> Acalmando sua respiração ofegante, ela sussurrou suavemente com um rosto de verdadeira felicidade.
+// 苦しげな息を整え、本当に、本当に幸せそうにささやく.
+<1382> \{Mãe}"Eu estarei sempre te observando..."
+// \{母}「わらわはずっと見ていますよ…」
+<1383> \{Kanna}"Tudo bem."
+// \{神奈}「わかった」
+<1384> Sentindo-se mais tranquila, Kanna fez um gesto com a cabeça e retomou seu malabarismo.
+// 安心したように頷いて、またお手玉に戻る.
+<1385> A mãe observava sua filha com um olhar sonhador.
+// そんな神奈の姿を、母君は夢見るように眺めている.
+<1386> Pode ser que ela não conseguisse mais sentir dor.
+// もう痛みさえ、感じていないのかもしれない.
+<1387> Ela nos acenou com um gesto fraco.
+// 指先だけをそっと動かし、俺と裏葉を側に寄せた.
+<1388> \{Mãe}"Uraha."
+// \{母}「裏葉どの」
+<1389> \{Mãe}"Por favor... não me veja como... uma mãe sem coração."
+// \{母}「どうか…この母を、薄情だと…思わないで、くださいましね」
+<1390> \{Uraha}"Sim..."
+// \{裏葉}「はいっ…」
+<1391> Uraha se curvou profundamente.
+// ただ一心に、裏葉は頭を下げた.
+<1392> \{Mãe}"Ryuuya."
+// \{母}「柳也どの」
+<1393> \{Mãe}"Você não precisa me enterrar..."
+// \{母}「弔(とむら)いは…無用です」
+<1394> \{Mãe}"Não toque no meu corpo e apenas me deixe aqui..."
+// \{母}「我が身には決して触れず、ここに、捨て置きなさい…」
+<1395> Eu hesitei em responder.
+// 俺は、答えることができなかった.
+<1396> Alguém de seu status não deveria ser deixada apodrecendo na selva.
+// これほどのお方が、こんな野辺で朽ち果てていいはずがなかった.
+<1397> Afinal, ela era uma honrada descendente da linhagem dos seres alados.
+// 翼を持つ一族の、誇り高き末裔(まつえい).
+<1398> Eu estava determinado a acompanhá-la até seu último momento.
+// その最期を、俺は看取ろうとしていた.
+<1399> \{Mãe}"Não tenho mais desejos..."
+// \{母}「これでもう、思い残すことは…ありません」
+<1400> Sob a luz da lua, seu rosto estava pálido como a morte.
+// 月明かりの元で、頬が白く透き通っていくのがわかる.
+<1401> \{Mãe}"Exceto talvez... compartilhar com ela..."
+// \{母}「ただ…分かち合いたかった」
+<1402> \{Mãe}"...A sensação de voar lado a lado..."
+// \{母}「この子と…翼を、重ね…」
+<1403> \{Mãe}"...Pelo céu de verão..."
+// \{母}「夏空を…」
+<1404> \{Mãe}"...Como nossos corações desejam..."
+// \{母}「心の、まま…に…」
+<1405> Seus olhos se fecharam.
+// 瞳が閉じられた.
+<1406> Sua jornada havia chegado ao fim.
+// 母君の旅路は、終わった.
+<1407> Os três saquihos de feijão caíram no chão.
+// お手玉が三つ、とさっと地面に落ちた.
+<1408> \{Kanna}"...?"
+// \{神奈}「…？」
+<1409> \{Kanna}"Mãe...?"
+// \{神奈}「はは…うえ？」
+<1410> Seus olhos bem abertos se transformaram em uma expressão de choque.
+// 見開かれた瞳が、驚愕に変わる.
+<1411> No entanto, ela ainda estendeu a mão para pegar seus saquinhos de feijão.
+// それでも神奈は、お手玉に手を伸ばす…
+<1412> Incapaz suportar isso, eu corri para o seu lado.
+// それ以上見ていられず、俺は神奈に駈け寄った.
+<1413> \{Ryuuya}"Kanna, isso é o suficiente."
+// \{柳也}「神奈、もういい」
+<1414> \{Ryuuya}"É o suficiente..."
+// \{柳也}「もういいんだ…」
+<1415> \{Kanna}"Solte-me! Deixe-me em paz!"
+// \{神奈}「離せっ、離さんか!」
+<1416> Ela se afastou da minha mão e tentou pegar novamente os saquinhos de feijão.
+// 俺の手を振りほどき、ただお手玉を拾おうとする.
+<1417> \{Kanna}"Minha mãe não mente!"
+// \{神奈}「母上は嘘を申さぬっ!」
+<1418> \{Kanna}"Ela disse que eu sou boa em malabarismo."
+// \{神奈}「母上は、余が上手と申したのだぞ」
+<1419> \{Kanna}"Se eu não conseguir fazer isso, vão achar que minha mãe é uma mentirosa."
+// \{神奈}「余ができなければ、母上が嘘つきになるであろうが」
+<1420> \{Kanna}"Eu tenho que fazer isso!"
+// \{神奈}「できねばならんのだっ」
+<1421> \{Kanna}"Minha mãe... Está me observando!"
+// \{神奈}「母上が、母上が見ておるのだぞ!」
+<1422> \{Kanna}"Ela sempre está me observando..."
+// \{神奈}「ずっとずっと、見ておるのだぞ…」
+<1423> Sua mãe sempre estará a observando enquanto ela fizer malabarismos.
+// お手玉をしている間は、母上が見ていてくれる.
+<1424> E se ela conseguir fazer isso bem o suficiente, talvez sua mãe abra os olhos mais uma vez...
+// お手玉が上手にできれば、もう一度目を開けてくれる…
+<1425> \{Uraha}"Kanna-sama!"
+// \{裏葉}「神奈さまっ!」
+<1426> *Paft!*\shake{1}
+// …ぴしゃん!\shake{1}
+<1427> Uraha deu um tapa no rosto de Kanna.
+// 裏葉の平手が、神奈の頬を打った.
+<1428> Com isso, Kanna finalmente voltou ao normal.
+// それで、神奈は正気に戻った.
+<1429> Olhei nos olhos de Kanna e lhe disse.
+// 神奈の瞳を正面から見据え、俺ははっきりと伝えた.
+<1430> \{Ryuuya}"Sua mãe já deixou este mundo..."
+// \{柳也}「母君は、お隠れになった」
+<1431> \{Kanna}"Ela ainda está aqui!"
+// \{神奈}「隠れてなどおらぬっ」
+<1432> \{Ryuuya}"Ela não está mais aqui..."
+// \{柳也}「ここには…もういないんだ」
+<1433> Kanna se inclinou para olhar o rosto de sua mãe.
+// 神奈が母君の顔を覗き込む.
+<1434> Uma suave luz da lua repousava sobre sua face sem vida.
+// 血の気のなくなった頬に、淡い月光がしんしんと積もっていく.
+<1435> Ela havia adquirido a cor do solo, da grama e do inanimado.
+// それはもう、土や草と同じ色を宿しはじめていた.
+<1436> Finalmente, Kanna percebeu.
+// そして、神奈は悟った.
+<1437> Sua mãe se foi.
+// 母上がどこに行ってしまったかを.
+<1438> \{Kanna}"Ela não vai abrir os olhos novamente?"
+// \{神奈}「もう、目を開けぬのか？」
+<1439> \{Kanna}"Ela não vai sorrir para mim novamente?"
+// \{神奈}「もう、笑うてはくれぬのか？」
+<1440> \{Kanna}"Minha mãe não vai mais acordar... até se eu chamá-la?"
+// \{神奈}「余が命じても、母上はもう起きぬのか？」
+<1441> \{Ryuuya}"Não há ninguém no mundo que possa fazê-la atender esse chamado."
+// \{柳也}「その命は、だれにも果たせない」
+<1442> \{Kanna}"Mesmo que seja eu quem deseje isso?"
+// \{神奈}「余が願うてもか？」
+<1443> \{Kanna}"Mesmo que eu deseje muito, não se tornará realidade?"
+// \{神奈}「余が願うても、かなわぬのか？」
+<1444> Eu tinha que ser honesto com ela.
+// こう答えるしかなかった.
+<1445> \{Ryuuya}"Alguns desejos simplesmente não podem ser realizados."
+// \{柳也}「届かない願いも、あるんだ…」
+<1446> A luz do luar preenchia todos os recantos da floresta.
+// 月光が、森に満ちている.
+<1447> Kanna estava ao lado do corpo, prestando suas últimas homenagens.
+// 神奈が母君の亡骸(なきがら)と、最後の別れをしている.
+<1448> Ela puxou a flecha que estava cravada no peito de sua mãe.
+// 刺さったままの矢を引き抜く.
+<1449> Com a manga do quimono, ela enxugou a boca ensanguentada.
+// 着物の袖で、血のついた口元をぬぐう.
+<1450> Em seguida, Kanna colocou os três saquinhos de feijão sobre o peito de sua mãe.
+// そして神奈は、三つのお手玉を母君の胸元に置いた.
+<1451> A expressão tranquila de seu rosto na morte contava que essa simples oferenda era suficiente.
+// 手向(たむけ)がそれだけでいいことは、清らかな死に顔が物語っていた.
+<1452> Kanna se levantou e se virou para mim.
+// そして神奈は腰を上げ、俺に向きなおった.
+<1453> \{Kanna}"Ryuuya."
+// \{神奈}「柳也どの」
+<1454> Ela controlou a voz e falou comigo.
+// 声音を整え、俺に言う.
+<1455> Isso era o que sua mãe havia passado para ela.
+// 母君が神奈に伝えたかったもの.
+<1456> Compaixão, força e o orgulho de um ser alado...
+// やさしさと強さと、翼を持つ者の誇り….
+<1457> \{Kanna}"Você tem minha gratidão por me manter segura todo esse tempo."
+// \{神奈}「守護の労、まことに大儀であった」
+<1458> \{Kanna}"Não estivemos juntos por muito tempo, mas eu..."
+// \{神奈}「つかの間であったが、余は…」
+<1459> \{Kanna}"Eu..."
+// \{神奈}「余は…」
+<1460> \{Kanna}"..."
+// \{神奈}「………」
+<1461> As palavras não eram mais necessárias.
+// 言葉はもう、用をなさなかった.
+<1462> \{Kanna}"Ryuuya..."
+// \{神奈}「りゅうや…どのぉ…」
+<1463> \{Kanna}"...Mãe..."
+// \{神奈}「ぐっ…うぁ…はは…うえっ…あっ…」
+<1464> \{Kanna}"..."
+// \{神奈}「ぐすっ…う…あぐ…うぇ…」
+<1465> Kanna chorou.
+// 神奈が泣いていた.
+<1466> Ela se agarrou em mim e começou a soluçar.
+// 俺に取りすがり、泣きじゃくっていた.
+<1467> Minhas roupas ficaram molhadas com suas lágrimas quentes.
+// 狩衣の胸元に、温かい涙が染みこむのを感じていた.
+<1468> \{Ryuuya}"Kanna..."
+// \{柳也}「神奈…」
+<1469> Toquei sua cabeça com a minha mão direita.
+// 右手で、神奈の頭に触れる.
+<1470> Com delicadeza, acariciei seus cabelos negros e sedosos.
+// 絹のようにしなやかな黒髪を、そっと撫でつける.
+<1471> Então a abracei forte.
+// そのまま抱きとめた.
+<1472> Ela tremeu em meus braços e chorou.
+// きゃしゃな身体をわななかせて、神奈はただ泣き続ける.
+<1473> Os dedos dela se apertaram em torno das minhas roupas.
+// 俺の衣をつかんだ指に、ぎゅっと力がこもる.
+<1474> Essa garota pode ter asas em suas costas.
+// 背中に翼のある少女.
+<1475> Ainda assim, ela era como qualquer garota comum.
+// どこにでもいる、あたりまえの娘のように.
+<1476> O vento começou a aumentar.
+// ざわりと、風が動いた.
+<1477> O grito de guerra que abalava a terra havia recomeçado.
+// 山を揺るがすように、また鬨の声があがった.
+<1478> *Roar...*
+// うおおおおおお…
+<1479> Suas vozes roucas ecoavam pela terra.
+// 野太い木霊が幾重にも重なる.
+<1480> A desgraça iminente enviou ondas de dor pelas minhas costas feridas.
+// 死地の気配に、背中の傷がじりじりと疼(うず)く.
+<1481> As pontadas de culpa, nascidas da minha inutilidade, me golpeavam como chicotes.
+// 己の不甲斐なさを鞭打つように.
+<1482> Sussurrei para Kanna enquanto ainda a abraçava.
+// 神奈を抱きしめたまま、俺はつぶやいた.
+<1483> \{Ryuuya}"Isso ainda não acabou."
+// \{柳也}「…まだ、終わってないぞ」
+<1484> Nada havia terminado ainda.
+// そうだ、まだ終わっていない.
+<1485> Não até que eu tire Kanna deste lugar.
+// ここから神奈を救い出すまでは.
+<1486> Não até que eu a conduza à felicidade que ela tanto merece.
+// この少女を、あたりまえの幸せに導くまでは.
+<1487> Não conseguia mais reconhecer para onde estávamos indo.
+// どこをどう逃げたのか、まったく覚えていない.
+<1488> A visão das tochas e o som das armaduras muitas vezes bloquearam nosso caminho.
+// 篝火(かがりび)と具足の鳴る音に、何度も行く手を阻まれた.
+<1489> \{Ryuuya}"Por aqui!"
+// \{柳也}「…こっちだ!」
+<1490> Mudávamos de direção a cada vez, correndo cegamente pela montanha.
+// そのたびに方向を変え、山中を闇雲に逃げまどった.
+<1491> O rosto de Uraha parecia preocupado.
+// 裏葉の表情が硬い.
+<1492> Como alguém que era mais observadora do que eu, ela poderia já ter percebido.
+// 気配に敏感な裏葉は、俺以上に感じ取っているかもしれない.
+<1493> Nós não tínhamos para onde correr.
+// 既に逃げ場など、どこにもないことを.
+<1494> Paramos e nos sentamos ao mesmo tempo.
+// だれからともなく、その場に座りこんだ.
+<1495> Não havia esperança de escapar.
+// もう一歩も逃げられそうになかった.
+<1496> \{Uraha}"Aqui, Ryuuya-san."
+// \{裏葉}「柳也さま、こちらを」
+<1497> Ela me ofereceu um recipiente de água, mas eu recusei.
+// 差し出された竹筒を、俺は断った.
+<1498> \{Ryuuya}"Estou bem. Deixe Kanna beber."
+// \{柳也}「俺はいいから、神奈にやってくれ…」
+<1499> Eu era o que estava mais ofegante entre nós três.
+// 三人の中でいちばん息があがっているのは、俺だった.
+<1500> A ferida nas minhas costas começa a sangrar novamente.
+// 背中の傷口が開きかかっている.
+<1501> A pessoa encarregada de proteger o grupo havia se tornado um fardo. Nada era mais humilhante.
+// 守護役のはずが足手まといになっているのは、耐え難かった.
+<1502> \{Kanna}"Beba, isso é uma ordem."
+// \{神奈}「余の命であるぞ、飲め」
+<1503> Ela enfiou o recipiente na minha cara.
+// ぶっきらぼうな声音で、俺に竹筒を突き出してきた.
+<1504> Eu peguei da mão dela e agitei.
+// 受け取って振ると、力なくたぷんと鳴った.
+<1505> \{Ryuuya}"Essa é toda a água que temos?"
+// \{柳也}「水はこれだけか？」
+<1506> \{Uraha}"Sim."
+// \{裏葉}「はい」
+<1507> \{Ryuuya}"Tudo bem. Então nós vamos dividir."
+// \{柳也}「わかった.三人で飲もう」
+<1508> Fomos alternando para beber o pouco de água que nos restava.
+// ほんの少しの水を、いつくしむように回し飲む.
+<1509> Quando percebi, estávamos os três nos apoiando uns nos outros.
+// 気がつくと、三人でぴったりと肩を寄せていた.
+<1510> As árvores eram escassas e a vista era boa.
+// その場所は木々が開けていて、見晴らしがよかった.
+<1511> Um conjunto dos templos de Kouya estava situado no lado oposto da montanha.
+// 向こうの山腹に、金剛峰寺の伽藍(がらん)群があった.
+<1512> Por um momento, a luz enevoada do luar fez com que a floresta parecesse um paraíso.
+// 月光を浴び、浄土のように煙っていた.
+<1513> \{Uraha}"Nós três, nos apoiando assim, é como se..."
+// \{裏葉}「このように、三人で身を寄せあっておりますと、まるで…」
+<1514> \{Ryuuya}"Fôssemos uma família feliz."
+// \{柳也}「…仲のいい家族みたいだな」
+<1515> Uraha me lançou um olhar incrédulo.
+// 言ったとたんに、裏葉が俺のことを見返してきた.
+<1516> \{Ryuuya}"Por que você está me olhando assim?"
+// \{柳也}「…なんだよ、その顔は？」
+<1517> \{Ryuuya}"Não foi você que disse uma vez, que uma verdadeira família se mantém tão unida que mal consegue respirar?"
+// \{柳也}「『息苦しいほど身を寄せあうのがまことの家族』って言ったのはおまえだろ？」
+<1518> \{Uraha}"De fato, é verdade..."
+// \{裏葉}「まことに、そうでございますね…」
+<1519> Mantive meus sentidos alertas enquanto conversava com Uraha.
+// 呑気に話をしながらも、俺は周囲に気を配っていた.
+<1520> O ar fresco da noite estava misturado com o cheiro de resina e fumaça.
+// 今はしんと落ちついた夜気に、松脂と煙の匂いが混じっている.
+<1521> Em breve, o exército estaria em cima de nós.
+// ここに軍勢がなだれ込むまで、そう時間はなかった.
+<1522> E então veio uma pergunta repentina.
+// その時だった.
+<1523> Kanna falou do nada.
+// まったく出し抜けに、神奈が訊いてきた.
+<1524> \{Kanna}"Você tem algum desejo?"
+// \{神奈}「ふたりとも、願いはあるか？」
+<1525> \{Ryuuya}"Desejo?"
+// \{柳也}「願い、か？」
+<1526> \{Ryuuya}"Deixe-me ver..."
+// \{柳也}「そうだなあ…」
+<1527> Fingi refletir, mas meu desejo era certo.
+// 考える振りをしながら、俺の願いは決まっていた.
+<1528> Meu desejo era romper esse cerco, mesmo que isso custasse a minha vida.
+// 俺の命に代えても、この包囲を脱すること.
+<1529> Preciso deixar Kanna sair viva deste lugar...
+// せめて神奈だけでも、生かして逃がすこと…
+<1530> \{Uraha}"Eu tenho um desejo."
+// \{裏葉}「わたくしにはございます」
+<1531> \{Uraha}"Quero viver com vocês dois para sempre."
+// \{裏葉}「神奈さまと柳也さまと、いつまでも暮らしとうございます」
+<1532> Ela estava tão otimista como sempre.
+// …あいかわらず脳天気だな.
+<1533> Mas decidi não dizer isso em voz alta.
+// そう言うかわりに、別の言葉が口をついていた.
+<1534> \{Ryuuya}"Essa é uma boa ideia."
+// \{柳也}「それもいいかもしれないな」
+<1535> \{Uraha}"Podemos procurar uma terra pacífica e construir um pequeno retiro para nós."
+// \{裏葉}「どこか静かな土地に、小さな庵(いおり)をかまえましょう」
+<1536> \{Ryuuya}"Não se preocupe com a comida."
+// \{柳也}「食い扶持ぐらいなら、俺がどうにかできるしな」
+<1537> \{Ryuuya}"Posso cultivar arroz ou caçar animais..."
+// \{柳也}「畑を耕すか、狩りをするか…」
+<1538> \{Uraha}"Também podemos pescar se vivermos perto do mar."
+// \{裏葉}「海の近くなら、漁(すなどり)をすることもできましょうね」
+<1539> \{Ryuuya}"O mar, huh?"
+// \{柳也}「海、か…」
+<1540> \{Ryuuya}"Se moramos no litoral, saibam que o mar quente no oeste é um lugar muito melhor."
+// \{柳也}「どうせなら、西の方の温かい海がいいな」
+<1541> \{Uraha}"Parece um lugar adorável para se viver."
+// \{裏葉}「それはたいそう居心地よく暮らせましょうねえ…」
+<1542> Uraha falou de forma onírica, como se já estivéssemos em frente à nossa nova casa.
+// 既に庵の前にいるかのように、うっとりと裏葉が言う.
+<1543> Kanna se inclinou para me perguntar.
+// と、神奈が身を乗り出すように訊いてきた.
+<1544> \{Kanna}"Como é o mar?"
+// \{神奈}「海とは、どのようなものだ？」
+<1545> \{Ryuuya}"Você não sabe o que é um mar?"
+// \{柳也}「なんだ、知らないのか？」
+<1546> \{Kanna}"Ouvi dizer que é como uma poça de água enorme, mas nunca vi um."
+// \{神奈}「途方もなく大きな水たまりと聞いておるが、この目で見たことはないぞ」
+<1547> \{Ryuuya}"Além de ser uma poça enorme, é tudo água salgada."
+// \{柳也}「水たまりは水たまりでも、全部塩水だぞ」
+<1548> \{Kanna}"Você está fazendo piadas de novo..."
+// \{神奈}「…また余をたばかっておるであろ」
+<1549> \{Uraha}"O que ele disse é verdade."
+// \{裏葉}「まことでございます」
+<1550> \{Ryuuya}"Isso não é tudo. O mar é tão amplo quanto o céu."
+// \{柳也}「それにな、海は空と同じぐらい広い」
+<1551> \{Kanna}"Incrível..."
+// \{神奈}「なんと…」
+<1552> \{Uraha}"E o mar contém todos os dourados e abalones que você pode comer."
+// \{裏葉}「鯛も鮑も食べ放題でございます」
+<1553> \{Kanna}"Você está falando sério mesmo?"
+// \{神奈}「まことかっ」
+<1554> \{Ryuuya}"Como alguém que vai pescar, não estou muito feliz em ouvir isso."
+// \{柳也}「…獲る役の奴に訊かれても困るぞ」
+<1555> \{Uraha}"Podemos sentar ao redor de uma fogueira e grelhá-los com sal."
+// \{裏葉}「囲炉裏(いろり)を囲んで、塩焼きにしていただきましょう」
+<1556> \{Kanna}"E no inverno, também podemos comer a neve do telhado."
+// \{神奈}「それで冬は軒先の雪を食べるのだな」
+<1557> \{Ryuuya}"Você pode tentar, mas depois não venha reclamar que está com dor de barriga."
+// \{柳也}「…食べてもいいが、腹こわすなよ」
+<1558> Continuamos conversando, aproveitando ao máximo o pouco tempo que nos restava.
+// 一瞬の間さえも惜しみながら、幸せな会話が続く.
+<1559> Passos se aproximavam de todos os lados.
+// その隙をうかがうように、四方から足音が近づいてくるのを感じていた.
+<1560> Eles são o exército imperial? Os monges guerreiros de Kouya? Ou os samurais de Azuma?
+// 朝廷の軍勢か、高野の僧兵か、それとも吾妻侍か.
+<1561> Lancei um olhar para Uraha.
+// 裏葉に目で合図を送る.
+<1562> Dizendo a ela para não voltar atrás dessa vez, mesmo que eu morresse.
+// 俺が倒されても、今度こそ絶対に振り返るな.
+<1563> Ela tem que tirar Kanna daqui.
+// 神奈を連れて逃げられる所まで逃げろ.
+<1564> Mas Uraha começou a divagar sobre seus sonhos novamente.
+// 決意のかわりに、裏葉は他愛のない夢を返す.
+<1565> \{Uraha}"Essas vilas à beira-mar também vão ter festivais de verão."
+// \{裏葉}「海辺の村にも夏祭はありましょうね」
+<1566> \{Ryuuya}"Sim, sim... Isso tem em todo lugar."
+// \{柳也}「ああ.どこにだってあるさ」
+<1567> \{Uraha}"Da próxima vez, vamos todos dançar juntos."
+// \{裏葉}「今度は三人で踊りましょう」
+<1568> \{Ryuuya}"Verdade. É chato só ficar assistindo."
+// \{柳也}「そうだな.見てるだけなんてつまらないからな…」
+<1569> Eu lentamente coloquei minha mão sobre o cabo da katana.
+// 太刀にそっと手をかける.
+<1570> Uraha puxou a adaga de dentro de suas roupas.
+// 裏葉も右手でふところの小刀を探る.
+<1571> Não podíamos revelar nosso medo a Kanna.
+// 俺たちの恐れを、神奈に気取られてはいけない.
+<1572> E então pintei uma imagem na minha mente.
+// だから俺は、心に描いていた.
+<1573> Era uma noite de verão com uma lua cheia brilhando lá no alto.
+// たぶんそれは、煌々(こうこう)と月が照り映える夏の晩だ.
+<1574> Havia uma multidão e a música do festival.
+// たくさんの人々と、にぎやかな祭囃子.
+<1575> Chamas e risos subiam para o céu.
+// 天に昇っていく、炎と笑い声.
+<1576> Kanna estava dançando fervorosamente.
+// 神奈が一所懸命に踊る.
+<1577> Ela era tão desajeitada que doía só de olhar, então Uraha interveio para ensiná-la.
+// その姿があまりにぎこちなくて、見かねた裏葉が手ほどきをはじめる.
+<1578> Eu simplesmente ri e balancei minha cabeça ao som da música...
+// 俺はただ笑いながら、楽の音に身をゆだねる…
+<1579> \{Kanna}"Isto é um sonho."
+// \{神奈}「これは、夢であるな」
+<1580> A voz de Kanna me trouxe de volta à realidade.
+// 神奈の声に、俺は我にかえった.
+<1581> Ela se afastou de nós e ficou de pé.
+// 俺たちから身体を離し、神奈はすっくと立ちあがった.
+<1582> \{Kanna}"Meu sonho..."
+// \{神奈}「余の夢だ…」
+<1583> Ela estendeu os braços, acolhendo o mundo inteiro dentro dela.
+// 大きく広げた両袖で、そっと宙を掻き抱く.
+<1584> Era como se ela estivesse tentando absorver cada palavra que era dita ali.
+// この場でかわしたすべての言葉を、自分の中に閉じ込めるかのように.
+<1585> \{Kanna}"Nem todos os sonhos são sonhos tristes."
+// \{神奈}「夢はつらい夢ばかりではない」
+<1586> \{Kanna}"Foi divertido."
+// \{神奈}「楽しかったぞ」
+<1587> \{Ryuuya}"Kanna?"
+// \{柳也}「神奈？」
+<1588> Ela estava se comportando de forma estranha.
+// 様子がおかしい.
+<1589> \{Kanna}"Fique onde está."
+// \{神奈}「決してここから動くでない」
+<1590> \{Ryuuya}"Ficar...? Ei..."
+// \{柳也}「…動くなって、おい？」
+<1591> Kanna chegou perto de mim no momento em que eu me levantei.
+// 俺が立ちあがると同時に、神奈がするりと近寄ってきた.
+<1592> \{Kanna}"Eu até esqueci das minhas asas depois de passar esse tempo com você."
+// \{神奈}「柳也どのと一緒におると、羽を忘れられた」
+<1593> Ele tira a roupa e a deixa cair no chão.
+// 衣を脱ぎ捨て、地面に落とす.
+<1594> Uma onda de ar envolveu seu corpo nu.
+// 裸身が微風をまとう.
+<1595> Nossos lábios se encontraram.
+// 唇と唇が触れた.
+<1596> Seu calor e o tremor em seus lábios me foram revelados.
+// 神奈の温かさが、震えと共に伝わってきた.
+<1597> \{Kanna}"Eu fiz isso direito?"
+// \{神奈}「…これでよかったのか？」
+<1598> Ela perguntou para Uraha, incerta.
+// 側にひかえた裏葉を見て、自信なさげに訊く.
+<1599> \{Uraha}"Ainda está um pouco rude..."
+// \{裏葉}「いささか不作法ですが…」
+<1600> Mas ela assentiu.
+// 言いながら、こくりと頷いた.
+<1601> 'Quero viver com vocês dois para sempre'.
+// 『神奈さまと柳也さまと、いつまでも暮らしとうございます』
+<1602> Ela deve ter percebido tudo quando disse isso.
+// そう答えた時にはもう、裏葉は気づいていたはずだ.
+<1603> Ela sabia que Kanna nos deixaria.
+// これから神奈が、どこに行こうとしているかを.
+<1604> \{Kanna}"Esta é minha última ordem para você."
+// \{神奈}「余の最後の命である」
+<1605> \{Kanna}"Vivam..."
+// \{神奈}「末永く」
+<1606> \{Kanna}"...felizes..."
+// \{神奈}「幸せに」
+<1607> \{Kanna}"...para sempre..."
+// \{神奈}「暮らすのだぞ…」
+<1608> Suas asas se abriram e explodiram em luz.
+// 光と共に、翼が広がった.
+<1609> O ar girava com Kanna no centro.
+// 神奈を中心に、風が渦が巻いた.
+<1610> 'Um mensageiro dos Deuses'.
+// 天の御使い.
+<1611> O brilhantismo era adequado para esse nome.
+// その名にふさわしい輝き.
+<1612> Essas asas requintadas eram um sinal de seu domínio e superioridade.
+// 人知を越えた者として君臨するかのような、あでやかな翼.
+<1613> O vento ficou mais forte, tanto que era difícil manter os olhos abertos.
+// 次第に強くなる風に、目を開けているのさえ辛い.
+<1614> Ele dançava, atacava e ameaçava tudo que estava em seu caminho.
+// 舞い、荒れ狂い、周囲を圧する.
+<1615> Até as árvores e a terra gritaram, incapazes de se manter em silêncio.
+// 木々も大地も、耐えきれずに悲鳴をあげている.
+<1616> Os soldados foram impiedosamente atirados ao ar.
+// 雑兵たちが容赦なく中空に巻きあげられる.
+<1617> O vento formou uma parede cercando completamente Uraha e eu.
+// 風は壁となり、俺と裏葉をすっぽりと囲んでいた.
+<1618> \{Ryuuya}"Kanna!"
+// \{柳也}「神奈っ!」
+<1619> Eu não conseguia ouvir meu próprio grito.
+// 叫んでも、自分の声すら聞こえない.
+<1620> Então eu só pude observar.
+// 俺は呆然と見ているしかなかった.
+<1621> Seus pés deixaram o chão... ela estava subindo no ar.
+// 地上を離れ、ふわりと舞いあがる神奈の姿を.
+<1622> Uma rajada repentina de vento forçou o exército a correr para se proteger.
+// 山を揺るがすすさまじい突風に、軍勢が逃げまどう.
+<1623> Kanna voou baixo no céu diante deles.
+// その上を、神奈は低くゆっくりと飛ぶ.
+<1624> Ela parecia estar exibindo o poder de suas asas para os humanos tolos.
+// 愚かな人間たちに、翼の威光を見せつけるかのように.
+<1625> E então percebi o que ela estava fazendo.
+// そして、俺は気づいた.
+<1626> Kanna estava fazendo o que eu fiz há algum tempo.
+// 神奈は俺と同じことをしているのだ.
+<1627> Ela decidiu usar a si mesma como uma isca para nos permitir escapar.
+// 自分の身を囮(おとり)にして、俺たちを逃がすつもりなのだ.
+<1628> \{Ryuuya}"Droga!"
+// \{柳也}「…くそっ」
+<1629> Levantei-me para correr, mas Uraha ficou no meu caminho.
+// 駈け出そうとした俺の前に、裏葉が立ちはだかった.
+<1630> \{Uraha}"Ryuuya-san, você não deve ir atrás dela."
+// \{裏葉}「柳也さま、追ってはなりません」
+<1631> \{Ryuuya}"O quê?"
+// \{柳也}「なっ…」
+<1632> \{Uraha}"Por favor, entenda o desejo de Kanna-sama."
+// \{裏葉}「神奈さまは、心から願っておいでです」
+<1633> \{Uraha}"Ela quer que você continue vivo."
+// \{裏葉}「柳也さまに生きながらえてほしいと」
+<1634> As palavras dela me deixaram perplexo.
+// 突きつけられたその言葉に、ただうろたえる自分がいた.
+<1635> \{Ryuuya}"Mas... Mas eu sou o guarda dela!"
+// \{柳也}「俺は…俺は神奈の随身だぞっ」
+<1636> Uraha não desviou o olhar.
+// 裏葉は俺から視線を外そうとしなかった.
+<1637> \{Uraha}"Não mais."
+// \{裏葉}「もはや違います」
+<1638> \{Uraha}"Para Kanna-sama, você já é..."
+// \{裏葉}「神奈さまにとって、柳也さまは…」
+<1639> Uraha olhou para o céu.
+// そして裏葉は、瞳を空に向けた.
+<1640> Uma lua cheia estava pendurada no centro.
+// 中天には満月があった.
+<1641> As asas prateadas de Kanna brilhavam como joias ao luar.
+// 神奈の銀翼が、月の光を浴びて宝玉のように輝く.
+<1642> Ela subiu lentamente.
+// ゆるゆると、神奈は昇っていく.
+<1643> Um canto ressoou da montanha à nossa frente.
+// 向かいの山陵から、呪詛のうねりが響いてきた.
+<1644> Era uma maldição de algumas centenas de monges, entoando em uníssono.
+// 何百人もの僧侶が声を合わせ、調伏の呪文をとなえている.
+<1645> Eles queriam aprisionar o demônio que estava solto.
+// 解き放たれてしまった悪鬼を、ふたたび封じこめるために.
+<1646> O vento diminuiu e a luz das asas de Kanna começou a desaparecer.
+// 風が衰え、翼の輝きが苦しげにまたたく.
+<1647> Mas Kanna continuou a se debater como um pintinho recém-nascido.
+// 巣立ったばかりの小鳥のように、それでも神奈は飛び続ける.
+<1648> Os soldados que estavam deitados no chão se levantaram e prepararam seus arcos e flechas.
+// 地に這いつくばっていた兵たちが、弓矢を手に体勢を整える.
+<1649> \{Voz}"Agora é a hora! Atirem nela!"
+// \{声}「…今だ、射かけよ!」
+<1650> \{Voz}"Seu demônio miserável!"
+// \{声}「…おのれ妖物めっ」
+<1651> Uma chuva de flechas subiu em direção ao céu.
+// 地上から空へ向けて、夕立のように次々と矢が放たれる.
+<1652> Penas se espalharam enquanto o corpo de Kanna se dobrava de dor.
+// 光と共に羽が散り、神奈の身体がぐらりと傾いた.
+<1653> \{Voz}"Eu a peguei!"
+// \{声}「…やった!」
+<1654> \{Voz}"Ela está ferida! Atirem nela! Atirem nela!"
+// \{声}「…きゃつは手負いぞ.早う射て、射てっ」
+<1655> \{Ryuuya}"Kanna!"
+// \{柳也}「神奈っ!」
+<1656> Eu fiquei fora de mim e gritei.
+// 我を忘れ、俺は叫んでいた.
+<1657> \{Ryuuya}"Voe mais alto! Mais alto!"
+// \{柳也}「もっと高く飛べっ! もっと高くっ!」
+<1658> Kanna subiu...
+// 神奈は昇っていく.
+<1659> Para levar nossos desejos inatingíveis às estrelas.
+// かなわぬ願いを、天に届けるために.
+<1660> A maldição ficou mais alta, enrolando-se em volta dela como uma cobra venenosa.
+// 追いすがる鎖のように、呪詛の声も高まっていく.
+<1661> Naquele momento...
+// そして…
+<1662> Houve uma explosão de luz...
+// 光がはじけた.
+<1663> Penas choviam do céu.
+// 羽が飛び散った.
+<1664> Kanna parou de se mover.
+// それきり、神奈は動かなくなった.
+<1665> Era como se ela estivesse congelada no vazio.
+// 何もない虚空で、凍りついたように.
+<1666> A luz de suas penas diminuiu.
+// 翼の光が衰えていく.
+<1667> Por fim, não consegui mais vê-la.
+// やがて、なにも見えなくなった.
+<1668> Kouya estava queimando.
+// 高野が燃えていた.
+<1669> Chamas famintas consumiram as fileiras de templos e torres.
+// 立ち並ぶ伽藍も尖塔も、ごうごうと炎を吹き上げていた.
+<1670> O exército invasor deve ter incendiado tudo.
+// 攻め入った軍勢が火を放ったのだろう.
+<1671> Mesmo assim, o canto maldito não parou.
+// それでも呪詛は止まなかった.
+<1672> Os monges continuariam seu ritual, mesmo que a morte os alcançasse.
+// 自らの死を賭してさえ、僧たちは御修法(みしほ)を続けている.
+<1673> Tudo o que eles queriam era livrar este mundo dos calamitosos seres alados.
+// 翼人の災厄から、人の世を守るために.
+<1674> Meus gritos não eram mais inteligíveis.
+// 俺の叫びはもう、言葉にならなかった.
+<1675> Eu não conseguia mais dizer o que era certo e o que era errado.
+// なにが間違っていてなにが正しいのか、俺にわかるはずがなかった.
+<1676> Eu tinha perdido a garota que eu deveria proteger.
+// 護るべき少女を失った.
+<1677> Ela significava tudo para mim.
+// 俺にとって、それがすべてだった.
+<1678> Enquanto eu estava perplexo nas planícies da montanha, a manhã chegou.
+// 山中に立ち尽くしているうちに、朝が訪れた.
+<1679> O céu de verão se descortinava além das copas das árvores, como sempre.
+// 木漏れ日の向こう、あたりまえのように夏空が広がっていた.
+<1680> O céu que a mãe de Kanna tanto desejava.
+// 母君が望んだ空.
+<1681> O céu que levou Kanna.
+// 神奈を奪い去った空.
+<1682> Incapaz de suportar o azul do céu, ajoelhei-me.
+// その青さに耐えられず、俺は地面に両膝をついた.
+<1683> As cigarras começaram a cantar alto.
+// 蝉が高く鳴きはじめた.
+<1684> As palavras de Kanna ainda permaneciam em minha mente, frescas como o orvalho da manhã.
+// 耳の奧には、まだ言葉が残っている.
+<1685> 'Ryuuya é um verdadeiro samurai'.
+// 『柳也どのこそ、まことの士(もののふ)』
+<1686> 'Ele é um servo verdadeiramente leal'.
+// 『まことの忠臣だぞ…』
+<1687> Eu dei um soco no chão.
+// 拳を土に叩きつけた.
+<1688> \{Ryuuya}"Como posso ser chamado de leal?"
+// \{柳也}「俺のどこが忠臣だよ…」
+<1689> O Templo de Adamantina havia caído na noite anterior.
+// 昨夜のうちに、金剛峰寺は陥落したらしい.
+<1690> O som de espadas colidindo ainda podia ser ouvido em meio ao odor de madeira carbonizada.
+// 廃材の焦げる匂いに乗って、どこからか刀で切り結ぶ音が聞こえてくる.
+<1691> Pequenas batalhas ainda estavam acontecendo com os remanescentes.
+// 残兵同士の小競り合いは今も続いているようだった.
+<1692> Levantei-me e desembainhei minha katana.
+// 俺は立ちあがり、太刀を鞘から抜いた.
+<1693> Vou atacar o inimigo para cumprir meu dever como servo de Kanna.
+// 敵中に斬りこみ、神奈の臣下として果てる.
+<1694> Levarei comigo para o túmulo o maior número possível de homens... esses homens que mataram Kanna.
+// 神奈をあんな目に遭わせた奴らを、できるだけ多く道連れにする.
+<1695> Eu não precisava mais de uma causa.
+// 理由など何でもいい.
+<1696> Eu só estava procurando alguém para me destruir.
+// ただ、俺を滅ぼしてくれる者を探していた.
+<1697> \{Uraha}"Ryuuya-san..."
+// \{裏葉}「…柳也さま」
+<1698> Uraha, que estava em silêncio até então, me chamou.
+// ずっと無言だった裏葉が、不意に俺を呼んだ.
+<1699> Pela sua voz, percebi que ela tinha percebido o que eu estava pensando, e isso piorou meu sentimento de culpa.
+// なにもかもを見透かした声音が、今はたまらなく重荷だった.
+<1700> \{Ryuuya}"Isto é um adeus."
+// \{柳也}「おまえとはここで別れる」
+<1701> \{Ryuuya}"Esqueça Kanna e eu."
+// \{柳也}「俺や神奈のことは忘れろ」
+<1702> \{Ryuuya}"Fique bem."
+// \{柳也}「達者で暮らせ」
+<1703> Uraha não disse nada.
+// 裏葉はなにも答えなかった.
+<1704> Ela bloqueou meu caminho com um braço.
+// 衣の袖を鳥のように広げ、俺の行く手をふさいだ.
+<1705> \{Ryuuya}"Saia do meu caminho ou eu mato você."
+// \{柳也}「邪魔立てするなら、斬る」
+<1706> Mas ela se negou a recuar.
+// だが、裏葉は一歩も退こうとしなかった.
+<1707> \{Uraha}"Então me mate."
+// \{裏葉}「お斬りくださいませ」
+<1708> Virei minha espada e a pressionei contra a garganta de Uraha.
+// 俺は太刀の切っ先を返し、裏葉の喉元に突きつけた.
+<1709> Isso era diferente da minha ameaça no santuário.
+// 社殿でやった脅しとは違う.
+<1710> Eu realmente cortaria a garganta dela se não se afastasse.
+// どかないのなら、本当に突き殺す.
+<1711> A próxima ação de Uraha foi além da minha expectativa.
+// だが、裏葉は考えてもいなかった手段に出た.
+<1712> Ela agarrou minha lâmina com as duas mãos.
+// 突きつけられた刃を、裏葉は両手でおおった.
+<1713> Ela segurou-a com tanta força que suas mãos pareciam um pano enrolado na katana.
+// 研ぎすました刀身を、布でも絞るように握りこむ.
+<1714> Se eu me movesse um pouco, os dedos dela cairiam.
+// 俺が少しでも身動きすれば、裏葉の指は落ちる.
+<1715> \{Uraha}"Vá em frente e me mate."
+// \{裏葉}「どうぞお斬りくださいませ」
+<1716> \{Ryuuya}"Estou falando sério."
+// \{柳也}「脅しではないぞ」
+<1717> \{Uraha}"Eu também estou falando sério."
+// \{裏葉}「わたくしも脅しではございません」
+<1718> \{Uraha}"Kanna ficaria feliz em ver você sair em uma matança?"
+// \{裏葉}「悪鬼と変じた柳也さまを見て、なぜ神奈さまがお喜びになりましょうか」
+<1719> \{Ryuuya}"Kanna não está mais neste mundo."
+// \{柳也}「神奈はもういない」
+<1720> \{Uraha}"Mas você ainda está!"
+// \{裏葉}「柳也さまはここにおられます」
+<1721> \{Uraha}"Você ainda está vivo, assim como Kanna-sama desejou!"
+// \{裏葉}「神奈さまの願いどおり、柳也さまはたしかに生きておられます」
+<1722> Eu ainda estava vivo.
+// たしかに俺は生きている.
+<1723> Mas tudo o que restou de mim foi uma casca vazia esperando para ser despedaçada pelo meu remorso por perder Kanna.
+// 神奈を失った今となっては、その事実は身を裂くような後悔しか残さなかった.
+<1724> Por favor, entenda minha dor...
+// 頼むから、わかってくれ.
+<1725> Sinto-me envergonhado demais para continuar vivendo...
+// 俺はこれ以上、生き恥を晒したくないんだ…
+<1726> Mesmo assim Uraha sorriu para mim.
+// そんな俺に、裏葉は微笑んだ.
+<1727> \{Uraha}"Ainda não acabou."
+// \{裏葉}「まだ終わっておりません」
+<1728> Uraha ouviu atentamente as cigarras e o farfalhar das folhas.
+// 蝉の声と葉擦れの向こうに、裏葉は一心に耳を澄ます.
+<1729> \{Uraha}"Ainda consigo ouvir a voz de Kanna-sama."
+// \{裏葉}「神奈さまのお声が聞こえます」
+<1730> \{Uraha}"Ela está chorando."
+// \{裏葉}「神奈さまはお泣きになっています」
+<1731> \{Uraha}"Por mais fraca que seja sua voz, ainda consigo ouvi-la."
+// \{裏葉}「かすかにですが、わたくしには聞こえます」
+<1732> \{Ryuuya}"Uraha..."
+// \{柳也}「裏葉、おまえ…」
+<1733> Pensei que ela tivesse perdido o juízo.
+// 正気を失ったのではと思った.
+<1734> Mas havia luz em seus olhos.
+// 瞳を覗くと、たしかに光が宿っていた.
+<1735> A luz das últimas penas de Kanna ainda permanecia em seus olhos.
+// あの夜に散った最後の羽の輝きが、裏葉の中にあった.
+<1736> Minha raiva diminuiu.
+// 俺の怒りは退いていた.
+<1737> \{Ryuuya}"Você não sabe quando desistir, não é?"
+// \{柳也}「…あきらめが悪いんだな」
+<1738> \{Uraha}"Ora, ora! Ryuuya-san."
+// \{裏葉}「あらあら、柳也さま」
+<1739> \{Uraha}"As mulheres não desistem tão facilmente."
+// \{裏葉}「元より女とは、あきらめが悪いものでございます」
+<1740> \{Ryuuya}"Se você diz..."
+// \{柳也}「それはそれとしてだ」
+<1741> \{Ryuuya}"Mas não posso guardar minha katana se você não a soltar."
+// \{柳也}「手を離してくれないと、太刀がおさめられない」
+<1742> \{Uraha}"Eu não vou soltar."
+// \{裏葉}「いやでございます」
+<1743> Ela continuou segurando a lâmina com uma expressão composta.
+// 刀身をきゅっと握ったまま、涼しい顔で言う.
+<1744> \{Uraha}"Faça um voto para mim."
+// \{裏葉}「お誓いくださいませ」
+<1745> \{Uraha}"Prometa que não vai jogar sua vida fora precipitadamente."
+// \{裏葉}「そのお生命、決して無駄には散らさぬと」
+<1746> \{Uraha}"Viva pelo bem de Kanna-sama até seu último suspiro."
+// \{裏葉}「お生命の最後の最後まで、神奈さまのためにつくす、と」
+<1747> Eu não tinha certeza de quem estava ameaçando quem agora.
+// これでは、どちらが脅されているのかわからない.
+<1748> No entanto, eu sabia que havia perdido para ela.
+// そして今度も、負けたのは俺だった.
+<1749> \{Ryuuya}"Entendi."
+// \{柳也}「…わかった」
+<1750> \{Ryuuya}"Minha vida é sua."
+// \{柳也}「俺の生命、おまえに預ける」
+<1751> No momento em que embainho minha katana, os olhos de Urahara se encheram de lágrimas.
+// 刀を鞘に収めたとたんに、裏葉の瞳から涙があふれだした.
+<1752> \{Uraha}"Muito... obrigado..."
+// \{裏葉}「ありがとう…ございますっ…」
+<1753> Ela sorriu enquanto lágrimas escorriam pelo seu rosto.
+// 笑いながら、ぽろぽろとこぼれる涙.
+<1754> Essa foi a primeira vez que vi Uraha ficar verdadeiramente emocionada.
+// 気丈な裏葉が俺にはじめて見せた、とめられない感情.
+<1755> \{Ryuuya}"Por que você está chorando?"
+// \{柳也}「なぜ、泣くんだよ？」
+<1756> \{Uraha}"Porque estou tão feliz..."
+// \{裏葉}「嬉しいからで…ございます」
+<1757> \{Uraha}"Eu sinto o mesmo que Lady Kanna..."
+// \{裏葉}「この裏葉も…神奈さまと同じでございます」
+<1758> \{Uraha}"Não posso continuar sem você..."
+// \{裏葉}「柳也さまなしでは、この先生きてなど…ゆけません」
+<1759> \{Ryuuya}"Você está exagerando."
+// \{柳也}「大げさだな」
+<1760> \{Uraha}"Chame isso de exagero, se quiser..."
+// \{裏葉}「大げさで、ございますとも…」
+<1761> \{Ryuuya}"Uraha."
+// \{柳也}「裏葉」
+<1762> \{Uraha}"Sim..."
+// \{裏葉}「はいっ…」
+<1763> \{Ryuuya}"Vamos."
+// \{柳也}「行こう」
+<1764> \{Uraha}"Sim, vou acompanhá-lo."
+// \{裏葉}「はい.お供いたします」

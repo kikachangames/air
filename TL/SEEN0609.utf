@@ -1,0 +1,551 @@
+// Resources for SEEN0609.TXT
+
+#character '*A'
+// '*Ａ'
+#character 'Minagi'
+// '美凪'
+#character 'Mãe'
+// '母親'
+#character 'Voz'
+// '声'
+#character 'Michiru'
+// 'みちる'
+
+<0000> 9 de Agosto (Qua)
+// ８月 ９日(水)
+<0001> Era uma manhã como qualquer outra.
+// …いつもと変わることのない朝だった.
+<0002> Estávamos em meio à luz do sol e ao canto das cigarras.
+// セミたちの声が、陽射しとともに俺たちのいるこの場所を優しく包み込んでいた.
+<0003> \{Yukito}"Tudo bem. Vamos indo."
+// \{Yukito}「さてと.行くか」
+<0004> Depois de terminar o café da manhã, dei um tapinha no ombro de Tohno enquanto ela lavava a louça.
+// 翌日、朝食を食べ終えた後、俺は食器を洗う遠野の肩を叩いた.
+<0005> \{Minagi}"Para onde vamos?"
+// \{美凪}「…どこへですか？」
+<0006> Tohno inclinou a cabeça e olhou pra mim com curiosidade.
+// 遠野は、小首を傾げながら、俺を不思議そうな眼差しで見つめた.
+<0007> \{Yukito}"Você sabe. Vamos arrumar as coisas pra nossa viagem."
+// \{Yukito}「決まってるだろ.出立の準備だ」
+<0008> \{Minagi}"...?"
+// \{美凪}「…？」
+<0009> \{Yukito}"Já se esqueceu? Não estamos partindo pra uma nova jornada?"
+// \{Yukito}「？じゃない.おまえ、まさかそのままで旅に出るつもりか？」
+<0010> \{Minagi}"........."
+// \{美凪}「………」
+<0011> Ela concordou.
+// こくりと頷く.
+<0012> \{Minagi}"...Tenho uma muda de roupa e outras coisas..."
+// \{美凪}「…着替えとかは持ってますし…」
+<0013> \{Yukito}"Bobagem!"
+// \{Yukito}「甘いっ!」
+<0014> Eu precisava passar algumas dicas pra ela.
+// びしっ、と言ってやる.
+<0015> \{Yukito}"Uma viagem não é tão fácil quanto você pensa."
+// \{Yukito}「旅ってのは、そんなに甘いもんじゃないぞ」
+<0016> \{Minagi}"Oh... Sério...?"
+// \{美凪}「…そうなんですか？」
+<0017> \{Yukito}"Sim. E você ainda tá se esquecendo da coisa mais importante, sabia?"
+// \{Yukito}「ああ.まだ大事なものを持ち忘れてるぞ、おまえは」
+<0018> \{Minagi}"O que seria isso, mestre?"
+// \{美凪}「…それは何ですか…師匠」
+<0019> \{Yukito}"Hmph. Eu lhe ensinarei ao longo do caminho."
+// \{Yukito}「うむ.それが何かは、道々教えてやる」
+<0020> \{Yukito}"Vamos nos mexer primeiro."
+// \{Yukito}「だから、とりあえず行動だ」
+<0021> \{Minagi}"........."
+// \{美凪}「………」
+<0022> \{Minagi}"Ok..."
+// \{美凪}「…はい」
+<0023> Depois de sairmos da estação de trem, caminhamos em direção ao centro da cidade sob o calor intenso.
+// 駅前を離れて、陽炎にゆれる町中を歩いた.
+<0024> Tohno não pareceu satisfeita com minha resposta, mas me seguiu sem reclamar.
+// 遠野は、いまいち納得しかねるといった顔つきをしながらも、黙って俺の後ろについてきていた.
+<0025> \{Yukito}(Tenho certeza de que é por aqui.)
+// \{Yukito}(たしか、この道であってるんだよな…)
+<0026> Caminhamos em direção a um lugar em que estive apenas duas vezes, por isso continuei parando pra verificar o caminho.
+// たった二度しか行ったことのないその場所を目指して、道を確かめながら歩く.
+<0027> \{Minagi}"Onde estamos indo...?"
+// \{美凪}「…あの…どこへ行かれるんですか」
+<0028> Tohno ainda não havia percebido nosso destino.
+// 遠野は、俺が行こうとしている先にまだ気づいてはいない.
+<0029> O mais provável é que ela sempre tenha seguido um caminho diferente pra chegar lá.
+// おそらく、彼女がいつも歩いている道とは、違う道順を俺は辿っているのだろう.
+<0030> Felizmente, eu tinha confiança em meu senso de direção depois de ter viajado por tanto tempo.
+// 幸い、長く旅をしてきたおかげで、俺は方向感覚には自信がある.
+<0031> Pelo menos eu sabia que não me perderia.
+// だから、迷うことはないだろう.
+<0032> Além disso, Tohno logo perceberia se fôssemos um pouco mais longe.
+// それに、もう少し歩けば、きっと遠野も気がつくはずだ.
+<0033> Lá, no nosso destino...
+// 俺が目指している先.
+<0034> Tohno havia se esquecido de algo importante...
+// 遠野が持ち忘れてきた、大切なものがある、その場所に….
+<0035> .........
+// ……….
+<0036> ......
+// …….
+<0037> ...
+// ….
+<0038> Nós paramos de andar.
+// そして、俺たちは足をとめた.
+<0039> \{Minagi}"........."
+// \{美凪}「………」
+<0040> Tohno já deve ter percebido pra onde estávamos indo. Ela não disse uma palavra.
+// 遠野も途中で気づいたのだろう.何も言わなかった.
+<0041> Ela ficou olhando pra casa que conhecia desde que nasceu.
+// 何も言わず、ただ、幼い頃より見続けてきたその家の外観をじっと見つめていた.
+<0042> \{Yukito}"Que bom. Finalmente chegamos."
+// \{Yukito}「やれやれ.やっと到着だな」
+<0043> Falei com as mãos na cintura, de uma forma deliberadamente cômica...
+// 俺は、わざとおどけたように言って、自分の腰を軽く叩いた.
+<0044> \{Minagi}"........."
+// \{美凪}「………」
+<0045> \{Minagi}"Por que você me trouxe aqui?"
+// \{美凪}「…どうしてですか」
+<0046> Tohno disse com tristeza enquanto olhava pro portão de sua própria casa.
+// 遠野は、自分の家の門構えを見つめながら、少し悲しそうに言った.
+<0047> \{Yukito}"Hmm..."
+// \{Yukito}「ん…」
+<0048> \{Yukito}"Isso é tudo o que posso fazer por você."
+// \{Yukito}「これしか…俺がしてやれることはないからな」
+<0049> Eu não conseguiria suportar todo o sofrimento dela.
+// 彼女の悲しみを、すべて引き受けられるわけじゃない.
+<0050> Não, eu faria isso se pudesse. No entanto, não havia motivo pra isso.
+// できることならそうしてやりたいけれど、できたところで、それは意味を持たない行為だ.
+<0051> Sua tristeza pertencia somente a ela.
+// 彼女の悲しみは、彼女の中にしかない.
+<0052> Foi por isso que tive que forçar a Tohno a enfrentar sua própria dor.
+// だから、俺は彼女を悲しみに正面から向かい合わせる.
+<0053> \{Minagi}"........."
+// \{美凪}「………」
+<0054> \{Yukito}"Você não vai entrar?"
+// \{Yukito}「…迷ってるか？」
+<0055> \{Minagi}"........."
+// \{美凪}「………」
+<0056> Ela assentiu levemente com a cabeça.
+// 小さく頷く.
+<0057> \{Yukito}"Entendi."
+// \{Yukito}「そっか」
+<0058> \{Yukito}"Então dê uma olhada nisso."
+// \{Yukito}「なら、あれ、見てみろよ」
+<0059> Eu apontei pra varanda visível do outro lado das cercas vivas.
+// 俺は、垣根の向こう側に見える縁側を指さした.
+<0060> \{Yukito}"Por quanto tempo você vai deixá-la esperando?"
+// \{Yukito}「いつまであのひとを待たせておくつもりなんだ、おまえは」
+<0061> Lá, a mãe de Tohno tava sentada à luz do sol, esperando por alguém.
+// そこには、陽射しの中で誰かを待ち続けるように座る、遠野の母親の姿があった.
+<0062> Olhando sem expressão pro céu, ela parecia solitária e frágil.
+// 呆けたように空を見上げているそのひとは、とても寂しげで、とても小さく見えた.
+<0063> \{Minagi}"Mãe..."
+// \{美凪}「…お母さん…」
+<0064> Tohno observou sua mãe com olhos apaixonados.
+// 遠野は、そんな母親の姿を、複雑な瞳の色で見つめていた.
+<0065> \{Yukito}"Sim. Aquela lá é a sua mãe."
+// \{Yukito}「そうだ.おまえの母親だぞ、あのひとは」
+<0066> Coloquei a mão na cabeça de Tohno.
+// ぽむっ、と遠野の頭に手を乗せる.
+<0067> \{Minagi}"........."
+// \{美凪}「………」
+<0068> \{Yukito}"Agora... Vou deixar que você decida o que quer fazer."
+// \{Yukito}「さてと.これからどうするのか、最後はおまえ自身が決めろよ」
+<0069> Minha mão ainda tava sobre sua cabeça.
+// 遠野の頭に手を乗せながら言う.
+<0070> \{Minagi}"........."
+// \{美凪}「………」
+<0071> \{Yukito}"Você embarcará em uma jornada comigo? Fará uma viagem sozinha?"
+// \{Yukito}「俺と一緒に旅に出るのか、あるいは一人でどこかへ行くのか」
+<0072> \{Yukito}"Ou... Você voltará pra sua casa? A escolha é sua."
+// \{Yukito}「それとも…おまえのいるべき場所へ帰るのか.選択は自由だ」
+<0073> \{Minagi}"Minha... escolha?"
+// \{美凪}「…私が…決める…？」
+<0074> \{Yukito}"Isso. Tohno Minagi tem que decidir por si mesma."
+// \{Yukito}「そうだ.遠野美凪自身の意思で決めるんだ」
+<0075> \{Minagi}"Minagi...?"
+// \{美凪}「…美凪…？」
+<0076> \{Yukito}"Sim. Você é Tohno Minagi."
+// \{Yukito}「ああ.おまえは、遠野美凪だからな」
+<0077> \{Minagi}"Tohno... Minagi..."
+// \{美凪}「…遠野…美凪…」
+<0078> Tohno murmurou seu próprio nome lentamente.
+// 遠野は、その名前をかみしめるように呟く.
+<0079> \{Minagi}"........."
+// \{美凪}「………」
+<0080> Então ela abaixou a cabeça e pensou sobre isso.
+// そして、これからどうするのかを、うつむき、考えた.
+<0081> Parecia que uma eternidade havia se passado.
+// それは、とても永い時間だった.
+<0082> Quanto tempo foi necessário pra contar suas memórias nessa casa, onde ela nasceu e cresceu?
+// この家に生まれ育ってきた過去をゆっくりとさかのぼるためには、どれほどの時間が必要なのだろうか.
+<0083> Sua infância, os dias felizes...
+// 幼い日々.幸せだった日々.
+<0084> E os momentos tristes...
+// そして、幸せではなかったかもしれない、もうひとつの日々….
+<0085> No entanto, a resposta foi clara.
+// でも、その答えは決まっていた.
+<0086> Mesmo que não houvesse nada além de tristeza nesse lugar, aqui ainda era seu lar.
+// たとえ、そこに悲しみしか残っていなかったとしても、彼女にとっての家はここにあるのだから….
+<0087> \{Minagi}"Kunisaki-san... Eu..."
+// \{美凪}「…Kunisakiさん…私…」
+<0088> Tohno me olhou com olhos que diziam algo.
+// 遠野が、もの言う瞳を俺に向ける.
+<0089> \{Yukito}"........."
+// \{Yukito}「………」
+<0090> Eu acenei com a cabeça pra ela.
+// 俺は、黙って頷く.
+<0091> \{Yukito}"Vá em frente. Encontre o que você esqueceu."
+// \{Yukito}「行ってこい.忘れ物を見つけにな」
+<0092> *Tum...*
+// …とんっ.
+<0093> Dei um leve empurrãozinho nas costas de Tohno.
+// 遠野の背中を、軽く押す.
+<0094> Essa foi a promessa que Michiru e eu fizemos silenciosamente um ao outro.
+// それが、俺とみちるとの間で無言の内にかわした約束だった.
+<0095> Uma pequena garota havia me confiado essa grande tarefa.
+// 幼い少女が、俺に託した願い.
+<0096> Era tudo o que eu podia fazer. No entanto, também era algo que só eu podia fazer.
+// たったそれだけのことしか俺にはできないけれど、それをしてやれるのは俺しかいないと思った.
+<0097> Eu não tava sendo pretensioso.
+// 自負などという、おこがましいものじゃない.
+<0098> Entre nós, havia um acordo tácito.
+// 俺たちの関係の中では、それが当たり前のことで、ありふれたことであるはずだった.
+<0099> \{Minagi}"Kunisaki-san..."
+// \{美凪}「…Kunisakiさん」
+<0100> Tohno se virou e me chamou.
+// 振り返り、遠野が俺の名を呼ぶ.
+<0101> \{Yukito}"Vejo você amanhã."
+// \{Yukito}「また、明日な」
+<0102> Eu lhe disse antes que ela pudesse dizer outra palavra.
+// 俺は、遠野の口が動くよりも先に、そう言った.
+<0103> \{Minagi}"........."
+// \{美凪}「………」
+<0104> Tohno não disse mais nada.
+// 遠野は、声を出さなかった.
+<0105> Ela moveu os lábios sem emitir nenhum som e eu soube o que ela queria dizer.
+// ただ、口元だけが小さく動いて、想いを俺に伝えた.
+<0106> Isso foi o suficiente pra mim.
+// それだけで、じゅうぶんだった.
+<0107> Por fim, Tohno entrou com passos hesitantes por uma abertura na cerca viva.
+// そして、遠野は少し躊躇いを残した足取りで、ゆっくりと垣根の隙間に足を踏み入れる.
+<0108> Ela não precisava mais olhar pra trás com solidão.
+// もう、寂しさに振り返る必要はない.
+<0109> Tohno Minagi havia decidido, por vontade própria, dar esse passo adiante.
+// それは、遠野美凪自身が決めて、踏み出した一歩だったから….
+<0110> E isso significava que ela escolheu viver neste mundo.
+// それが、この世界で生きてゆくということだから….
+<0111> Eu me virei de costas pra casa de Tohno.
+// 俺は、踵を返し、遠野の家に背を向けた.
+<0112> Olhando pro céu de verão acima de minha cabeça, vi um pássaro voando em direção ao horizonte.
+// 頭上にひろがる夏空に視線を投げると、一羽の鳥が彼方を目指して飛んでいく姿が見えた.
+<0113> Não havia mais espaço pra dúvidas.
+// もう、彷徨う必要なんてない.
+<0114> O lugar onde deveríamos estar sempre esteve ao nosso alcance.
+// 行くべき場所は、いつだって手の届くところにある.
+<0115> \{Mãe}"Minagi."
+// \{母親}「美凪っ」
+<0116> Ouvi uma voz clara, como um pássaro sendo solto no céu infinito.
+// どこまでものびゆく空に放たれた、とても清らかな声が、鳥のように羽ばたいてゆくのが見えた.
+<0117> Assobiei uma canção.
+// 口笛を吹いてみる.
+<0118> 'As asas que não podem voar servem para alguma coisa?'
+// 『飛べない翼に意味はあるんでしょうか』
+<0119> Eu me lembrei do que Tohno disse.
+// 遠野の言葉を、不意に思い出す.
+<0120> \{Yukito}(Sim, elas servem...)
+// \{Yukito}(…意味はあるさ)
+<0121> \{Yukito}(Elas são uma lembrança... um vestígio de que um dia fomos capazes de voar.)
+// \{Yukito}(それが、空を飛んでいた日々の大切な思い出だからな)
+<0122> \{Yukito}(.........)
+// \{Yukito}(………)
+<0123> \{Yukito}(Não é mesmo, Michiru?)
+// \{Yukito}(そうだろ…みちる…)
+<0124> .........
+// ……….
+<0125> ......
+// …….
+<0126> ...
+// ….
+<0127> Naquela noite...
+// その日の夜.
+<0128> Me sentei sozinho no banco e olhei pras estrelas.
+// 俺は、隣に誰もいないベンチに腰掛けながら、ずっと一人で星空を眺めていた.
+<0129> Apenas o choro dos insetos noturnos podia ser ouvido.
+// 聞こえてくるのは夜虫たちの声だけで….
+<0130> Essa solitude me trouxe à mente o fato de que eu tava em uma jornada.
+// 俺は、その静けさに、自分が旅をしていることを思い出さずにはいられなかった.
+<0131> E também o fato de que uma garota finalmente havia encontrado um lugar pra onde voltar, após seu longo devaneio.
+// そして、ようやく永い放浪から、帰るべき場所を見つけた少女のことを想った.
+<0132> \{Voz}"A Minagi foi para casa... Não foi?"
+// \{声}「…美凪…帰っちゃったね…」
+<0133> Ouvi uma voz familiar na escuridão.
+// 夜闇の中から、聞き慣れた声が聞こえた.
+<0134> \{Michiru}"........."
+// \{みちる}「………」
+<0135> Era a Michiru.
+// みちるだった.
+<0136> \{Yukito}"Seja bem-vinda de volta..."
+// \{Yukito}「…おかえり」
+<0137> Eu a cumprimentei.
+// 俺は、そう言った.
+<0138> Com uma voz que não carregava um pingo de surpresa.
+// とても穏やかな声で言ったと思う.
+<0139> Porque eu pressenti que ela viria pra cá.
+// 何となく、ここに来ることがわかっていたから….
+<0140> \{Michiru}"Eu voltei..."
+// \{みちる}「…ただいま」
+<0141> Disse Michiru.
+// みちるが言う.
+<0142> E nossas saudações terminaram por aí.
+// 俺たちの挨拶は、それだけだった.
+<0143> Qualquer coisa além disso teria sido supérflua.
+// もう、何も言う必要はなかった.
+<0144> Nós dois nos sentamos no banco.
+// 二人でベンチに座る.
+<0145> Michiru ouvia os sons dos insetos enquanto balançava as pernas.
+// 聞こえてくる夜虫の声に耳を澄ませながら、しばらくの間、みちるは足をブラブラさせていた.
+<0146> \{Michiru}"Ei, Kunisaki Yukito."
+// \{みちる}「…ねえ、KunisakiYukito」
+<0147> Olhando pros pés com os olhos baixos, Michiru falou.
+// うつむき、自分の足の動きを見つめながら、みちるが声を紡ぎだした.
+<0148> \{Michiru}"Afinal de contas, você vai sair desta cidade?"
+// \{みちる}「KunisakiYukitoは、やっぱりこの町をでていっちゃうのかな？」
+<0149> \{Yukito}"Sim, provavelmente."
+// \{Yukito}「…たぶんな」
+<0150> \{Michiru}"Hmmni... Entendi."
+// \{みちる}「…んに…そっか」
+<0151> \{Yukito}"Mas não sei quando isso acontecerá."
+// \{Yukito}「でも、いつになるかはわからないぞ」
+<0152> \{Yukito}"Ainda não tenho o suficiente pra sair daqui."
+// \{Yukito}「なんせ、出ていくためのこれが手に入らない状態だからな、今は」
+<0153> Fiz o sinal de dinheiro com minha mão.
+// 冗談交じりに、右手の人差し指と親指で輪をつくってみせる.
+<0154> \{Michiru}"Nyahaha. Que azar o seu."
+// \{みちる}「にゃはは.それはこまったねぇ」
+<0155> \{Yukito}"É verdade..."
+// \{Yukito}「まったくだ」
+<0156> \{Yukito}"É por isso que ainda ficarei aqui por um bom tempo."
+// \{Yukito}「だから、まだしばらくは、ここに住まわしてもらうことになるだろうな」
+<0157> Soltei um grande suspiro.
+// 大げさにため息をつく.
+<0158> \{Michiru}"Hmmni... Entendo."
+// \{みちる}「…んに…そっか」
+<0159> \{Yukito}"É isso aí."
+// \{Yukito}「ああ」
+<0160> \{Michiru}"Nesse caso... Você pode cuidar de Minagi para mim?"
+// \{みちる}「…んじゃあさ…美凪のこと、KunisakiYukitoにおねがいしてもいいかなぁ」
+<0161> \{Yukito}"Eh..."
+// \{Yukito}「え…」
+<0162> \{Michiru}"Tenho certeza de que Minagi ficará bem sem mim."
+// \{みちる}「きっとね…美凪はもうみちるがいなくてもだいじょうぶだとおもうから…」
+<0163> \{Yukito}"........."
+// \{Yukito}「………」
+<0164> \{Yukito}"Você está... indo pra algum lugar?"
+// \{Yukito}「…どこかへ…行くつもりなのか」
+<0165> Olhei pra figura solitária de Michiru.
+// みちるの寂しげな姿を見つめていた.
+<0166> Ela tava bem ao meu lado.
+// 俺の隣.
+<0167> Seu olhar já havia mudado, de seus pés pro céu estrelado.
+// みちるは、いつの間にか足下から、星空へと視線を移していた.
+<0168> \{Michiru}"Preciso voltar em breve."
+// \{みちる}「みちるはね、もう帰らなきゃいけないんだよ」
+<0169> O céu noturno tava repleto de inúmeras luzes cintilantes.
+// 夜空には、今日も無数のきらめきが広がっていた.
+<0170> \{Yukito}"Voltar?"
+// \{Yukito}「帰る？」
+<0171> \{Michiru}"Sim..."
+// \{みちる}「うん…」
+<0172> \{Yukito}"Pra onde?"
+// \{Yukito}「どこへ…？」
+<0173> \{Michiru}"........."
+// \{みちる}「………」
+<0174> \{Michiru}"Sabe... no céu... vive uma garota muito solitária."
+// \{みちる}「…お空にはね…とってもさみしそうな女の子がいるの」
+<0175> Michiru disse com uma voz suave.
+// 穏やかな声で、みちるが言う.
+<0176> Mas essa não parecia voz dela... e sim a de uma mulher mais velha.
+// その声は、俺が知っている幼いみちるの声じゃなくて、ずっと大人びた声に聞こえた.
+<0177> \{Michiru}"Sua única companhia é um sonho triste."
+// \{みちる}「その子は、いつも悲しい夢をみるだけで、ほかにはなにもない」
+<0178> \{Michiru}"Como não consegue encontrar a felicidade, ela continua sonhando esse sonho triste."
+// \{みちる}「しあわせになれないから、悲しい夢をみるしかない」
+<0179> \{Michiru}"E eu sou... um fragmento de seu sonho."
+// \{みちる}「みちるはね…その子の悲しい夢のかけらなんだよ」
+<0180> \{Yukito}"........."
+// \{Yukito}「………」
+<0181> \{Yukito}"Quer dizer..."
+// \{Yukito}「…それって…」
+<0182> O que Michiru disse me fez lembrar de algo.
+// 俺は、みちるの言葉に思い出していた.
+<0183> A garota sobre a qual minha mãe sempre me falava quando eu era criança.
+// 幼い頃から母親に聞かされ続けていた、少女の姿.
+<0184> Uma triste garota com asas.
+// 悲しい翼を持った、少女の姿を.
+<0185> \{Michiru}"Hmm... Isso não está exatamente correto."
+// \{みちる}「ううん…ちょっとちがうか…」
+<0186> Michiru sacudiu a cabeça.
+// みちるは、俺の思考を制するように首を横に振った.
+<0187> \{Michiru}"Eu pedi que a garota me desse um pedaço de seu sonho."
+// \{みちる}「みちるは、その子の夢を少しだけわけてもらったの」
+<0188> \{Michiru}"Em suas costas, ela tem asas com muitas feridas..."
+// \{みちる}「その子の背中には、とても傷ついた羽があって…」
+<0189> \{Michiru}"Suas asas possuem poderes misteriosos."
+// \{みちる}「その羽には、すごくふしぎな力があるの」
+<0190> \{Michiru}"As penas em suas asas contêm lembranças de muitas pessoas."
+// \{みちる}「いっぱいの人たちが見た、いっぱいの思い出が、その羽にはつまってるんだよ」
+<0191> \{Michiru}"Isso... é realmente triste."
+// \{みちる}「でも…すごくかわいそうだった」
+<0192> \{Michiru}"É por isso que quero ajudá-la..."
+// \{みちる}「だから…たすけてあげたいとおもったの…」
+<0193> \{Michiru}"Então, pedi a ela que me desse uma de suas penas."
+// \{みちる}「みちるはね、その子の羽を一枚だけわけてもらった」
+<0194> \{Michiru}"Porque havia uma garota aqui que eu queria ver."
+// \{みちる}「会いたいひとがいたから…」
+<0195> \{Michiru}"Havia uma garota aqui que eu queria conhecer, e eu queria trazer felicidade para ela."
+// \{みちる}「会って、しあわせにしてあげたいひとたちがいたから…」
+<0196> \{Michiru}"Pensei que a felicidade da garota que estava aqui poderia levar felicidade para a garota no céu..."
+// \{みちる}「そのひとたちのしあわせが、その女の子のしあわせにつながるとおもったから…」
+<0197> \{Michiru}"Então, pedi à ela que me desse um pedaço de suas lembranças."
+// \{みちる}「みちるは、女の子に思い出をひとつだけわけてもらったの」
+<0198> \{Michiru}"Para me tornar amiga da pessoa que estava aqui, eu precisava de memórias..."
+// \{みちる}「そのひととおともだちになるには、思い出が必要だったからね」
+<0199> \{Michiru}"E, para complicar a minha situação, eu não tinha nenhuma..."
+// \{みちる}「みちるには、思い出がなにもなかったからね…」
+<0200> \{Michiru}"Você sabe, Kunisaki Yukito?"
+// \{みちる}「KunisakiYukitoは、しってる？」
+<0201> \{Yukito}"Sei o quê?"
+// \{Yukito}「…何をだ」
+<0202> \{Michiru}"Os seres humanos não podem viver sem memórias."
+// \{みちる}「…ニンゲンはね…思い出がないと生きていけないんだよ」
+<0203> \{Yukito}"........."
+// \{Yukito}「………」
+<0204> \{Michiru}"Mas eles também não podem viver apenas disso."
+// \{みちる}「…でもね…それなのに、思い出だけでは生きていけない」
+<0205> \{Michiru}"Um dia, eles terão que acordar de seus sonhos."
+// \{みちる}「…夢はいつかは覚めないといけない」
+<0206> \{Michiru}"Um sonho do qual a pessoa nunca acorda com certeza se transformará em tristeza um dia, por mais feliz que ele seja."
+// \{みちる}「覚めることをわすれた夢は…それがどんなにしあわせな夢であったとしても…いつかは悲しみにかわってしまうから」
+<0207> \{Michiru}"É realmente triste não acordar de um sonho..."
+// \{みちる}「それは…とてもさみしいことだから…」
+<0208> \{Michiru}"É muito doloroso."
+// \{みちる}「とてもつらいことだから…」
+<0209> \{Yukito}"........."
+// \{Yukito}「………」
+<0210> Eu não a interrompi.
+// 俺は、黙って少女の語りを聞いていた.
+<0211> Será que a voz dessa jovem garota alcançou o céu?
+// 幼い少女の声は、空に届いただろうか.
+<0212> No ar puro que se espalhava pelas profundezas do silêncio, até onde a voz da garota poderia chegar?
+// 静寂の深淵を漂う澄んだ空気の中で、少女の声は、どこまで辿り着くことを許されただろうか.
+<0213> \{Michiru}"É por isso que Michiru está voltando."
+// \{みちる}「だからね…みちるはかえるの」
+<0214> \{Michiru}"Porque tenho muitas lembranças felizes..."
+// \{みちる}「みちるは…しあわせな思い出をいっぱいもらったから…」
+<0215> \{Michiru}"Porque Minagi... e Kunisaki Yukito também... me deram muitas lembranças felizes..."
+// \{みちる}「美凪と…それにKunisakiYukitoにも、いっぱいもらったから…」
+<0216> \{Michiru}"Em troca de suas memórias tristes, eu darei para a garota do céu um pouco das minhas lembranças felizes..."
+// \{みちる}「女の子からもらった悲しいだけの思い出に、少しはしあわせな夢をみせてあげることができたとおもうから…」
+<0217> \{Michiru}"É por isso que Michiru vai devolver a pena para ela."
+// \{みちる}「だからね、みちるはあの女の子に羽をかえしにいくの」
+<0218> \{Michiru}"Vou levar todas as minhas lembranças felizes para ela."
+// \{みちる}「しあわせな思い出をいっぱいかかえて、女の子に会いにいくの」
+<0219> \{Michiru}"Sei que é triste dizer adeus às pessoas que amamos..."
+// \{みちる}「大好きなひとたちとお別れするのはさみしいけど…」
+<0220> \{Michiru}"Mas... Eu sou apenas um sonho..."
+// \{みちる}「みちるは、ただの夢だから…」
+<0221> \{Michiru}"Assim como as estrelas têm que desaparecer quando o sol nasce..."
+// \{みちる}「星は…夜が明けたら消えないといけないものだから…」
+<0222> A garota baixou a cabeça.
+// うつむいて、少女が悲しげに呟く.
+<0223> No entanto, de repente, ela olhou pra cima e pra frente.
+// でも、すぐに視線を上げて、まっすぐに前を見据えた.
+<0224> \{Michiru}"Mas acho que a Minagi ficará bem sem Michiru."
+// \{みちる}「みちるがいなくなっても、美凪はきっとだいじょうぶだとおもう」
+<0225> Ela disse isso pela segunda vez.
+// もういちど、みちるはそう言った.
+<0226> \{Michiru}"A Minagi tem que continuar sendo ela mesma."
+// \{みちる}「美凪はね、やっぱり美凪でいなくちゃいけないんだよ」
+<0227> Suas últimas palavras tiveram um peso imensurável.
+// 最後の声は、輪郭がとてもはっきりしたものだった.
+<0228> Palavras cheias de amor por seu ente querido.
+// 大切なひとへ.
+<0229> Uma manifestação de seus sentimentos em relação à sua melhor amiga.
+// 大切な友人へむけられた、想いそのものだった.
+<0230> \{Yukito}"Você..."
+// \{Yukito}「…おまえは…」
+<0231> Olhei pra ela e fiquei sem saber o que dizer.
+// 俺は、少女を見つめながら、声を紡ぐ.
+<0232> \{Yukito}"Você é... Tohno..."
+// \{Yukito}「おまえは、遠野の…」
+<0233> Procurei por algo que não tava aqui.
+// まるで、そこには存在しない何かを掴むように.
+<0234> Eu sabia que o que tava por vir era apenas uma ilusão...
+// そこにあるのが、ただの幻であることを知っているかのように….
+<0235> \{Michiru}"Eu sou a Michiru. Isso é tudo o que você precisa saber."
+// \{みちる}「…みちるはみちるだよ…それでいいの」
+<0236> A garota abriu um sorriso.
+// 少女が、微かに笑みをもらす.
+<0237> Um sorriso que me dizia que ela tava feliz o suficiente pra poder pronunciar seu próprio nome.
+// それは、自分の名前を口に出せることのうれしさを知っているかのような笑顔だった.
+<0238> \{Michiru}"Mas..."
+// \{みちる}「…でもね…」
+<0239> \{Michiru}"Ainda assim, eu também não sou a Michiru..."
+// \{みちる}「やっぱりみちるはみちるじゃない…」
+<0240> \{Michiru}"A verdadeira Michiru não existe... Ela não pertence a lugar algum..."
+// \{みちる}「ほんとうのみちるはどこにもいない…どこにも居場所なんてないの…」
+<0241> \{Michiru}"O que existe aqui é apenas um sonho."
+// \{みちる}「ここにいるのは、ただの夢なんだよ…」
+<0242> \{Michiru}"E... O sonho acabou..."
+// \{みちる}「そして…その夢ももう終わり…」
+<0243> \{Yukito}"........."
+// \{Yukito}「………」
+<0244> \{Michiru}"Nyahaha... foi... um sonho divertido..."
+// \{みちる}「…にゃはは…すごく…楽しい夢だったよ…」
+<0245> \{Michiru}"Estou... muito feliz..."
+// \{みちる}「…すごく…しあわせだった…」
+<0246> \{Michiru}"Mesmo que... eu não tive a chance... de nascer neste mundo..."
+// \{みちる}「みちるは…この世に生まれてくること…ゆるして…もらえなかったけど…」
+<0247> E a garota chorou, com sua voz sumindo como um sol no fim de tarde.
+// 少女は、黄昏に似た声を最後に、その場で涙を流した.
+<0248> Eu não entendia completamente o que suas lágrimas significavam.
+// その涙が何を意味しているのか、俺はすべてを知ることができなかった.
+<0249> Mas senti uma profunda tristeza.
+// でも、悲しかった.
+<0250> Eu não suportava ver as lágrimas dessa garota, que sempre ria com tanta alegria.
+// いつも元気に笑っていた少女の涙を見るのは、とても辛いものだった.
+<0251> Por isso, eu a abracei.
+// だから、俺は少女を抱きしめた.
+<0252> Continuei acariciando sua cabeça gentilmente, repetidas vezes, na esperança de que ela sorrisse mais uma vez.
+// そして、少女が笑ってくれるまで、いつまでもいつまでもその頭を優しく撫で続けた.
+<0253> Isso era tudo o que eu podia fazer por ela. Eu a abracei até que suas lágrimas secassem.
+// たったそれだけのことしかできなかったけれど、少女の涙が乾くまで、俺は少女を抱きしめた.
+<0254> Então olhei pra cima e vi as estrelas.
+// 空を見上げれば星が見えた.
+<0255> Estrelas que só podem brilhar na escuridão da noite...
+// 夜の闇でしか輝くことの出来ない星が….
+<0256> Se vocês entendem a dor da desaparição, ouçam meu apelo.
+// もし彼らが、消えることの寂しさを知っているのなら、どうか叶えて欲しい….
+<0257> Por favor, não levem essa garota embora.
+// この少女をどこへも連れていかないでほしい.
+<0258> Por favor, não deixem que a levem embora.
+// 連れ去ってしまわないでほしい.
+<0259> Por favor, deixe que essa garota, que aqueceu nossos corações, fique conosco pra sempre.
+// 俺たちの心をいつだって温かくしてくれたこの少女と、ずっと一緒にいさせてほしい.
+<0260> Pra sempre... e eternamente...
+// ずっと…ずっと….
+<0261> Nós três, juntos...
+// いつまでも三人でいたい….
+<0262> Eu não quero acordar nunca desse sonho...
+// 覚めない夢を…見続けていたい….
+<0263> \ Mas... As despedidas sempre irão existir...
+// \ …でも…別れはいつもそこにあって…
+<0264> \ Só nós resta aguardar suas vindas...
+// \ 俺たちはそれを見つめることしかできなくて…
+<0265> \ Embora sejam tristes...
+// \ 悲しいけれど…
+<0266> \ Apesar de serem solitárias...
+// \ 寂しいけれど…
+<0267> \ As pessoas só podem viver através dos intermináveis ciclos de encontros e despedidas...
+// \ 出逢いと別れを繰り返すことでしか…ひとは生きていけなくて…
+<0268> \ O fim de um sonho estará sempre próximo...
+// \ 夢の終わりは…いつもそこにあって…

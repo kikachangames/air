@@ -1,0 +1,1676 @@
+﻿// Resources for SEEN0410.TXT
+
+#character 'みすず'
+#character '女'
+#character 'Homem'
+#character 'Criança'
+
+<0000> \{Misuzu}"Mãe..."
+// \{みすず}「あのね」
+<0001> \{Misuzu}"Eu tenho tido sonhos o tempo todo."
+// \{みすず}「ずっとね、夢見てたの」
+<0002> \{Misuzu}"São sonhos muito tristes."
+// \{みすず}「悲しい夢」
+<0003> \{Misuzu}"E esses sonhos não param."
+// \{みすず}「それは、ずっと続いてるの」
+<0004> \{Mulher}"São só sonhos. Esqueça eles."
+// \{女}「夢なんやろ？ そんなん忘れたらええやん」
+<0005> \{Misuzu}"Eu não consigo esquecê-los."
+// \{みすず}「忘れられないの」
+<0006> \{Misuzu}"Esses sonhos são minhas memórias..."
+// \{みすず}「だって、それはわたしの記憶だから…」
+<0007> \{Mulher}"Suas memórias são sonhos? Mas sonhos não são memórias."
+// \{女}「夢が記憶？ 夢と記憶は別やで」
+<0008> \{Misuzu}"Eu sei, mas esses sonhos são um pouco diferentes."
+// \{みすず}「そうだけど、そうじゃないの」
+<0009> \{Misuzu}"Eu posso estar aqui agora..."
+// \{みすず}「わたしは今、ここにいるけど…」
+<0010> \{Misuzu}"Mas existe outra eu que sempre está no céu."
+// \{みすず}「もうひとりのわたしは、ずっと空にいるの」
+<0011> \{Misuzu}"Estou vendo as memórias daquela garota através dos meus sonhos."
+// \{みすず}「その子の記憶を、わたしは夢に見てる」
+<0012> \{Mulher}"Misuzu-chan, você tem mesmo uma boa imaginação."
+// \{女}「観鈴ちゃんは、想像力が豊かやなぁ」
+<0013> \{Misuzu}"Não, estou dizendo a verdade. Tudo o que disse é real."
+// \{みすず}「ううん、ほんとだよ.ぜんぶ、ほんとのこと」
+<0014> \{Misuzu}"Ao relembrar essas memórias, minha saúde vai piorando."
+// \{みすず}「それでね、その記憶を思い出してゆくと、わたしは調子が悪くなってゆくの」
+<0015> \{Misuzu}"Acho que é por causa do sofrimento que aquela garota passou..."
+// \{みすず}「それはきっと、その子が悲しい思いをしたせい…」
+<0016> \{Misuzu}"Ela tem memórias dolorosas que não consegue esquecer."
+// \{みすず}「絶対に忘れられないぐらい、辛い思いをしたせいなの」
+<0017> \{Mulher}"Por que você não tenta esquecer disso?"
+// \{女}「そんなん忘れるようにしたらええやん」
+<0018> \{Mulher}"Vou fazer você pensar só em coisas felizes."
+// \{女}「うちが楽しいこといっぱい考えて、いっぱいさせたる」
+<0019> \{Mulher}"Então você poderá viver apenas no presente."
+// \{女}「そうしたら、観鈴は現実だけ見て暮らしてゆける」
+<0020> \{Mulher}"Vamos esquecer esses sonhos estranhos."
+// \{女}「そんなおかしな夢なんて、忘れて生きていける」
+<0021> \{Mulher}"Isso te faz se sentir melhor?"
+// \{女}「な.それで安心やろ？」
+<0022> \{Misuzu}"Não, isso não adianta."
+// \{みすず}「そんなんじゃダメ」
+<0023> \{Mulher}"Por que não adianta?"
+// \{女}「なにがあかんのや？」
+<0024> \{Misuzu}"Eu preciso enfrentar esses sonhos."
+// \{みすず}「ちゃんとその夢と向かい合ってあげないと」
+<0025> \{Misuzu}"Senão, ficarei presa nesse ciclo eterno de novo."
+// \{みすず}「じゃないと、結局、繰り返しになってしまうから」
+<0026> \{Mulher}"Que ciclo eterno é esse de que você está falando?"
+// \{女}「なんや、繰り返しって？」
+<0027> \{Misuzu}"Hmm..."
+// \{みすず}「ええとね…」
+<0028> \{Misuzu}"Há mais de uma eu naquele sonho."
+// \{みすず}「夢の中のわたしは、ひとりじゃないの」
+<0029> \{Misuzu}"Muitas versões passadas de mim herdaram essa tristeza."
+// \{みすず}「何人も何人も、悲しみを受け継いでしまっている」
+<0030> \{Misuzu}"Se isso não fosse verdade, eu não estaria presa nesse ciclo."
+// \{みすず}「じゃないと、わたしは…わたしたちは、こんな繰り返しの中にいない」
+<0031> \{Misuzu}"E essa tristeza não teria continuado."
+// \{みすず}「こんな悲しみ続かない」
+<0032> \{Misuzu}"Não sei como explicar isso pra você..."
+// \{みすず}「だから、うまく言えないけど…」
+<0033> \{Misuzu}"Mas eu serei aquela que colocará um fim nessa tristeza."
+// \{みすず}「わたしが終わらせるの、その悲しみを」
+<0034> \{Misuzu}"Embora eu ainda não saiba o que fazer."
+// \{みすず}「どうしたらいいのか、まだわからないけどね」
+<0035> \{Misuzu}"Mas se eu continuar a ter esses sonhos, acho que entenderei."
+// \{みすず}「でもきっと、その夢を見続けたらわかるはず」
+<0036> \{Misuzu}"Descobrirei o que me mantém no céu."
+// \{みすず}「わたしがなにを背負って、今もこの空にいるのか」
+<0037> \{Misuzu}"Ninguém conseguiu fazer isso até agora."
+// \{みすず}「それは誰もできなかったこと」
+<0038> \{Misuzu}"Todas as minhas versões passadas falharam em encontrar a resposta."
+// \{みすず}「今までわたしだった人たちが、誰もできなかったこと」
+<0039> \{Misuzu}"Então... eu preciso conseguir."
+// \{みすず}「だからね…わたしが、やらないと」
+<0040> \{Misuzu}"A tristeza tem que acabar comigo."
+// \{みすず}「もう不幸なのは、わたしで終わり」
+<0041> \{Misuzu}"Vou me esforçar ao máximo desta vez, para que meu eu futuro encontre felicidade."
+// \{みすず}「次からは、幸せになれるように、わたしがんばるの」
+<0042> \{Misuzu}"........."
+// \{みすず}「………」
+<0043> \{Misuzu}"Nihaha. Eu também não entendo bem o que estou dizendo..."
+// \{みすず}「にはは.自分でもよくわからないんだけどね…」
+<0044> \{Mulher}"........"
+// \{女}「………」
+<0045> \{Mulher}"Ei, Misuzu. Posso te perguntar uma coisa?"
+// \{女}「なあ観鈴.ひとつだけ聞かせてや」
+<0046> \{Misuzu}"Claro, pode."
+// \{みすず}「うん.いいよ」
+<0047> \{Mulher}"Que tipo de sonhos você tem?"
+// \{女}「あんたはどんな夢を見とるん？」
+<0048> \{Mulher}"São tão tristes a ponto de te fazerem mudar assim?"
+// \{女}「あんたをこないにしてまうぐらい悲しい夢って、どんなもんなん？」
+<0049> \{Misuzu}"Hmm..."
+// \{みすず}「ええとね…」
+<0050> \{Misuzu}"É segredo."
+// \{みすず}「それは秘密」
+<0051> \{Mulher}"Você não pode me contar?"
+// \{女}「うちには言えんってことなん？」
+<0052> \{Misuzu}"Não, eu não posso."
+// \{みすず}「うん」
+<0053> A mulher não disse mais nada. Ela simplesmente observou a garota por um momento.
+// 女はしばらく何も言わずに、彼女のことを見ていた.
+<0054> Então a mulher disse para Misuzu.
+// そして言った.
+<0055> \{Mulher}"Entendo..."
+// \{女}「そか…」
+<0056> \{Mulher}"Certo, eu entendi."
+// \{女}「よし、わかった」
+<0057> \{Mulher}"Não se preocupe. Não me importo com que tipo de sonhos você tem."
+// \{女}「大丈夫や.あんたはどんな夢見ても気にすることない」
+<0058> \{Mulher}"Eu só quero te fazer feliz."
+// \{女}「あんたはうちが幸せにしたる」
+<0059> A mulher abraçou a garota perto do peito.
+// 女が彼女の頭を胸に抱いた.
+<0060> \{Mulher}"Você não precisa se preocupar com nada."
+// \{女}「なんも心配せんでええ」
+<0061> \{Mulher}"Apenas faça o que você quiser."
+// \{女}「あんたがしたいことを思いっきりしたらええ」
+<0062> \{Misuzu}"Ok..."
+// \{みすず}「うん…」
+<0063> .........
+// ……….
+<0064> \{Misuzu}"Ei, Mamãe."
+// \{みすず}「あのね、お母さん」
+<0065> \{Mulher}"O que foi?"
+// \{女}「なんや？」
+<0066> \{Misuzu}"Estou com fome."
+// \{みすず}「お腹すいちゃった」
+<0067> \{Mulher}"Ainda é muito cedo para o jantar."
+// \{女}「まだ夕飯には早いで？」
+<0068> \{Misuzu}"Mas meu estômago está roncando."
+// \{みすず}「でも、ぐぅぐぅいってる」
+<0069> \{Mulher}"Certo, vou fazer um lanche para você."
+// \{女}「そっか.よし、ほなうちがおやつ作ってきたる」
+<0070> \{Mulher}"O que você gostaria de comer?"
+// \{女}「どんなんが食べたい？」
+<0071> \{Misuzu}"Vamos ver... Temos muitos ovos, então quero panquecas."
+// \{みすず}「うーんとね、卵がいっぱい余ってたと思うから、パンケーキ」
+<0072> \{Mulher}"Certo, vou fazer panquecas."
+// \{女}「よっしゃパンケーキやな」
+<0073> \{Misuzu}"Você sabe como fazê-las?"
+// \{みすず}「作り方わかる？」
+<0074> \{Mulher}"Não me subestime. Posso fazer panquecas até com os pés."
+// \{女}「なめたらあかんで.パンケーキぐらい足でも作れるわ」
+<0075> \{Misuzu}"Isso é incrível. Mas não faça isso, tá? Eu tenho medo que você realmente tente."
+// \{みすず}「すごいね.でも、やめてね.お母さんだったら本当にやりそうだから」
+<0076> \{Mulher}"Sem preocupações. Eu não posso usar meus pés quando a comida é para você."
+// \{女}「大丈夫や.観鈴に食わせるもん、そない粗末に作らへん」
+<0077> \{Mulher}"Apenas espere um pouco. Vou fazer algumas bem crocantes."
+// \{女}「ほな、待っとりや～.サクサクッと作ってくるからな」
+<0078> A mulher acariciou a cabeça da garota uma vez, levantou-se e saiu.
+// 女が彼女の頭に手を置いた後、立ち上がり、その場を後にした.
+<0079> O ambiente ficou silencioso.
+// 静かになる.
+<0080> \{Misuzu}"........."
+// \{みすず}「………」
+<0081> Ela colocou uma mão na minha cabeça.
+// ぽん、と僕の頭に手を置く.
+<0082> \{Misuzu}"Yukito-san..."
+// \{みすず}「Yukitoさん…」
+<0083> \{Misuzu}"Ainda estou sonhando."
+// \{みすず}「わたしはまだ、夢を見てるよ」
+<0084> \{Misuzu}"Mas estou começando a entender muitas coisas."
+// \{みすず}「いろんなことわかってきた」
+<0085> \{Misuzu}"Eu vi todo o sofrimento que minhas vidas anteriores tiveram que passar."
+// \{みすず}「昔のわたしたちが、どれだけ悲しい思いをしてきたか…」
+<0086> \{Misuzu}"Mesmo agora estou assistindo elas."
+// \{みすず}「今はそれを見てる」
+<0087> \{Misuzu}"Os sonhos estão lentamente voltando ao passado."
+// \{みすず}「夢はどんどん、昔にさかのぼってる」
+<0088> A garota parecia estar falando consigo mesma.
+// 独り言のように、彼女が喋っている.
+<0089> \{Misuzu}"Então não vai demorar muito para eu entender o fardo que a garota no céu está carregando."
+// \{みすず}「だから、もうすぐわかるよね…空のわたしが背負ってるもの」
+<0090> \{Misuzu}"Assim que eu souber disso, com certeza saberei como salvá-la."
+// \{みすず}「そうすればきっと、その子を助けてあげられる」
+<0091> \{Misuzu}"Eu vou me esforçar ao máximo."
+// \{みすず}「わたし、がんばるからね」
+<0092> \{Misuzu}"Com a mamãe ao meu lado."
+// \{みすず}「お母さんと一緒に」
+<0093> \{Mulher}"Eu terminei! Olha."
+// \{女}「できたで～.ほい」
+<0094> A mulher entregou um prato para a garota.
+// 皿を彼女に手渡す.
+<0095> \{Misuzu}"Parece delicioso!"
+// \{みすず}「おいしそう」
+<0096> \{Mulher}"Não parece?"
+// \{女}「せやろ？」
+<0097> *Nhoc... croc croc...*
+// ぱくっ…ぼりぼり.
+<0098> \{Misuzu}"Está delicioso."
+// \{みすず}「おいしい」
+<0099> \{Misuzu}"Mas por que está duro como um biscoito?"
+// \{みすず}「でも、どうしてビスケットになってるのかな」
+<0100> \{Mulher}"Ahaha. Acho que passou do ponto."
+// \{女}「あははー、膨らまんかったんや」
+<0101> \{Mulher}"Continuei assando no forno e ele ficou parecendo um biscoito."
+// \{女}「そのままオーブンで焼き続けたら、ビスケットになってもた」
+<0102> \{Mulher}"Eu também fiquei surpresa."
+// \{女}「うちもびっくりや」
+<0103> \{Misuzu}"Sim, isso é chocante."
+// \{みすず}「うん、それはびっくりだねー」
+<0104> *Croc croc...*
+// ぼりぼり….
+<0105> \{Mulher}"Talvez estivesse faltando algo. Não tenho certeza."
+// \{女}「なにが足らへんかったんかな.ようわからんわ」
+<0106> \{Misuzu}"Não me importo. Está gostoso."
+// \{みすず}「でも、おいしいからいいよ」
+<0107> \{Mulher}"Entendi. Isso é bom."
+// \{女}「そうか.そらよかったわ」
+<0108> A garota me entregou a comida.
+// 彼女が僕の前にそれを差し出す.
+<0109> \{Misuzu}"Sora, quer um pouco?"
+// \{みすず}「そらも食べる？」
+<0110> A garota estava comendo essa comida, então eu queria experimentar também.
+// 彼女が食べているものなら、僕も一緒に食べたかった.
+<0111> *Croc!*
+// ぱくり.
+<0112> \{Misuzu}"Sora gostou da panqueca. Nihaha."
+// \{みすず}「食べた.にははっ」
+<0113> *Croc croc...*
+// ぼりぼり….
+<0114> \{Misuzu}"E está abanando o rabo enquanto come. Tão fofo..."
+// \{みすず}「お尻ふりふりして食べてる.かわいいー」
+<0115> \{Mulher}"........."
+// \{女}「………」
+<0116> Esses eram tempos pacíficos.
+// 穏やかに流れる時間.
+<0117> O relacionamento delas melhorou bastante.
+// ふたりの関係は以前とは違う、暖かなものになった.
+<0118> Eu sempre pensei que a mulher era uma inimiga.
+// ずっと敵だと思っていた女.
+<0119> Eu ainda não sabia o que a mulher era para a garota...
+// まだ彼女とどんな関係にあるかはわからなかったけど…
+<0120> No entanto, eu sabia que agora podia confiar nela.
+// それでも、今は許せる.
+<0121> A garota se sentia em paz sempre que a mulher estava com ela. Isso eu sabia.
+// 女がそばにいることで、彼女の心は安らいでいる.それだけはわかったから.
+<0122> \{Misuzu}"Ei, mãe."
+// \{みすず}「あのね、お母さん」
+<0123> \{Mulher}"O que foi?"
+// \{女}「なんや」
+<0124> \{Misuzu}"Fique aí."
+// \{みすず}「そこにいて」
+<0125> \{Mulher}"Estou aqui."
+// \{女}「いるで」
+<0126> \{Misuzu}"Ok, fique parada."
+// \{みすず}「うん、じっとしてて」
+<0127> \{Mulher}"Estou parada."
+// \{女}「じっとしてるで」
+<0128> \{Misuzu}"Sim, assim mesmo."
+// \{みすず}「うん、そのまま」
+<0129> \{Mulher}"Estou assim mesmo."
+// \{女}「そのままやで」
+<0130> \{Misuzu}"........."
+// \{みすず}「………」
+<0131> \{Misuzu}"Mãe, você tem mais rugas agora."
+// \{みすず}「お母さん、しわ、多くなってきたね」
+<0132> *Pit pat...*
+// とことこ.
+<0133> *Bop!*\shake{1}
+// ぽかっ!\shake{8}
+<0134> \{Misuzu}"Ai..."
+// \{みすず}「イタイ…」
+<0135> \{Mulher}"É por isso que você estava me olhando?"
+// \{女}「んなこと言うために、じっと見とったんかいっ」
+<0136> \{Misuzu}"Nihaha... Foi só uma piada."
+// \{みすず}「にはは…冗談」
+<0137> \{Misuzu}"Você ainda é jovem, mãe."
+// \{みすず}「お母さん、若いよ」
+<0138> \{Mulher}"Não parece que foi uma piada."
+// \{女}「フォローにしか聞こえんわ」
+<0139> \{Misuzu}"Isso não é verdade."
+// \{みすず}「そんなことないよ、ほんと」
+<0140> \{Misuzu}"Sabe que quando todos os pais participaram das aulas dos filhos, eu fiquei feliz que você fosse a mãe mais jovem."
+// \{みすず}「授業参観のときとか、みんなのお母さん、おばさんだったから、わたしひとり嬉しかった」
+<0141> \{Mulher}"Mas você não conseguiu responder à pergunta da professora corretamente e quase chorou, não foi?"
+// \{女}「でもあんた、あんとき、答え間違えて、泣きべそかいてたやんか」
+<0142> \{Misuzu}"Hmm... Eu só queria parecer legal na sua frente..."
+// \{みすず}「んー…カッコイイとこ見せないとって思って…」
+<0143> \{Misuzu}"A professora ficou surpresa porque eu não costumava levantar a mão, então ela me chamou."
+// \{みすず}「そうしたら普段、わたし手あげたことないから、先生もびっくりして、当てたんだと思う」
+<0144> \{Mulher}"Você mereceu isso... Não deveria ter tentado responder à pergunta."
+// \{女}「自爆やな….あれやったら、答えんほうがマシやったわ」
+<0145> \{Misuzu}"Por que você tem que dizer isso? Pelo menos eu tentei."
+// \{みすず}「どうして、そんなこと言うかなぁ…わたし、がんばったのに」
+<0146> \{Mulher}"Eu estava brincando. Eu sei que você se esforçou."
+// \{女}「うそや、うそ.わかっとったで、観鈴、頑張ってくれてた」
+<0147> \{Misuzu}"Mas você veio até mim e me bateu na frente de todo mundo..."
+// \{みすず}「でも、あの後、みんなの前で、殴りにきた…」
+<0148> \{Mulher}"Porque você disse 'gao'. Eu tive que manter você na linha."
+// \{女}「それはあんたが、あの口癖言うからや.しつけやからしゃあない」
+<0149> \{Misuzu}"Sim. Graças a você, eu cresci e me tornei uma mulher fina."
+// \{みすず}「うん、おかげで観鈴はこんなに立派に育ちました」
+<0150> \{Mulher}"Sim, você amadureceu bastante desde que chegou aqui."
+// \{女}「せやな.結構、成長したな、うちにきてから」
+<0151> \{Mulher}"Embora você ainda não tenha se livrado daquela mania de falar."
+// \{女}「治らんのは、あの口癖だけやな」
+<0152> \{Mulher}"Pelo menos você não disse isso quando eu te bati agora pouco."
+// \{女}「でも、さっき殴ったとき言わんかったな.いつも言うのに」
+<0153> \{Misuzu}"Eu cresci novamente."
+// \{みすず}「また成長したの」
+<0154> \{Mulher}"Sim. Você não vai permanecer uma criança para sempre."
+// \{女}「せやな.いつまでも子供でいられへんもんな」
+<0155> \{Misuzu}"Sim, isso mesmo."
+// \{みすず}「うん、そうやねー」
+<0156> \{Mulher}"Bem, eu não me importo porque você é fofa assim."
+// \{女}「べつにかわいいからええけどなー」
+<0157> \{Misuzu}"........."
+// \{みすず}「………」
+<0158> \{Misuzu}"Mãe."
+// \{みすず}「お母さん」
+<0159> \{Mulher}"Hmm?"
+// \{女}「ん？」
+<0160> \{Misuzu}"Você não vai se casar?" 
+// \{みすず}「お母さんは結婚しないの？」
+<0161> \{Mulher}"Por que você pergunta isso?"
+// \{女}「なんや、やぶからぼうに」
+<0162> \{Misuzu}"Você é o que as pessoas descrevem como uma solteirona?"
+// \{みすず}「お母さんみたいなのを、いき遅れって言うんじゃないの？」
+<0163> *Pit pat...*
+// とことこ.
+<0164> *Bop!*\shake{1}
+// ぽかっ!\shake{8}
+<0165> \{Misuzu}"Ai..."
+// \{みすず}「イタイ…」
+<0166> \{Mulher}"Eu ainda sou jovem!"
+// \{女}「まだまだこれからやっ」
+<0167> \{Misuzu}"Então, você tem planos de se casar algum dia."
+// \{みすず}「うーん、そうしたら、そういう気はあるんだね」
+<0168> \{Mulher}"Claro que sim."
+// \{女}「もちろんや」
+<0169> \{Mulher}"Bem, eu não costumava sentir que queria me casar antes."
+// \{女}「ほんまは、ずっとなかったけどな」
+<0170> \{Misuzu}"Sério?"
+// \{みすず}「そうなの？」
+<0171> \{Mulher}"Mas ultimamente, estou começando a pensar que não deve ser tão ruim assim."
+// \{女}「なかったけど、最近そういうのもええんちゃうか、思えてきたわ」
+<0172> \{Mulher}"Porém, ainda estou bem apenas com você."
+// \{女}「でもまだ、あんただけでええけどな」
+<0173> \{Mulher}"Vai demorar um bom tempo até nossa família crescer."
+// \{女}「家族増やすんは、もっと先や」
+<0174> \{Misuzu}"Vai ser mais divertido se nossa família aumentar."
+// \{みすず}「家族増えたら、もっと楽しくなると思う」
+<0175> \{Mulher}"Isso é verdade. Mas estou bem apenas com você por enquanto."
+// \{女}「なるやろけどな.今は、あんただけでうちは十分や」
+<0176> \{Mulher}"Estou feliz o suficiente."
+// \{女}「十分、楽しいで」
+<0177> \{Misuzu}"Entendi..."
+// \{みすず}「そうなんだ…」
+<0178> \{Mulher}"Isso mesmo."
+// \{女}「そうやで」
+<0179> \{Misuzu}"Ok, vou dormir em breve."
+// \{みすず}「じゃ、そろそろ寝るね」
+<0180> \{Mulher}"Claro, vá em frente."
+// \{女}「ああ、そうし」
+<0181> \{Misuzu}"Mãe, você pode rir antes de ir?" 
+// \{みすず}「最後にお母さん、笑って」
+<0182> \{Mulher}"O quê? Isso é um pedido estranho."
+// \{女}「なんでや.けったいなこと言う子やなぁ」
+<0183> \{Mulher}"Se você não conseguir dormir, posso te cantar uma canção de ninar."
+// \{女}「寝られへんのやったら、子守歌でも歌(うと)たるで」
+<0184> \{Misuzu}"Não, eu só quero ver você rir."
+// \{みすず}「ううん.笑ってくれればそれでいい」
+<0185> \{Mulher}"Você realmente é uma criança esquisita."
+// \{女}「けったいな子やな、ほんま」
+<0186> \{Mulher}"Certo, vou rir."
+// \{女}「ほな、笑うで」
+<0187> \{Misuzu}"Ok."
+// \{みすず}「うん」
+<0188> \{Mulher}"Ohohoho..."
+// \{女}「おほほほ…」
+<0189> \{Misuzu}"Mãe, esse tipo de riso de dama da alta sociedade não combina com você."
+// \{みすず}「お母さんは、そんな上品な笑い方しない」
+<0190> *Pit pat...*
+// とことこ.
+<0191> *Bop!*\shake{1}
+// ぽかっ!\shake{8}
+<0192> \{Misuzu}"Ai..."
+// \{みすず}「イタイ…」
+<0193> \{Mulher}"Você quer dizer que meu riso normal é grosseiro?"
+// \{女}「うちの笑いかたは下品やいうんかっ」
+<0194> \{Misuzu}"Eu não disse isso..."
+// \{みすず}「そんなこと言ってない…」
+<0195> \{Misuzu}"Mas eu quero ver você rir naturalmente.\nO que você fez agora parecia falso."
+// \{みすず}「でも、自然に笑ってほしい.今の、作ってたもん」
+<0196> \{Mulher}"Você está certa. Eu inventei isso agora."
+// \{女}「せやな.バリバリに作ってたわ」
+<0197> \{Mulher}"Mas não posso apenas rir de cara."
+// \{女}「でも、笑えいうても、なかなか笑えんで」
+<0198> \{Misuzu}"Sério? Mas eu consigo. Nihaha."
+// \{みすず}「そうかな…わたし、笑える.にははっ」
+<0199> \{Mulher}"Você é um caso especial."
+// \{女}「あんたは、特殊や」
+<0200> \{Misuzu}"Hmm... Tente lembrar de algo feliz."
+// \{みすず}「うーん…じゃ、楽しいこと思い出して」
+<0201> \{Mulher}"Algo feliz, né..."
+// \{女}「楽しいことか…」
+<0202> \{Misuzu}"Sim, tempos felizes."
+// \{みすず}「うん、楽しいこと」
+<0203> \{Mulher}"Ah, eu me lembrei daquela época."
+// \{女}「ほな、あれや」
+<0204> \{Misuzu}"Aquela época?"
+// \{みすず}「あれ？」
+<0205> \{Mulher}"Quando você ainda era criança, veio brincar na minha casa. Você confundiu uma coisa suja no chão com um biscoito..."
+// \{女}「あんたが小さいときや.こっちに遊びにきてたときに、かりんとうと間違えて…」
+<0206> \{Mulher}"Buwahahahahahahahahahaaaa!"
+// \{女}「ぶわっはっはっはっはっはっはっはっはっはーーーっ!!」
+<0207> \{Misuzu}"Isso é cruel..."
+// \{みすず}「なんか、ひどい…」
+<0208> \{Misuzu}"Mas eu finalmente consegui ver você rir."
+// \{みすず}「でもお母さんの笑顔見れたからいいや」
+<0209> \{Mulher}"Wahahahahahahahaaaa!"
+// \{女}「わっはっはっはっはっはっはっはっーーーっ!!」
+<0210> \{Misuzu}"Mãe, isso é o suficiente."
+// \{みすず}「お母さん、もういいよ」
+<0211> \{Mulher}"Dahahahahahahaaaa!"
+// \{女}「だっはっはっはっはっはっはーーーっ!!」
+<0212> \{Misuzu}"Mãe, você é muito cruel..."
+// \{みすず}「ひどすぎ…」
+<0213> \{Mulher}"Haha... Foi só uma brincadeira. Acho que ri demais."
+// \{女}「はっ…冗談や、冗談、笑いすぎやったなぁ」
+<0214> \{Mulher}"Pffft..."
+// \{女}「…ぷっ」
+<0215> \{Misuzu}"Estou indo dormir."
+// \{みすず}「もう寝る」
+<0216> \{Mulher}"Ok, boa noite. Durma bem."
+// \{女}「ああ、おやすみや.ゆっくり寝や」
+<0217> \{Misuzu}"Ok."
+// \{みすず}「うん」
+<0218> \{Misuzu}"Boa noite."
+// \{みすず}「おやすみ」
+<0219> \{Mulher}"Boa noite."
+// \{女}「おやすみ」
+<0220> \{Misuzu}"V."
+// \{みすず}「ぶいっ」
+<0221> \{Mulher}"V."
+// \{女}「ぶいっ」
+<0222> 5 de agosto (Sab) / Sora
+// ８月 ５日(土)／そら
+<0223> \{Misuzu}"Bom dia, Sora."
+// \{みすず}「おはよう、そら」
+<0224> \{Misuzu}"Ele não está aqui?"
+// \{みすず}「いないのかな…」
+<0225> *Pik pik...*
+// つんつん.
+<0226> Eu cutuquei sua mão.
+// その手をつついてみた.
+<0227> \{Misuzu}"Ah, aí está você."
+// \{みすず}「あ、いた」
+<0228> A garota gentilmente segurou meu corpo e me colocou na frente do rosto dela.
+// 彼女は僕の体をやわらかくつかむと、顔の前まで持ってきた.
+<0229> \{Misuzu}"Eu tive um sonho de novo."
+// \{みすず}「夢を見たの」
+<0230> \{Misuzu}"Foi um sonho misterioso, mas bonito."
+// \{みすず}「とても不思議で、とてもきれいな夢」
+<0231> \{Misuzu}"Você quer ouvir sobre isso?"
+// \{みすず}「知りたい？」
+<0232> \{Misuzu}"Mas é um segredo."
+// \{みすず}「でもね、秘密」
+<0233> \{Misuzu}"Yukito-san disse que quanto mais perto os dois ficam, mais doentes eles se tornam."
+// \{みすず}「Yukitoさんが言ってたの.二人の心が近づけば、二人とも病んでしまうって」
+<0234> \{Misuzu}"Então os dois morrerão."
+// \{みすず}「ふたりとも助からないって」
+<0235> \{Misuzu}"Eu não deveria contar a ninguém sobre meus sonhos."
+// \{みすず}「わたしの夢は、誰かに話しちゃいけないんだよ、きっと」
+<0236> \{Misuzu}"Nem mesmo para a mamãe."
+// \{みすず}「だからね.お母さんにも言えないの」
+<0237> \{Misuzu}"Eu não quero que a mamãe fique doente como eu."
+// \{みすず}「お母さんがわたしみたいになっちゃったら、困るから」
+<0238> \{Misuzu}"Eu não quero que ela desapareça como Yukito-san."
+// \{みすず}「Yukitoさんみたいに、いなくなっちゃったら困るから」
+<0239> \{Misuzu}"Ei, Sora."
+// \{みすず}「…ねえ.そら」
+<0240> \{Misuzu}"Yukito-san fingiu me odiar naquela época."
+// \{みすず}「あの時ね、Yukitoさんはわざと、わたしを嫌いになろうとしたの」
+<0241> \{Misuzu}"Ele é uma pessoa muito boa."
+// \{みすず}「Yukitoさんはすごくいい人だったから」
+<0242> \{Misuzu}"Acho que agora entendo como Yukito-san se sentia."
+// \{みすず}「わたし、今ならYukitoさんの気持ち、わかるよ」
+<0243> \{Misuzu}"Eu também tentei odiar a mamãe."
+// \{みすず}「わたしもお母さんを嫌いになろうとしたから」
+<0244> \{Misuzu}"Mas, no fim das contas, eu não consegui odiá-la."
+// \{みすず}「でもね、そんなの無理だった」
+<0245> \{Misuzu}"Eu me pergunto onde Yukito-san está agora?"
+// \{みすず}「Yukitoさん、今頃どこにいるのかなあ」
+<0246> \{Misuzu}"Ele com certeza voltará, tenho certeza."
+// \{みすず}「きっといつか、戻ってきてくれるよね」
+<0247> \{Misuzu}"Não há como ele deixar sua marionete para trás."
+// \{みすず}「Yukitoさんが、人形だけ置いていくはずないから」
+<0248> \{Misuzu}"Ei, Sora."
+// \{みすず}「ね、そら」
+<0249> Ela acariciou minha cabeça.
+// 僕の頭を撫でる.
+<0250> Então ela esticou as duas mãos para cima.
+// それから、両手を思いきり上に伸ばす.
+<0251> \{Misuzu}"8:10."
+// \{みすず}「８時１０分前」
+<0252> \{Misuzu}"Mamãe ainda está dormindo."
+// \{みすず}「お母さん、まだ起きないね」
+<0253> \{Misuzu}"Então vou voltar a dormir."
+// \{みすず}「もう一回寝よっと」
+<0254> Justo quando ela ia se deitar, a menina inclinou a cabeça.
+// 寝転がろうとして、彼女は首を傾げた.
+<0255> \{Misuzu}"Hein?"
+// \{みすず}「あれ？」
+<0256> \{Misuzu}"Eu ouvi passos."
+// \{みすず}「足音がする…」
+<0257> A porta se abriu e a mulher apareceu.
+// 入り口が開き、あの女が現れた.
+<0258> \{Mulher}"Bom dia, Misuzu-chin!"
+// \{女}「観鈴ちん、おはようや～」
+<0259> \{Misuzu}"Uau! Mamãe, você acordou tão cedo hoje."
+// \{みすず}「わっ.お母さんすごく早起き」
+<0260> \{Mulher}"O café da manhã já está pronto.\nÉ um banquete."
+// \{女}「朝食や.今日は豪華やで」
+<0261> \{Mulher}"Eu fui ao mercado da manhã agora há pouco. Tem peixe e sopa de missô com legumes frescos."
+// \{女}「さっきな、朝市に行ってきたんやで.新鮮なお野菜たっぷりのお味噌汁とお魚や」
+<0262> \{Mulher}"Parece delicioso, não é?"
+// \{女}「どや、うまそうやろ」
+<0263> \{Misuzu}"Sim, estou sentindo um cheiro bom."
+// \{みすず}「うん、いい匂い」
+<0264> \{Mulher}"Bom, não é? Não sei o nome do peixe, mas acho que fritei bem."
+// \{女}「せやろ、せやろ.なんていう名前の魚か知らんけどな、ええ感じで焼けてるやろ」
+<0265> \{Mulher}"Experimente."
+// \{女}「食べてみ」
+<0266> \{Misuzu}"Hmm... tem muitos espinhos pequenos."
+// \{みすず}「うーん、小骨多い」
+<0267> \{Mulher}"Certo, eu vou tirar os espinhos para você."
+// \{女}「しゃあないな.うちが取ったる」
+<0268> \{Misuzu}"Ok."
+// \{みすず}「うん」
+<0269> \{Mulher}"É assim que você tira os espinhos."
+// \{女}「こうやって取るんやで」
+<0270> \{Mulher}"Muh..."
+// \{女}「むむ…」
+<0271> \{Misuzu}"Você também é ruim nisso."
+// \{みすず}「おかあさんもヘタ」
+<0272> \{Mulher}"Tem muitos espinhos nesse peixe! Será que ele nadou com múltiplas fraturas ou algo assim?"
+// \{女}「この魚、骨多すぎるんやっ.複雑骨折したまま泳いでたんちゃうか」
+<0273> \{Mulher}"Deve ser um peixe resistente."
+// \{女}「ごっつ根性ある魚やで、きっと」
+<0274> \{Misuzu}"Claro que isso não é verdade."
+// \{みすず}「そんなわけないよ」
+<0275> \{Mulher}"É. Não pode ser verdade, né?"
+// \{女}「せやな.んなわけないわなー」
+<0276> \{Mulher}"Chega de conversa fiada. Vamos comer antes que o café da manhã esfrie."
+// \{女}「アホなこと言うとらんで、冷めんうちに食べよ」
+<0277> \{Misuzu}"Sim."
+// \{みすず}「うんっ」
+<0278> \{Mulher}"Estamos muito amorosas, então vou te alimentar. Aqui, diga 'aaah'."
+// \{女}「うちらラブラブやから、うちが食べさせたるな  .ほら、あーんし」
+<0279> \{Misuzu}"Pode uma mãe e uma filha serem chamadas de amorosas?"
+// \{みすず}「親子でもラブラブって言うのかな…」
+<0280> \{Mulher}"Vamos lá, abra a boca, ou eu vou te dar um beijo."
+// \{女}「はよ口開けんと、キスするで」
+<0281> \{Misuzu}"Eita... A-Aaah..."
+// \{みすず}「わっ…あ、あーん」
+<0282> *Nhoc!*
+// ぱくっ.
+<0283> \{Mulher}"Como está? Delicioso, não é?"
+// \{女}「どや、うまいやろ」
+<0284> \{Misuzu}"Está gostoso, mas tem muitos espinhos... Escolha um peixe melhor da próxima vez."
+// \{みすず}「おいしいけど、骨だらけ…ちゃんと選って食べさせて」
+<0285> \{Mulher}"Que menina mais exigente."
+// \{女}「うるさい子やなっ」
+<0286> \{Mulher}"Devo te tratar como um bebê e mastigar a comida para você também?"
+// \{女}「赤ちゃんみたいに、いっぺんうちが咀嚼したの食わせたろかいっ」
+<0287> \{Misuzu}"Eita... A-Aaah..."
+// \{みすず}「わっ…あ、あーん」
+<0288> \{Mulher}"Essa é minha garota. Apenas fique quieta e coma."
+// \{女}「そや.黙って食うとき」
+<0289> A mulher continuou a alimentar a menina.
+// 女は彼女の口に、次々と食べものを運んだ.
+<0290> Ambas pareciam realmente felizes.
+// 二人とも、とても幸せそうだった.
+<0291> \{Mulher}"Estou entrando, Misuzu."
+// \{女}「入るで、観鈴」
+<0292> \{Misuzu}"Ok."
+// \{みすず}「うん」
+<0293> A mulher entrou.
+// 女が入ってきた.
+<0294> \{Mulher}"Oh, parece que você tá livre."
+// \{女}「なんや、あんた暇そうやな」
+<0295> \{Misuzu}"Nihaha. Não tenho muito o que fazer de qualquer forma."
+// \{みすず}「にはは.あんまりすることないから」
+<0296> \{Mulher}"Vamos jogar cartas?"
+// \{女}「ほな、トランプでもしよかー」
+<0297> \{Misuzu}"Mas você tem que ir trabalhar."
+// \{みすず}「でも、お母さん仕事」
+<0298> \{Mulher}"Nossa, não se preocupe com isso."
+// \{女}「そんなん、気にすることあらへん」
+<0299> \{Mulher}"Meu trabalho mais importante agora é brincar com você."
+// \{女}「あんたの相手するんがうちのいちばん大切な仕事や」
+<0300> \{Misuzu}"Mas..."
+// \{みすず}「でも…」
+<0301> \{Mulher}"Cale a boca e distribua as cartas."
+// \{女}「ごちゃごちゃ言わんと、はよ配り」
+<0302> \{Mulher}"É um pouco difícil jogar na cama. Vamos jogar no chão."
+// \{女}「ベッドやとやりにくいな.床でやろ」
+<0303> A mulher levantou a menina e a colocou no chão.
+// 彼女の身体を持ち上げて、地面に降ろす.
+<0304> \{Mulher}"E aí, o que vamos jogar? Truco ou Pife?"
+// \{女}「なにしよかー？ 七並べか、ババ抜きがええかなー」
+<0305> \{Misuzu}"Esses jogos não são divertidos com apenas duas pessoas."
+// \{みすず}「それ、二人でしても面白くないよ」
+<0306> \{Mulher}"Vamos jogar então um que você gosta."
+// \{女}「ほな、あんたが好きなんでええよ」
+<0307> \{Misuzu}"Nesse caso, vamos jogar o jogo mais simples."
+// \{みすず}「それなら、いちばん簡単なのにしよ」
+<0308> A menina começou a colocar as folhas no chão.
+// 彼女が札を地面に置いていく.
+<0309> Logo as duas começaram a virar e revirar as folhas.
+// それを二人でめくっていく.
+<0310> Elas iam sumindo do chão e passavam pelas mãos da garota e da mulher, enquanto as duas riam.
+// 札はだんだん少なくなって、二人は笑い合う.
+<0311> Então elas colocavam as folhas no chão novamente...
+// そしてまた、札を床に並べる.
+<0312> E repetiram isso muitas vezes.
+// 何度も繰り返していた.
+<0313> .........
+// ……….
+<0314> \{Misuzu}"Ganhei de novo!"
+// \{みすず}「またわたしの勝ちー」
+<0315> \{Mulher}"E eu perdi de novo, né?"
+// \{女}「またうちの負けかいっ」
+<0316> \{Mulher}"Haa... Você é realmente boa nisso. Não consigo vencer você nem uma vez."
+// \{女}「はぁ…あんた、こういうのほんまに強いな.何度やってもかなわへん」
+<0317> \{Misuzu}"Jogos de cartas são a única coisa em que sou realmente boa."
+// \{みすず}「わたし、トランプだけは得意」
+<0318> \{Misuzu}"Porque sempre joguei cartas sozinha."
+// \{みすず}「ずっと前から、ひとりでトランプしてたから」
+<0319> A garota de repente parecia um pouco triste.
+// 女の顔が、少しだけ悲しそうになった.
+<0320> \{Mulher}"Mizuzu-chan realmente gosta de jogos de cartas, né?"
+// \{女}「観鈴ちんはほんまにトランプ好きやなあ」
+<0321> A mulher acariciou a cabeça da garota.
+// 彼女の頭を撫でながら、言った.
+<0322> \{Misuzu}"De alguma forma, me sinto em paz quando estou movimentando as mãos."
+// \{みすず}「なんかね、手を動かしてると安心できるの」
+<0323> \{Misuzu}"Sinto como se alguém estivesse comigo quando faço isso."
+// \{みすず}「誰かがそばにいてくれるような気がする」
+<0324> \{Mulher}"Bem, eu estou bem aqui ao seu lado, não estou?"
+// \{女}「そんなこと言わんでも、今はうちがおるやろ」
+<0325> \{Misuzu}"Sim. Você está comigo, mamãe."
+// \{みすず}「そうだね.お母さんがいる」
+<0326> \{Mulher}"........."
+// \{女}「………」
+<0327> \{Mulher}"Ei, Misuzu. Você ainda não consegue mover os pés?"
+// \{女}「なあ観鈴.あんた、足はまだ動かせへんの？」
+<0328> \{Misuzu}"Ainda não..."
+// \{みすず}「うん…」
+<0329> \{Mulher}"Entendi. Bem, não se preocupe. Descanse bem e você vai se recuperar logo."
+// \{女}「そか.まあ、焦らんでええ.休んどればきっと治る」
+<0330> \{Misuzu}"Espero que sim."
+// \{みすず}「そうだといいね」
+<0331> \{Misuzu}"Vou estar em apuros se minhas mãos pararem de funcionar."
+// \{みすず}「手が動かなくなったら、わたし困るな」
+<0332> \{Misuzu}"Não vou conseguir jogar cartas."
+// \{みすず}「トランプ、できなくなるから」
+<0333> \{Mulher}"Idiota. Não seja tão pessimista."
+// \{女}「あほっ.そない景気悪い話、せんでええ」
+<0334> \{Misuzu}"Eu te deixei brava. Nihaha."
+// \{みすず}「怒られちゃった、にはは」
+<0335> A menina riu.
+// 彼女が笑った.
+<0336> A mulher olhou para a área retangular do céu.
+// 女は四角い空の色を見た.
+<0337> \{Mulher}"Oh... Está ficando tarde."
+// \{女}「…なんや、もうこんな時間か」
+<0338> \{Mulher}"Perdi a noção do tempo."
+// \{女}「全然気づかんかった」
+<0339> \{Misuzu}"Eu também."
+// \{みすず}「わたしも」
+<0340> \{Misuzu}"O tempo passa rápido quando estamos nos divertindo."
+// \{みすず}「楽しいと、時間が経つのが早いね」
+<0341> \{Mulher}"Sim..."
+// \{女}「せやな…」
+<0342> \{Mulher}"Ei, Misuzu."
+// \{女}「な、観鈴」
+<0343> \{Mulher}"Quer tomar um banho juntas?"
+// \{女}「一緒に風呂入ろか」
+<0344> \{Misuzu}"Huh? Um banho?"
+// \{みすず}「うん？ お風呂？」
+<0345> \{Mulher}"Sim. Vamos tomar banho juntas."
+// \{女}「せや.ふたりで仲良く入るんや」
+<0346> \{Misuzu}"Estou bem. Eu já tomei banho ontem."
+// \{みすず}「いいよ.昨日入ったし」
+<0347> \{Mulher}"Idiota. Uma garota tem que tomar banho todos os dias e cheirar a sabonete o tempo todo."
+// \{女}「あほ.女の子は毎日入って、いつも石鹸のええ匂いさせてるもんなんや」
+<0348> \{Mulher}"Vamos lá."
+// \{女}「ほら、いくでっ」
+<0349> A mulher apoiou a menina e tentou fazê-la ficar de pé.
+// 彼女をかつぐようにして、立ち上がらせる.
+<0350> \{Misuzu}"Hmm..."
+// \{みすず}「うーん…」
+<0351> \{Mulher}"O que houve?"
+// \{女}「どしたん」
+<0352> \{Misuzu}"É embaraçoso tomar banho junto com você nessa idade."
+// \{みすず}「この歳でお母さんと一緒にお風呂入るのって、すごく恥ずかしい」
+<0353> \{Mulher}"Não se preocupe. Eu também vou ficar nua. Encare isso como uma sessão de nudismo."
+// \{女}「大丈夫.うちも素っ裸やで.裸の付き合いや～」
+<0354> \{Mulher}"Vamos lá, vamos lá."
+// \{女}「ほれ、ほれ」
+<0355> *Squish squish...*
+// ぷにぷに.
+<0356> \{Misuzu}"Eita! Você está esfregando minhas costas com essa parte do seu corpo!"
+// \{みすず}「わ、へんなところで背中擦ってるっ」
+<0357> \{Mulher}"Você sabia que os homens gostam de ser esfregados assim?"
+// \{女}「こうすると、男のひとは喜ぶんやで」
+<0358> \{Misuzu}"Mas eu sou uma garota."
+// \{みすず}「わたし、女の子」
+<0359> \{Mulher}"E daí? Relaxe e seja feliz."
+// \{女}「ええやん.喜んでや」
+<0360> \{Misuzu}"Não, é estranho... Use a esponja, por favor."
+// \{みすず}「気持ち悪い…ちゃんとスポンジで洗う」
+<0361> \{Mulher}"Está tudo bem. Eu vou te ajudar a se lavar."
+// \{女}「ええ、ええ.うちが洗(あろ)たる」
+<0362> \{Misuzu}"Só minhas costas, tá bom?"
+// \{みすず}「背中だけでいいよ」
+<0363> \{Mulher}"Não seja tímida. Eu posso lavar cada parte do seu corpo."
+// \{女}「遠慮せんでええで.どこもかしこもうちが洗たる」
+<0364> *Squish... squish...*
+// ぷにぷに.
+<0365> \{Misuzu}"Eita... Você continua lavando meus seios... Com suas mãos nuas também..."
+// \{みすず}「わ…さっきから、胸ばっかり洗ってる.しかも…ほとんど素手…」
+<0366> \{Mulher}"Eu já não te falei isso? Seus seios vão ficar maiores assim."
+// \{女}「ええやん.こうしたら大きなるんやで」
+<0367> \{Misuzu}"Não me importo se não ficarem maiores."
+// \{みすず}「大きくならんでいいもん」
+<0368> \{Mulher}"Que desperdício. Se puderem ficar maiores, eu vou fazê-los maiores."
+// \{女}「もったいないこと言いな.大きなるんやったら、大きしよ」
+<0369> \{Misuzu}"Hm... Eu não preciso disso..."
+// \{みすず}「うーん、いいのに…」
+<0370> \{Mulher}"Vamos lá, abra suas coxas. Eu vou lavar suas coxas também."
+// \{女}「ほら、股開きや.太股の間も洗わんとなー」
+<0371> \{Misuzu}"Vou lavar essa parte eu mesma..."
+// \{みすず}「そこは…自分で洗う…」
+<0372> \{Mulher}"Vamos lá, eu sou boa nisso."
+// \{女}「ええやん.お母さんうまいで」
+<0373> \{Misuzu}"Eu vou me lavar, mesmo que não saiba fazer direito."
+// \{みすず}「ヘタでも自分で洗う」
+<0374> \{Mulher}"Sério? Que pena."
+// \{女}「そうか、残念やなぁ」
+<0375> \{Misuzu}"Por que você não lava o Sora? Ele deve estar no vestiário."
+// \{みすず}「じゃあ、そら洗ってあげてよ.脱衣所にいると思うから」
+<0376> \{Mulher}"Você quer dizer aquele corvo? Será que corvos podem ser lavados?"
+// \{女}「あのカラスかいな.カラス、洗(あろ)てもええんかな」
+<0377> \{Mulher}"E se ele ficar branco?"
+// \{女}「洗うて、白なったらビックリやな」
+<0378> \{Misuzu}"Isso realmente me surpreenderia..."
+// \{みすず}「それはびっくりだけど…」
+<0379> \{Mulher}"É isso mesmo. Vou tentar lavá-lo com água sanitária."
+// \{女}「そうや、漂白剤つけて洗たろ」
+<0380> \{Misuzu}"Eita, não faça isso."
+// \{みすず}「わ、そんなのダメっ」
+<0381> \{Mulher}"Isso vai deixá-lo mais limpo e removerá sua má sorte ao mesmo tempo. Acertamos dois coelhos com uma cajadada só!"
+// \{女}「キレイになるし、不吉やなくなって、一石二鳥や～」
+<0382> Eu tinha um mal pressentimento sobre isso.
+// 嫌な予感がする.
+<0383> *Vrosh vrosh!*
+// ばっさばっさ!
+<0384> Eu saí do lugar rapidinho.
+// 僕は慌ててその場から逃げ出した.
+<0385> 6 de agosto (Dom) / Sora
+// ８月 ６日(日)／そら
+<0386> \{Mulher}"Bom dia."
+// \{女}「おはよぅさん」
+<0387> \{Misuzu}"Bom dia, mãe."
+// \{みすず}「おはよう、お母さん」
+<0388> \{Mulher}"Como você está se sentindo hoje?"
+// \{女}「調子は…どない」
+<0389> \{Misuzu}"Ainda a mesma coisa."
+// \{みすず}「変わりないよ」
+<0390> \{Mulher}"Entendi... Isso é um alívio."
+// \{女}「そか…よかった」
+<0391> \{Mulher}"Espera, não é... Isso significa que você não está melhorando."
+// \{女}「って、よくないか….よぅなってへんのやもんな」
+<0392> \{Mulher}"Diga..."
+// \{女}「…なあ」
+<0393> \{Mulher}"Você teve um sonho de novo ontem?" 
+// \{女}「あんた、今日も夢見たんか？」
+<0394> \{Misuzu}"Sim."
+// \{みすず}「うん」
+<0395> \{Mulher}"Como são seus sonhos?"
+// \{女}「あんたの見てる夢ってな、どんな感じなん？」
+<0396> \{Misuzu}"........."
+// \{みすず}「………」
+<0397> \{Misuzu}"Hm... Eu não posso te contar."
+// \{みすず}「うーん、言えない」
+<0398> \{Mulher}"O quê? Você é má."
+// \{女}「なんや、観鈴ちんのイケズ～」
+<0399> \{Misuzu}"Sim, eu sou má."
+// \{みすず}「うん、イケズなの」
+<0400> \{Mulher}"Você teve alguns sonhos eróticos, não teve?"
+// \{女}「本当はごっつエッチな夢見とるんやろ？」
+<0401> \{Misuzu}"Não vou contar."
+// \{みすず}「教えない」
+<0402> \{Mulher}"Ei... Me dá uma dica, por favor?"
+// \{女}「…なあ.ヒントだけでも教えてや」
+<0403> Ela tinha uma expressão séria no rosto.
+// 真面目な顔だった.
+<0404> \{Mulher}"Eu também tive um sonho esta manhã."
+// \{女}「うちも今朝、夢見たんや」
+<0405> \{Mulher}"Era sobre nós brincando juntas o dia todo quando você ainda era pequena."
+// \{女}「子供の頃のあんたと、一日中遊ぶ夢や」
+<0406> \{Mulher}"Foi um sonho tão bom... Eu fiquei olhando para o nada depois que acordei."
+// \{女}「いい夢すぎて、起きた後もしばらくぼーっとしとったぐらいや」
+<0407> \{Mulher}"Mas não há como você ter o mesmo sonho que eu..."
+// \{女}「でもな、あんたが同じ夢を見ることはできひんやんか…」
+<0408> \{Mulher}"Sabe, eu estou me sentindo muito ansiosa."
+// \{女}「うちな、不安でたまらん」
+<0409> \{Mulher}"Não consigo me perdoar quando você é a única que está sofrendo."
+// \{女}「あんただけが悲しい思いしとるやなんて、自分で許せへん」
+<0410> \{Misuzu}"Hmm..."
+// \{みすず}「うーん…」
+<0411> \{Misuzu}"Meus sonhos não são todos tristes."
+// \{みすず}「悲しい夢とは限らないよ」
+<0412> \{Misuzu}"Tive sonhos assustadores e solitários também."
+// \{みすず}「怖い夢も見たし、寂しい夢も見た」
+<0413> \{Misuzu}"Também houve sonhos estranhos e agradáveis."
+// \{みすず}「不思議な夢も、気持ちいい夢もあったよ」
+<0414> \{Mulher}"Entendi, pelo menos você não tem pesadelos todos os dias."
+// \{女}「ほな、毎日悪夢を見とるわけやないんやな.ちょっとは安心したわ」
+<0415> \{Misuzu}"Sim..."
+// \{みすず}「うん…」
+<0416> \{Mulher}"Bom, você realmente é fechada sobre isso."
+// \{女}「なんや、歯切れ悪いなあ」
+<0417> \{Mulher}"Que tal isso?"
+// \{女}「ほな、こうしよ」
+<0418> \{Mulher}"Você só precisa me responder sim ou não. Você consegue fazer isso, não consegue?"
+// \{女}「あんたは当たりかハズレか言うだけでええ.なっ、それやったらええやろ？」
+<0419> \{Mulher}"Você é a única pessoa no seu sonho?"
+// \{女}「夢にはあんたしか出てこぉへんの？」
+<0420> \{Misuzu}"Não."
+// \{みすず}「ううん」
+<0421> \{Mulher}"Tem mais alguém com você?"
+// \{女}「ほな、誰かと一緒におるん？」
+<0422> \{Misuzu}"Não."
+// \{みすず}「ううん」
+<0423> \{Mulher}"Você está se contradizendo. Decida-se."
+// \{女}「中途半端な子やな.どっちかにし」
+<0424> \{Misuzu}"Existem sonhos dos dois tipos."
+// \{みすず}「だって、両方あるから」
+<0425> \{Mulher}"Conte-me um pouco mais, você não pode?"
+// \{女}「なあ、ちょっとだけでも教えてや」
+<0426> \{Mulher}"Conte-me um pouco sobre seus sonhos.\nNão precisa ser o de hoje."
+// \{女}「今日見た夢でなくても、ほんまにちょびっとだけでもええから」
+<0427> \{Misuzu}"Hmm..."
+// \{みすず}「うーん…」
+<0428> A garota ficou pensativa por um longo tempo.
+// とても長い時間、彼女は困っていた.
+<0429> Então ela finalmente falou em voz baixa.
+// そして小さな声で言った.
+<0430> \{Misuzu}"Por exemplo, tive um sonho sobre um festival."
+// \{みすず}「例えばね、お祭りの夢」
+<0431> \{Misuzu}"Todo mundo estava reunido ao redor de uma fogueira se divertindo."
+// \{みすず}「みんなで火を囲んで、すごく楽しそうで…」
+<0432> \{Mulher}"O quê? Isso não é triste nem um pouco."
+// \{女}「なんやそれ.全然悲しないやん」
+<0433> \{Misuzu}"Mas eu só consegui assistir de longe."
+// \{みすず}「でもわたし、遠くから見てただけ」
+<0434> \{Mulher}"Puxa, o que há de errado com você?"
+// \{女}「…かぁ～っ.あんたって子は」
+<0435> \{Mulher}"É um festival. Você tem que ir pegar peixes, dançar e comer takoyaki."
+// \{女}「せっかくのお祭りなんやで.金魚すくったり踊ったりタコ焼き食ったりせなあかんやろが」
+<0436> \{Misuzu}"Nihaha. Yukito-san disse algo assim antes."
+// \{みすず}「にはは.おかあさん、Yukitoさんと同じようなこと言うね」
+<0437> \{Mulher}"Sério?"
+// \{女}「そか…」
+<0438> \{Misuzu}"O festival de verão está chegando logo."
+// \{みすず}「夏祭り、もうすぐだよね」
+<0439> \{Mulher}"Oh..."
+// \{女}「あ…」
+<0440> \{Mulher}"Isso mesmo."
+// \{女}「せやな…」
+<0441> \{Mulher}"O festival de verão está perto. Eu quase tinha esquecido."
+// \{女}「夏祭り近いやんか…忘れてたわ…」
+<0442> \{Misuzu}"Sim. É no próximo domingo."
+// \{みすず}「うん、来週の日曜」
+<0443> \{Misuzu}"Quero ir lá com você, mamãe."
+// \{みすず}「お母さんと一緒に行きたいな」
+<0444> \{Mulher}"Entendi..."
+// \{女}「そうか…」
+<0445> \{Mulher}"Finalmente podemos ir juntas..."
+// \{女}「やっといけるんやな、あんたと…」
+<0446> \{Mulher}"Certo. Vou te levar ao festival."
+// \{女}「よっしゃ.絶対、連れてったる」
+<0447> \{Misuzu}"Você pode me prometer isso?"
+// \{みすず}「約束してほしいな…」
+<0448> \{Mulher}"Sim, é uma promessa."
+// \{女}「ああ、したる」
+<0449> \{Mulher}"Não importa o que aconteça, nós duas iremos ao festival."
+// \{女}「なにがあっても、あんたとうち、夏祭りいく」
+<0450> \{Mulher}"E... eu comprarei qualquer coisa que você quiser lá."
+// \{女}「それで…そこで、なんでも欲しいもん、買うたるわ…」
+<0451> \{Mulher}"Ok? Combinado?"
+// \{女}「な、貰ろてや」
+<0452> \{Misuzu}"Ok, eu mal posso esperar. Nihaha."
+// \{みすず}「うん、楽しみ.にははっ」
+<0453> \{Mulher}"Entendo... Que bom..."
+// \{女}「そか…よかったわ…」
+<0454> \{Mulher}"De verdade, graças a Deus..."
+// \{女}「ほんま、よかった…」
+<0455> A mulher soltou lentamente um suspiro de alívio.
+// 女が安心したかのように、ゆっくりと息を吐いた.
+<0456> De repente...
+// そこへ…
+<0457> *Triiiiimmmmm...*
+// リリリリリリリリリ…
+<0458> Ouvi um som estridente.
+// 耳障りな音.
+<0459> \{Mulher}"Ah, o telefone."  
+// \{女}「あ、電話や」  
+<0460> \{Mulher}"Vou atender."  
+// \{女}「出てくるわー」  
+<0461> \{Misuzu}"Tá bom."  
+// \{みすず}「うん」  
+<0462> A mulher saiu.
+// 女が出てゆく.
+<0463> \{Misuzu}"Mamãe não tem ido trabalhar. É uma ligação da empresa?"
+// \{みすず}「お母さん、仕事休んでるし、会社のひとからかな」
+<0464> \{Misuzu}"Estou um pouco preocupada..."
+// \{みすず}「ちょっと心配…」
+<0465> \{Misuzu}"Sora, você pode dar uma olhada?"
+// \{みすず}「そら、様子見てきてほしいな」
+<0466> Ela me tirou dos ombros e me colocou no chão.
+// 肩から、地面に降ろされる.
+<0467> \{Misuzu}"Por favor."
+// \{みすず}「おねがい」
+<0468> Ela estava apontando na direção onde a mulher foi.
+// 女が出ていった方向を指さしていた.
+<0469> Será que ela está me dizendo para seguir a mulher?
+// 女の後を追えという意味なのだろうか.
+<0470> *Tap tap...*
+// てこてこ…
+<0471> \{Misuzu}"Seu bumbum é tão fofo."
+// \{みすず}「そらのお尻、やっぱりかわいいー」
+<0472> Eu caminhei naquela direção.
+// 僕はその方向に向けて歩き出した.
+<0473> \{Mulher}"Ah, é você..."  
+// \{女}「なんや、あんたかいな…」  
+<0474> \{Mulher}"Não, nada disso."  
+// \{女}「べつに.そんなことあらへんわ」  
+<0475> \{Mulher}"Sério..."  
+// \{女}「そうか…」  
+<0476> \{Mulher}"Isso não é verdade. A garota está bem."  
+// \{女}「…んなことあらへん.あの子は元気やで」  
+<0477> \{Mulher}"Pare de pensar demais."  
+// \{女}「へんな勘ぐりすんなや」  
+<0478> \{Mulher}"Só estou sentindo isso de repente."  
+// \{女}「…気が向いただけや」  
+<0479> \{Mulher}"Só percebi como é bom ter uma família."  
+// \{女}「家族ってええもんやなぁって、それに気づいただけや」  
+<0480> \{Mulher}"Deixe isso pra lá. A garota prefere este lugar."  
+// \{女}「もうええやんか.あの子は、こっちが好きみたいやし」  
+<0481> \{Mulher}"Você foi quem a trouxe para mim."  
+// \{女}「話はぜんぶそっちでつけてきたつもりや」  
+<0482> \{Mulher}"Não. Eu já consegui o consentimento dos seus pais."  
+// \{女}「違うわ.うちはちゃんと返事もらったつもりやで」  
+<0483> \{Mulher}"Não tenho mais nada a ver com você."  
+// \{女}「もうこっちには用はあらへん」  
+<0484> \{Mulher}"Espere... Onde você está agora?"  
+// \{女}「…待ってやっ…今、どこにおるんや…」  
+<0485> \{Mulher}"O quê? Qual?"  
+// \{女}「はぁ？ どこのや…」  
+<0486> \{Mulher}"Que droga. Você já está na vizinhança?"  
+// \{女}「あほぅ、すぐそこやんかっ」  
+<0487> \{Mulher}"O que você veio fazer aqui?"  
+// \{女}「こんな時になにしにきたんやっ」  
+<0488> \{Mulher}"........."  
+// \{女}「………」  
+<0489> \{Mulher}"Não, eu não estou escondendo nada."  
+// \{女}「…べつに、なんも隠してへん」  
+<0490> \{Mulher}"Estou apenas ocupada..."  
+// \{女}「ただ…忙しいだけや…」  
+<0491> \{Mulher}"A garota... Ela pegou um resfriado e precisa descansar."  
+// \{女}「今は…なんや…あの子がちょっと風邪こじらせとるから、休んでるだけや…」  
+<0492> \{Mulher}"Idiota, não é nada demais. Apenas fique onde está."  
+// \{女}「あほぅ、大したことないわっ、こんでええっ」  
+<0493> \{Mulher}"Você não é bem-vindo aqui."  
+// \{女}「あんたに出す茶なんかないわっ」  
+<0494> \{Mulher}"........."  
+// \{女}「………」  
+<0495> *Clank!*  
+// つー…  
+<0496> \{Mulher}"O que ele veio fazer aqui?"  
+// \{女}「なにしにきくさったんや、あのアホは…」  
+<0497> A mulher não voltou para a garota.
+// 女は彼女の元に戻らない.
+<0498> Em vez disso, ela foi para fora.
+// 外に向かって歩いてゆく.
+<0499> Eu não me sentia confortável em deixar a garota sozinha, mas segui a mulher, porque esse era seu desejo.
+// 彼女をひとりにすることは心許なかったが、彼女の希望だと思ったから、その後を追うことにした.
+<0500> \{Mulher}"O quê? Você veio me fazer companhia?"  
+// \{女}「なんや？ あんたもついてくるんか？」  
+// \{女}「なんや？ あんたもいくんか」
+<0501> \{Mulher}"Aqui, suba no meu ombro."
+// \{女}「ほな、肩に乗り」
+<0502> Pulei no ombro dela.
+// ぴょんと、飛び乗る.
+<0503> \{Mulher}"Ei, eu vou encontrar alguém agora! Ele vai pensar que sou uma esquisita!"
+// \{女}「って、今から人と会うのに、ヘンに思われるやろーっ!」
+<0504> \{Mulher}"Desça!"
+// \{女}「降りろっ」
+<0505> Ela me forçou a descer.
+// 降ろされる.
+<0506> \{Mulher}"De tanto te ver com a Misuzu o tempo todo, já estou começando a achar natural andar com corvos nos ombros."
+// \{女}「なんか観鈴見とったら、あんたを肩に乗せるんが自然に思えてしもたわ…」
+<0507> \{Mulher}"Que azar."
+// \{女}「ったく、不吉やでーっ」
+<0508> A mulher se afastou rapidamente.
+// 女は早足で歩いてゆく.
+<0509> Eu a segui.
+// 僕も続いた.
+<0510> \{Mulher}"Haa... Bom dia."
+// \{女}「はぁ…おはよーさん」
+<0511> Na frente da mulher havia um homem que eu nunca tinha visto antes.
+// 女の先…見知らぬ男が立っていた.
+<0512> \{Homem}"Oi. Como você está?"
+// \{男}「やぁ、元気かい」
+<0513> \{Mulher}"Estou bem... furiosa."
+// \{女}「元気やで.ブリブリや」
+<0514> \{Homem}"Haha. Você continua engraçada como sempre."
+// \{男}「はは、相変わらずおもしろいひとだね」
+<0515> \{Mulher}"Sim... eu acho que sou meio esquisita comparada à minha irmã. Tenho certeza de que você me acha engraçada."
+// \{女}「そらぁな…あの姉貴に比べたら、うちはヘンなところ多いからな、あんたにはおもろいやろ」
+<0516> \{Homem}"Não quero dizer isso de uma maneira negativa."
+// \{男}「別に悪く言ってるわけじゃない」
+<0517> \{Mulher}"Mas você soou como se estivesse me zombando."
+// \{女}「馬鹿にされてるようにしか聞こえへんわ」
+<0518> \{Homem}"........."
+// \{男}「………」
+<0519> \{Mulher}"Então, o que foi? Quando você voltou?"
+// \{女}「で、どしたんや.いつ帰ってきてたんや」
+<0520> \{Homem}"Estou voltando com frequência ultimamente."
+// \{男}「最近はちょくちょく戻ってきてるよ」
+<0521> \{Mulher}"Entendi. Achei que você estava ocupado? Vai sair logo, né?"
+// \{女}「そうかー.忙しいんやろ？ またすぐに出てくるんかいな」
+<0522> \{Homem}"Ainda não sei sobre isso. Depende de quão rápido eu resolvo as coisas aqui."
+// \{男}「それはわからない.こっちの問題が片づき次第といったところかな」
+<0523> \{Mulher}"Entendi. Você disse que tinha um negócio comigo."
+// \{女}「そうか.なんか用があるんやな」
+<0524> \{Homem}"Sim."
+// \{男}「ああ」
+<0525> \{Mulher}"Qual é o problema?"
+// \{女}「どしたん」
+<0526> \{Homem}"Bem, eu estava indo até a sua casa."
+// \{男}「直接、出向こうとしてたんだけど…」
+<0527> \{Mulher}"Fale aqui. Não vou deixar você entrar na minha casa."
+// \{女}「ここのほうがええわ.あんたなんか、家にいれとうない」
+<0528> \{Homem}"Você não mudou nada."
+// \{男}「そんなところも変わってないな」
+<0529> \{Homem}"Por isso você ainda está solteira."
+// \{男}「そんなんじゃ、まだひとりだろ」
+<0530> \{Mulher}"Estou solteira porque quero. Me deixe em paz."
+// \{女}「好きでひとりでおんねん.放っといてや」
+<0531> \{Homem}"Você não disse agora há pouco no telefone que queria uma família?"
+// \{男}「さっき電話で、家族を持ちたいようなこと言っていなかったか？」
+<0532> \{Homem}"Nesse caso, você deveria preparar suas fotos para os encontros arranjados."
+// \{男}「その気があるんだったら、見合い写真でも作りなよ」
+<0533> \{Mulher}"Bem, eu já preparei algumas fotos do meu ânus. Elas são bem interessantes de se ver."
+// \{女}「ケツの穴、写した写真やったら、作ったるわ.面白そうやしな」
+<0534> \{Homem}"Sabe, você até parece uma dama se não falar. Acredito que posso te apresentar a alguém."
+// \{男}「あなたは、黙っていればまともに見えるんだ.引き合わせるまでは世話できると思う」
+<0535> \{Mulher}"Você conhece alguém que ainda vai querer me encontrar depois de ver fotos do meu ânus?"
+// \{女}「ケツの穴の写真で、会ってくれる奴が、あんたの知り合いにはおるんかいな」
+<0536> \{Mulher}"Seu amigo precisa fazer um exame cerebral."
+// \{女}「あんたの知り合い、やばいで」
+<0537> \{Homem}"........."
+// \{男}「………」
+<0538> \{Mulher}"Então você não vai chorar?"
+// \{女}「なんや、泣かへんのやなー」
+<0539> \{Mulher}"Você sempre ia chorar para minha irmã quando era criança."
+// \{女}「子供んときは、よう姉貴に泣きついとったのになー」
+<0540> \{Homem}"Isso tudo é passado."
+// \{男}「昔の話だ」
+<0541> \{Homem}"Haruko, você não acha que é uma tola?"
+// \{男}「晴子、自分ひとりが馬鹿に思えてこないかい」
+<0542> \{Mulher}"Você parece mais um tolo para mim."
+// \{女}「うちからすれば、あんたがあほに見えるわ」
+<0543> \{Mulher}"Bem, eu acho que me diverti naquela época."
+// \{女}「あの頃はそれなりに楽しかった思うけどな」
+<0544> \{Homem}"Qual é o seu trabalho agora?"
+// \{男}「仕事は何をしている？」
+<0545> \{Mulher}"Algo que me faz sentir bem. Até posso te atender se você me pagar. Posso te dar um desconto."
+// \{女}「気持ちのええ仕事や.金払うんやったら、あんたもオッケーやで.サービスしたるわ」
+<0546> \{Homem}"Huh..."
+// \{男}「はぁ…」
+<0547> \{Mulher}"Idiota, isso é uma piada. Não olhe para mim com esses olhos pervertidos."
+// \{女}「あほ.冗談や.イヤラシイ目で見んとってや」
+<0548> \{Homem}"Estou te olhando com pena."
+// \{男}「哀れみの目で見てたんだ」
+<0549> \{Mulher}"Eu ainda não caí tão baixo assim."
+// \{女}「そこまで落ちぶれてへんわ」
+<0550> \{Homem}"De qualquer forma, agora entendo sua situação."
+// \{男}「近況はわかったよ」
+<0551> \{Homem}"Você não está tão pessimista em relação à sua vida atual quanto eu pensei."
+// \{男}「僕が考えてるほどに、あなたは現状を悲観していない、とそういうことだ」
+<0552> \{Mulher}"Isso mesmo. Minha vida é um pouco entediante, mas eu gosto."
+// \{女}「そや.退屈やけど、このまんまでええわ」
+<0553> \{Homem}"Entendi. Se esse for o caso..."
+// \{男}「そうか.それなら…」
+<0554> \{Homem}"Você não se importa se eu levar aquela criança de volta, certo? Fico feliz em saber disso."
+// \{男}「あの子を連れて戻るようなことになってもいいんだね.安心したよ」
+<0555> \{Mulher}"........."
+// \{女}「………」
+<0556> \{Mulher}"Não era isso que eu queria dizer."
+// \{女}「ちゃうわ…」
+<0557> \{Mulher}"Eu disse que gosto da minha vida agora. Gosto de viver com a Misuzu."
+// \{女}「うちはこのまんまでええ、言うたんや.観鈴とふたりの生活がええんや」
+<0558> \{Homem}"Então você não quer voltar a ficar sozinha?"
+// \{男}「ひとりに戻るのは嫌かい」
+<0559> \{Homem}"Eu disse que ajudaria você a encontrar um cara."
+// \{男}「だから、世話をするって言ってるんだよ」
+<0560> \{Mulher}"Ei."
+// \{女}「なぁ」
+<0561> \{Homem}"Huh?"
+// \{男}「うん？」
+<0562> \{Mulher}"Você acha que sou um depósito ou algo assim?"
+// \{女}「うちは、便利な奴か」
+<0563> \{Homem}"O que você quer dizer?"
+// \{男}「どういう意味だい」
+<0564> \{Mulher}"Você acha que pode simplesmente deixar suas coisas indesejadas aqui e vir buscá-las só quando precisar?"
+// \{女}「邪魔なうちは、預けておけて、思い出したら引き取りにこれる」
+<0565> \{Mulher}"Você acha que a residência Kamio é seu depósito pessoal?"
+// \{女}「そんな便利な家か.神尾の家は」
+<0566> \{Homem}"Não me entenda mal."
+// \{男}「誤解しないでくれ」
+<0567> \{Homem}"Eu realmente sou grato pelo que você fez por mim."
+// \{男}「その点に関しては、感謝してる」
+<0568> \{Mulher}"Tão grato que você esqueceu de nós todo esse tempo..."
+// \{女}「感謝してて、今までほったらかしかいな…」
+<0569> \{Homem}"Eu tive meus motivos."
+// \{男}「いろいろあったんだ」
+<0570> \{Mulher}"Você fez tudo por motivos egoístas."
+// \{女}「ぜんぶ、自分の都合やないか…」
+<0571> \{Homem}"Eu sei que devo muito a você, Haruko."
+// \{男}「本当に感謝してるんだよ、晴子」
+<0572> \{Homem}"Mas aquela criança é minha."
+// \{男}「でもね、あの子は、僕の子なんだ」
+<0573> \{Homem}"Ela pertence a mim e a Ikuko."
+// \{男}「僕と郁子の」
+<0574> \{Mulher}"Você foi quem abandonou sua própria criança primeiro..."
+// \{女}「そもそも、自分らが子供なんかをっ…」
+<0575> \{Mulher}"........."
+// \{女}「………」
+<0576> \{Homem}"O que há de errado?"
+// \{男}「なんだい」
+<0577> \{Mulher}"Não... Não é nada..."
+// \{女}「いや…なんでもあらへん…」
+<0578> \{Mulher}"Como eu estava dizendo..."
+// \{女}「とにかくやっ…」
+<0579> \{Mulher}"Já consegui a autorização..."
+// \{女}「そのことは、承諾得たやろ…」
+<0580> \{Mulher}"Misuzu será minha filha. Ela é minha."
+// \{女}「観鈴は…うちの子、神尾の子にする」
+<0581> \{Homem}"Isso é só a sua interpretação."
+// \{男}「それはあなたが勝手に決めただけだろう」
+<0582> \{Homem}"Você invadiu minha casa quando eu estava fora e forçou meus pais a te darem a autorização."
+// \{男}「留守の間に実家に押しかけて、僕の親に無理矢理承諾を得て帰った」
+<0583> \{Mulher}"Eu não forcei eles..."
+// \{女}「無理矢理やない…」
+<0584> \{Homem}"Você ficou no mesmo lugar por mais de uma semana. Meus pais estavam com medo de que você desmaiasse, então eles cederam."
+// \{男}「家の前で、一週間以上も居座られて、そのままじゃあなたが倒れると思ったから、その場しのぎで親が承諾したんだ」
+<0585> \{Homem}"Mas eu ainda não te dei a minha autorização."
+// \{男}「それは僕の承諾じゃない」
+<0586> \{Homem}"É por isso que eu vim resolver as coisas com você."
+// \{男}「だから、改めて話を聞くために、こうしてわざわざ出向いてきたんじゃないか」
+<0587> \{Homem}"Está muito quente aqui. Vamos para algum lugar mais fresco."
+// \{男}「ここは暑くてかなわないな.どこか涼しいところに入ろう」
+<0588> \{Mulher}"Se você está a fim de arranjar uma mulher, vá procurar um bordel."
+// \{女}「女引っかけてるつもりやったら、ひとりでソープでもいきや」
+<0589> \{Homem}"Espere, Haruko."
+// \{男}「待て、晴子」
+<0590> \{Mulher}"Ah, sim. Mais uma coisa."
+// \{女}「あ、そや、それとな」
+<0591> \{Mulher}"Eu me sinto enjoada sempre que ouço você falar no dialeto de Tóquio."
+// \{女}「あんたの標準語聞いてると、気持ち悪ぅなってくるわ」
+<0592> \{Homem}"........."
+// \{男}「………」
+<0593> A mulher virou-se e se afastou do homem.
+// 女が振り返り、男の元を離れる.
+<0594> Ela veio em direção a mim.
+// その先に僕はいた.
+<0595> \{Mulher}"Você ainda está aqui..."
+// \{女}「あんた、おったんかいな…」
+<0596> \{Mulher}"Você não está sentindo calor? Volte para aquela criança."
+// \{女}「暑いやろ.あの子のそばに戻ろな」
+<0597> Ela me levantou.
+// ひょいと抱え上げられる.
+<0598> \{Mulher}"Ei, os corvos não sentem calor, certo?"
+// \{女}「って、カラスは暑いとかそんなんないんか」
+<0599> \{Mulher}"Sem chance, você é mais pretinho que um carvão!"
+// \{女}「いうか、あんた、ごっつ黒いな.黒っ!」
+<0600> \{Mulher}"Você vai absorver calor demais assim."
+// \{女}「そないに黒いと、熱の吸収率よすぎるんとちゃうか」
+<0601> \{Mulher}"Você vai virar carne seca se continuar aqui fora."
+// \{女}「こんな日に外出てたら、すぐにかんぴんたんになってまうで」
+<0602> \{Mulher}"Vamos para casa."
+// \{女}「はよ帰ろ」
+<0603> \{Criança}"Uau, aquela velha está andando com um corvo no ombro. Ela parece o Ceifador ou algo assim."
+// \{子供}「あ、あのおばさん、カラス抱いて歩いてる.死神みたい～」
+<0604> \{Mulher}"Eu não sou velha, e também não sou o Ceifador!"
+// \{女}「おばさんでもないし、死神でもないわっ!」
+<0605> \{Mulher}"Haa... O que eu fiz para merecer isso?"
+// \{女}「はぁ…なんでこんなこと言われなあかんねん」
+<0606> \{Mulher}"É tudo culpa sua."
+// \{女}「あんたのせいやで」
+<0607> \{Mulher}"........."
+// \{女}「………」
+<0608> \{Mulher}"Mas você sempre esteve ao lado daquela garota, não é?"
+// \{女}「でも、あんた、あの子のそばにずっとおってくれたんやろ？」
+<0609> \{Mulher}"Obrigada."
+// \{女}「おおきにな」
+<0610> \{Mulher}"Não sei o que aconteceu enquanto eu estive fora..."
+// \{女}「うちがおらん間にどんなことがあったのかはわからんけど…」
+<0611> \{Mulher}"Mas você ficou com Misuzu desde que aquele aproveitador meteu o pé."
+// \{女}「あの居候がいなくなって、あの子が本当にひとりになってしまう時にそばにいてくれたんやろ」
+<0612> \{Mulher}"Por isso, sou realmente grata a você."
+// \{女}「ほんま、おおきに」
+<0613> \{Mulher}"Mas, sabe..."
+// \{女}「けどな…」
+<0614> \{Mulher}"O bastão que foi passado para mim..."
+// \{女}「うちに渡されたバトン…」
+<0615> \{Mulher}"Eu tenho que passar para outra pessoa?"
+// \{女}「それはまた、誰かに渡さなあかんのやろか…」
+<0616> \{Mulher}"Sou eu o âncora?"
+// \{女}「うちは、アンカーと違たんやろか」
+<0617> \{Mulher}"Eu devo manter o bastão até chegar à linha de chegada?"
+// \{女}「最後まで走ったらあかんのやろか」
+<0618> \{Mulher}"O que você acha?"
+// \{女}「な、どう思う」
+<0619> *Pik pik...*
+// つんつん.
+<0620> \{Mulher}"Você está me dizendo para aguentar firme?"
+// \{女}「頑張れ、言うとるんか？」
+<0621> \{Mulher}"Ou você está me dizendo para desistir?"
+// \{女}「それとも、諦めろ、言うとるんか？」
+<0622> *Pik pik...*
+// つんつん.
+<0623> \{Mulher}"Idiota, não sei o que você está tentando me dizer."
+// \{女}「あほ…どっちかわからんわ」
+<0624> A mulher permaneceu em silêncio após retornar à garota.
+// 彼女の元に戻ってきてから、しばらく女は黙っていた.
+<0625> \{Misuzu}"Mãe, você parece infeliz."
+// \{みすず}「お母さん、元気ないね」
+<0626> \{Mulher}"Bem, até eu fico para baixo às vezes."
+// \{女}「うちかて、ブルーになることあるわ」
+<0627> \{Misuzu}"É culpa minha?"
+// \{みすず}「わたしのせい？」
+<0628> \{Misuzu}"Sinto muito..."
+// \{みすず}「だったら、ごめんね…」
+<0629> \{Mulher}"Não é você, idiota."
+// \{女}「ちゃうわ、あほ」
+<0630> \{Mulher}"Você não fez nada de errado."
+// \{女}「観鈴が謝ることなんてこれっぽちもあらへん」
+<0631> \{Mulher}".........."
+// \{女}「………」
+<0632> Ela ficou quieta novamente.
+// 再び黙り込む.
+<0633> .........
+// ……….
+<0634> \{Mulher}"Diga, Misuzu."
+// \{女}「あのな、観鈴」
+<0635> \{Misuzu}"O que foi, mãe?"
+// \{みすず}「なに、お母さん」
+<0636> \{Mulher}"Você quer voltar para a Residência Tachibana?"
+// \{女}「橘の家、帰りたいか？」
+<0637> \{Misuzu}"Não, eu quero ficar aqui para sempre."
+// \{みすず}「ううん、ここにいるよ、ずっと」
+<0638> \{Mulher}"Mas... aquele lugar é sua verdadeira casa."
+// \{女}「でもな…あっちが観鈴のほんまの家や」
+<0639> \{Mulher}"Seus verdadeiros pais estão lá. Sua vida real está lá."
+// \{女}「ほんまの家族があって、ほんまの暮らしがある」
+<0640> \{Mulher}"E você ainda escolhe viver aqui?"
+// \{女}「それでも、こっちを選ぶ言うんか」
+<0641> \{Misuzu}"Este lugar é minha verdadeira casa."
+// \{みすず}「わたしの本当の家は、ここ」
+<0642> \{Misuzu}"Eu acho que é assim que é uma família."
+// \{みすず}「家族って、そんなものだと思う」
+<0643> \{Misuzu}"Um lugar onde estou mais contente... é o lugar que chamo de casa."
+// \{みすず}「一番、自分がいて、幸せな場所.そこがわたしの家」
+<0644> \{Misuzu}"Sangue não tem nada a ver com isso."
+// \{みすず}「血が繋がってるかどうかなんて関係ないよ」
+<0645> \{Misuzu}"Este é o lugar onde eu mais quero estar.\nÉ por isso que este lugar é minha casa."
+// \{みすず}「わたしが一番いたい、この場所.ここがわたしの家」
+<0646> \{Misuzu}"E aqueles que sempre estão comigo são minha família."
+// \{みすず}「そして、ずっとそばにいてくれる人が、家族」
+<0647> \{Misuzu}"Pelo menos é o que eu acho."
+// \{みすず}「だと思うよ」
+<0648> \{Mulher}"Entendi..."
+// \{女}「そうか…」
+<0649> \{Misuzu}"Sim."
+// \{みすず}「うん」
+<0650> .........
+// ……….
+<0651> E voltou o silêncio.
+// また黙りこむ.
+<0652> Desta vez, a garota falou primeiro.
+// 今度は彼女が先に口を開いた.
+<0653> \{Misuzu}"Mãe, fale comigo."
+// \{みすず}「お母さん、何か話して」
+<0654> \{Mulher}"Falar com você... Sobre o que você quer falar?"
+// \{女}「話かー…どんな話がええ？」
+<0655> \{Misuzu}"Sobre algo divertido."
+// \{みすず}「楽しい話」
+<0656> \{Mulher}"Se você quer piadas, posso te contar histórias das suas trapalhadas. Elas são realmente engraçadas."
+// \{女}「笑える話やったら、あんたのドジ話やなー.ごっつ笑えるで」
+<0657> \{Misuzu}"Mas eu não quero ouvir histórias sobre mim mesma."
+// \{みすず}「自分の話聞いても、おもしろくないよ」
+<0658> \{Mulher}"Sério? Então, o que você quer ouvir?"
+// \{女}「そうか？ ほな、どないしよ…」
+<0659> \{Misuzu}"Conte-me histórias sobre você."
+// \{みすず}「お母さんの話」
+<0660> \{Mulher}"Eu?"
+// \{女}「うちのか？」
+<0661> \{Misuzu}"Sim."
+// \{みすず}「うん」
+<0662> \{Mulher}"Mas não há nada interessante na minha vida."
+// \{女}「うちの話でおもろい話なんかあらへん」
+<0663> \{Misuzu}"Não precisa ser interessante."
+// \{みすず}「おもしろい話じゃなくていいよ」
+<0664> \{Mulher}"Se estiver falando sobre o primeiro cara que colocou no meu traseiro ou algo assim, há muito o que dizer."
+// \{女}「最初の男に、ケツの穴に入れられた、とかそんな話やったら仰山あるで」
+<0665> \{Misuzu}"O que é isso?"
+// \{みすず}「なにそれ？」
+<0666> \{Mulher}"Isso é uma piada pessoal... Não se preocupe com isso."
+// \{女}「今のは冗談や…意味わからんでええ」
+<0667> \{Mulher}"Ah, sim... Eu lembro de uma vez quando você ainda era uma criança."
+// \{女}「せやなぁ…ほな、あんたが小さかった時の話したろ」
+<0668> \{Mulher}"Isso foi há tanto tempo. Não acho que você se lembre."
+// \{女}「あんたも覚えてへんような昔の話や」
+<0669> \{Misuzu}"Certo."
+// \{みすず}「うん…」
+<0670> \{Mulher}"Você era apenas um bebê quando eu te conheci pela primeira vez."
+// \{女}「初めて会ったんは、まだあんたが赤ちゃんの頃や」
+<0671> \{Mulher}"Eu ouvi que minha irmã teve um bebê, então eu fui ver você."
+// \{女}「姉貴が子供作ったいうから、冷やかしに行ったってん」
+<0672> \{Mulher}"Depois de tudo, eu tinha muito tempo livre e estava morando perto."
+// \{女}「暇やったし、あんときは、近くに住んでたからな」
+<0673> \{Mulher}"Você realmente tinha cara de joelho."
+// \{女}「あんた、猿みたいやったわ」
+<0674> \{Mulher}"Minha irmã ficava dizendo que você era fofa e isso me irritou. Aí planejei apertar seu nariz para te fazer parecer mais um joelho."
+// \{女}「姉貴が可愛い可愛いて繰り返すから、なんか腹立ってきてな、鼻の頭を押し上げて、ほんまの猿顔にしたろ思てん」
+<0675> \{Mulher}"Mas quando eu estendi a mão para seu nariz, você me mordeu."
+// \{女}「そんで指伸ばしたら、あんたそれを口にくわえよったんや」
+<0676> \{Mulher}"Então você começou a chupar meu dedo."
+// \{女}「それをな、あんた、ちゅっぱちゅっぱ吸うねん」
+<0677> \{Mulher}"Na hora, eu tomei um susto danado. Você chupou tão forte que meu dedo doeu."
+// \{女}「びっくりしたわ.指が痛なってまうくらい吸うんやから」
+<0678> \{Mulher}"Você estava se esforçando tanto com aquele corpinho pequeno."
+// \{女}「なんか小さい体やのに、頑張ってるんやなぁ、思たわ」
+<0679> \{Mulher}"Você continuou chupando, aí empurrei meu dedo no fundo da sua garganta. Você chorou e minha irmã me deu uma bronca!"
+// \{女}「で、あんまり吸い続けるから思い切り押し込んで喉ついたったら、あんた、わんわん泣き出して、姉貴に叱られたけどなー」
+<0680> \{Mulher}"Isso foi tão engraçado..."
+// \{女}「ごっつおもろいわ…」
+<0681> \{Mulher}"Eh, eu sou a única que acha isso engraçado...?"
+// \{女}「って、うちだけか、おもろかったんは…」
+<0682> ...
+// すーすー…
+<0683> \{Mulher}"E eu nunca pensei que você se tornaria minha filha e cresceria tanto."
+// \{女}「それが、こんなに大きなって、うちの子になるやなんて、思ってもみんかったわ…」
+<0684> \{Mulher}"Depois que minha irmã deixou este mundo, aquele homem inútil se tornou seu único parente..."
+// \{女}「姉貴がおらんなって…親があの甲斐性なし亭主ひとりになって…」
+<0685> \{Mulher}"Ele não entrou em contato comigo por muito tempo, e então de repente ele apareceu na minha porta e te empurrou para mim..."
+// \{女}「ずいぶん長いこと連絡もなかったのに、いきなり現れて…この子、預けていって…」
+<0686> \{Mulher}"E desde aquele festival de verão..."
+// \{女}「あの夏祭り以来…」
+<0687> "Mama..."
+// 「ママ…」
+<0688> "Mama, onde está você...?"
+// 「ママ、どこ…」
+<0689> "Estou aqui."
+// 「ここにいてる」
+<0690> "Mas eu não sou sua mãe. Então pare de me chamar assim."
+// 「けどな、うち、ママとちゃうねん.せやから、そんな呼び方せんといて」
+<0691> "Eu sou Haruko. Ha, ru, ko."
+// 「晴子や.は、る、こ」
+<0692> "Vovó Haruko."
+// 「晴子おばちゃん」
+<0693> "Quem você está chamando de vovó?!"
+// 「誰がおばちゃんじゃっ」
+<0694> *Bop!*\shake{1}
+// ぽかっ.
+<0695> "G-Gao..."
+// 「が、がお…」
+<0696> .........
+// ……….
+<0697> "Huh? Mãe?"
+// 「あれ、おかあさん？」
+<0698> "Onde está você, mãe?"
+// 「おかあさん、どこかなー」
+<0699> "Estou aqui."
+// 「ここにいてる」
+<0700> "E eu já te falei que não sou sua mãe."
+// 「せやけど、お母さんと違うて言うとるやろ」
+<0701> "Mãe..."
+// 「…おかあさん」
+<0702> "........."
+// 「………」
+<0703> "Não sou!"
+// 「違うわっ」
+<0704> Levou muito tempo para eu me acostumar com isso...
+// 慣れるまでごっつ時間かかったわ….
+<0705> Mas era melhor do que ser chamada de vovó.
+// せやけど、おばちゃん言われるより、ましか…
+<0706> Eu tinha acabado de te alimentar, mas foi só te deixar sozinha por um segundo que você foi capaz de comer algo sujo do chão.
+// 飯だけ食わせて、放っとこ思たら、あのかりんとう事件や.
+<0707> Como minha irmã conseguiu te criar para fazer uma coisa dessas?
+// 姉貴のあほはどんな育て方しとったんか…
+<0708> Comecei a achar que ela deveria ter te disciplinado...
+// しつけだけはしたらな、あかんな、思うようになって…
+<0709> Mas aos poucos percebi que você não era uma criança comum...
+// せやけど、この子が普通の子やないとわかってきて…
+<0710> Mesmo assim, achei você fofa quando voltava a rir imediatamente depois de chorar...
+// それでも泣いた後、すぐに笑顔で元気になるこの子見てたら、可愛いなって…
+<0711> No entanto, você ainda pertencia a outra pessoa... e viriam te buscar algum dia, assim que melhorasse...
+// でもこの子は他人の子やし、元気になったら、すぐにも連れてかれる思て…
+<0712> Desde o início, nossos horários não combinavam, e assim o tempo simplesmente passou...
+// もともと生活の時間帯が合わへんかったから、そのまま時間だけが流れて…
+<0713> .........
+// ……….
+<0714> \{Mulher}"Vamos recuperar nosso tempo perdido."
+// \{女}「頑張って、取り戻そな」
+<0715> \{Mulher}"Nosso tempo..."
+// \{女}「…ふたりの時間」
+<0716> 7 de agosto (Seg) / Sora
+// ８月 ７日(月)／そら
+<0717> \{Mulher}"Bom dia, Misuzu."
+// \{女}「おはよーさん.観鈴」
+<0718> \{Mulher}"Ainda a mesma de sempre?"
+// \{女}「変わりないか」
+<0719> \{Misuzu}"Mãe."
+// \{みすず}「お母さん」
+<0720> *...*
+// だきっ.
+<0721> \{Mulher}"Não se preocupe. Eu estarei com você."
+// \{女}「大丈夫や.ずっとそばにいてるで」
+<0722> \{Mulher}"Vou fazer o café da manhã. Me deixe ir, tá bom?"
+// \{女}「朝食作ってくるからな、少し離してや」
+<0723> \{Mulher}"........."
+// \{女}「………」
+<0724> \{Mulher}"Você está com fome, não está?"
+// \{女}「な、お腹空いたやろ」
+<0725> \{Mulher}"Você precisa comer."
+// \{女}「ちゃんと食わなあかんで」
+<0726> \{Mulher}"Vamos sair hoje."
+// \{女}「今日は外、でかけよな」
+<0727> \{Mulher}"Está quente lá fora. Você deve usar um chapéu."
+// \{女}「暑いから、帽子かぶってな」
+<0728> \{Mulher}"Acho que tenho um chapéu de palha em algum lugar."
+// \{女}「どっかに麦わら帽子あったと思うで」
+<0729> \{Mulher}"Vou procurá-lo."
+// \{女}「探しとくわ」
+<0730> \{Mulher}"Ok, Misuzu?"
+// \{女}「な、観鈴」
+<0731> \{Mulher}"Peguei o chapéu de palha. Tudo pronto para ir."
+// \{女}「よし、麦わら帽子も持ったし、準備ばんたんや～」
+<0732> \{Mulher}"Aqui, se segure nas minhas costas."
+// \{女}「ほら、肩につかまり」
+<0733> \{Misuzu}"Ok..."
+// \{みすず}「うん…」
+<0734> \{Mulher}"Um, dois..."
+// \{女}「よいせっと…」
+<0735> A mulher se levantou com a menina empoleirada em suas costas.
+// ふたりが立ち上がる.
+<0736> \{Mulher}"Vamos lá."
+// \{女}「いくで～」
+<0737> \{Mulher}"Oh, não decidimos para onde ir."
+// \{女}「って、どこ行くか決めてへんかったなぁ」
+<0738> \{Mulher}"Para onde você quer ir?"
+// \{女}「いきたいところ、あるか？」
+<0739> \{Misuzu}"Deixa eu ver..."
+// \{みすず}「えっとねー」
+<0740> \{Mulher}"Estou pensando..."
+// \{女}「うちはなぁ」
+<0741> \{Mulher}"O mar."\r
+  \{Misuzu e Mulher}"O mar."
+// \{女}「海」\r
+// \{みすず}「海」
+<0742> Elas disseram a mesma coisa ao mesmo tempo.
+// ふたりの声が重なった.
+<0743> \{Mulher}"Que coincidência. Eu também estava com vontade de ir lá."
+// \{女}「奇遇やなぁ.うちも行きたかったんや」
+<0744> \{Misuzu}"Sim, o mar é realmente bonito."
+// \{みすず}「うん、すごくいい、海」
+<0745> \{Misuzu}"Sempre quis ir lá."
+// \{みすず}「ずっと行きたかったの」
+<0746> \{Mulher}"Sério? Tudo bem, vamos."
+// \{女}「そっか.よし、いこ」
+<0747> \{Mulher}"Vamos com calma até lá."
+// \{女}「ゆっくりでええからな」
+<0748> \{Misuzu}"Ok..."
+// \{みすず}「うん…」
+<0749> As duas começaram a caminhar.
+// ふたりが歩いてゆく.
+<0750> O progresso delas era lento.
+// だが、その足取りはひどく遅い.
+<0751> \{Misuzu}"........."
+// \{みすず}「………」
+<0752> \{Mulher}"Haa..."
+// \{女}「はぁ…」
+<0753> No final, elas nem conseguiram sair para a luz do sol.
+// 結局ふたりは陽の光を浴びることさえ叶わなかった.
+<0754> \{Mulher}"Você realmente ficou mais pesada..."
+// \{女}「大きなったわ、あんた…」
+<0755> \{Mulher}"Eu conseguia te carregar com um braço naquela época."
+// \{女}「昔やったら、片腕でかついで、運んだってんけどなー」
+<0756> \{Mulher}"Ou é porque estou perdendo resistência? Deve ser pela minha idade."
+// \{女}「それともうちの体力がなくなったんかいな.歳かいなー」
+<0757> \{Mulher}"Ei, ainda sou jovem!"
+// \{女}「って、まだ若いちゅーねん」
+<0758> \{Misuzu}"........."
+// \{みすず}「………」
+<0759> \{Mulher}"Certo, Misuzu?"
+// \{女}「な、観鈴」
+<0760> \{Misuzu}"........."
+// \{みすず}「………」
+<0761> \{Misuzu}"Desculpe por estar te atrapalhando..."
+// \{みすず}「ごめんね、わたし、足手まといで…」
+<0762> \{Mulher}"Idiota, não diga isso."
+// \{女}「…あほ、そんなこと言いな」
+<0763> \{Mulher}"Você só precisa comer bem, recuperar suas forças, e então podemos sair novamente."
+// \{女}「もっとおいしいもの食べて、体力つけて、出かけたらええだけやないの」
+<0764> \{Misuzu}"É, você está certa."
+// \{みすず}「うん、そうだねー…」
+<0765> \{Mulher}"Vamos tentar novamente amanhã."
+// \{女}「明日、またいこ」
+<0766> \{Mulher}"Descanse bem hoje."
+// \{女}「その代わり、今日はゆっくり休み」
+<0767> \{Mulher}"As férias de verão são longas. Ainda temos muito tempo."
+// \{女}「夏休みは長いで.まだまだ時間はあるよってに.な」
+<0768> \{Misuzu}".........."
+// \{みすず}「………」
+<0769> \{Misuzu}"Desculpe..."
+// \{みすず}「ごめん…ね…」
+<0770> \shake{1}*Bop!*
+// ぽかっ.
+<0771> \{Misuzu}"Ai..."
+// \{みすず}「イタイ…」
+<0772> \{Misuzu}"Por que você me bateu?"
+// \{みすず}「どうして、殴られるのかなぁ…」
+<0773> \{Mulher}"Eu te disse para não pedir desculpas."
+// \{女}「謝んな言うとるやろ…あほ」
+<0774> \{Misuzu}"........."
+// \{みすず}「………」
+<0775> \{Misuzu}"Tudo bem, vou tentar novamente amanhã."
+// \{みすず}「うん、明日またがんばる」
+<0776> \{Mulher}"Isso mesmo. Misuzu-chin, avante!"
+// \{女}「そうや.観鈴ちん、ふぁいとや」
+<0777> \{Misuzu}"........."
+// \{みすず}「………」
+<0778> \{Mulher}"Diga. Misuzu-chin, avante!"
+// \{女}「言ってみ.観鈴ちん、ふぁいとって」
+<0779> \{Misuzu}"Certo..."
+// \{みすず}「うん…」
+<0780> \{Misuzu}"Misuzu-chin, avante!"
+// \{みすず}「観鈴ちん、ふぁいと」
+<0781> \{Mulher}"Isso mesmo, esse é o espírito."
+// \{女}「そうや.その意気や」
+<0782> \{Misuzu}"Haa..."
+// \{みすず}「はぁっ…」
+<0783> A garota soltou um suspiro de dor.
+// 彼女が苦しげに荒い息を吐いていた.
+<0784> \{Mulher}"Misuzu... Misuzu!"
+// \{女}「観鈴っ…観鈴っ!」
+<0785> A mulher chamou o nome da garota com uma voz angustiada.
+// 女が必死で呼びかけていた.
+<0786> \{Mulher}"Você está com dor? Onde dói? Misuzu!"
+// \{女}「苦しいんか、どっか痛いんか、観鈴っ!」
+<0787> \{Misuzu}"Ah..."
+// \{みすず}「あ…」
+<0788> A garota acordou.
+// 彼女が目覚める.
+<0789> \{Misuzu}"Mãe..."
+// \{みすず}「お母さん…」
+<0790> \{Mulher}"Isso mesmo, sou sua mãe. Eu sou sua mãe."
+// \{女}「そや、お母さんや.観鈴のお母さんやで」
+<0791> \{Mulher}"Essa é a primeira vez que você tem uma crise dessas na minha frente."
+// \{女}「うちの前で癇癪起こしたことなんて、今までなかったやんか」
+<0792> \{Mulher}"O que está acontecendo com você?"
+// \{女}「あんたほんまに、どうなっとるんや？」
+<0793> \{Misuzu}"Não é uma crise."
+// \{みすず}「これ、癇癪じゃないよ…」
+<0794> A garota estendeu uma mão fraca.
+// 力のない手を、女に伸ばす.
+<0795> \{Misuzu}"Está doendo muito..."
+// \{みすず}「…すごく痛いの」
+<0796> \{Mulher}"Onde está doendo? Nos pés? No peito? Nas costas?"
+// \{女}「どこが痛いんや？ 足か、胸か？ 背中か？」
+<0797> \{Mulher}"Vou te acalmar, mesmo que seja a noite toda..."
+// \{女}「うちがさすったる.一晩中でも…」
+<0798> \{Misuzu}"É inútil."
+// \{みすず}「無理だよ」
+<0799> \{Mulher}"O que você quer dizer com inútil?"
+// \{女}「無理なわけあらへんっ」
+<0800> \{Misuzu}"Não é isso que quero dizer..."
+// \{みすず}「そうじゃないの」
+<0801> \{Misuzu}"Isso é apenas a dor insuportável."
+// \{みすず}「これはたぶん、あるはずのない痛みだから」
+<0802> \{Misuzu}"E não há nada que a gente possa fazer."
+// \{みすず}「わたしも触れないから」
+<0803> \{Misuzu}"Provavelmente são minhas asas que estão doendo."
+// \{みすず}「たぶん、痛いのは翼だから…」
+<0804> \{Mulher}"Idiota! Isso não é engraçado."
+// \{女}「あほっ.こんな時に冗談言うやつおるかっ」
+<0805> \{Misuzu}"Nihaha... Desculpe..."
+// \{みすず}「にははっ…ごめんなさい…」
+<0806> A mulher aproximou a cabeça da garota e envolveu os braços ao redor dela.
+// 女が首を寄せると、その後ろに腕を回して抱きついた.
+<0807> \{Mulher}"Você ficará bem, Misuzu. Estou aqui."
+// \{女}「大丈夫や、観鈴.うちがついとる」
+<0808> \{Misuzu}"Sabe..."
+// \{みすず}「あのね、あのね…」
+<0809> \{Mulher}"O quê? O que há de errado?"
+// \{女}「なんや、どないしたんや…」
+<0810> \{Misuzu}"Sabe, mãe..."
+// \{みすず}「あのね、お母さん…」
+<0811> \{Mulher}"Hmm?"
+// \{女}「うん？」
+<0812> \{Misuzu}"Ouça com atenção."
+// \{みすず}「よく聞いて」
+<0813> \{Mulher}"O que é?" 
+// \{女}「なにがや…？」
+<0814> \{Misuzu}"Suponha que..."
+// \{みすず}「もしね…」
+<0815> \{Misuzu}"Se eu não for eu mesma quando acordar amanhã..."
+// \{みすず}「朝起きて、もしもわたしが変わってしまっても…」
+<0816> \{Misuzu}"Ainda vou lembrar..."
+// \{みすず}「わたしは覚えてるから」
+<0817> \{Mulher}"Lembrar de quê?"
+// \{女}「なにがや…」
+<0818> \{Misuzu}"Do seu rosto... Da sua risada... Vou lembrar de tudo."
+// \{みすず}「お母さんの顔、お母さんの笑顔、覚えてるから」
+<0819> \{Misuzu}"Sua risada estará sempre na minha memória."
+// \{みすず}「わたしの中では、ずっとお母さんは笑顔」
+<0820> \{Misuzu}"Eu sempre vou lembrar, então você não precisa se preocupar."
+// \{みすず}「それ覚えてるから、だいじょうぶだよ」
+<0821> \{Mulher}"Não entendo o que você está dizendo."
+// \{女}「何言ってるか、わからへん」
+<0822> \{Mulher}"Vou te mostrar minhas risadas o quanto você quiser."
+// \{女}「うちの笑顔なんて、なんぼでも見せたる」
+<0823> \{Mulher}"Refinadas, grosseiras, qualquer uma."
+// \{女}「上品なのも下品なのも、よりどりみどりや」
+<0824> \{Mulher}"Apenas melhore, Misuzu..."
+// \{女}「せやから、元気になってや…観鈴…」
+<0825> \{Mulher}"Me dê uma chance de ser sua mãe..."
+// \{女}「もっと母親らしい、うち、見てや…」
+<0826> \{Mulher}"Eu também quero ver você rindo ao meu lado."
+// \{女}「もっと、あんたのそばで笑ってるうち、見てほしいんや…」
+<0827> Então a mulher abraçou a garota.
+// 女はそのまま彼女を抱きしめた.
+<0828> \{Mulher}"Tudo bem, Misuzu?"
+// \{女}「な、観鈴…」
+<0829> \{Mulher}"Misuzu..."
+// \{女}「観鈴…」
+<0830> \{Mulher}"Ela adormeceu."
+// \{女}「眠ってしもたんか」
+<0831> A mulher deitou o corpo da garota.
+// 彼女の身体をうつぶせに寝かせる.
+<0832> Então a mulher acariciou as costas dela a noite toda.
+// 女はそれから一晩中、彼女の背中をさすり続けた.

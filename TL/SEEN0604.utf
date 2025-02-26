@@ -1,0 +1,335 @@
+// Resources for SEEN0604.TXT
+
+#character '*A'
+// '*Ａ'
+#character 'Voz'
+// '声'
+#character 'Minagi'
+// '美凪'
+#character 'Michiru'
+// 'みちる'
+
+<0000> 4 de Agosto (Sex)
+// ８月 ４日(金)
+<0001> \{Yukito}"Hmm..."
+// \{Yukito}「ん…」
+<0002> No dia seguinte, acordei com a luz do verão.
+// 翌朝、夏の陽射しに目を覚ました.
+<0003> Quando abri meus olhos, os raios entraram neles e me fizeram estremecer.
+// 目を開けると同時に、瞳を射す直線的な光が目に痛かった.
+<0004> Apertei os olhos e o céu infinito de verão diante de mim diminuiu de tamanho.
+// 目を細めると、どこまでも広がる夏の空が、とても狭いもののように思えた.
+<0005> \{Voz}"Bom dia..."
+// \{声}「…おはようございます」
+<0006> Uma voz suave e calorosa.
+// 優しい日だまりのような声.
+<0007> Tohno tava olhando pra mim.
+// 遠野が、寝ころぶ俺の顔を覗き込んでいた.
+<0008> \{Yukito}"........."
+// \{Yukito}「………」
+<0009> \{Yukito}"...Por quê?"
+// \{Yukito}「…なんで？」
+<0010> \{Minagi}"Sim?"
+// \{美凪}「…はい？」
+<0011> \{Yukito}"........."
+// \{Yukito}「………」
+<0012> \{Yukito}"Ah, sim..."
+// \{Yukito}「…ああ…そうだったな…」
+<0013> Por um momento, não entendi por que Tohno tava aqui.
+// 一瞬、遠野がなぜここにいるのか、理解できなかった.
+<0014> Mas imediatamente me lembrei do que aconteceu ontem.
+// だが、すぐさま思い出した.昨日のことを.
+<0015> Essa foi nossa primeira manhã desde que começamos a morar juntos.
+// それは、初めて迎える、二人の朝だった.
+<0016> \{Minagi}"Hmm... O café da manhã está pronto."
+// \{美凪}「…あの…朝ご飯できてます」
+<0017> Quando esfreguei meus olhos sonolentos, uma fragrância familiar chegou ao meu nariz.
+// 寝ぼけ眼を擦っていると、久しく忘れかけていた、懐かしい香りが鼻先をかすめた.
+<0018> Era sopa de \g{missô}={Pasta fermentada de soja e cereais típica da culinária asiática, rica em probióticos, vitaminas e minerais.}.
+// みそ汁の匂いだった.
+<0019> \{Minagi}"Esta é a primeira vez que cozinho arroz em uma panela dessas... Demorou um bom tempo..."
+// \{美凪}「…飯盒炊飯はあまり経験がないので…苦労しました」
+<0020> Ela encheu um copo de papel com a sopa de missô e entregou pra mim.
+// 紙コップにみそ汁を注ぎ、俺に手渡す.
+<0021> A sopa de missô tinha farelo de trigo e cebolinha frita.
+// みそ汁の具は麩と炒った青ネギ.
+<0022> Tohno disse que trouxe ingredientes que não estragariam rapidamente.
+// なるべく腐りにくい材料を選んで持ってきた、と遠野は言った.
+<0023> Sua bolsa esportiva tava cheia de coisas assim, pelo visto.
+// どうやら、あのスポーツバッグの中には、そんなものが詰め込まれていたらしい.
+<0024> E o arroz branco em meu prato de papel tava cozido muito melhor do que eu poderia fazer.
+// そして、紙皿の上には、俺が炊いたものよりはるかに出来が良い白米.
+<0025> Talvez Tohno tenha melhores habilidades pra viajar do que eu, que estive em uma jornada durante todo esse tempo.
+// もしかしたら、一人旅をし続けてきた俺よりも、遠野の方が旅人としての資質を兼ね備えているのではないだろうか.
+<0026> \{Yukito}(Você é realmente incrível, Tohno Minagi.)
+// \{Yukito}(すごいぞ、遠野美凪)
+<0027> Enquanto degustava meu café da manhã, no fundo eu tava admirando essa garota.
+// 俺は、朝食の味を噛みしめながら、心の中で賛辞を送った.
+<0028> Quando já passava do meio-dia, Michiru veio correndo até nós.
+// 午後になり、みちるが駆けてきた.
+<0029> No momento em que Michiru colocou os olhos em Tohno, ela não conseguiu conter o sorriso e mergulhou diretamente em seu peito.
+// みちるは、遠野の姿を見つけると、満面の笑顔でその胸に飛び込んだ.
+<0030> \{Michiru}"Bem-vinda de volta!"
+// \{みちる}「おかえりなさーい」
+<0031> Michiru esfregou o rosto no peito de Tohno, expressando sua alegria com todo o corpo.
+// 遠野の胸に頬をすり寄せながら、全身で喜びを表現するみちる.
+<0032> \{Minagi}"Eu voltei..."
+// \{美凪}「…ただいま」
+<0033> Tohno acariciou a cabeça dela com carinho.
+// その頭を、愛おしそうに撫でる遠野.
+<0034> \{Michiru}"Nyahaha. Estou feliz por ter feito um desejo."
+// \{みちる}「にゃはは.やっぱり、おねがいしてよかったぁ」
+<0035> \{Minagi}"Um desejo?"
+// \{美凪}「…お願い？」
+<0036> \{Michiru}"Sim."
+// \{みちる}「うんっ」
+<0037> \{Michiru}"Sabe, fiz um pedido à areia das estrelas para que Minagi voltasse logo."
+// \{みちる}「あのね、美凪が早く帰ってきてくれるように、星の砂におねがいしたのっ」
+<0038> \{Michiru}"Kunisaki Yukito me disse para tentar isso."
+// \{みちる}「KunisakiYukitoがね、そうしてみろって言ったんだよっ」
+<0039> \{Minagi}"Kunisaki-san?"
+// \{美凪}「…Kunisakiさんが？」
+<0040> Minagi me deu uma olhada de relance.
+// ちらりと、俺に視線を向ける.
+<0041> \{Minagi}"........."
+// \{美凪}「………」
+<0042> \{Yukito}"........."
+// \{Yukito}「………」
+<0043> \{Minagi}"........."
+// \{美凪}「………」
+<0044> \{Yukito}"O que foi?"
+// \{Yukito}「…なんだよ」
+<0045> \{Minagi}"Obrigada."
+// \{美凪}「…ありがとうございます」
+<0046> Minagi fez uma reverência.
+// ぺこりと頭を垂れる.
+<0047> \{Yukito}"Eu não fiz nada pra merecer seu agradecimento."
+// \{Yukito}「べつに、お礼を言われるようなことはしてないぞ」
+<0048> \{Minagi}"........."
+// \{美凪}「………」
+<0049> \{Minagi}"Você está... com vergonha?"
+// \{美凪}「…照れてます？」
+<0050> \{Yukito}"Tô não!"
+// \{Yukito}「照れてない」
+<0051> \{Michiru}"Nyahaha. Afinal, você nunca faz nada mesmo, Kunisaki Yukito."
+// \{みちる}「にゃはは.すこしだけみなおしたぞ、KunisakiYukito」
+<0052> \{Yukito}"Bem, valeu."
+// \{Yukito}「そりゃどうも」
+<0053> \{Michiru}"Mmm... você deveria me agradecer mais."
+// \{みちる}「むぅ…もっとよろこんでよ」
+<0054> \{Yukito}"Idiota. Aí você já tá se achando."
+// \{Yukito}「馬鹿.そんなことで、いちいち喜んでいられるか」
+<0055> \{Michiru}"Não me chame de idiota!"
+// \{みちる}「ばかっていうなーーーっ」
+<0056> \{Yukito}"........."
+// \{Yukito}「………」
+<0057> *Pit pat... pit pat...*
+// すたすたすた.
+<0058> *Bop!*\shake{1}
+// ぽかっ.\shake{1}
+<0059> \{Michiru}"Nyoma!"
+// \{みちる}「にょまっ」
+<0060> \{Yukito}"Pare de ficar gritando!"
+// \{Yukito}「やかましい」
+<0061> \{Michiru}"Uu... Minha cabeça está girando novamente..."
+// \{みちる}「うぅ…ひさしぶりの脳みそくらくら…」
+<0062> \{Minagi}"........."
+// \{美凪}「………」
+<0063> \{Yukito}"O que foi agora?"
+// \{Yukito}「…なんだよ」
+<0064> Tohno me olhou com uma expressão feliz.
+// 遠野が、口元を柔らかくほころばせながら、俺を見つめていた.
+<0065> \{Minagi}"Kunisaki-san... sorriu..."
+// \{美凪}「…Kunisakiさん…いま笑ってました」
+<0066> \{Yukito}"Eh..."
+// \{Yukito}「え…」
+<0067> \{Minagi}"Essa é a primeira vez... que vejo o sorriso de Kunisaki-san."
+// \{美凪}「…初めてです…Kunisakiさんのそんな笑顔を見たのは」
+<0068> \{Yukito}"........."
+// \{Yukito}「………」
+<0069> \{Minagi}"Foi um sorriso realmente fofo."
+// \{美凪}「…とてもかわいい笑顔でしたよ」
+<0070> \{Yukito}"........."
+// \{Yukito}「………」
+<0071> \{Minagi}"Mostre-me seu sorriso de novo..."
+// \{美凪}「…できれば…もっと見てみたいです」
+<0072> \{Yukito}"........."
+// \{Yukito}「………」
+<0073> Dei as costas pra elas.
+// くるりと背を向ける.
+<0074> \{Minagi}"Ah... Ele está sendo tímido..."
+// \{美凪}「…あ…照れちゃった」
+<0075> \{Yukito}"Não, eu não tô!"
+// \{Yukito}「照れちゃってない」
+<0076> \{Michiru}"Nyahaha. Ele está com vergonha!"
+// \{みちる}「にゃはは.てれたてれた～」
+<0077> \{Yukito}"........."
+// \{Yukito}「………」
+<0078> \{Minagi}"Tímido..."
+// \{美凪}「…照れた」
+<0079> \{Michiru}"Tímido!"
+// \{みちる}「てれた～」
+<0080> \{Yukito}"........."
+// \{Yukito}「………」
+<0081> *Zaaap...*
+// くるり….
+<0082> \shake{1}*Póin! \wait{250}\shake{1}Póin!*
+// ずびっ、ずびっ.\shake{1}\shake{1}
+<0083> \{Minagi}"Ah..."\r
+  \{Michiru}"Hmmnyu!"
+// \{美凪}「…あ…」\r
+// \{みちる}「んにゅ」
+<0084> Eu me virei e dei um peteleco na testa das duas.
+// 向き直り、二人の額を軽く小突いた.
+<0085> \{Minagi}"Esta é a primeira vez que Kunisaki-san me pune..."
+// \{美凪}「…Kunisakiさんツッコミ初体験」
+<0086> Ela parecia muito satisfeita com isso.
+// 喜ばれた.
+<0087> \{Yukito}"Eu tô saindo."
+// \{Yukito}「俺は出かけるからな」
+<0088> Dei as costas pra elas novamente e fui embora.
+// もう一度二人に背を向けて、足を踏み出す.
+<0089> Eu tava tentando esconder meu constrangimento.
+// 照れ隠しだった.
+<0090> Porque realmente eu tava feliz.
+// 嬉しかったから.
+<0091> Seja qual for o motivo, eu tava feliz por poder passar um tempo com elas novamente.
+// 理由はどうあれ、またこうして三人の時を過ごせることが、嬉しかったから.
+<0092> Mas...
+// だけど….
+<0093> \{Minagi}"Até logo."
+// \{美凪}「…いってらっしゃい」
+<0094> Eu ouvi a voz gentil de Tohno atrás de mim.
+// 背中から、遠野の優しい声が聞こえる.
+<0095> Não me virei. Eles tavam me provocando de novo?
+// 後ろを向いていなかったら、また笑ったと言って、からかわれただろうか.
+<0096> .........
+// ……….
+<0097> ......
+// …….
+<0098> ...
+// ….
+<0099> A noite chegou.
+// 夜.
+<0100> Fomos até o terraço da escola pra observar as estrelas juntos.
+// 俺たちは、学校の屋上に行って、三人で星空を眺めた.
+<0101> \{Minagi}"Essa é a Camelopardalis... e essa é a Ursa Menor."
+// \{美凪}「…あれがキリン座で…あっちは小熊座」
+<0102> Tohno tava nos contando sobre as constelações.
+// 遠野は、俺とみちるに詳しく星座の話を聞かせてくれた.
+<0103> \{Michiru}"Nyahaha. A Camelopardalis e a Ursa Menor são boas amigas, certo?"
+// \{みちる}「にゃはは.きりんさんとこぐまさんは、なかよしこよしだね」
+<0104> Michiru não parou de falar o dia todo, possivelmente porque tava feliz só de estar com Tohno.
+// みちるは、遠野といられることがよほど嬉しいのか、昼間からずっと騒ぎっぱなしだった.
+<0105> \{Minagi}"........."
+// \{美凪}「………」
+<0106> Em resposta, Tohno olhava pra Michiru com ternura.
+// そんなみちるを、遠野は優しい眼差しで見つめる.
+<0107> De vez em quando, ela acariciava a cabeça de Michiru, como se estivesse se certificando de que ela tava realmente ali.
+// 時折、みちるの存在を確かめるように、触れるように、みちるの頭を優しく撫でる.
+<0108> E então Michiru ria.
+// みちるが、幸せそうに笑う.
+<0109> Não foi tão ruim assim.
+// 良い光景だった.
+<0110> Eu nunca me cansaria de assisti-las.
+// ずっと見つめ続けていても、決して見飽きることのない光景だと思った.
+<0111> Mas será que pertenço a este lugar?
+// その光景の中に、俺は今、本当にいるのだろうか.
+<0112> Isso é um sonho?
+// これは、夢の中の光景なのではないだろうか.
+<0113> Essa gentileza me fez pensar assim.
+// そう思えてしまうほどの安らかな温もり….
+<0114> Pela primeira vez, eu realmente desejava permanecer nesta cidade.
+// 俺は、この町にきて以来初めてここにいたいと明確に思った.
+<0115> Eu não sabia o que Tohno queria dizer quando falava sobre o fim de um sonho.
+// 遠野が言う夢の終わりがいったい何を指すものなのかはわからない.
+<0116> No entanto, mesmo que isso fosse apenas um sonho, não queríamos que acabasse.
+// でも、たとえこれが夢であったとしても、夢の終わりなんて、俺たちには必要なかった.
+<0117> Pelo menos, não nesse momento...
+// 少なくとも、今、このときだけは….
+<0118> .........
+// ……….
+<0119> ......
+// …….
+<0120> ...
+// ….
+<0121> \{Michiru}"Bem, uma boa noite."
+// \{みちる}「んじゃあ、みちるはここでおやすみなさいだよ」
+<0122> Michiru se despediu assim que saímos da escola.
+// 学校を出たところで、みちると別れる.
+<0123> \{Yukito}"Você não vai nos acompanhar até o distrito comercial?"
+// \{Yukito}「商店街まで、一緒に行かないのか」
+<0124> Perguntei a Michiru, porque nos separamos lá da outra vez.
+// この間の夜はそこで別れたので、俺はみちるにそう訊いてみた.
+<0125> \{Michiru}"Não, vou por aqui hoje."
+// \{みちる}「うん.今日はここでいいよ」
+<0126> \{Yukito}"Por quê? Você tá indo a algum lugar?"
+// \{Yukito}「どうして.どこか、寄るところでもあるのか」
+<0127> \{Michiru}"H-Hmmnyu? Não..."
+// \{みちる}「ん、んにゅ？そんなんじゃないけど」
+<0128> \{Yukito}"Certo. Então, por que não vem com a gente...?"
+// \{Yukito}「そっか.なら一緒に…」
+<0129> \{Michiru}"Nyahaha! Tenha uma boa noite, mambo!"
+// \{みちる}「にゃはは、んじゃあ、おやすみマンボーーーっ」
+<0130> *Pit pat pit pat pit pat...*
+// ぱたぱたぱたーーーっ.
+<0131> Logo depois de dizer isso, ela saiu correndo.
+// 言いかけたところで、奇怪な言葉を残し、みちるは駆けていった.
+<0132> \{Yukito}"Qual é o problema dela?"
+// \{Yukito}「…なんなんだ、あいつ」
+<0133> Observei Michiru enquanto ela desaparecia na escuridão da noite.
+// 夜の中に消えていく、みちるの後ろ姿を見つめる.
+<0134> \{Minagi}"É a maneira dela de... demonstrar consideração."
+// \{美凪}「…あの子なりに…気を遣ってくれたんですよ」
+<0135> \{Yukito}"Consideração?"
+// \{Yukito}「気を？」
+<0136> \{Minagi}"Sim..."
+// \{美凪}「…はい」
+<0137> \{Yukito}"Com quem?"
+// \{Yukito}「誰に対してだ」
+<0138> \{Minagi}"Com a gente, é óbvio."
+// \{美凪}「…もちろん私たちに対してです」
+<0139> \{Yukito}"Por quê?"
+// \{Yukito}「なんで？」
+<0140> \{Minagi}"Vai saber..."
+// \{美凪}「…さあ…なんででしょうね」
+<0141> Tohno sorriu discretamente.
+// 何かを含んだような笑みをもらす.
+<0142> \{Yukito}"Será que sou o único que não entende o que tá acontecendo?"
+// \{Yukito}「…もしかして、わかってないのは俺だけか」
+<0143> \{Minagi}"Pelo visto sim..."
+// \{美凪}「…みたいですね」
+<0144> \{Yukito}"Hmm..."
+// \{Yukito}「む…」
+<0145> Me senti um pouco frustrado.
+// 少し悔しかった.
+<0146> \{Minagi}"O esforço de Michiru foi em vão... Alguém não está entendendo nada..."
+// \{美凪}「…みちるも報われませんね…当人が気づいてくれないなんて」
+<0147> \{Yukito}"Hmmm..."
+// \{Yukito}「むむ…」
+<0148> \{Minagi}"Vamos voltar?"
+// \{美凪}「…では帰りましょうか」
+<0149> \{Yukito}"Hmmmm..."
+// \{Yukito}「むむむ…」
+<0150> E assim, chegamos ao caminho que levava de volta à estação. 
+// そうして、俺たちは駅への帰路についた.
+<0151> No caminho, fiquei perguntando pra Tohno por que Michiru tava demonstrando consideração por nós, mas ela se recusou a me dizer qualquer coisa.
+// 途中、みちるがどうして気を遣ったのか遠野に何度も訊ねてみたが、結局何も教えてもらえなかった.
+<0152> \{Yukito}"Hmmmmm..."
+// \{Yukito}「むむむむ…」
+<0153> Meus problemas tão só se agravando.
+// 俺の悩みは増すばかり.
+<0154> Eu provavelmente nem conseguiria dormir esta noite...
+// 今夜は、眠れないのではないだろうか….
+<0155> .........
+// ……….
+<0156> ......
+// …….
+<0157> ...
+// ….
+<0158> .........
+// ……….
+<0159> ......
+// …….
+<0160> ...
+// ….

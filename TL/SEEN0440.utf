@@ -1,0 +1,407 @@
+﻿// Resources for SEEN0440.TXT
+
+#character 'Mãe'
+#character 'Homem'
+
+<0000> \  Epilogo / Sora
+// \  エピローグ／そら
+<0001> O tempo flui.
+// 時間は流れてゆく.
+<0002> O sol nasce e se põe.
+// 日は昇り、暮れてゆく.
+<0003> Cada dia que passa é igual ao anterior.
+// 同じような日が過ぎゆく.
+<0004> \{Mãe}"Eu estive chorando desde aquele dia."
+// \{母}「うち、あの日から、泣いて、泣きまくって過ごした…」
+<0005> \{Mãe}"Eu já esgotei todas as minhas lágrimas."
+// \{母}「もう流す涙も尽きたわ」
+<0006> \{Homem}"Eu esperava que você chorasse no meu peito..."
+// \{男}「僕の胸で泣いてくれるのかと思いきや…一度としてお呼びがかからない」
+<0007> \{Mãe}"Idiota, eu preferia morrer antes disso."
+// \{母}「あほぅ、死んでも、あんたなんかの胸で泣くかいや」
+<0008> \{Homem}"Hehe, eu imaginei."
+// \{男}「あなたらしいね」
+<0009> \{Mãe}"Você também pode chorar no meu peito."
+// \{母}「逆やったらええで」
+<0010> \{Mãe}"Venha a mim se sentir vontade de desabafar."
+// \{母}「あんたが泣きたくなったら、うちに来(き)ぃ」
+<0011> \{Mãe}"Eu empresto meu peito para você a qualquer hora."
+// \{母}「いつでも胸、貸したるからなー」
+<0012> \{Homem}"Dispenso. Já não sou mais o garoto que eu era."
+// \{男}「遠慮しとくよ.もう、昔のような子供じゃないんだから」
+<0013> \{Mãe}"Entendo."
+// \{母}「そか」
+<0014> \{Mãe}"Você ficou mais forte."
+// \{母}「強(つよ)なったんやな、あんた」
+<0015> \{Mãe}"Você me superou."
+// \{母}「うちなんか、追い越して」
+<0016> \{Homem}"Hahaha."
+// \{男}「はは…」
+<0017> \{Homem}"Ikuko iria rir se te ouvisse falando isso."
+// \{男}「郁子が笑ってるよ.まさか、あの妹の口からそんな言葉がでるのか、って」
+<0018> \{Homem}"Ela uma vez disse que eu nunca te venceria."
+// \{男}「僕は永遠に晴子には勝てないって言っていたからね」
+<0019> \{Homem}"Na verdade, isso vale para nós dois."
+// \{男}「いや、僕らは、か」
+<0020> \{Mãe}"O que você quer dizer?"
+// \{母}「どういう意味やねん」
+<0021> \{Homem}"Nada... Só algo pessoal."
+// \{男}「いや…深い意味はないよ」
+<0022> \{Mãe}"Hmm..."
+// \{母}「ふぅん」
+<0023> \{Mãe}"Mas, de qualquer forma..."
+// \{母}「せやけど…」
+<0024> \{Mãe}"As mães são incríveis."
+// \{母}「母親ってのは、すごいなぁ」
+<0025> \{Mãe}"Não só as mães, mas a família."
+// \{母}「母親だけやない.家族や」
+<0026> \{Mãe}"Embora tenha sido apenas um mês, pareceu muito mais longo que isso."
+// \{母}「うち短い間やったけど、ごっつ凝縮した時間を過ごしたんや」
+<0027> \{Mãe}"Acho que finalmente entendi."
+// \{母}「だから、ようわかる」
+<0028> \{Mãe}"A família é algo incrível."
+// \{母}「すごかったんやなぁ、家族て」
+<0029> \{Mãe}"A felicidade e o sofrimento infinitos... Estão todos lá."
+// \{母}「このうえない幸せと、このうえない辛さ…すべてがそこにある」
+<0030> \{Mãe}"Isso é o que significa viver."
+// \{母}「それはまさしく人が生きる、いうことや」
+<0031> \{Mãe}"E é por isso que acho que finalmente vivi."
+// \{母}「せやから、うちは生きとった」
+<0032> \{Mãe}"Em meus vinte e oito anos, este foi o período em que me senti mais viva."
+// \{母}「この二十八年間で一番、生きとった」
+<0033> \{Mãe}"Fui imprudente, desgastada, forte e fraca..."
+// \{母}「がむしゃらで、ボロボロで、強くて弱かった…」
+<0034> \{Mãe}"Nem sei mais o que estou falando... Haha."
+// \{母}「なに言うてるか、わからんようになってきたな、うち…はは」
+<0035> \{Homem}"Não, eu entendo. Talvez até demais."
+// \{男}「いや、わかるよ.痛いぐらいに」
+<0036> \{Mãe}"Sério? É... Eu imaginei que você entenderia."
+// \{母}「そか.そやな.あんたやったらわかるわな」
+<0037> \{Mãe}"Afinal, somos adultos."
+// \{母}「うちら、大人やもんな」
+<0038> \{Homem}"É verdade."
+// \{男}「そうだね」
+<0039> \{Mãe}"Então..."
+// \{母}「せやから…」
+<0040> \{Mãe}"Tenho certeza de uma coisa."
+// \{母}「せやからな…うち自信あるねん」
+<0041> \{Mãe}"Tenho certeza, até agora."
+// \{母}「今はもう自信あるねん」
+<0042> \{Mãe}"Eu fui a mãe da Misuzu."
+// \{母}「うちはあの子の母親なんやって」
+<0043> \{Mãe}"Talvez não uma muito boa, mas eu fui a mãe dela."
+// \{母}「立派と違うかもしれへんけど、あの子の母親なんや」
+<0044> \{Mãe}"Por isso..."
+// \{母}「せやから…」
+<0045> \{Mãe}"Misuzu sempre será minha única filha."
+// \{母}「うちの子も、いつまでも観鈴ひとりだけなんや」
+<0046> \{Mãe}"Não haverá mais ninguém."
+// \{母}「あの子だけなんや」
+<0047> \{Mãe}"Kamio Misuzu sempre será a única filha de Kamio Haruko."
+// \{母}「ずっと、神尾晴子の娘は、神尾観鈴だけなんや」
+<0048> \{Homem}"Mas aí... você não estará vivendo sua vida plenamente."
+// \{男}「それじゃ、今のあなたは…生きていないことになるよ」
+<0049> \{Mãe}"Não se preocupe, ainda estarei."
+// \{母}「大丈夫や.生きとるで」
+<0050> \{Homem}"Er... Bem..."
+// \{男}「そうだろうけど…」
+<0051> \{Homem}"Haruko, você não quer vir morar comigo?"
+// \{男}「晴子、うちに来ないか」
+<0052> \{Mãe}"Eu disse para não se preocupar comigo."
+// \{母}「せやから、ヘンな気ぃ使うな言うてんねん」
+<0053> \{Mãe}"Eu vou ficar bem."
+// \{母}「うちは、大丈夫や」
+<0054> \{Mãe}"Comecei a trabalhar numa creche do bairro."
+// \{母}「近所の保育所に通いはじめたんや」
+<0055> \{Homem}"Huh?"
+// \{男}「え？」
+<0056> \{Mãe}"Há muitas crianças por lá."
+// \{母}「子供が仰山おる」
+<0057> \{Mãe}"Estou sempre dando bronca nelas."
+// \{母}「片っ端から叱ってる最中や」
+<0058> \{Homem}"E o seu trabalho?"
+// \{男}「仕事はどうした」
+<0059> \{Mãe}"Não faz sentido continuar naquele emprego."
+// \{母}「あんな仕事続けてても、意味あらへん」
+<0060> \{Mãe}"Quero viver rodeada de crianças."
+// \{母}「うち、子供と接して生きていきたい思うてるねん」
+<0061> \{Mãe}"Misuzu era minha única filha, mas ainda quero viver cercada pela pirralhada."
+// \{母}「うちの家族はあの子ひとりやけども…いろんな家族に囲まれて生きていきたい」
+<0062> \{Mãe}"Tenho muitas coisas que quero ensinar a elas. Vou cuidar delas por um tempo."
+// \{母}「いろんなこと教えてやりたいんや.うちが、短い間で培ったことや」
+<0063> \{Mãe}"Todas essas coisas agora são importantes para mim."
+// \{母}「それは全部、大切なことやから」
+<0064> \{Mãe}"É um trabalho que vale a pena."
+// \{母}「やりがいある」
+<0065> \{Mãe}"É assim que irei viver daqui pra frente."
+// \{母}「今は、そんなふうにして生きてるねん」
+<0066> \{Homem}"Entendo..."
+// \{男}「そうか…」
+<0067> \{Mãe}"Além disso, existem umas crianças bem bobas na creche."
+// \{母}「それにな、その保育所に、あほな子がおるねん」
+<0068> \{Mãe}"Um menino e uma menina que estão sempre juntos... Se eu não cuidar deles, vão ficar pra trás."
+// \{母}「男の子と女の子の二人組でな、しばらく面倒みたらんとあれは落ちこぼれるわ」
+<0069> \{Mãe}"Bom, na verdade não me importo se ficarem pra trás. São fofos ainda assim."
+// \{母}「別におちこぼれてもええけどなー.かわいいから」
+<0070> \{Mãe}"Ahaha."
+// \{母}「あははっ」
+<0071> \{Homem}"Estou aliviado."
+// \{男}「安心したよ」
+<0072> \{Mãe}"Obrigada por se preocupar comigo."
+// \{母}「心配かけたな.おーきにや」
+<0073> \{Homem}"Imagina, fique tranquila."
+// \{男}「いや、なんてことないよ」
+<0074> \{Mãe}"Vou visitar você algum dia."
+// \{母}「そのうち、そっちにも遊びにいくわ」
+<0075> \{Mãe}"Vou me sentir mal se só você continuar vindo me ver."
+// \{母}「来てもろてばっかりで悪いからな」
+<0076> \{Homem}"Tudo bem. Estarei esperando."
+// \{男}「そうだね.待ってるよ」
+<0077> \{Homem}"........."
+// \{男}「………」
+<0078> \{Homem}"Foi um longo verão..."
+// \{男}「長い休み」
+<0079> \{Homem}"Minhas longas férias também estão chegando ao fim."
+// \{男}「僕の休暇も終わりだ」
+<0080> \{Homem}"Vou embora agora."
+// \{男}「じゃ、そろそろ戻るよ、僕は」
+<0081> \{Mãe}"Tudo bem. Obrigada por vir de tão longe."
+// \{母}「うん、遠いところからおーきに」
+<0082> \{Homem}"Fique bem."
+// \{男}「元気で」
+<0083> Desde aquele dia...
+// 母親は、前を向いて生き始めた.
+<0084> A mãe começou a viver para o futuro.
+// あの日から.
+<0085> Quanto a mim...
+// そして、僕は…
+<0086> Eu ainda estava procurando pela garota.
+// 今も彼女を探し続けていた.
+<0087> Ela desapareceu naquele dia.
+// あの日消えてしまった、ひとりの少女を.
+<0088> Continuei a minha jornada nesta terra.
+// ずっと、この地を歩き続けた.
+<0089> Caminhei pelos mesmos locais onde uma vez andei com ela.
+// 彼女と一緒に歩いた風景を.
+<0090> Mas não consegui encontrá-la em lugar nenhum.
+// どこにも見つからなかった.
+<0091> \{Mãe}"Ei, tem uma coisa preta aqui."
+// \{母}「ん、黒いんおる」
+<0092> \{Mãe}"Você é o Sora?"
+// \{母}「あんた、そらか？」
+<0093> \{Mãe}"É o Sora que ficou na nossa casa?"
+// \{母}「いつも、うちらといてくれてたそらか？」
+<0094> \{Mãe}"Você era tão grande assim?"
+// \{母}「こんなに大きかったかな…」
+<0095> \{Mãe}"Tenho quase certeza de que você era menor na época."
+// \{母}「もうちょい小さかった気するな…」
+<0096> \{Mãe}"Mas já faz um tempo..."
+// \{母}「でも、しばらく時間経ってるし…」
+<0097> \{Mãe}"Haha... Não consigo saber se é você."
+// \{母}「はは…ようわからん」
+<0098> \{Mãe}"Mas espero que você não seja ele."
+// \{母}「でも、そらやないほうがええわ」
+<0099> \{Mãe}"Porque eu vou te dar uma bronca se for."
+// \{母}「そらやったら、うち、叱らなあかん」
+<0100> \{Mãe}"O que você ainda está fazendo aqui?"
+// \{母}「あんたは、今もこんなところいてるんか」
+<0101> \{Mãe}"Aquela garota não está mais aqui."
+// \{母}「もうあの子はいてないんやで」
+<0102> \{Mãe}"Ei..."
+// \{母}「…って」
+<0103> \{Mãe}"Aquela garota te deu um nome por causa do céu, não foi?"
+// \{母}「あの子が名前つけてくれたんやろ.そらって」
+<0104> \{Mãe}"É um nome magnífico."
+// \{母}「立派な名前やん」
+<0105> \{Mãe}"O céu é um lugar inalcançável."
+// \{母}「空は、ずっと届かん場所や…」
+<0106> \{Mãe}"Bem, isso é verdade para aqueles que não têm asas."
+// \{母}「うちら、翼のない人にとってはな」
+<0107> \{Mãe}"Mas você tem asas."
+// \{母}「あんたには、翼があるやないの」
+<0108> \{Mãe}"Por isso, você deve alcançar o céu..."
+// \{母}「いかなあかんで…」
+<0109> \{Mãe}"Eu fiquei estagnada por muitos anos..."
+// \{母}「うちも長い時間かかってしもたけど…」
+<0110> \{Mãe}"Mas agora finalmente consigo seguir em frente."
+// \{母}「ようやく、踏み出すことできたんやで」
+<0111> \{Mãe}"Muitas coisas mudaram..."
+// \{母}「いろんなこと変わってしもたけど…」
+<0112> \{Mãe}"E a cada passo, o caminho à minha frente se torna um pouco mais longo."
+// \{母}「それでも、踏み出せば、どんどん道は続いてる」
+<0113> \{Mãe}"Eu vou continuar vivendo."
+// \{母}「生きていくんや、うちは」
+<0114> \{Mãe}"O verão pode ter acabado, mas o céu continua para sempre."
+// \{母}「夏は終わったけど、空は果てなく続いてる」
+<0115> \{Mãe}"Eu vou continuar caminhando."
+// \{母}「うちは歩いていくから…」
+<0116> \{Mãe}"Eu ainda vou correr atrás das nuvens."
+// \{母}「ずっと、雲追いかけて…」
+<0117> \{Mãe}"Então... você precisa voar..."
+// \{母}「せやから、あんたは飛ぶんや」
+<0118> \{Mãe}"Faça isso por nós, que não temos asas..."
+// \{母}「翼のない、うちらの代わりに…」
+<0119> \{Mãe}"Você vai levar nossos sonhos e esperanças de volta para o céu."
+// \{母}「ひとの夢とか願い…ぜんぶ、この空に返してや」
+<0120> \{Mãe}"Conto com você."
+// \{母}「頼むで」
+<0121> \{Mãe}"Se você nos ajudar a fazer isso, poderemos viver em paz."
+// \{母}「そうすれば、うちらはきっと…ずっと穏やかに生きていける」
+<0122> \{Mãe}"É isso o que eu sinto."
+// \{母}「そんな気がするんや…」
+<0123> \{Mãe}"........."
+// \{母}「………」
+<0124> \{Mãe}"Está quase na hora."
+// \{母}「そろそろ時間や」
+<0125> \{Mãe}"Eu estou indo agora."
+// \{母}「うち、いくわ」
+<0126> \{Mãe}"Espero que a gente se encontre novamente algum dia."
+// \{母}「またいつの日か…会えたらええな」
+<0127> \{Mãe}"Fique bem!"
+// \{母}「ほな、元気でやりや～!」
+<0128> E então me vi olhando para o céu.
+// そして、いつしか僕は空を見ていた.
+<0129> Estava manchado com a cor da tristeza.
+// いつだって悲しみの色をたたえていた空.
+<0130> A garota não estava mais neste mundo.
+// 彼女はもう地上にはいない.
+<0131> Ela estava no céu, longe.
+// この空の彼方にいるのだ.
+<0132> Ela era a fonte da tristeza.
+// 悲しみの正体は、それだった.
+<0133> A garota viveu toda a sua vida olhando para o céu.
+// ずっと空に向かって、彼女は生きていたのだ.
+<0134> Este vazio azul que se estendia para sempre...
+// 限りなくどこまでも続く蒼…
+<0135> Este mundo que não conhecia fim.
+// 何も終わりを知ることなく、続いてゆく世界.
+<0136> E agora, ela havia retornado ao infinito.
+// その無限へと還ってしまった少女.
+<0137> Ela ainda estava lá, sozinha, mesmo agora.
+// 今もひとりきりでいる少女.
+<0138> Então recomecei minha jornada para encontrá-la.
+// だから僕は彼女を探し続ける旅に出る.
+<0139> Algum dia, eu a trarei de volta.
+// そして、いつの日か僕は彼女を連れて帰る.
+<0140> Ela terá um novo começo.
+// 新しい始まりを迎えるために.
+<0141> Minha jornada parecia não ter fim.
+// 果てのない旅路に思えた.
+<0142> Este céu era infinito e sem limites.
+// どこまでも空は高く、限りがない.
+<0143> Era o céu que eu sempre temi.
+// ずっと恐れていた空.
+<0144> Será que eu consigo voar?
+// 飛べるだろうか.
+<0145> Eu tentei voar tantas vezes com a garota.
+// 彼女と一緒に飛ぼうとした空.
+<0146> Eu ainda tinha medo de voar...
+// 今も恐かったけど…
+<0147> Mas eu sabia que poderia voar.
+// でも飛べる.
+<0148> Eu acreditava que podia.
+// そう信じる.
+<0149> Voe.
+// 飛ぼう.
+<0150> Comecei a correr.
+// 僕は駆け始めた.
+<0151> Eu estava perseguindo as costas da menina, assim como naquele dia.
+// あの日の彼女の背中を追って.
+<0152> Eu espalhei minhas asas e me impulsei do chão.
+// 翼を広げて、地を蹴る.
+<0153> Pela primeira vez, minhas asas sentiram o vento.
+// 初めて、両の翼が風をつかんだ.
+<0154> Meu corpo estava sendo levantado.
+// 体が浮く.
+<0155> Eu empurrei minhas asas contra o ar.
+// 腕に力をこめる.
+<0156> Pegando o impulso, bati minhas asas.
+// しっかりと風を受け止めて、羽ばたく.
+<0157> Rumo a alturas ilimitadas.
+// どこまでも、どこまでも高みへ….
+<0158> Vamos voltar às vastas terras deste planeta.
+// 帰ろう、この星の大地に.
+<0159> O som das ondas...
+// 波の音….
+<0160> O cheiro do mar...
+// 潮の匂い….
+<0161> Há quanto tempo estou parado aqui?
+// いつから僕はここに立っていたのか….
+<0162> "O que há de errado?"
+// 「どうしたの？」
+<0163> Eu me virei em direção à voz.
+// 声がして振り向く.
+<0164> Uma menina estava diante de mim.
+// そこに立っていたのは、ひとりの少女.
+<0165> Eu conhecia seu nome. Eu conhecia seu rosto.
+// 名前も顔も知っている.
+<0166> Éramos amigos de infância.
+// 僕たちは幼なじみだった.
+<0167> "Olha, eu consegui."
+// 「見て、できた」
+<0168> A menina sorriu orgulhosamente para o castelo de areia que fez.
+// 彼女が嬉しそうに見せるのは、砂でできたお城.
+<0169> "Esse é um castelo lindo."
+// 「うまくできたね」
+<0170> "Sim, é lindo."
+// 「うん、うまくできた」
+<0171> Ela parecia satisfeita.
+// 十分、満足したようだった.
+<0172> "O sol vai se pôr em breve."
+// 「もうすぐ日が暮れるね…」
+<0173> Eu estreitei os olhos para o mar brilhante.
+// 海を見て、眩しそうに目を細める.
+<0174> "É verdade..."
+// 「そうだね…」
+<0175> "Vamos dar uma olhada naquilo?"
+// 「じゃあ、その前に確かめにいこうか」
+<0176> "Huh? No quê?"
+// 「ん？ なにを？」
+<0177> "Naquilo que está no final da praia."
+// 「君がずっと確かめたかったこと」
+<0178> "Isso é o que você sempre quis descobrir."
+// 「この海岸線の先に、なにがあるのか」
+<0179> "Eu já disse isso alguma vez?"
+// 「わたし、そんなこと言ったっけ…」
+<0180> "Talvez você não tenha dito. Mas eu sinto que você sempre quis saber."
+// 「言っていないかもしれない.でも、そう思ってると思ったんだ」
+<0181> "Sim... Eu sempre quis saber."
+// 「そうだね…確かめてみたい」
+<0182> Agora, deveria haver algo que não estava lá antes, esperando por nós.
+// 今なら、その先に待つものがわかる.僕らは.
+<0183> Eu me virei e vi alguém no paredão do mar.
+// 振り返ると、堤防の上にひとがいるのが見えた.
+<0184> Era um homem e uma mulher.
+// 男と女.
+<0185> O homem estava sentado, dormindo com a cabeça baixa.
+// 男は眠っているのか、顔を伏せて座っていた.
+<0186> A mulher ao lado esperava ele acordar.
+// その横で女のひとが、起きるのを待っている.
+<0187> Ao menos, parecia ser isso para mim.
+// そんなふうに見えた.
+<0188> A mulher nos notou e acenou para nós.
+// 女の人が僕らに気づき、手を振っていた.
+<0189> Eu acenei de volta.
+// 僕は手を振り返す.
+<0190> Um destino cruel os aguardava.
+// 彼らには、過酷な日々を.
+<0191> Um novo começo nos aguardava.
+// そして僕らには始まりを.
+<0192> Eu cerrei meu punho.
+// 下ろした手を固く握る.
+<0193> "Vamos?"
+// 「じゃ、いこうか」
+<0194> A menina estava na frente, esperando que eu a seguisse.
+// 彼女が先に立って、待っていた.
+<0195> "Certo."
+// 「うん」
+<0196> "O que nos espera..."
+// 「この先に待つもの…」
+<0197> "...São os incontáveis fins que buscamos."
+// 「無限の終わりを目指して」
+<0198> Eu me virei uma vez e murmurei.
+// ただ、一度、僕は振り返り呟いた.
+<0199> Meu murmúrio se perdeu na brisa do mar.
+// その言葉は潮風にさらわれ、消えゆく.
+<0200> "Adeus."\wait{3000}
+// 「さようなら」\wait{3000}

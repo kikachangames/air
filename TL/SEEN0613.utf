@@ -1,0 +1,541 @@
+﻿// Resources for SEEN0613.TXT
+
+#character 'Michiru'
+#character 'Minagi'
+#character '*Ａ'
+#character 'Voz'
+
+<0000> 13 de Agosto (Dom)
+// ８月１３日(日)
+<0001> O amanhecer chegou.
+// 夜が明けた.
+<0002> Era o começo de um novo dia.
+// 一日の始まり.
+<0003> Mais um dia comum nos esperava.
+// いつもと変わることのない一日の始まりだけが、そこにある.
+<0004> Sim...
+// いや….
+<0005> Eu queria que este fosse mais um dia comum.
+// あってほしかった.
+<0006> Esse foi meu desejo.
+// あってほしいと思った.
+<0007> Que os vestígios desse verão permaneçam imutáveis para nós três.
+// せめて、俺たちをとりまく夏の面影だけは変わることがありませんように.
+<0008> Que eu nunca esqueça o verão que passei nesta cidade.
+// いつまでも、この町で過ごした夏だけは忘れることがありませんように.
+<0009> Não pude deixar de desejar isso.
+// 俺は、そう願わずにはいられなかった.
+<0010> \{Michiru}"Hmmni... Bom dia..."
+// \{みちる}「んに…おはよう…」
+<0011> Hoje também acordamos juntos na mesma manhã.
+// その日も、俺たちは同じ朝に目覚めた.
+<0012> \{Minagi}"Bom dia... Michiru..."
+// \{美凪}「…おはよう…みちる」
+<0013> Minagi, Michiru e eu.
+// 美凪と、みちると、そして俺の三人.
+<0014> \{Yukito}"Ei, vá jogar uma água nesse rosto."
+// \{Yukito}「相変わらずだらしないな、おまえは」
+<0015> Enquanto Michiru esfregava seus olhos sonolentos, eu afaguei seu cabelo bagunçado.
+// 俺は、寝ぼけ眼を擦るみちるの、乱れた髪を一撫でしてやる.
+<0016> \{Michiru}"Nyahaha... Que preguicinha!"
+// \{みちる}「…にゃはは…ねぐせぼんぼん」
+<0017> \{Yukito}"E vá pentear esse cabelo também."
+// \{Yukito}「ぼんぼんじゃない.さっさととかしてこい」
+<0018> \{Michiru}"Hmmni..."
+// \{みちる}「んに…」
+<0019> \{Minagi}"Michiru... Vou te ajudar a pentear seu cabelo."
+// \{美凪}「…みちる…私がとかしてあげるね」
+<0020> Minagi deslizou o pente gentilmente pelo cabelo de Michiru.
+// みちるの髪に、美凪が優しく櫛をとおす.
+<0021> Lentamente... Lentamente...
+// ゆっくりと…ゆっくりと….
+<0022> Como se ela estivesse derramando carinho em cada fio de seu cabelo.
+// まるで、一本一本の髪の毛を慈しむように撫でる.
+<0023> \{Michiru}"Nyahaha... Isso é bom..."
+// \{みちる}「にゃはは…きもちいいな…」
+<0024> \{Minagi}"Você gosta?"
+// \{美凪}「…そう？」
+<0025> \{Michiru}"Sim."
+// \{みちる}「うんっ」
+<0026> \{Minagi}"Certo... Então vou continuar fazendo isso..."
+// \{美凪}「…じゃあ…もっとしてあげるね」
+<0027> \{Michiru}"Eba!"
+// \{みちる}「やったー」
+<0028> .........
+// ……….
+<0029> Sob a luz do sol e a chuva brilhante...
+// …雨露に輝く陽射しの中.
+<0030> As duas garotas tavam rindo.
+// 二人の少女が、楽しそうに笑っている.
+<0031> Era uma visão deslumbrante de se ver.
+// それは、眩しい光景だった.
+<0032> Eu já tinha visto isso inúmeras vezes.
+// いつまでも見ていたい光景だった.
+<0033> Mas por quê?
+// …どうしてだろう.
+<0034> Sabíamos da inevitável e infeliz separação que tava por vir.
+// 訪れることを知ってしまった別れ.
+<0035> Como nossos momentos juntos podem ser tão gentis e pacíficos?
+// それが訪れるまでの時間は、どうしてこんなにも安らかで優しいのだろう.
+<0036> Poderíamos ter chorado; poderíamos ter gritado; poderíamos ter fugido de tudo...
+// 泣き叫ぶことも、逃げ出すこともできるはずなのに….
+<0037> Por que ainda sentimos vontade de ficar neste lugar?
+// どうしてここにいたいと思うのだろう.
+<0038> Por que ainda conseguimos rir como sempre?
+// どうして笑うことができるのだろう….
+<0039> .........
+// ……….
+<0040> A resposta era simples.
+// …その答えは簡単だった.
+<0041> Porque ficamos felizes quando estamos com aqueles que amamos.
+// 大切に思うひとたちといられることが、幸せだったから.
+<0042> E como estamos felizes, o riso é uma consequência natural desse estado de espírito.
+// 幸せだから、笑えるのは当たり前のことだった.
+<0043> .........
+// ……….
+<0044> ......
+// …….
+<0045> ...
+// ….
+<0046> \{Minagi}"Ei... Michiru..."
+// \{美凪}「…あのね…みちる」
+<0047> \{Michiru}"Hmmni?"
+// \{みちる}「んに？」
+<0048> \{Minagi}"Tem um lugar... que quero te levar hoje."
+// \{美凪}「…今日はね…一緒に行っておきたいところがあるの」
+<0049> Minagi tocou no assunto quando o sol começou a se pôr no oeste.
+// その話を美凪が切り出したのは、日が西に傾きはじめた、午後のことだった.
+<0050> Nesta tarde de verão, passamos o tempo soprando bolhas e nos divertindo como sempre.
+// いつものようにシャボン玉を飛ばして、いつものようにはしゃいでいた夏の午後.
+<0051> \{Michiru}"Onde? Onde? Para onde estamos indo?"
+// \{みちる}「どこどこ？どこにいくの？」
+<0052> Michiru abraçou o braço de Minagi, com os olhos cheios de expectativa.
+// 期待に溢れた瞳で、みちるは美凪の腕に抱きついた.
+<0053> \{Minagi}"........."
+// \{美凪}「………」
+<0054> \{Minagi}"Para minha casa..."
+// \{美凪}「…私のお家」
+<0055> \{Michiru}"Oh..."
+// \{みちる}「え…」
+<0056> Michiru pareceu ficar confusa.
+// みちるの動きが、一瞬戸惑いを見せた.
+<0057> Uma sombra surgiu em seus olhos.
+// 少女の瞳に、寂しげな影が降りるのが見えた.
+<0058> \{Minagi}"Que tal... jantar hoje na minha casa?"
+// \{美凪}「…晩ご飯…私のお家で食べようか」
+<0059> \{Michiru}"........."
+// \{みちる}「………」
+<0060> \{Michiru}"Na sua casa?"
+// \{みちる}「…美凪のおうち…？」
+<0061> \{Minagi}"Sim... Na minha casa..."
+// \{美凪}「…うん…私のお家」
+<0062> \{Michiru}"Hmmni..."
+// \{みちる}「…んに…」
+<0063> A relutância de Michiru tava estampada em seu rosto.
+// みちるは、見て取れるほどの戸惑いを見せていた.
+<0064> Mas isso era de se esperar.
+// それは、当然のことなのかもしれない.
+<0065> Na verdade, aquele lugar deveria ser seu lar, um lugar de aconchego pra ela.
+// 本当ならば、みちるにとって、そこは温かな自分の家だったはずの場所だ.
+<0066> Um lugar onde ela pudesse estar cercada por sua família e comer o quanto quisesse do seu bife de hamburguer favorito.
+// 大好きな家族に囲まれて、大好きなハンバーグをたくさんつくってもらえる.
+<0067> Um lugar em seu coração.
+// そんな、大切な場所.
+<0068> Mas...
+// そして….
+<0069> Era também um lugar que ela não conseguiu chegar, por mais que quisesse.
+// 望んでも辿り着くことができなかった場所.届かなかった場所.
+<0070> Agora, Minagi queria levá-la até lá.
+// そこにみちるを連れていってあげたいと、美凪は願った.
+<0071> Mas não foi por pena.
+// 決して同情なんかじゃない.
+<0072> Para Minagi, Michiru era a melhor amiga que ela já teve.
+// 美凪にとって、みちるは大切なお友達だったから.
+<0073> Para ela, Michiru também era parte de sua família.
+// いつだって、大切な家族だったから.
+<0074> \{Michiru}"Hmmni... Ok."
+// \{みちる}「…んに…わかった」
+<0075> Michiru concordou.
+// みちるが頷く.
+<0076> \{Minagi}"Que bom..."
+// \{美凪}「…うん」
+<0077> Minagi sorriu enquanto acariciava a cabeça de Michiru.
+// 美凪は、微笑みながら、優しくみちるの頭を撫でる.
+<0078> E...
+// そして….
+<0079> Que lembranças Michiru deixaria hoje?
+// みちるにとって、今日はどんな思い出になるのだろう.
+<0080> De que cor seriam suas memórias? Quão perto do céu essa felicidade estaria?
+// どんな色をして、どこまで空に近づくことができる幸せになるのだろう.
+<0081> Se minhas preces pudessem garantir um dia memorável pra essas garotas...
+// 俺なんかの祈りで、今日が素敵な一日になるのなら、
+<0082> Eu deixaria tudo de lado pra orar por elas.
+// 俺は、すべてをなげうってでも、少女たちのために祈りたいと思った.
+<0083> .........
+// ……….
+<0084> ......
+// …….
+<0085> ....
+// ….
+<0086> .........
+// ……….
+<0087> No caminho pra casa de Minagi, ficamos observando Michiru, que caminhava na nossa frente.
+// 家へと向かう道すがら、俺と美凪は、前を歩くみちるの後ろ姿を眺めていた.
+<0088> Ela parecia solitária e triste, mas feliz ao mesmo tempo. Então decidimos não tirá-la de seus pensamentos.
+// 寂しそうにも、悲しそうにも、そして楽しそうにも見えて、俺たちは言葉をかけることができないでいた.
+<0089> *Frosh!*
+// きゅ…
+<0090> Minha manga foi puxada.
+// 服の袖が、何かを訴えるように握られた.
+<0091> Minagi tava segurando minha camiseta e olhando pra Michiru com incerteza.
+// 見ると、隣を歩く美凪が、不安を映した眼差しで俺の服を掴みながら、みちるを見つめていた.
+<0092> \{Minagi}"Eu sou... uma pessoa cruel."
+// \{美凪}「…私は…残酷な人間です」
+<0093> Minagi suspirou.
+// 美凪が、ぽつりと言った.
+<0094> \{Minagi}"Afinal... eu... posso acabar machucando Michiru com isso..."
+// \{美凪}「…私は…これからみちるを傷つけてしまうかもしれない…」
+<0095> \{Minagi}"Talvez eu esteja pedindo para ela fazer algo impossível."
+// \{美凪}「…届かないものに手を伸ばせと言っているだけなのかもしれない…」
+<0096> \{Minagi}"Mas... eu ainda quero que ela passe por isso..."
+// \{美凪}「…でも…それでも連れていきたいんです…」
+<0097> \{Minagi}"Quero que Michiru a conheça pelo menos uma vez..."
+// \{美凪}「…一目会わせてあげたいんです…」
+<0098> \{Minagi}"Ela é importante para Michiru..."
+// \{美凪}「…大切なひとに…」
+<0099> \{Minagi}"Ela sempre pensou em Michiru..."
+// \{美凪}「…ずっと大切に想い続けてくれたひとに…」
+<0100> \{Yukito}"........."
+// \{Yukito}「………」
+<0101> Que tipo de sentimentos essa pessoa tem por Michiru?
+// それは、どんな想いだったのだろう.
+<0102> A garota ao meu lado continuou a se passar por alguém que ela não era.
+// ずっと、自分ではない存在を演じ続けてきた少女.
+<0103> Pra manter a pessoa que amava sorrindo, ela mergulhou voluntariamente em um mar de desespero.
+// 大切なひとの笑顔を守るためだけに、自ら悲しみの中に身をおきつづけてきた少女.
+<0104> Ela perdeu seu espaço e sacrificou sua própria identidade, mas nunca deixou de se importar.
+// 居場所を失い、自身を失い、それでも愛することをやめなかった少女.
+<0105> Mesmo que este dia não lhe deixasse nada além de tristeza, quem poderia culpá-la?
+// もし今日が悲しみしか残さない思い出になったとしても、いったい誰が彼女を責められるだろうか.
+<0106> Ninguém poderia.
+// 責められるわけはない.
+<0107> Tohno Minagi sempre foi gentil com todos ao seu redor.
+// 彼女は…遠野美凪は、いつだって、誰にだって優しかった.
+<0108> Graças à sua gentileza, todos puderam voltar a sorrir.
+// その優しさで、誰もが忘れがちな想いを守り続けてきたのだ.
+<0109> Eu era um deles.
+// そして、俺たちは温もりの中にいた.
+<0110> Com a gentileza dessa menina, consegui viver esses dias de paz.
+// 彼女の深い温もりの中で、安らかな日々を送り続けることができた.
+<0111> Foi por essa razão...
+// だから….
+<0112> Foi por isso que eu...
+// だからこそ….
+<0113> \{Yukito}"........."
+// \{Yukito}「………」
+<0114> Coloquei minha mão sobre os lindos dedos pálidos de Minagi, que seguravam minhas roupas.
+// 俺は、服を掴む美凪の白く美しい指先に、そっと手を添えた.
+<0115> \{Yukito}"Vai dar tudo certo..."
+// \{Yukito}「…大丈夫だ」
+<0116> Será que meu sorriso a acalmou?
+// 俺の微笑みは、彼女に届いてくれるだろうか.
+<0117> \{Yukito}"Hoje definitivamente será um dia especial."
+// \{Yukito}「今日は、絶対に良い一日になる」
+<0118> E quanto a Michiru, hoje será o dia em que ela finalmente voltará pra casa.
+// …そして…みちるは、ようやく家に帰ってきた.
+<0119> Uma mesa de jantar com o som dos mensageiros dos vento ao fundo.
+// 柔らかな風鈴の音が響く、食卓.
+<0120> Um lar acolhedor com uma família esperando por ela.
+// 帰りを待っていてくれるひとたちがいる、温かな日だまりのような家だ.
+<0121> Eu queria acreditar que seria assim.
+// 俺は、それが幸せな光景だったと信じたい.
+<0122> Eu queria acreditar que esse sonho seria digno de lágrimas... de alegria.
+// 泣きたくなるほど幸せな、そんな夢だったと信じたい….
+<0123> .........
+// ……….
+<0124> ......
+// …….
+<0125> ...
+// ….
+<0126> Inicialmente, Michiru não sabia o que fazer.
+// はじめは、みちるも戸惑うばかりだった.
+<0127> Seu bife de hamburguer favorito tava bem na sua frente, mas ela não tocou nele.
+// 大好きなはずのハンバーグを前にしても、それには手をつけず、
+<0128> Segurando um par de hashis, ela olhou fixamente pro rosto sorridente à sua frente.
+// 手に箸を持ったまま、目の前にある穏やかな微笑みを、ぼうっと眺めているだけだった.
+<0129> "Oh, querida..."
+// 「あらイヤだ…」
+<0130> "Ainda não perguntei seu nome."
+// 「私ったら、あなたのお名前を訊いてなかったわ」
+<0131> A mulher disse com um sorriso caloroso.
+// そのひとは、優しく微笑みながら言った.
+<0132> "Você se importaria de me dizer seu nome?"
+// 「ねえ.おばさんに、あなたのお名前、教えてもらえないかしら」
+<0133> \{Michiru}"Hmmni... Meu nome?"
+// \{みちる}「…んに…なまえ…？」
+<0134> "Isso mesmo. Seu nome."
+// 「そう.お名前」
+<0135> \{Michiru}"Hmmni..."
+// \{みちる}「…んに…」
+<0136> Michiru olhou pra Minagi, que tava sentada ao seu lado.
+// みちるは、そのひとに訊ねられると、隣に座る美凪を上目遣いで見上げた.
+<0137> \{Minagi}"........."
+// \{美凪}「………」
+<0138> \{Minagi}"Vá em frente, diga a ela..."
+// \{美凪}「…教えてあげて」
+<0139> Minagi falou com um olhar terno.
+// 美凪は、とても優しい眼差しで、そう言った.
+<0140> \{Michiru}"Eu posso...?"
+// \{みちる}「…いいの？」
+<0141> \{Minagi}"Sim..."
+// \{美凪}「…うん」
+<0142> \{Michiru}"Hmmni..."
+// \{みちる}「…んに…」
+<0143> Michiru acenou com a cabeça pra Minagi.
+// 美凪の微笑みに、みちるは小さく頷く.
+<0144> \{Michiru}"Hmm..."
+// \{みちる}「…あのね…」
+<0145> Sua voz tremia.
+// それは、震えるような声だった.
+<0146> \{Michiru}"Eu me chamo... Michiru."
+// \{みちる}「…みちるは…みちるっていうの」
+<0147> "Mi-..."
+// 「え…」
+<0148> \{Michiru}"........."
+// \{みちる}「………」
+<0149> "........."
+// 「………」
+<0150> "Michi...ru?"
+// 「…みち…る？」
+<0151> \{Michiru}"Sim..."
+// \{みちる}「…うん」
+<0152> "Entendo... Então você se chama Michiru..."
+// 「そう…みちるっていうの…」
+<0153> \{Michiru}"..."
+// \{みちる}「………」
+<0154> "........."
+// 「………」
+<0155> \{Michiru}"Hmmni..."
+// \{みちる}「んに……」
+<0156> "........."
+// 「………」
+<0157> \{Michiru}"Sabe, eu..."
+// \{みちる}「あ、あのね…みちるね…」
+<0158> "........."
+// 「………」
+<0159> \{Michiru}"Eu realmente..."
+// \{みちる}「みちる…ほんとはね……」
+<0160> "........."
+// 「………」
+<0161> \{Michiru}"Eu..."
+// \{みちる}「ほんとは…」
+<0162> "..."
+// 「………」
+<0163> \{Michiru}"........."
+// \{みちる}「………」
+<0164> "........."
+// 「………」
+<0165> "Michiru..."
+// 「…みちる……」
+<0166> \{Michiru}"Hmmni..."
+// \{みちる}「…んに」
+<0167> "..."
+// 「………」
+<0168> "Que nome lindo."
+// 「ふふ…とても良いお名前ね」
+<0169> \{Michiru}"Eh?"
+// \{みちる}「え…」
+<0170> "Venha, Michiru. O bife de hambúrguer está esfriando. Coma. Ouvi dizer que é sua comida favorita."
+// 「さあ、みちる.ハンバーグ冷めちゃうから、早く食べてみて.大好物なんでしょ？」
+<0171> \{Michiru}"........."
+// \{みちる}「………」
+<0172> "Ah, algum problema?"
+// 「あら、どうしたの？」
+<0173> \{Michiru}"Hmmni?"
+// \{みちる}「…んに？」
+<0174> \{Michiru}"N-Não, não é nada. Vou comer."
+// \{みちる}「う、ううん、なんでもない.いただきまーす」
+<0175> \{Michiru}*Nhoc, nhoc, nhoc...*
+// \{みちる}「もぐもぐもぐ…」
+<0176> "Como ficou? Está gostoso?"
+// 「どう？おいしい？」
+<0177> \{Michiru}"Sim! Esta realmente delicioso!"
+// \{みちる}「うんっ.すっごくおいしい」
+<0178> "Haha, que bom."
+// 「ふふ…よかった」
+<0179> "Você sabia que eu que criei essa receita?"
+// 「あのね、このハンバーグはね、私が元祖なのよ」
+<0180> "E ensinei Minagi a fazer isso."
+// 「私が、『美凪』につくり方を教えてあげたの」
+<0181> "Aqui, experimente isto. Qual tem melhor sabor?"
+// 「ね、食べ比べてみて、どっちがおいしい？」
+<0182> \{Michiru}"Os dois estão maravilhosos!"
+// \{みちる}「どっちもおいしいっ」
+<0183> "Sério? Você gostou dos dois, né?"
+// 「ふふふ…そう.やっぱり、どっちもおいしいか」
+<0184> \{Michiru}"Sim!"
+// \{みちる}「うんっ」
+<0185> \{Yukito}"........."
+// \{Yukito}「………」
+<0186> .........
+// ……….
+<0187> Eu finalmente percebi.
+// …そうだった.
+<0188> Não havia necessidade de me preocupar.
+// はじめから、何も心配する必要なんてなかったのだ.
+<0189> \{Michiru}"Ei, o que é isso?"
+// \{みちる}「ねえねえ、これなに、これ」
+<0190> "Isso é inhame cozido. Você gosta?"
+// 「それはね、里芋の煮っころがしよ.おいしい？」
+<0191> \{Michiru}"Isso também é delicioso!"
+// \{みちる}「これもおいしいっ」
+<0192> "Haha... Que bom ouvir isso."
+// 「ふふふ…よかった」
+<0193> Pra essa mulher, "Michiru" era um nome importante.
+// このひとにとって、『みちる』という名前は、とても大切な名前なのだ.
+<0194> Mesmo que fosse um nome triste...
+// それが、たとえ悲しい名前だとしても、
+<0195> Mesmo que esse nome só existisse na sua memória...
+// 思い出の中にだけ存在する名前だとしても、
+<0196> Ainda era o nome de sua filha amada.
+// このひとにとっては、愛しい娘の名前なのだから….
+<0197> Naturalmente, ela recebeu a garota com sorrisos.
+// だから、その名前をもつ少女を笑顔で迎えるのは、当然のことなのだ.
+<0198> Isso aconteceria com qualquer um que tivesse bondade no coração.
+// 誰もが持ちえる、ありふれた優しささえあれば、それは叶うはずだから….
+<0199> "Michiru, você pode ficar com um pouco do meu bife de hamburguer."
+// 「みちる.私のハンバーグもわけてあげるね」
+<0200> A mulher, vendo que Michiru já havia limpado o prato, dividiu seu bife de hamburguer com ela.
+// そのひとは、自分の分のハンバーグをみちるの皿にわけながら言った.
+<0201> \{Michiru}"Posso mesmo ficar com o seu?"
+// \{みちる}「いいの？」
+<0202> Michiru olhou pra mulher.
+// みちるが、そのひとの顔を見上げる.
+<0203> "Sim. Fico muito feliz de ver que você gostou tanto da minha comida."
+// 「うん.いっぱい食べてくれると、とても嬉しいから」
+<0204> A mulher encheu Michiru de atenção e mimos.
+// そのひとは、とても暖かな微笑みで、みちるを包んだ.
+<0205> \{Michiru}"........."
+// 「遠慮しないで、たくさん食べてね」
+<0206> "Vá em frente, coma o quanto quiser."
+// \{みちる}「………」
+<0207> \{Michiru}"Ah..."
+// \{みちる}「あ…」
+<0208> \{Michiru}"Obrigada!"
+// \{みちる}「ありがとうっ」
+<0209> .........
+// ……….
+<0210> Havia muitas emoções aqui.
+// …たくさんの想いがあった.
+<0211> Gentileza, cordialidade...
+// それは…とても優しくて…温かくて….
+<0212> De vez em quando, uma tristeza de cortar o coração...
+// ときには、胸が張り裂けそうなほど、悲しいこともあったけれど….
+<0213> Mas eu queria valorizar cada um desses sentimentos.
+// でも、ずっと抱きしめていたい….
+<0214> Pois todos eles eram preciosos.
+// そんな、大切な想いだった.
+<0215> Sempre que eu olhava pro céu noturno, lindas canções tavam lá, esperando por mim.
+// 夜空を見上げれば、そこにはいつだって美しい歌声が聞こえる.
+<0216> Quando as estrelas nos abraçarem com suas luzes ternas, seremos capazes de experimentar a felicidade de simplesmente estar aqui?
+// 星粒の優しい光たちに抱かれながら、俺たちはここにいたことを幸せと感じることができるだろうか.
+<0217> Sentimos tristeza; carregamos muitas cicatrizes; fizemos outros chorarem.
+// 多くの悲しみを知り、多くの傷を抱え、多くの人を泣かせてきたかもしれない.
+<0218> Mesmo assim, ainda podemos dizer que somos felizes?
+// それでも、俺たちは言えるだろうか.
+<0219> Ainda podemos encarar nosso futuro com convicção?
+// それでもなお、俺たちは真っ直ぐに前を向いていられるだろうか…….
+<0220> ........
+// ……….
+<0221> ......
+// …….
+<0222> ....
+// ….
+<0223> \{Minagi}"Kunisaki-san."
+// \{美凪}「…Kunisakiさん」
+<0224> \{Yukito}"Hmm?"
+// \{Yukito}「うん？」
+<0225> \{Minagi}"Michiru... está feliz, não está?"
+// \{美凪}「…みちる…喜んでくれましたよね」
+<0226> \{Yukito}"Sim, ela tá feliz."
+// \{Yukito}「ああ.喜んでくれた」
+<0227> \{Minagi}"Então, eu não estava errada..."
+// \{美凪}「…間違いではなかったんですよね…」
+<0228> \{Minagi}"Ainda... podemos... caminhar juntos assim."
+// \{美凪}「…今…こうして歩いているということは」
+<0229> \{Yukito}"Sim, você fez a coisa certa."
+// \{Yukito}「ああ.間違いじゃない」
+<0230> \{Minagi}"........."
+// \{美凪}「………」
+<0231> \{Minagi}"Que alívio..."
+// \{美凪}「…よかった」
+<0232> \{Yukito}"........."
+// \{Yukito}「………」
+<0233> .........
+// ……….
+<0234> Estávamos caminhando pela trilha à noite.
+// …夜道を歩いた.
+<0235> Nós três estávamos nos afastando do santuário da colina pela estrada da fazenda que levava até ele.
+// 高台の神社へと続く農道を、神社に背を向けて三人で歩いた.
+<0236> Michiru, cansada de brincar o dia todo, tava dormindo nas minhas costas.
+// みちるは、はしゃぎ疲れたのか、俺の背中で小さな寝息をたてていた.
+<0237> Minagi e eu caminhávamos lado a lado.
+// そして、俺と美凪は、そんなみちるの安らかな眠りを包み込むように、肩を寄せ合っていた.
+<0238> Não havia postes de luz ao nosso redor e o chão era irregular.
+// 辺りには外灯がなくて、足下がおぼつかなかったけれど、
+<0239> Mas com o luar e o brilho estrelado dos vaga-lumes nos guiando, conseguimos prosseguir em segurança.
+// 明るい月明かりと、星粒のような蛍の群が俺たちを見守ってくれていたから、平気だった.
+<0240> Conseguimos seguir em frente.
+// 前を向いて、歩くことができた.
+<0241> .........
+// ……….
+<0242> \{Voz}"Ei... Espere!"
+// \{声}「もぉ～、まってよぉ～」
+<0243> \{Voz}"Depressa, senão o festival vai terminar!"
+// \{声}「ほら、はやくいかないと、お祭りおわっちゃうよ」
+<0244> \{Voz}"Eu sei!"
+// \{声}「わかってるよぉ～」
+<0245> \{Voz}"Ahaha! Corre, corre!"
+// \{声}「あはは、はやくはやくぅ」
+<0246> Duas meninas corriam em nossa direção com muitas risadas.
+// 俺たちが向かう先から、幼い二人の少女が、楽しそうな声とともに駆けてくる.
+<0247> Suas roupas provavelmente foram feitas pela mãe delas.
+// 母親につくってもらったのだろうか.
+<0248> As duas não pareciam estar acostumadas a usar yukata. Elas corriam com dificuldade.
+// 二人とも、着慣れない浴衣姿に走りづらそうだった.
+<0249> E então...
+// そして….
+<0250> *Woosh...*
+// ふわ…
+<0251> As duas passaram correndo por nós.
+// 少女たちは、俺たちの横を駆け抜けていった.
+<0252> \{Minagi}"Yukito-san..."
+// \{美凪}「…Yukitoさん…」
+<0253> \{Minagi}"Eu... quero... ficar assim para sempre."
+// \{美凪}「…私…本当はずっとこのままでいたかったんですよ」
+<0254> \{Minagi}"Quero... ficar... com vocês dois para sempre..."
+// \{美凪}「…ずっと…一緒にいたかったんです…」
+<0255> \{Minagi}"Quero... sentir... o mesmo vento que você..."
+// \{美凪}「…ずっと…おなじ風の中にいたかったんです…」
+<0256> \{Minagi}"Não me importo se os outros rirem de mim... ou me digam que estou sonhando..."
+// \{美凪}「…他人が見たら、夢を見ていただけだと笑われるかもしれない」
+<0257> \{Minagi}"As pessoas podem até me dizer que os sonhos são apenas fantasias..."
+// \{美凪}「…夢なんて、ただの幻だと叱られるかもしれない」
+<0258> \{Minagi}"Mas... ainda assim não me importo..."
+// \{美凪}「…でも…それでもかまわない…」
+<0259> \{Minagi}"Porque..."
+// \{美凪}「…だって…」
+<0260> \{Minagi}"Porque nós estamos juntos..."\wait{3000}
+// \{美凪}「だって私たちは…」\wait{3000}
+<0261> Um vento de memórias soprava.
+// 懐かしい風が吹く.
+<0262> Era um vento suave que trazia paz.
+// 安らぎを憶える優しい風が吹く.
+<0263> As canções das estrelas distantes, os sussurros da lua...
+// 遠い星の歌声と、月の囁き….
+<0264> Deixamos que o calor desse sonho contínuo nos levasse embora.
+// 醒めない夢の中で感じる温もりに身を委ねる.
+<0265> Espero não sentir nenhum arrependimento quando acordar deste sonho...
+// 目が醒めても後悔しないように….
+<0266> Que seja um sonho agradável...
+// それが楽しい夢であるように….

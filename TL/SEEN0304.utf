@@ -1,0 +1,143 @@
+﻿// Resources for SEEN0304.TXT
+
+#character '*Ａ'
+#character 'Misuzu'
+
+<0000> 30 de Julho (Dom)
+// ７月３０日(日)
+<0001> Depois que acordei, fui direto para o quarto da Misuzu.
+// 起きてすぐに、俺は観鈴の部屋を訪ねた.
+<0002> Eu já estava preparado para partir.
+// 支度はもう整っていた.
+<0003> \{Yukito}"Misuzu, estou entrando."
+// \{Yukito}「観鈴、入るぞ」
+<0004> \{Yukito}"Vou sair dessa cidade."
+// \{Yukito}「そろそろ、出ていこうと思うんだ」
+<0005> \{Misuzu}"Hã...?"
+// \{観鈴}「え…？」
+<0006> \{Yukito}"Eu planejava sair assim que ganhasse o suficiente para a passagem de ônibus. Mas acabei ficando por muito tempo..."
+// \{Yukito}「最初はバス代を稼ぐまでだと思っていた.けど、色々あって、長居になってしまったからな…」
+<0007> \{Misuzu}"Mas você ainda não conseguiu dinheiro..."
+// \{観鈴}「お金…まだ稼げてないよね」
+<0008> \{Yukito}"Eu realmente não preciso de dinheiro. Nunca precisei desde o começo."
+// \{Yukito}「そんなものいらないんだよ.最初からいらなかったんだ」
+<0009> \{Yukito}"Eu só preciso usar minhas pernas."
+// \{Yukito}「歩けばいいんだからな」
+<0010>"........."
+// \{観鈴}「………」
+<0011> Misuzu ficou em silêncio por um tempo. Mas finalmente falou.
+// しばらく黙っていた観鈴が口を開く.
+<0012> \{Misuzu}"Nesse caso, não há outra escolha."
+// \{観鈴}「じゃあ、仕方ないね」
+<0013> Misuzu já deveria estar ciente.
+// 観鈴にもわかっているのだろう.
+<0014> Continuarmos juntos só traria sofrimento um ao outro.
+// 俺がここに居続けても、お互いに辛いだけだった.
+<0015> \{Misuzu}"Quando você vai partir?"
+// \{観鈴}「いつ、出るの？」
+<0016> \{Yukito}"Hoje."
+// \{Yukito}「今日」
+<0017> \{Misuzu}"Tão cedo?"
+// \{観鈴}「すぐ？」
+<0018> \{Yukito}"Sim."
+// \{Yukito}「ああ」
+<0019> \{Misuzu}"Bem, então isso é um adeus..."
+// \{観鈴}「うーん、じゃ、これでさよならだね…」
+<0020> \{Yukito}"Exato."
+// \{Yukito}「そうだな」
+<0021> \{Misuzu}"........."
+// \{観鈴}「………」
+<0022> \{Misuzu}"Ei, Yukito-san."
+// \{観鈴}「あのね、Yukitoさん」
+<0023> \{Yukito}"O que foi?"
+// \{Yukito}「なんだ」
+<0024> \{Misuzu}"Esse período de férias de verão foi muito divertido."
+// \{観鈴}「楽しかった、この夏休み」
+<0025> \{Misuzu}"Essas férias de verão que passei com você..."
+// \{観鈴}「Yukitoさんと過ごしたこの夏休み…」
+<0026> \{Yukito}"Entendo..."
+// \{Yukito}「そっか」
+<0027> Até o último momento, Misuzu ainda estava jogando cartas.
+// 最後まで、観鈴はトランプをしていた.
+<0028> Eu a observei jogar por um tempo.
+// 俺はそれをじっと眺めていた.
+<0029> Essa atividade simbolizava a Misuzu.
+// その姿が観鈴を象徴していた.
+<0030> \{Misuzu}"Deveria ter jogado sozinha desde o início, assim..."
+// \{観鈴}「やっぱり、こうしてひとりで遊んでいればよかったんだね…」
+<0031> \{Yukito}"Talvez..."
+// \{Yukito}「そうかもな…」
+<0032>"........."
+// \{観鈴}「………」
+<0033> \{Yukito}"Mas eu também me diverti."
+// \{Yukito}「でもな、楽しかったよ、俺も」
+<0034> \{Misuzu}"Sério?"
+// \{観鈴}「ほんと？」
+<0035> \{Yukito}"Sim. Gostei muito de estar com você."
+// \{Yukito}「ああ.観鈴と過ごせて良かった」
+<0036> Falei isso sinceramente.
+// 本心からそう思う.
+<0037> \{Misuzu}"Eu também estou feliz."
+// \{観鈴}「わたしもよかった」
+<0038> *Fwip fwip*
+// literalmente: "pata pata..."
+// sugerido: fwip fwip...
+// ぱたぱた…
+<0039> \{Yukito}"Estou partindo agora."
+// \{Yukito}「じゃ、いくな、俺」
+<0040> \{Misuzu}"Tá bom."
+// \{観鈴}「うん」
+<0041> \{Yukito}"Adeus."
+// \{Yukito}「じゃあな」
+<0042> \{Misuzu}"Tá bom... Adeus, Yukito-san."
+// \{観鈴}「うん…ばいばい、Yukitoさん」
+<0043> Misuzu me observava partir, com as cartas ainda espalhadas em seu colo.
+// トランプを膝の上に広げたままで、見送る観鈴.
+<0044> \{Yukito}"Adeus."
+// \{Yukito}「ばいばい」
+<0045> Saí do quarto.
+// 俺は部屋を後にした.
+<0046> \{Yukito}"Agora..."
+// \{Yukito}「さて…」
+<0047> Para onde devo ir?
+// どこにいくか.
+<0048> Melhor me afastar desta casa primeiro.
+// とりあえずはこの家から離れよう.
+<0049> Comecei a caminhar.
+// 俺は歩き始めた.
+<0050> O que eu estava fazendo nesta cidade todo esse tempo?
+// 結局、なんだったんだろう、この町で過ごした時間は.
+<0051> Não realizei nada.
+// なんにも俺は達成していない.
+<0052> Eu abandonei tudo.
+// すべてを投げ出してきた.
+<0053> .........
+// ……….
+<0054> Decidi parar de me preocupar. Só estava dando voltas sem sair do lugar.
+// もう考えるのはよそう.堂々巡りを繰り返すだけだ.
+<0055> Eu não tinha outra escolha. Só podia me convencer disso.
+// 仕方がなかった.そう割り切るしかなかった.
+<0056> Olhei para o céu.
+// 俺は空を見上げる.
+<0057> Era uma vastidão azul sem fim.
+// 一面が青に染まった.
+<0058>"........"
+// \{Yukito}「………」
+<0059> Pensei no dia em que cheguei aqui.
+// ここに、辿り着いた日.
+<0060> Tudo que aconteceu desde aquele dia até agora parecia um sonho.
+// その日からずっと夢を見ていたような気がする.
+<0061> Em direção a alturas vastas e infinitas.
+// どこまでも、どこまでも高みへ.
+<0062> Eu tive um sonho de alcançar o céu.
+// 空を目指した夢.
+<0063> Mas eu não consegui alcançá-lo.
+// けど、そこには届かなかった.
+<0064> Há uma garota no céu, sozinha.
+// ただ、ひとり、そこには少女がいた.
+<0065> Ela continua sentindo o vento, mesmo agora.
+// ずっと、今も風を受け続けている.
+<0066> O sonho dela continua.
+// 彼女の夢は、続いてゆく.
+<0067> Agora e para sempre.
+// これから先もずっと.

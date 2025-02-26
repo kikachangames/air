@@ -1,0 +1,317 @@
+﻿// Resources for SEEN0444.TXT
+
+#character '*Ａ'
+#character 'Misuzu'
+
+<0000> \ Retorno
+// \ 再 出 発 
+<0001> Na manhã seguinte...
+// 翌朝.
+<0002> Seguimos o mesmo caminho de sempre pra escola.
+// いつもの登校風景の中に俺たちはいた.
+<0003> Mas esta seria a última vez.
+// けど、それも今日が最後となる.
+<0004> \{Yukito}"Ei, Misuzu."
+// \{Yukito}「な、観鈴」
+<0005> \{Yukito}"Acho que já é hora de sair da sua casa."
+// \{Yukito}「そろそろ家を出ようと思うんだ」
+<0006> Abordei o assunto com ela.
+// 俺は切り出した.
+<0007> \{Misuzu}"Hã...?"
+// \{観鈴}「え…？」
+<0008> \{Misuzu}"Você está saindo desta cidade?"
+// \{観鈴}「町、出るの？」
+<0009> \{Yukito}"Sim."
+// \{Yukito}「ああ」
+<0010> \{Yukito}"Já fiquei aqui por muito tempo. Não gosto de continuar no mesmo lugar."
+// \{Yukito}「そもそも、長居し過ぎだ.一カ所に腰を落ち着かせるのは好きじゃないんだ」
+<0011> \{Misuzu}"Você só ainda não se acostumou com a cidade. Você verá que aqui é um bom lugar se ficar o tempo suficiente."
+// \{観鈴}「それは慣れてないからだと思うな.ずっといたらわかるよ.ここ、すごくいい町」
+<0012> \{Yukito}"Sim. Esse local é perfeito pra pessoas como você, que levam a vida com calma."
+// \{Yukito}「ああ.おまえみたいな呑気な奴にはぴったりの町だな」
+<0013> \{Misuzu}"Esta cidade não é boa o suficiente para Yukito-san?"
+// \{観鈴}「Yukitoさんには物足りない？」
+<0014> \{Yukito}"Talvez não."
+// \{Yukito}「そうだな」
+<0015> \{Misuzu}"Yukito-san já viajou para tantos lugares e viu muitas coisas... Imagino que aqui seja entediante para você."
+// \{観鈴}「Yukitoさん、いろんなところ旅してきて、いろんなこと経験してきてるんだろうし…物足りないかぁ」
+<0016> \{Misuzu}"Hmmm..."
+// \{観鈴}「うーん…」
+<0017> \{Misuzu}"Como você vai fazer para se alimentar?"
+// \{観鈴}「ご飯とかだいじょうぶかな」
+<0018> \{Yukito}"Não se preocupe com isso."
+// \{Yukito}「大丈夫だ」
+<0019> \{Yukito}"Tenho confiança na minha capacidade de ganhar meu sustento, desde que esteja em uma cidade maior."
+// \{Yukito}「この町でなかったら、ちゃんと稼ぐ自信はある」
+<0020> \{Misuzu}"Esta cidade é tão ruim assim?"
+// \{観鈴}「そんなにこの町、合わなかったのかな…」
+<0021> \{Yukito}"Não, eu me diverti muito aqui."
+// \{Yukito}「いや、楽しいこともいろいろとあったよ」
+<0022> \{Misuzu}"Sério?"
+// \{観鈴}「ほんと？」
+<0023> \{Yukito}"Sim. Mas a vida não pode ser só diversão e jogos."
+// \{Yukito}「ああ.でもな、楽しいだけではダメなんだ」
+<0024> \{Yukito}"Eu ainda tenho que me virar pra ganhar meu sustento."
+// \{Yukito}「ちゃんと稼げないとな」
+<0025> \{Misuzu}"Entendo..."
+// \{観鈴}「そ…」
+<0026> \{Yukito}"Além disso, tenho um objetivo."
+// \{Yukito}「それに、俺には別の目的もあるしな」
+<0027> \{Yukito}"E seria inalcançável se eu continuasse por aqui."
+// \{Yukito}「一カ所に留まっていたら、意味がないんだ」
+<0028> \{Misuzu}"Bem... então acho que não há outra escolha."
+// \{観鈴}「じゃ…仕方ないね」
+<0029> Parece que ela finalmente se conformou com a situação.
+// ようやく納得したようだった.
+<0030> \{Misuzu}"Diga-me onde você vai ficar quando chegar na próxima cidade."
+// \{観鈴}「次の町についたら場所、教えてね」
+<0031> \{Misuzu}"Eu irei visitar você."
+// \{観鈴}「わたし、遊びにいく」
+<0032> \{Misuzu}"Vou levar as cartas e os bichos de pelúcia pra gente brincar."
+// \{観鈴}「トランプとか、ぬいぐるみとか持って、遊びにいく」
+<0033> \{Misuzu}"Espero que a família com quem você ficará hospedado goste de mim."
+// \{観鈴}「その家のひと、わたしのことも気に入ってくれるといいな」
+<0034> \{Misuzu}"Nihaha."
+// \{観鈴}「にはは」
+<0035> \{Yukito}"Sim."
+// \{Yukito}「そうだな」
+<0036> Eu não ficaria mais na casa de alguém...
+// もう人の家には下宿しない…
+<0037> Mesmo que eu quisesse.
+// そうしたいものだが.
+<0038> E então naquela tarde...
+// そして、午後.
+<0039> Eu tava aqui mais uma vez, carregando a pouca bagagem que tinha.
+// 少ない手荷物を持って、俺はまたこの場所に立っていた.
+<0040> Não havia ninguém pra me acompanhar.\nEu tava partindo pra outra viagem.
+// 見送るひともなく、旅の再開はひとりきりだった.
+<0041> Na realidade, deveria ter sido sempre assim.
+// 本当はいつもこうだったはずだ.
+<0042> *Pit pat...*
+// …つんつん…
+<0043> *Pit pat...*
+// つんつん…
+<0044> \{Yukito}"Hmm?"
+// \{Yukito}「ん？」
+<0045> Quando percebi, Misuzu tava ao meu lado.
+// すぐ隣に観鈴がいた.
+<0046> \{Yukito}"Quando você...?"
+// \{Yukito}「おまえ、いつの間に…」
+<0047> \{Misuzu}"Que bom que consegui te alcançar."
+// \{観鈴}「間に合ってよかった」
+<0048> \{Yukito}"E aí?"
+// \{Yukito}「どうした」
+<0049> Eu acordei.
+// 目覚める.
+<0050> Minhas costas tão doendo.
+// 背中が痛い.
+<0051> Uma dor que eu havia esquecido há algum tempo.
+// 少しの間、忘れていたような痛み.
+<0052> Eu me sentei.
+// 上体を起こし、ベンチに座り直す.
+<0053> Já tá tão quente, apesar de ainda ser de manhã...
+// 早朝だというのに、もうこの暑さ…
+<0054> Quantos dias se passaram desde que cheguei nesta cidade?
+// この町にきて、何日目になるだろうか.
+<0055> Eu desci do ônibus aqui porque fiquei sem dinheiro.
+// 路銀が底を尽き、途中下車した町.
+<0056> No entanto, eu poderia ter ido embora quando quisesse.
+// けど、いつだって、出られたはずだった.
+<0057> Eu não tenho asas, mas ainda tenho duas pernas fortes.
+// 俺には翼はなかったけど、太い二本の足ならある.
+<0058> Eu só preciso botar o pé na estrada.
+// 歩いていけばいい.
+<0059> Não importa quanto tempo demorasse.
+// 何日かかろうとも、構わない.
+<0060> A linha de chegada ainda não está à vista e é muito cedo pra desistir.
+// ゴールは、まだまだ見えず、ラストスパートにも早すぎる.
+<0061> Eu só tenho que seguir no meu próprio ritmo.
+// ゆっくりゆけばよかった.
+<0062> \{Yukito}(Por que eu tô tão preocupado?)
+// \{Yukito} (なにを意固地になっていたんだろうな…)
+<0063> Olhei pro boneco na minha mão.
+// 手の中の人形に目を落とす.
+<0064> \{Yukito}(Eu só queria provar meu poder?)
+// \{Yukito} (自分の力を証明したかっただけか…)
+<0065> Guardei meu boneco no bolso de trás.
+// それを後ろのポケットに仕舞う.
+<0066> Eu já teria ganhado algum dinheiro se tivesse ido logo pra uma cidade diferente.
+// きっと、違う町ならば、これまで通りに稼ぐことができるだろう.
+<0067> Só me ferrei nessa cidade. Verdade seja dita.
+// この町との相性が悪かっただけだ.
+<0068> \{Yukito}(Mas havia outra coisa...)
+// \{Yukito} (けど、ただ…)
+<0069> Eu olhei pro céu.
+// 俺は空を見上げる.
+<0070> \{Yukito}(Foi porque aqui o céu parece tão vasto e próximo do chão? Foi por isso...?)
+// \{Yukito} (こんなにも、空が広く近く見えるから、俺は…)
+<0071> *Pit pat...*
+// …つんつん…
+<0072> *Pit pat...*
+// つんつん…
+<0073> \{Yukito}"Hmm?"
+// \{Yukito}「ん？」
+<0074> \{Misuzu}"Bom dia."
+// \{観鈴}「おはよー」
+<0075> \{Yukito}"........."
+// \{Yukito}「………」
+<0076> \{Misuzu}"Sou eu, Misuzu."
+// \{観鈴}「わたし.観鈴」
+<0077> \{Yukito}"Ah, sim... Tô vendo que é você."
+// \{Yukito}「ああ、そうだな…おまえだな」
+<0078> \{Yukito}"Por que você tá aqui?"
+// \{Yukito}「こんなところまで、どうした」
+<0079> \{Misuzu}"Bem, só estou verificando se você ainda está por perto."
+// \{観鈴}「ううん、まだいるのかなって」
+<0080> \{Misuzu}"Eu queria dar isso para você.."
+// \{観鈴}「これ、渡したかったから」
+<0081> Dizendo isso, ela me entregou um pacote embrulhado em alumínio.
+// 言って、大きなアルミの包みを俺に手渡す.
+<0082> É pesado...
+// …重い.
+<0083> \{Misuzu}"É um bolinho de arroz. Yukito-san estava comendo um desses quando nos conhecemos."
+// \{観鈴}「それ、おにぎり.出会ったとき、Yukitoさん食べてたの」
+<0084> \{Yukito}"É impressão minha ou esse bateu o recorde do anterior...?"
+// \{Yukito}「あれよりさらにでかくないか…？」
+<0085> \{Misuzu}"Sim, tentei enrolar o maior que pude."
+// \{観鈴}「うん、がんばって転がした」
+<0086> \{Yukito}"Enrolar?"
+// \{Yukito}「転がす？」
+<0087> \{Misuzu}"Não, eu amassei. Tive que usar as duas mãos."
+// \{観鈴}「ううん、握ったよ.ちゃんと両手でぎゅっぎゅって握った」
+<0088> \{Yukito}"........."
+// \{Yukito}「………」
+<0089> Parecia grande demais pra ser apenas amassado. Ela deve ter enrolado mesmo, como uma bola de neve.
+// 絶対に握れない大きさだ.ごろごろ転がしたのだろう.
+<0090> Não que isso faça alguma diferença.
+// 別にどっちだっていい.
+<0091> \{Yukito}"Valeu."
+// \{Yukito}「サンキュ」
+<0092> Agradeci ela de coração.
+// 礼だけを言っておいた.
+<0093> \{Misuzu}"Você já está indo embora?"
+// \{観鈴}「もういく？」
+<0094> \{Yukito}"Sim. Eu tava prestes a sair."
+// \{Yukito}「そうだな.今、出ようとしていたところだ」
+<0095> \{Misuzu}"Você vai pegar o próximo ônibus?"
+// \{観鈴}「次のバスで？」
+<0096> \{Yukito}"Não... eu vou caminhando."
+// \{Yukito}「いや…歩いていくことにした」
+<0097> \{Yukito}"Eu deveria ter feito isso desde o início..."
+// \{Yukito}「そうしてりゃよかったんだよな.最初から…」
+<0098> \{Misuzu}"Entendi..."
+// \{観鈴}「そ…」
+<0099> Misuzu olhou pra estrada ao longe.
+// 観鈴が、道のずっと先を見る.
+<0100> \{Misuzu}"Sua jornada está apenas começando."
+// \{観鈴}「まだまだ続いてゆくんだよね、Yukitoさんの旅は」
+<0101> \{Yukito}"Sim."
+// \{Yukito}「ああ」
+<0102> \{Misuzu}"Será um longo caminho."
+// \{観鈴}「長い道のりだね」
+<0103> \{Yukito}"Sempre foi assim comigo, então eu realmente não me importo."
+// \{Yukito}「これまでもそうだったしな…そんなの気にしてもない」
+<0104> \{Misuzu}"Avise-me quando chegar na próxima cidade."
+// \{観鈴}「また…次の町についたら、教えてね」
+<0105> \{Yukito}"Não... acho que não consigo encontrar uma maneira de entrar em contato com você, então é melhor deixar assim."
+// \{Yukito}「いや…連絡する手段もないだろうし、それはやめておく」
+<0106> \{Misuzu}"Eh..."
+// \{観鈴}「え…」
+<0107> \{Yukito}"Mas irei visitar esta cidade novamente."
+// \{Yukito}「その代わり、また寄るよ、この町に」
+<0108> \{Yukito}"Talvez durante as férias de verão, daqui há alguns anos."
+// \{Yukito}「何年後か、ずっと先の夏休みに」
+<0109> \{Misuzu}"Sério?"
+// \{観鈴}「ほんと？」
+<0110> \{Yukito}"Sim."
+// \{Yukito}「ああ」
+<0111> \{Misuzu}"Nesse caso... tentarei estudar bastante para não precisar ter aulas de reforço."
+// \{観鈴}「じゃ、そのときは…補習受けてないようにがんばる」
+<0112> \{Misuzu}"Assim teremos mais tempo para brincar juntos."
+// \{観鈴}「だから、もっともっと遊べる」
+<0113> \{Yukito}"Tudo bem. Estarei ansioso por isso."
+// \{Yukito}「そっか.期待してるよ」
+<0114> \{Misuzu}"Você ainda vai voltar para esta cidade?"
+// \{観鈴}「また…この町にくることあるかな」
+<0115> \{Yukito}"Eu me pergunto sobre isso..."
+// \{Yukito}「どうだろうな…」
+<0116> \{Misuzu}"Se você fizer isso, hospede-se na nossa casa novamente."
+// \{観鈴}「そのときはまた、家に寄ってほしいな」
+<0117> \{Misuzu}"Nesse caso... tentarei não ter aulas de reforço. Aí teremos mais tempo para brincar juntos."
+// \{観鈴}「そのときは…補習受けてないようにがんばるから.もっともっと遊べる」
+<0118> \{Yukito}"Tudo bem. Estarei ansioso por isso."
+// \{Yukito}「そっか.なら期待して、また寄るよ」
+<0119> \{Yukito}"Talvez durante as férias de verão, daqui há alguns anos."
+// \{Yukito}「何年後か、ずっと先の夏休みに」
+<0120> \{Misuzu}"Certo."
+// \{観鈴}「うん」
+<0121> \{Yukito}"Vou nessa."
+// \{Yukito}「じゃ、いくな」
+<0122> \{Misuzu}"Ok."
+// \{観鈴}「うん」
+<0123> \{Yukito}"........."
+// \{Yukito}「………」
+<0124> \{Yukito}"Não se esqueça de fazer a sua lição de casa."
+// \{Yukito}「おまえ…ちゃんと宿題しろよ」
+<0125> \{Misuzu}"Tudo bem, pode deixar."
+// \{観鈴}「うん、するよ」
+<0126> \{Yukito}"E não se atrase pra escola."
+// \{Yukito}「ちゃんと、遅刻しないように学校いけよ」
+<0127> \{Misuzu}"Ok, vou tentar."
+// \{観鈴}「うん、がんばる」
+<0128> \{Yukito}"Yukito-san, lembre-se de tomar banho."
+// \{観鈴}「Yukitoさんは、ちゃんとお風呂入ってね」
+<0129> \{Yukito}"Ok, irei fazer isso assim que surgir uma oportunidade."
+// \{Yukito}「ああ、チャンスがあれば逃さないようにしよう」
+<0130> \{Misuzu}"E não se esqueça de lavar suas roupas."
+// \{観鈴}「ちゃんと、お洗濯もしてね」
+<0131> \{Yukito}"Sim, vou tentar fazer isso sempre que possível."
+// \{Yukito}「ああ、前向きに考えてみる」
+<0132> \{Misuzu}"........."
+// \{観鈴}「………」
+<0133> Nós não tínhamos mais nada a dizer um pro outro.
+// もう話すこともなかった.
+<0134> E ficamos em silêncio.
+// ふたり黙りこくる.
+<0135> Não conseguimos encontrar o momento certo pra falar.
+// タイミングが掴めなかった.
+<0136> Por um momento não consegui mais dar um passo à frente.
+// いつまでも、一歩が踏み出せないでいた.
+<0137> \{Misuzu}"Ei..."
+// \{観鈴}「ね」
+<0138> \{Yukito}"Huh?"
+// \{Yukito}「あん？」
+<0139> \{Misuzu}"Vamos dizer 'preparar, vai'!"
+// \{観鈴}「よーい、どんっ、て言おうか」
+<0140> \{Yukito}"O que isso deveria ser?"
+// \{Yukito}「なんだよ、そりゃ」
+<0141> \{Misuzu}"Um sinal."
+// \{観鈴}「合図」
+<0142> \{Misuzu}"Quando eu falar 'preparar, vai', Yukito-san parte para a nova cidade."
+// \{観鈴}「よーい、どん、で、Yukitoさんは次の町へ」
+<0143> \{Misuzu}"E eu irei para casa."
+// \{観鈴}「わたしは、自分の家へ」
+<0144> \{Misuzu}"A partir daí, iremos caminhar em direções diferentes."
+// \{観鈴}「別々の方向へ歩き出すの」
+<0145> \{Yukito}"........."
+// \{Yukito}「………」
+<0146> \{Yukito}"Sim... Vamos fazer isso."
+// \{Yukito}「そうだな…そうするか」
+<0147> Pressionei a mão contra meu cabelo, que tava sendo bagunçado pelo vento.
+// 俺は風に乱れる髪の毛を押さえながら答えた.
+<0148> \{Misuzu}"Certo, eu vou dizer isso agora."
+// \{観鈴}「じゃ、言うね」
+<0149> Ficamos de costas um pro outro.
+// 俺たちは背中合わせになる.
+<0150> \{Yukito}"Ok."
+// \{Yukito}「ああ」
+<0151> \{Misuzu}"Preparar..."
+// \{観鈴}「よーい…」
+<0152> O verão continua.
+// 夏はまだまだ続いてゆく.
+<0153> \{Misuzu}"........."
+// \{観鈴}「………」
+<0154> \{Misuzu}"Vai!"
+// \{観鈴}「どんっ」
+<0155> Ela ainda está esperando no ar.\wait{5000}
+// そして、今も風の中に.\wait{5000}

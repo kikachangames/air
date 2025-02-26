@@ -1,0 +1,187 @@
+﻿// Resources for SEEN0602.TXT
+
+#character 'Michiru'
+// 'みちる'
+#character '*A'
+// '*Ａ'
+
+<0000> 2 de Agosto (Qua)
+// ８月 ２日(水)
+<0001> \{Michiru}"Hmmni... Minagi não está vindo..."
+// \{みちる}「んに…美凪がこない…」
+<0002> Lágrimas brotaram em seus olhos.
+// みちるが、目に涙をためながら呟く.
+<0003> Assim como ontem, nem um sinal de Tohno.
+// 昨日、そして、今日も遠野の姿が見えないままの時間が過ぎていた.
+<0004> \{Michiru}"Será... que eu fiz algo errado...?"
+// \{みちる}「みちる…なにかわるいことしたかなぁ…」
+<0005> Depois de desistir de fazer bolhas, Michiru se sentou no banco com os olhos baixos.
+// シャボン玉を飛ばすことも忘れ、みちるはベンチの上でうつむいてばかりだった.
+<0006> \{Yukito}"Provavelmente ela tá ocupada."
+// \{Yukito}「何か、用事でもあるんだろ」
+<0007> Coloquei minha mão sobre a cabeça de Michiru.
+// 俺は、みちるの頭に、ぽんっと手を乗せながら言う.
+<0008> \{Michiru}"Sim... Acho que você tem razão..."
+// \{みちる}「うん…そうかもしれないけど…」
+<0009> \{Yukito}"Ou talvez ela pegou um resfriado de verão."
+// \{Yukito}「もしかしたら、夏風邪でもひいてるのかもしれないしな」
+<0010> \{Michiru}"Hmmni... Agora você me deixou mais preocupado com ela."
+// \{みちる}「んに…だったら心配…」
+<0011> \{Yukito}"Hmm... Sim. Isso é preocupante."
+// \{Yukito}「ん…そうだな.心配だな」
+<0012> \{Michiru}"Sim..."
+// \{みちる}「…うん…」
+<0013> \{Yukito}"Por que não fazer um pedido?"
+// \{Yukito}「なら、お願いでもしてみたらどうだ」
+<0014> \{Michiru}"Um pedido?"
+// \{みちる}「…おねがい？」
+<0015> \{Yukito}"Sim. Faça um pedido às estrelas."
+// \{Yukito}「ああ.お星様にお願いだ」
+<0016> \{Michiru}"Hmmni... mas as estrelas ainda não apareceram."
+// \{みちる}「んに…でも、まだお星様でてないもん」
+<0017> \{Yukito}"Hmm... Você tem um ponto..."
+// \{Yukito}「そっか…そういや、そうだな…」
+<0018> \{Michiru}"Sim..."
+// \{みちる}「…うん…」
+<0019> Eu olhei pro céu.
+// 空を見上げる.
+<0020> O céu azul tava muito longe de anoitecer.
+// 黄昏には遠い青空.
+<0021> Nenhuma luz das estrelas podia ser vista. Havia apenas o brilho do sol com uma tonalidade azul transparente. 
+// そこに星たちの光はなくて、陽の光に透き通る蒼だけがあった.
+<0022> \{Yukito}"Nesse caso, que tal fazer um pedido pra isso?"
+// \{Yukito}「だったら、あれにお願いをしてみたらどうだ」
+<0023> \{Michiru}"O quê?"
+// \{みちる}「…あれって？」
+<0024> \{Yukito}"Areia das estrelas. Você a tem com você, não tem?"
+// \{Yukito}「持ってるんだろ、星の砂」
+<0025> \{Michiru}"Hmmni... Tenho sim."
+// \{みちる}「…んに…もってる」
+<0026> Ela procurou em seu bolso e tirou o frasco de poeira estelar que ganhou de Tohno.
+// ごそごそと、ポケットの中から遠野にもらった星の砂を取り出す.
+<0027> \{Yukito}"Tohno disse que isso traz felicidade só por tê-lo com você."
+// \{Yukito}「持ってると幸せになれるっていうんだからな」
+<0028> \{Yukito}"Tenho certeza de que seu desejo será atendido."
+// \{Yukito}「きっと、お願いごとのひとつぐらい叶えてくれるぞ」
+<0029> \{Michiru}"Você acha?"
+// \{みちる}「…そかな」
+<0030> \{Yukito}"Sim."
+// \{Yukito}「ああ」
+<0031> \{Michiru}"Hmmni... Tudo bem. Então vou fazer um pedido."
+// \{みちる}「…んに…わかった.おねがいごとしてみる」
+<0032> Michiru fechou os olhos, segurou a areia das estrelas contra seu peito e começou a desejar.
+// みちるは、目を閉じて、星の砂を胸に抱いたままお願いをはじめる.
+<0033> \{Yukito}"É isso aí. Também vou me juntar a você."
+// \{Yukito}「よし.俺も、一緒にお願いしてやるな」
+<0034> Tirei meu próprio frasco de areia estelar do bolso e fechei os olhos.
+// ポケットの中から自分の分の星の砂をとりだし、俺もそのまま目を閉じた.
+<0035> \{Michiru}"Desejo que a Minagi melhore logo..."
+// \{みちる}「…美凪がはやく元気になりますように」
+<0036> Ouvi a voz de Michiru ao meu lado.
+// 隣から、みちるの声が聞こえる.
+<0037> Eu entendi seu desejo.
+// 願いが伝わってくる.
+<0038> E recitei o mesmo pedido em meu coração.
+// 俺は、声を出さずに、心の中で願いを唱えた.
+<0039> \{Yukito}"Ei..."
+// \{Yukito}「なあ…」
+<0040> Eu abri os olhos.
+// 目を開けて、みちるに声をかける.
+<0041> \{Michiru}"Hmmni? Estou fazendo um pedido. Não me atrapalhe."
+// \{みちる}「んに？いまはおねがいちゅうだから、はなしかけないでよ」
+<0042> Ela me repreendeu.
+// 注意された.
+<0043> Mas não me importei.
+// でも、構わない.
+<0044> \{Yukito}"Você... é a melhor amiga de Tohno, certo?"
+// \{Yukito}「…おまえ…遠野の親友なんだよな」
+<0045> \{Michiru}"Sim. É isso mesmo."
+// \{みちる}「うんっ.そだよ」
+<0046> \{Yukito}"Então..."
+// \{Yukito}「なら…」
+<0047> \{Michiru}"Então?"
+// \{みちる}「なら？」
+<0048> \{Yukito}"........."
+// \{Yukito}「………」
+<0049> \{Yukito}"......"
+// \{Yukito}「……」
+<0050> \{Yukito}"Nada... Esquece."
+// \{Yukito}「…いや…なんでもない」
+<0051> Eu me contive.
+// 言いかけて、言葉を止める.
+<0052> \{Michiru}"Hmmni?"
+// \{みちる}「んに？」
+<0053> \{Yukito}"Você não vai soprar mais bolhas hoje?"
+// \{Yukito}「今日はシャボン玉、練習しなくていいのか」
+<0054> Eu mudei de assunto.
+// 言いかけた言葉の代わりにそう言う.
+<0055> \{Michiru}"Vou."
+// \{みちる}「するよ」
+<0056> \{Yukito}"Certo. Então, vou me juntar a você hoje."
+// \{Yukito}「そっか.じゃあ、今日は俺もつきあってやるな」
+<0057> \{Michiru}"Hmmni? Você vai soprar bolhas comigo?"
+// \{みちる}「んに？いっしょにするの？」
+<0058> \{Yukito}"Sim."
+// \{Yukito}「ああ」
+<0059> \{Michiru}"Soprar bolhas é difícil. Será que você consegue fazer isso?"
+// \{みちる}「シャボン玉、むずかしいよ？できる？」
+<0060> \{Yukito}"Tá me zoando? Pois saiba que eu já fui chamado de o mestre soprador de bolhas..."
+// \{Yukito}「馬鹿にするな.これでも昔は、天才シャボン玉少年と…」
+<0061> \{Yukito}"Não..."
+// \{Yukito}「うっ」
+<0062> Ninguém jamais me chamou assim.
+// 言われたことなかった.
+<0063> \{Yukito}"Certa vez, frequentei uma escola técnica que ensinava a soprar bolhas..."
+// \{Yukito}「シャボン玉専門学校に…」
+<0064> \{Yukito}"Não..."
+// \{Yukito}「うっ」
+<0065> Nenhuma escola ensina isso.
+// そんな学校、なかった.
+<0066> \{Yukito}"Tenho mãos realmente habilidosas."
+// \{Yukito}「…手先は器用な方なんだよ」
+<0067> \{Michiru}"Nyahaha, e o que isso tem a ver?"
+// \{みちる}「にゃはは、そっか」
+<0068> \{Yukito}"Tudo. Por isso estourar bolhas é tão fácil quanto latir."
+// \{Yukito}「ああ.だから、シャボン玉を飛ばすぐらい、造作もないことだ」
+<0069> \{Michiru}"Latir?"
+// \{みちる}「ゾウさん？」
+<0070> \{Yukito}"........."
+// \{Yukito}「………」
+<0071> \{Yukito}"Auuu~!"
+// \{Yukito}「…ぱおー」
+<0072> \{Michiru}"Nossa, você parece um cachorro!"
+// \{みちる}「おおー、にてるー」
+<0073> Não havia motivos pra me orgulhar dessa habilidade.
+// 嬉しくない.
+<0074> \{Yukito}"Ei, vamos logo começar com isso."
+// \{Yukito}「ほら、さっさとはじめるぞ」
+<0075> \{Michiru}"Ok! Vamos ver quem consegue fazer mais bolhas!"
+// \{みちる}「うんっ!どっちがたくさんとばせるか、きょーそーだねっ」
+<0076> Nós dois começamos a brincar.
+// 俺たちは、二人でシャボン玉遊びをはじめる.
+<0077> Sob o céu brilhante de verão, tentamos várias vezes fazer bolhas de sabão.
+// 眩しい夏空の下で、何回もシャボン玉をふくらます.
+<0078> \{Michiru}"Hmmyuu, isso não está indo nada bem."
+// \{みちる}「んにゅぅ～～～、うまくいかない」
+<0079> \{Yukito}"É mais difícil do que eu pensava..."
+// \{Yukito}「…結構むずかしいな」
+<0080> Foi angustiante o fato de que nenhum de nós conseguiu soprar uma única bolha com sucesso.
+// だけど、二人ともうまくシャボン玉を飛ばすことができなくて、四苦八苦だった.
+<0081> Mesmo assim, isso foi suficiente.
+// でも、それでも良かった.
+<0082> Michiru tava rindo novamente. Só isso já valeu a pena.
+// 遠野の姿を見られなくて、ずっと寂しそうにしていたみちるの顔に、ほんのひとときでも笑顔が戻ったから、それで良かった.
+<0083> \{Yukito}"Ah, meu primeiro sucesso!"
+// \{Yukito}「おっ、一回目成功だ」
+<0084> Uma pequena bolha de sabão se formou em meu canudo e flutuou em direção ao céu.
+// 俺のストローから、小さなシャボン玉が生まれ、天に昇っていく.
+<0085> \{Michiru}"Uau! Isso é incrível, Kunisaki Yukito!"
+// \{みちる}「おおーっ!すごいぞKunisakiYukitoーっ!」
+<0086> Nossos olhos seguiram a bolha enquanto ela se afastava.
+// 二人で、そのシャボン玉の行方を見守った.
+<0087> Nós a vigiávamos, sabendo que, em breve, ela se quebraria e desapareceria.
+// いつかは割れて、消えてしまうことを知っているのに、俺たちは見守った.
+<0088> Olhamos pro céu. Um céu azul.
+// 見上げる空.青い空.
+<0089> Hoje, o sol de verão voltou a nos aquecer.
+// 夏の陽射しが、今日も変わることなく眩しく光っていた.

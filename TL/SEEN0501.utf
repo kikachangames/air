@@ -1,0 +1,1166 @@
+﻿// Resources for SEEN0501.TXT
+
+#character 'Hijiri'
+#character '*Ａ'
+#character 'Kano'
+
+<0000> 1 de Agosto (Ter)
+// ８月 １日(火)
+<0001> Acordei em uma sala branca.
+// 目覚めると、そこは真っ白な部屋だった.
+<0002> Paredes brancas. Lençóis brancos.
+// 真っ白な壁.真っ白なシーツ.
+<0003> Demorei um tempo pra entender onde tava.
+// 自分が今どこにいるのか把握するのに、しばらく時間がかかった.
+<0004> Havia um cheiro suave de desinfetante.
+// 柔らかな消毒液の匂い.
+<0005> Ouvi uma voz calma falando comigo.
+// その向こうから、穏やかな声が聞こえた.
+<0006> \{Hijiri}"Você está acordado?"
+// \{聖}「…目が覚めたか」
+<0007> \{Yukito}"Sim..."
+// \{Yukito}「ああ…」
+<0008> Me sentei na cama de pacientes.
+// 声に答えながら、俺は診察用のベットの上で上半身を起こした.
+<0009> Minha cabeça tava pesada.
+// 頭が重い.
+<0010> Senti uma dor surda ao redor da minha têmpora.
+// こめかみの辺りに、鈍い痛みがあった.
+<0011> \{Yukito}"Que horas são?"
+// \{Yukito}「今…何時だ」
+<0012> Olhei pro relógio de parede à minha frente.
+// 訊ねてから、目の前の壁に掛け時計があるのに気づいた.
+<0013> Os ponteiros apontavam exatamente para 18h30.
+// 針はちょうど六時半を指していた.
+<0014> O pôr do sol vermelho era visível da janela.
+// 窓の外は赤い夕暮れ.
+<0015> Eu dormi o dia inteiro.
+// どうやら、丸一日近く眠り続けていたようだった.
+<0016> \{Hijiri}"Como você está se sentindo?"
+// \{聖}「調子はどうだ」
+<0017> Hijiri chegou perto de mim pra ver melhor.
+// 身を寄せながら、聖が俺の体を気遣う.
+<0018> \{Yukito}"Não tão ruim..."
+// \{Yukito}「…悪くはない」
+<0019> Movi minhas pernas pra baixo na cama.
+// そう答えて、ベットに腰掛ける.
+<0020> \{Hijiri}"Hmm..."
+// \{聖}「ふむ…」
+<0021> \{Hijiri}"E sua ferida? Ainda dói?"
+// \{聖}「傷は？ 痛んだりしないか？」
+<0022> \{Yukito}"Ferida?"
+// \{Yukito}「傷？」
+<0023> \{Hijiri}"O quê? Você não percebeu?"
+// \{聖}「なんだ、気づいてないのか…」
+<0024> Ela suspirou e tocou meu pescoço.
+// ため息混じりに呟き、そっと俺の首筋に手を伸ばしてきた.
+<0025> \{Hijiri}"A cicatriz permanecerá por um tempo."
+// \{聖}「しばらくは、痕が残るかもしれないな」
+<0026> Seus dedos finos acariciaram meu pescoço.
+// 細い指先が、俺の首筋を撫でた.
+<0027> \{Hijiri}"Quer se olhar no espelho?"
+// \{聖}「鏡、見るか？」
+<0028> \{Yukito}"Sim."
+// \{Yukito}「ああ」
+<0029> \{Hijiri}"Mas seu ferimento é menos grave do que parece."
+// \{聖}「見かけは派手だが、傷そのものは大したことはない」
+<0030> Ela sorriu e colocou um espelho na mesa diante de mim.
+// 柔ら微笑みながら、机の上に置いてあった小さな鏡を俺の前に据える.
+<0031> Olhei pro meu reflexo.
+// 覗いてみる.
+<0032> Havia hematomas em formato de dedos e vários arranhões de unhas vermelho-escuras no meu pescoço.
+// 首筋には、指の形をした蒼い痣と、赤黒く変色した幾つかの爪痕が残っていた.
+<0033> Mas não fiquei surpreso.
+// しかし、そこに感情は生まれなかった.
+<0034> Eu me senti estranhamente calmo.
+// 拍子抜けするほど、落ち着いている自分.
+<0035> Talvez minha mente ainda tivesse em desordem.
+// ただ、思考の整理がついていないだけだろうか….
+<0036> \{Yukito}"Cadê a Kano?"
+// \{Yukito}「…佳乃は？」
+<0037> \{Hijiri}"Está no quarto dela."
+// \{聖}「部屋にいるよ」
+<0038> \{Hijiri}"Ela está dormindo profundamente. Provavelmente vai acordar logo."
+// \{聖}「よく眠っている.もうすぐ起きるだろう」
+<0039> \{Yukito}"Entendi..."
+// \{Yukito}「そうか…」
+<0040> \{Hijiri}"........."
+// \{聖}「………」
+<0041> \{Yukito}"........."
+// \{Yukito}「………」
+<0042> Hijiri foi quem quebrou o pesado silêncio.
+// 重い沈黙を破ったのは、聖の方だった.
+<0043> \{Hijiri}"O que aconteceu?"
+// \{聖}「何があった？」
+<0044> \{Yukito}"........."
+// \{Yukito}「………」
+<0045> \{Hijiri}"Você não quer falar sobre isso?"
+// \{聖}「…言いたくない、か？」
+<0046> \{Yukito}"Não..."
+// \{Yukito}「いや…」
+<0047> \{Hijiri}"Entendo. Nesse caso..."
+// \{聖}「そうか.なら…」
+<0048> \{Yukito}"Eu não entendi o que aconteceu."
+// \{Yukito}「わからないんだよ」
+<0049> \{Hijiri}"Eh...?"
+// \{聖}「え…」
+<0050> \{Yukito}"Eu não sei de nada ainda..."
+// \{Yukito}「まだ、俺は何も知らないからな…」
+<0051> Isso mesmo.
+// そうだ.
+<0052> Eu ainda tava perdido.
+// 俺はまだ、何も知らずにいる.
+<0053> Eu nem sei se é algo que eu deveria saber.
+// 知るべきことなのかどうかさえ、わからずにいる.
+<0054> Olhei pela janela.
+// 窓の外に目を移す.
+<0055> O céu era visível através da copa das árvores no jardim.
+// 庭に植えられた木立の隙間から、小さな空が見えた.
+<0056> Crepúsculo de verão. Céu de verão.
+// 夏の夕暮れ.夏の空.
+<0057> O sol tava se despedindo... a noite tava chegando...
+// そして日が暮れて、また夜がくる.
+<0058> Trazendo lentamente as lembranças de ontem.
+// ゆっくりと、しかし確実に昨夜の記憶が甦ってくる.
+<0059> O que aconteceu não foi um sonho. Foi a realidade.
+// あれは、夢じゃない.現実だ.
+<0060> Toquei os arranhões das unhas no meu pescoço.
+// 爪痕を撫でてみる.
+<0061> Sempre que eu tocava na estranha textura da cicatriz, sentia uma onda de dor.
+// 皮膚とは微妙に違う異質な感触と共に、微かな痛みが走った.
+<0062> De quem é essa dor?
+// 誰の痛み？
+<0063> De Kano?
+// 佳乃の？
+<0064> Ou...
+// それとも….
+<0065> \{Hijiri}"Você conheceu a outro Kano?"
+// \{聖}「…彼女に逢ったのか？」
+<0066> Hijiri me perguntou.
+// 聖はそう言った.
+<0067> \{Yukito}"Sim."
+// \{Yukito}「ああ」
+<0068> Eu respondi.
+// 俺は答えた.
+<0069> \{Hijiri}"Certo..."
+// \{聖}「…そうか」
+<0070> \{Hijiri}"Ela te causou essas feridas?"
+// \{聖}「その傷は、彼女か？」
+<0071> \{Yukito}"Parece que sim."
+// \{Yukito}「みたいだな」
+<0072> \{Hijiri}"Hmm..."
+// \{聖}「ふむ…」
+<0073> \{Yukito}"........."
+// \{Yukito}「………」
+<0074> \{Yukito}"Ei..."
+// \{Yukito}「なあ…」
+<0075> \{Yukito}"Quem é... hein?"
+// \{Yukito}「あれは誰…えっ」
+<0076> \{Yukito}"E-Ei!"
+// \{Yukito}「お、おい」
+<0077> \{Hijiri}"......"
+// \{聖}「………」
+<0078> Seus lábios macios tavam bem ao meu lado.
+// 柔らかな唇が、俺のすぐ側にあった.
+<0079> A fragrância de seus cabelos brilhantes permanecia no ar.
+// 艶やかな髪の香りが、鼻先をくすぐる.
+<0080> \{Hijiri}"Desculpe."
+// \{聖}「…すまなかったな」
+<0081> Ela sussurrou no meu ouvido.
+// 俺の耳元で呟く.
+<0082> Sua respiração roçava meu pescoço a cada palavra.
+// 首筋に、言葉の数だけ息がかかる.
+<0083> \{Hijiri}"Eu deveria ter sido a pessoa com essas feridas."
+// \{聖}「これは、私が受けるべきものだったんだ」
+<0084> \{Yukito}"........."
+// \{Yukito}「………」
+<0085> \{Hijiri}"Me desculpe..."
+// \{聖}「すまない…」
+<0086> Meu peito doía.
+// なぜだろう.
+<0087> Eu não sabia o motivo.
+// 胸が痛い.
+<0088> Havia muitas coisas que eu queria perguntar a ela.
+// 訊ねるべきことは、抱えきれないほどあるはずなのに.
+<0089> No entanto, não consegui dizer nada.
+// 言葉が出なかった.
+<0090> \{Hijiri}"Acho que devo te contar tudo."
+// \{聖}「話さなければならないだろうな」
+<0091> \{Yukito}"Se é o que você quer."
+// \{Yukito}「そっちが話したいのなら」
+<0092> \{Hijiri}"Tudo bem então."
+// \{聖}「そうか…」
+<0093> \{Hijiri}"Nesse caso, por favor, ouça o que vou dizer."
+// \{聖}「それなら、聞いてほしい」
+<0094> \{Hijiri}"Tudo começou quando Kano ainda era pequena."
+// \{聖}「あれは、佳乃がまだ小さかった頃のことだ」
+<0095> \{Hijiri}"Foi no primeiro verão depois que nossa mãe faleceu..."
+// \{聖} 親が死んで、最初の夏だった…」
+<0096> Como irmãs, sempre estivemos próximas uma da outra.
+// 仲のいい姉妹がいた.
+<0097> Nós duas estávamos sempre juntas.
+// いつも、二人一緒だった.
+<0098> Uma irmã mais velha chata, mas sábia e atenciosa, da qual alguém poderia se orgulhar.
+// 口うるさいけど物知りでやさしい、自慢の姉.
+<0099> E uma irmãzinha chorona, mas fofa.
+// 泣き虫だけど素直で可愛い、大切な妹.
+<0100> As duas amavam o verão.
+// 二人とも、夏が大好きだった.
+<0101> E estavam ansiosas para ir ao festival.
+// 二人とも、お祭りを楽しみにしていた.
+<0102> Mas aquele verão foi diferente dos anteriores.
+// でも、その年の夏はいつもと違った.
+<0103> Nossa mãe, que costumava nos levar ao festival, não estava mais com a gente.
+// お祭りに連れていってくれる母親が、今はどこにもいなかった.
+<0104> \{Kano}"Onee-chan."
+// \{佳乃}「…お姉ちゃん」
+<0105> \{Kano}"Onee-chan, Onee-chan, Onee-chan~!"
+// \{佳乃}「お姉ちゃん、お姉ちゃん、お姉ちゃんってば～」
+<0106> \{Hijiri}"Pare de puxar minhas roupas."
+// \{聖}「…服を引っ張るな」
+<0107> \{Kano}"Mas você está andando muito rápido."
+// \{佳乃}「だって、お姉ちゃん歩くの速すぎるんだもん」
+<0108> A irmã mais velha suspirou.
+// 姉は溜息をつく.
+<0109> Eu não deveria ter vindo ao festival.
+// お祭りになんて、来るんじゃなかった.
+<0110> Mas era deprimente continuar sozinha em um quarto vazio...
+// がらんとした部屋の中に、二人きりでいるのが嫌だった.
+<0111>Senti que as lembranças felizes de caminhar com minha mãe estariam me esperando lá fora.
+// 母親と歩いた楽しい思い出が、外で待っている気がした.
+<0112> Então saí de casa com minha irmã e fomos para o santuário na colina.
+// だから家を抜け出して、妹と二人で高台の神社まで来た.
+<0113> No festival, havia uma infinidade de barracas de comida, espalhadas ao som da música animada.
+// にぎやかな祭囃子に、たくさんの屋台.
+<0114> De vez em quando, uma família se divertindo passava pela gente.
+// 時折すれ違う、楽しそうな家族連れ.
+<0115> Hijiri mordeu o lábio inferior.
+// 唇を噛みしめる.
+<0116> Segurando a mão de minha irmã, continuei andando de cabeça baixa.
+// 妹の手を握り、うつむいたまま歩く.
+<0117> Nesse momento, uma voz alegre gritou.
+// その時、賑やかな声が言った.
+<0118> \{Kano}"Olha, olha!"
+// \{佳乃}「見て見てっ」
+<0119> \{Kano}"Balões!"
+// \{佳乃}「風船っ!」
+<0120> \{Hijiri}"Sim, balões."
+// \{聖}「風船だな」
+<0121> \{Hijiri}"Legal. Vamos indo."
+// \{聖}「じゃっ、そういうことで」
+<0122> Indiferente, tentei seguir em frente.
+// 何事もなかったかのように、その場を離れようとする.
+<0123> Mas Kano ficou imóvel no lugar.
+// でも、妹は動こうとしない.
+<0124> Um arco-íris de balões amarrados na barraquinha flutuava diante de seus olhos.
+// 瞳の先には、屋台に結ばれた色とりどりの風船たち.
+<0125> \{Kano}"Estão todos flutuando!"
+// \{佳乃}「浮かんでるう～」
+<0126> Ela colocou as duas mãos no rosto com alegria.
+// ほっぺたに手を当てて、うっとりと言う.
+<0127> \{Hijiri}"Bem, balões flutuam."
+// \{聖}「そりゃあ、風船だからな」
+<0128> \{Kano}"Ei, você acha que eu posso voar se comprar um desses?"
+// \{佳乃}「ねえねえ、あれ買ったら、空飛べる？」
+<0129> \{Hijiri}"Não, você não pode."
+// \{聖}「飛べない」
+<0130> \{Kano}"Ununu. Por que não?"
+// \{佳乃}「うぬぬぅ.なんで？」
+<0131> \{Hijiri}"Se um único balão pudesse levantar uma pessoa..."
+// \{聖}「風船ひとつで人間一人が浮き上がるなら…」
+<0132> \{Hijiri}"...então aquela barraquinha já estaria no ar agora."
+// \{聖}「あの夜店は、今頃空を飛んでる」
+<0133> A esperta irmã mais velha apontou pro céu.
+// びしっと指摘した頭のいい姉.
+<0134> \{Hijiri}"Uau... você é tão inteligente!"
+// \{佳乃}「ふえ～.お姉ちゃんあったまいい～」
+<0135> A irmã mais nova não entendeu a explicação, mesmo assim ficou impressionada.
+// よくわからないけど感心顔の妹.
+<0136> \{Kano}"Mas se eu tiver muitos balões, poderei voar?"
+// \{佳乃}「でもそれって、いっぱい風船あれば飛べるかもだよね？」
+<0137> \{Hijiri}"........."
+// \{聖}「………」
+<0138> A irmã mais velha ficou perplexa.
+// 墓穴を掘った姉.
+<0139> \{Hijiri}"Talvez isso seja possível..."
+// \{聖}「…飛べるかもしれない」
+<0140> \{Hijiri}"Mas eu não posso pagar por mais de um balão."
+// \{聖}「でも、ひとつだけしか買えない」
+<0141> Ela tirou toda a sua fortuna do bolso da saia.
+// スカートのポケットから取り出したのは、彼女の全財産.
+<0142> Quatro moedas de cem ienes.
+// １００円玉が４枚.
+<0143> Isso seria o suficiente para um dos menores balões.
+// いちばん小さい風船ちょうどひとつ分だった.
+<0144> \{Kano}"Hehe... Eu também tenho meu dinheiro da mesada!"
+// \{佳乃}「へへ～.佳乃もおこづかい持ってるもんっ」
+<0145> \{Kano}"Aqui!"
+// \{佳乃}「はいっ」
+<0146> Duas moedas de 10 ienes.
+// １０円玉２枚.
+<0147> \{Hijiri}"........."
+// \{聖}「………」
+<0148> \{Kano}"Ei, ei! Quantos balões podemos comprar agora?"
+// \{佳乃}「ねーねー、風船いくつ買えるの？」
+<0149> \{Hijiri}"Um."
+// \{聖}「ひとつ」
+<0150> \{Kano}"Mas eu te dei todo meu dinheiro!"
+// \{佳乃}「だって、佳乃もお金出したんだよ～」
+<0151> \{Hijiri}"Mesmo assim, só vai dar para comprar um."
+// \{聖}「それでもひとつ」
+<0152> \{Kano}"Unuu... Isso é confuso."
+// \{佳乃}「…うぬぅ.むずかしい～」
+<0153> Kano franziu as sobrancelhas, refletindo por um momento sobre as injustiças do mundo.
+// 幼い眉を寄せ、世の中の不条理についてしばし考える妹.
+<0154> Mas ela rapidamente bolou outro plano.
+// だが、すぐに次の手を思いつく.
+<0155> \{Kano}"Já sei!"
+// \{佳乃}「そうだっ!」
+<0156> \{Kano}"Mesmo que a gente tenha apenas um balão, tudo o que precisamos fazer é enchê-lo com muito ar!"
+// \{佳乃}「風船がひとつでも、いっぱい膨らませればいいんだよ」
+<0157> \{Kano}"Então ele será capaz de levantar coisas mais pesadas!"
+// \{佳乃}「そうすれば、もっと重いものだって持ち上げられるよ」
+<0158> A irmã mais velha sabia que isso não iria funcionar, mas não tinha certeza se conseguiria fazê-la entender.
+// …どこか間違っているような気もしたが、この妹にわからせるだけの自信が姉にはない.
+<0159> \{Hijiri}"Tudo bem. Vamos pegar um, ok?"
+// \{聖}「…わかった.でも本当にひとつだけだぞ」
+<0160> Se um balão pudesse acalmar sua irmãzinha, ela compraria um com prazer.
+// それで妹の気が済むのなら、買ってあげようと思った.
+<0161> Ela comprou um balão rosa claro.
+// お金を払い、淡いピンク色の風船を受け取る.
+<0162> \{Hijiri}"Aqui."
+// \{聖}「ほら」
+<0163> \{Kano}"Uwawa!"
+// \{佳乃}「うわわぁ」
+<0164> \{Kano}"Obrigada, Onee-chan!"
+// \{佳乃}「ありがと、お姉ちゃんっ!」
+<0165> A irmãzinha, sorrindo de orelha a orelha, esticou o braço para pegar o balão.
+// こぼれ落ちそうに笑いながら、妹は小さな手を伸ばす.
+<0166> Alguém passou e esbarrou na irmã mais velha.
+// すれ違った誰かの肩が当たり、姉の身体がほんの少しだけ揺れた.
+<0167> Nesse momento, o fio do balão escapou de seus dedos.
+// 渡そうとした糸が、指の間をすり抜けた.
+<0168> \{Kano}"Ah..."
+// \{佳乃}「あっ…」
+<0169> O balão flutuou no céu noturno e gradualmente desapareceu.
+// 風船は浮きあがり、ゆっくりと夜空に消えていった.
+<0170> Não importava o quanto a irmã mais velha tentasse pegar o balão, ela não conseguia mais alcançá-lo.
+// 姉がどんなに手を伸ばしても、もう届かなかった.
+<0171> \{Hijiri}"Foi a primeira vez que ela chorou tanto."
+// \{聖}「あんなに泣いたのは初めてだったな…」
+<0172> \{Yukito}"Quem, você?"
+// \{Yukito}「あんたがか？」
+<0173> \{Hijiri}"Kano."
+// \{聖}「佳乃がだよ」
+<0174> \{Yukito}"Eu sabia disso."
+// \{Yukito}「わかってる」
+<0175> \{Hijiri}"Então não pergunte."
+// \{聖}「なら訊くな」
+<0176> \{Yukito}"........."
+// \{Yukito}「………」
+<0177> Ela não tava com humor pra piadas.
+// 冗談は通用しないモードになっていた.
+<0178> \{Yukito}"Então, o que aconteceu depois?"
+// \{Yukito}「…それから、どうしたんだ？」
+<0179> \{Hijiri}"Tentei acalmá-la no caminho para casa."
+// \{聖}「佳乃をなだめながら、家に帰った」
+<0180> \{Hijiri}"Eu disse a ela que pediria ao papai para nos dar um adiantamento da nossa mesada. Então poderíamos comprar muitos balões."
+// \{聖}「『お父さんにお小遣いを前借りして、それでたくさん風船を買おう』、そう言い聞かせて」
+<0181> \{Yukito}"Você comprou os balões no final?"
+// \{Yukito}「で、風船は買えたのか？」
+<0182> Hijiri balançou a cabeça lentamente. 
+// 聖はゆっくりと首を振った.
+<0183> \{Hijiri}"Nosso pai estava fora em uma chamada de emergência. Ele não voltou a noite toda."
+// \{聖}「父は急患の往診に出ていて、一晩帰ってこなかった」
+<0184> Tentei imaginar a situação.
+// 俺は想像してみた.
+<0185> Uma casa sem as pessoas que deveriam estar lá.
+// いたはずの人がいない家.
+<0186> O ar frio da noite.
+// ひんやりとした夜の空気.
+<0187> Um balão que fugiu.
+// 逃げてしまった風船.
+<0188> O balão que deveria ter levado Kano pro céu.
+// 自分を空に運んでくれるはずだった風船…
+<0189> \{Yukito}"Por que Kano pensou em voar?"
+// \{Yukito}「なぜ佳乃は、空を飛びたいなんて考えたんだ？」
+<0190> \{Hijiri}"Ela provavelmente queria ver nossa mãe."
+// \{聖}「母親に会いたかったからだろう」
+<0191> \{Yukito}"A mãe de vocês?"
+// \{Yukito}「…母親に？」
+<0192> Não entendi.
+// 意味がわからず、俺は問い返そうとした.
+<0193> Os olhos de Hijiri pareceram vacilar por um momento.
+// 聖の瞳が、かすかに揺らいだように見えた.
+<0194> \{Hijiri}"Era nisso que Kano acreditava naquela época."
+// \{聖}「あの頃、佳乃は信じていたんだ」
+<0195> \{Hijiri}"Ela acreditava que nossa mãe estava no céu cuidando dela..."
+// \{聖}「お母さんは空にいて、自分のことを見ていてくれる、と…」
+<0196> \{Hijiri}"Porque foi isso que eu falei para ela."
+// \{聖}「そういう風に、私が教えたからだ」
+<0197> Hijiri parecia pensar que a culpa era dela.
+// 自分自身に罪状を伝えるように、聖はつぶやいた.
+<0198> \{Hijiri}"Nem meu pai nem eu suportamos contar a verdade para ela."
+// \{聖}「父も私も、言えなかったんだ」
+<0199> \{Hijiri}"Não havia como dizer a ela que nossa mãe havia partido para sempre."
+// \{聖}「『お母さんはもうどこにもいない』なんて、あの子には言えなかったんだよ…」
+<0200> Um céu cheio de estrelas.
+// 満天の星.
+<0201> O cheiro do incenso repelente de mosquitos se mistura com o perfume das melancias.
+// 蚊取り線香と西瓜の匂い.
+<0202> Brasas de fogos de artifício estão espalhadas pelas estradas.
+// 花火の燃えかすが、道端に散らばっている.
+<0203> O som de dois pares de passos.
+// 踏みしめていく、足音が二つ.
+<0204> As duas irmãs atravessam um beco e passam pelos campos de arroz, onde os vaga-lumes dançavam.
+// 路地を抜け、蛍の舞う田んぼを過ぎる.
+<0205> De mãos dadas, eles correm pelo caminho escuro da montanha.
+// 真っ暗な山道を、手をつないで急ぐ.
+<0206> Depois de subirem a última ladeira...
+// 最後の坂を登り切ると…
+<0207> \{Kano}"Onee-chan! Eles ainda estão abertos!"
+// \{佳乃}「お姉ちゃん、まだやってるよっ!」
+<0208> Elas continuaram pelo estreito caminho de terra até o santuário.
+// 神社の参道に続く、土の細道.
+<0209> Uma fileira de lanternas mostrou o caminho para as duas.
+// 提灯の光が連なり、二人の行く手を示していた.
+<0210> Um brilho onírico surgiu do outro lado do arco do santuário.
+// 鳥居の向こうは、ぼうっと輝いている.
+<0211> O agito das barracas noturnas era o mesmo de algumas horas atrás.
+// 数時間前に見た夜店の賑わいは、今も続いているようだった.
+<0212> \{Hijiri}"Ótimo, chegamos a tempo."
+// \{聖}「…よかった、間に合った」
+<0213> A irmã mais velha parou para recuperar o fôlego.
+// 立ち止まり、苦しい息を整える.
+<0214> A irmã mais nova olhou ansiosamente para as barracas além do torii.
+// 鳥居の方を食い入るように見つめながら、妹が心配そうに言った.
+<0215> \{Kano}"Você acha que sobrou algum?"
+// \{佳乃}「売れ残り、あるかな？」
+<0216> \{Hijiri}"Sim. Sem dúvida."
+// \{聖}「ある.絶対ある」
+<0217> \{Hijiri}"Ninguém vai comprar balões."
+// \{聖}「風船なんて、きっと誰も買わない」
+<0218> \{Kano}"Quer dizer que todo mundo odeia balões?"
+// \{佳乃}「みんな、風船きらいなの？」
+<0219> \{Hijiri}"Não. É que geralmente as pessoas têm coisas melhores para comprar."
+// \{聖}「きらいじゃなくて、他に買いたいものがあるんだよ」
+<0220> \{Kano}"Mas eu adoro balões!"
+// \{佳乃}「でも、佳乃は風船大好きだよぉ」
+<0221> \{Kano}"Não me importo com \g{takoyaki}={Bolinho frito recheado com polvo.} ou maçãs doces. Só quero um balão."
+// \{佳乃}「風船があったら、たこ焼きもりんご飴もいらないよ」
+<0222> \{Hijiri}"Você está com fome?"
+// \{聖}「…お腹減ってるのか？」
+<0223> \{Kano}"Não."
+// \{佳乃}「ううんっ」
+<0224> Ela balançou a cabeça, mas seu estômago roncou naquele momento.
+// 元気に首を振ったとたん、きゅううと腹が鳴る.
+<0225> Quando éramos apenas nós duas jantando, não conseguíamos nem usar os hashis direito.
+// 二人きりの夕食は、どちらも箸が進まなかった.
+<0226> Enquanto cutucava o arroz frio com seus hashis, a irmã mais nova contou à irmã mais velha.
+// 冷えたご飯を箸でつつきながら、妹は言った.
+<0227> "Talvez eles soltem todos os balões no ar quando o festival acabar."
+// 『お祭りがおわったら、風船はきっと空に放すんだよ』
+<0228> "Se eu pedir um balão, talvez eles me dêem um."
+// 『頼めばきっと、ひとつぐらいもらえるよ』
+<0229> A irmãzinha continuou divagando.
+// 幼い妹の、他愛のない言葉.
+<0230> A irmã mais velha ainda podia sentir a sensação da corda em seus dedos.
+// 姉の指先には、まだ糸の感触が残っていた.
+<0231> Aquele velho na barraca de balões parecia ser gentil.
+// 風船屋のおじさんはやさしそうだった.
+<0232> Se contassem o que aconteceu, certamente ele daria um...
+// 正直にわけを話せば、本当にくれるかもしれない…
+<0233> As duas irmãs subiram o último lance de degraus de pedra.
+// 最後の石段を駈け登る.
+<0234> Elas atravessaram o torii.
+// そして、二人は鳥居をくぐった.
+<0235> Mas os balões não estavam em lugar nenhum.
+// 風船なんてどこにもなかった.
+<0236> Nem as famílias vestindo \g{yukatas}={Quimono de verão. Tipo de vestimenta tradicional geralmente utilizado em festivais.}.
+// 浴衣を着た家族連れもいなかった.
+<0237> Estruturas esqueléticas de madeira eram tudo o que restava das animadas barracas.
+// 賑やかに並んでいた夜店は、ほとんどがもう骨組みだけになっていた.
+<0238> Adultos com expressões cansadas organizavam seus pertences em silêncio.
+// 疲れた顔の大人たちが、無言で荷造りをしている.
+<0239> Depois disso, todos voltariam para suas casas.
+// そして、別の町に向かう.
+<0240> O festival havia terminado.
+// 楽しかった祭の終わり.
+<0241> Foi uma visão de partir o coração.
+// 胸を締めつけられる光景.
+<0242> O vento noturno agitava as copas das árvores.
+// 梢をざわざわと鳴らし、夜風が吹き抜けていった.
+<0243> Minha irmã ao meu lado segurou minha mão com força.
+// 隣にいる妹が、ぎゅっと手を握ってきた.
+<0244> Seu toque me dizia que ela sentia vontade de sair daquele lugar imediatamente.
+// すがりつく指先が、『ここにはいたくない』と伝える.
+<0245> E assim...
+// それなのに…
+<0246> 'Vamos para casa.'
+// 『家に帰ろう』
+<0247> Eu não poderia dizer isso para minha irmãzinha.
+// その一言が、どうしても言い出せなかった.
+<0248> Quando voltei de meus pensamentos, a limpeza do festival já estava concluída.
+// 我に返った時、祭の片づけは終わっていた.
+<0249> Não havia mais ninguém no santuário, exceto nós duas.
+// 二人の他には誰もいない神社.
+<0250> Embora o lugar tivesse voltado ao normal, parecia um lugar completamente diferente.
+// 元に戻っただけのはずなのに、別の場所のようだった.
+<0251> Olhei para minha irmã.
+// 妹のことを見た.
+<0252> Na escuridão, eu podia ver manchas de lágrimas em suas bochechas.
+// 薄闇にさらしたほっぺたに、涙の跡が残っていた.
+<0253> \{Hijiri}"Você está com fome, não é..."
+// \{聖}「お腹、空いただろ…」
+<0254> Nenhuma resposta voltou.
+// 答えは返ってこない.
+<0255> \{Hijiri}"Vou fazer algo para você comer assim que chegarmos em casa."
+// \{聖}「帰ったら、何でも作ってやるぞ」
+<0256> Assim que disse isso, me lembrei que a geladeira estava vazia.
+// 言ったとたん、冷蔵庫の中が空っぽなのを思い出す.
+<0257> Mesmo assim, minha irmã sorri.
+// それでも姉は笑顔をつくる.
+<0258> \{Hijiri}"Claro, vai depender do que eu souber cozinhar."
+// \{聖}「お姉ちゃんにできる料理なら、だけど」
+<0259> Ainda não houve resposta.
+// 答えは返ってこない.
+<0260> Kano estava olhando fixamente para alguma coisa.
+// 妹は何かを一心に見つめていた.
+<0261> Alguma coisa dentro do pequeno e aconchegante santuário.
+// こぢんまりとした神社の本殿.
+<0262> Acima dos degraus...
+// 階段を登った先.
+<0263> Uma luz fraca podia ser vista pelas frestas da porta.
+// わずかな戸の隙間から、淡い光が漏れている.
+<0264> Um brilho misterioso, diferente de fogo ou luz elétrica, parecia envolver o ar da própria noite de verão.
+// 炎や電灯とは違う、夏の夜気そのものが滲んでいるかのような、不思議な輝き.
+<0265> Como se fosse uma chama que não podia ser apagada.
+// 取り戻せない何かさえ確かに思い出させるような、そんな光.
+<0266> \{Kano}"Onee-chan..."
+// \{佳乃}「お姉ちゃん…」
+<0267> Nós trocamos olhares.
+// 顔を見合わせる.
+<0268> Nos aproximamos do santuário com cautela.
+// どちらからともなく、恐る恐る近づく.
+<0269> A porta, que normalmente estava trancada, se abriu sem fazer barulho.
+// 普段は鍵のかかっているはずの扉は、音もなく開いた.
+<0270> E entramos no santuário principal de mãos dadas.
+// 手をつないだまま、本殿の中に入った.
+<0271> O ar cheirava a mofo, como se não tivesse sido mexido há centenas de anos.
+// 何百年も昔から身じろぎさえしたことのない、黴(かび)臭い闇の匂いがした.
+<0272> Havia um altar no final do corredor.
+// がらんとした空間の突き当たりに、祭壇があった.
+<0273> Na prateleira mais alta, algo brilhava vagamente.
+// いちばん上の棚で、何かがぼおっと光っていた.
+<0274> \{Kano}"Wow..."
+// \{佳乃}「うわぁ…」
+<0275> Minha irmã tinha encontrado.
+// 妹の声が、それを見つけた.
+<0276> Ali estava uma única pena.
+// 横たわっていたのは、一枚の羽根だった.
+<0277> Era uma pena de pássaro brilhante.
+// 輝く鳥の羽根.
+<0278> Estava emitindo uma luz suave que não era nem prateada nem branca.
+// 白とも銀色ともつかない、柔らかそうな光に包まれている.
+<0279> \{Kano}"É... uma pena mágica..."
+// \{佳乃}「魔法の、羽根だあ…」
+<0280> Fiquei sem saber o que responder.
+// 姉は何も答えない.
+<0281> Assim que vi a pena, eu pensei o mesmo.
+// 一目その羽根を見た時から、妹と同じことを考えていたからだ.
+<0282> A pena macia e sedosa tremeu convidativamente.
+// 絹のようになめらかな羽毛は、二人を誘うように慄(ふる)えている.
+<0283> Se você tiver isso, certamente seria capaz de voar.
+// これさえあれば、きっと空を飛べる.
+<0284> Talvez até pudesse ir visitar a nossa mãe...
+// お母さんのところにだって、本当に行けるかもしれない…
+<0285> \{Kano}"Hmm... Hmm? Só mais um pouquinho..."
+// \{佳乃}「んしょ…あれっ？ もうちょっとなのに～」
+<0286> Minha irmãzinha se esticou para tentar pegar a pena.
+// 背伸びしながら、羽根に手を伸ばす妹.
+<0287> Mas ela não conseguia alcançá-la, não importa o quanto tentasse.
+// どうしても届かない.
+<0288> Então eu pincei cuidadosamente o caule da pena e estendi para minha irmã.
+// 姉は羽根の軸をそっとつまむと、妹に差し出した.
+<0289> \{Hijiri}"Aqui..."
+// \{聖}「ほら…」
+<0290> Seus dedinhos tocaram a pena.
+// 幼い指が、羽根を受け取った.
+<0291> Naquele momento...
+// その瞬間.
+<0292> A pena sem vida tremeu.
+// 生命を持たないはずの羽根が、ざわりと波打った.
+<0293> Foi como se as memórias de seu tempo no céu tivessem sido revividas.
+// 空にいた頃の記憶を、取り戻したかのように.
+<0294> Uma luz feroz irrompeu dela preenchendo o ambiente.
+// 凶暴なほどの光が辺りに満ちる.
+<0295> Essa luz nos cegou momentaneamente.
+// 目が眩み、何も見えない.
+<0296> E então...
+// そして…
+<0297> \{Yukito}"O que aconteceu?"
+// \{Yukito}「…どうなったんだ？」
+<0298> \{Hijiri}"Não aconteceu nada."
+// \{聖}「何も起こらなかった」
+<0299> Hijiri disse simplesmente.
+// ただぽつりと、聖は言った.
+<0300> \{Hijiri}"Era o zelador do santuário nos iluminando com sua lanterna e gritando para que fôssemos embora."
+// \{聖}「神社の管理人に懐中電灯で照らされて、早く帰れと怒鳴られただけだ」
+<0301> \{Hijiri}"Colocamos a pena de volta no lugar original e fomos para casa."
+// \{聖}「羽根は元に戻して、二人で家に戻った」
+<0302> \{Hijiri}"Foi aí que Kano me perguntou no caminho de volta."
+// \{聖}「帰り道で、佳乃は言ったよ」
+<0303> \{Hijiri}"'Não posso mais ir até a mamãe, posso?'"
+// \{聖}「『お母さんのところには、もう行けないんだね』、そう言ったんだ」
+<0304> \{Yukito}"........."
+// \{Yukito}「………」
+<0305> \{Hijiri}"A partir do dia seguinte, Kano começou agir de forma estranha."
+// \{聖}「その翌日から、佳乃の様子がおかしくなった」
+<0306> \{Hijiri}"Ela andava por aí sem se lembrar o que tinha feito. E às vezes sussurrava umas frases sem sentido."
+// \{聖}「自分でも知らないうちに外を出歩いたり、意味がわからない独り言をつぶやくようになった」
+<0307> Me lembrei do que aconteceu com ela no santuário.
+// 神社での印象を、思い出していた.
+<0308> Naquela noite, Kano tava olhando pro céu com um olhar vazio.
+// 虚ろな視線で、空を見ていた佳乃.
+<0309> Recordei as palavras que ela murmurou.
+// その唇から漏れてきた言葉.
+<0310> '...assim como... as estrelas no céu...'
+// 『…たとえば…ほしのかず』
+<0311> '...assim como... as árvores na montanha...'
+// 『やまでは…きのかず…かやの…』
+<0312> Até agora, eu não tinha ideia do que isso significava.
+// 何を意味するかは、今もわからない.
+<0313> \{Hijiri}"Isso aconteceu diversas vezes."
+// \{聖}「そんなことが何度か続いた」
+<0314> Ela parou de falar e ficou me encarando.
+// 言葉を切り、俺のことを正面から見る.
+<0315> Tanto os olhos serenos de uma médica quanto os olhos ternos de uma irmã mais velha tavam presos naquele semblante.
+// 医者としての冷徹な瞳と、妹を想うやさしげな眼差し.
+<0316> Ambos tavam carregados de uma profunda tristeza.
+// そのどちらもが、深い愁いを帯びていた.
+<0317> \{Hijiri}"Em uma noite, acordei e percebi que Kano havia desaparecido."
+// \{聖}「深夜に起きて隣を見たら、佳乃がいなかった」
+<0318> \{Hijiri}"Ela era uma menina que não conseguia nem ir ao banheiro sozinha, então entrei em pânico e comecei a procurá-la."
+// \{聖}「一人ではトイレにもいけないような子だったからな.あわてて探したよ」
+<0319> \{Hijiri}"Encontrei Kano na sala de exames."
+// \{聖}「佳乃は診療室にいた」
+<0320> \{Hijiri}"Ela estava cortando o pulso com um bisturi que nosso pai havia esquecido de guardar."
+// \{聖}「父が片づけ忘れたメスを、自分の手首に押し当てていた」
+<0321> \{Yukito}"........."
+// \{Yukito}「………」
+<0322> Desviei o olhar de Hijiri.
+// 俺は視線を外した.
+<0323> A escuridão do crepúsculo invadia todos os quatro cantos da sala de exames.
+// 診察室の四隅に、夕闇がうずくまっている.
+<0324> Era como se esta casa abrigasse um sentimento de arrependimento.
+// それはまるで、この家に染み込んだ後悔を宿しているように見えた.
+<0325> \{Hijiri}"Eu agi rápido para que nada sério acontecesse com ela."
+// \{聖}「処置が早かったから、大事には至らなかった」
+<0326> \{Hijiri}"Mas aquela não era a Kano."
+// \{聖}「あの時、私は思ったよ」
+<0327> \{Hijiri}"Foi o que percebi naquele momento."
+// \{聖}「これは佳乃じゃない」
+<0328> \{Hijiri}"Era outra pessoa tomando o lugar dela."
+// \{聖}「別の誰かが、佳乃の振りをしているんだ、と…」
+<0329> Pensei em Kano novamente.
+// 佳乃のことを思いだしていた.
+<0330> Em seu sorriso brilhante e inocente com o qual ela sempre nos cumprimentava.
+// 俺たちに向けられる、屈託のない明るい笑顔.
+<0331> Se isso não pertencia a Kano, então a quem pertencia?
+// あれが佳乃のものでなくて、誰のものだというのだろう？
+<0332> No entanto, eu já havia percebido algo.
+// だが、俺は気づいていた.
+<0333> Aquela bandana em volta do pulso direito dela.
+// 佳乃が右手首に巻いたバンダナ.
+<0334> Era um acessório chamativo que não combinava com seu pulso fino.
+// 華奢な手首には不釣り合いなぐらい、よく目立つアクセサリー.
+<0335> \{Yukito}"Então... Sobre aquela bandana..."
+// \{Yukito}「そうすると、あのバンダナは…」
+<0336> Hijiri assentiu silenciosamente.
+// 訊ねると、聖は無言で頷いた.
+<0337> \{Hijiri}"Eu amarrei aquela bandana nela."
+// \{聖}「私があの子につけさせたものだ」
+<0338> \{Hijiri}"É uma bandana mágica."
+// \{聖}「『これは不思議なバンダナだ』」
+<0339> \{Hijiri}"'Se ela a mantiver no pulso até crescer, será capaz de usar magia.'"
+// \{聖}「『大人になるまで巻いていれば、魔法が使えるようになる』」
+<0340> \{Hijiri}"Até lá, ela não deve tirá-la."
+// \{聖}「『それまで、どんなことがあっても絶対に外さないように』」
+<0341> \{Hijiri}"Pelo menos foi o que eu disse a ela."
+// \{聖}「そう言い聞かせて」
+<0342> \{Hijiri}"Mesmo que ela tente cortar o pulso quando não estiver em si mesma, ela vai parar assim que ver a bandana."
+// \{聖}「無意識に手首を切ろうとしても、バンダナを見れば正気に返ることができる」
+<0343> \{Hijiri}"Essa era minha linha de pensamento quando eu ainda era jovem."
+// \{聖}「…子供心に、そう考えたんだ」
+<0344> Hijiri disse ironicamente.
+// 自嘲するように、聖は言った.
+<0345> Girando o assento, ela olhou pro crepúsculo pela janela.
+// 椅子をくるりと回して、窓の外の黄昏を見る.
+<0346> \{Hijiri}"Ela ficou muito feliz com a bandana."
+// \{聖}「あの子はすごく喜んだよ」
+<0347> \{Hijiri}"Ela sorriu e prometeu usá-la até crescer."
+// \{聖}「『大人になるまで絶対に取らないよ』って、にこにこ笑ってくれたよ…」
+<0348> \{Hijiri}"Kano não deve ter nenhuma lembrança do que aconteceu naquela noite."
+// \{聖}「あの日のことは、佳乃はほとんど覚えていないはずだ」
+<0349> \{Hijiri}"Mas ainda assim ela mantém essa promessa."
+// \{聖}「それでもあの子は、今も私の言いつけを守っている」
+<0350> \{Hijiri}"Kano nunca tiraria aquela bandana."
+// \{聖}「佳乃はあのバンダナを外さない」
+<0351> \{Hijiri}"Não, na verdade ela nem pode tirá-la."
+// \{聖}「いや、外せないんだ」
+<0352> \{Yukito}"........."
+// \{Yukito}「………」
+<0353> Não concordei com Hijiri.
+// それは違うと思った.
+<0354> Até Kano cresceria um dia.
+// 佳乃も、大人になる日が来る.
+<0355> Pode até acontecer neste verão.
+// もしかしたらそれは、今年の夏なのかもしれない.
+<0356> \{Hijiri}"E assim, decidi seguir os passos do meu pai."
+// \{聖}「そして、私は父の跡を継ぐことを決心した」
+<0357> \{Hijiri}"Se eu estudasse bastante e me tornasse médica, talvez um dia eu conseguisse curar Kano."
+// \{聖}「勉強して医者になれば、いつか佳乃の病気を治せると思ったからだ」
+<0358> Hijiri pegou um livro na mesa.
+// 聖は手を伸ばし、机から一冊の本を取った.
+<0359> Era um livro com um título escrito em um termo técnico que eu não conseguia entender.
+// 俺にはよくわからない、専門用語の書名.
+<0360> Ela deve ter lido várias e várias vezes. Dava pra perceber pelo estado de conservação do livro.
+// 何回も読み返されたせいだろう、表紙がぼろぼろになっているのがわかった.
+<0361> \{Hijiri}"Você já ouviu falar de 'transtorno de personalidade múltipla'?"
+// \{聖}「二重人格というのを知っているだろう？」
+<0362> \{Yukito}"Ouvir falar eu já ouvi, mas não faço a mínima ideia do que seja isso."
+// \{Yukito}「聞いたことはあるが、よくは知らない」
+<0363> \{Hijiri}"Traumas durante a infância podem fazer com que alguém desenvolva outra personalidade para escapar de memórias dolorosas."
+// \{聖}「子供の頃に抑圧された体験があると、それを別の人格にして、辛い記憶から逃れようとすることがあるらしい」
+<0364> \{Yukito}"Essa é a outra Kano?"
+// \{Yukito}「それが、『彼女』か？」
+<0365> \{Hijiri}"Isso mesmo."
+// \{聖}「そういうことになるな」
+<0366> Ficamos um tempo em silêncio.
+// 沈黙.
+<0367> \{Hijiri}"No entanto..."
+// \{聖}「だけどな…」
+<0368> Ela devolveu o livro volumoso ao seu lugar sem abri-lo.
+// 分厚い本を、開かないまま元に戻す.
+<0369> \{Hijiri}"Talvez eu sempre tenha acreditado que os sintomas de Kano não pudessem ser curados pela ciência médica."
+// \{聖}「あるいは私は、佳乃の症状は医学では治せないと思っているのかもしれない」
+<0370> Parecia que ela tava falando sozinha.
+// 独り言のような口調.
+<0371> A condição de Kano certamente não parecia um simples caso de transtorno de personalidade múltipla.
+// 佳乃が単なる二重人格だとは、俺も思えない.
+<0372> Minha impressão, após meus encontros com a outra Kano, foi que ela era algo além de uma outra personalidade.
+// 俺が断片的に『彼女』と接した印象に、人格という言葉は遠い.
+<0373> Era como uma máquina quebrada que havia sido deixada na chuva e, de repente, começou a se mover... ou algo assim.
+// 壊れて雨ざらしにされた機械が、何かの拍子に動き出した…そんな感じだった.
+<0374> Talvez nem a outra Kano tenha percebido que estava ali.
+// あるいは『彼女』は、自分がそこにいることさえ、わかっていないのかもしれない.
+<0375> Foi isso que senti.
+// そんな風に感じていた.
+<0376> \{Hijiri}"Naquela época, Kano fez um pedido a Deus."
+// \{聖}「あの時佳乃は、神様に願い事をした」
+<0377> \{Hijiri}"Mas esse desejo não poderia ser atendido."
+// \{聖}「叶うはずのない願い事だった」
+<0378> \{Hijiri}"É por isso que Kano..."
+// \{聖}「だから、佳乃は…」
+<0379> Ela queria dizer alguma coisa, mas sua voz falhou.
+// 何か言いたそうにして、そのまま言葉を濁す.
+<0380> Hijiri tava olhando pros hematomas no meu pescoço.
+// 聖の視線は、俺の首についた痣に注がれていた.
+<0381> Ela falou com uma certa relutância.
+// 身体の奧から絞り出すように、聖は言った.
+<0382> \{Hijiri}"Ela não foi a primeira a tocar naquela pena. Fui eu."
+// \{聖}「最初にあの羽根に触ったのは、あの子じゃない.私なんだ」
+<0383> \{Hijiri}"Também fui eu quem lhe disse que nossa mãe estava no céu."
+// \{聖}「母親は空にいると教えたのも私だ」
+<0384> \{Hijiri}"Por que, então? Por que tem que ser ela?"
+// \{聖}「それなのに、なぜあの子が…」
+<0385> \{Hijiri}"Por que ela é quem sofre as consequências?"
+// \{聖}「あの子だけが、罰を受けなければならないのだろう」
+<0386> Ela baixou o olhar pro chão.
+// 床に視線を落とす.
+<0387> A pergunta pairava no ar em meio ao cheiro de desinfetante.
+// 誰にも答えられない疑問が、かすかな消毒の匂いの中を漂う.
+<0388> Senti que precisava dizer algo a ela.
+// 何か声をかけなければ.
+<0389> No entanto, Hijiri havia retornado ao seu estado habitual.
+// そう思った時にはもう、いつもの聖に戻っていた.
+<0390> \{Hijiri}"Isso não era algo que um médico deveria dizer. Esqueça essa conversa."
+// \{聖}「医者の言う台詞ではなかったな.忘れてくれ」
+<0391> Ela riu, envergonhada.
+// 照れたように笑う.
+<0392> Mas eu tava pensando em algo completamente diferente.
+// だが、俺が考えていたのは、全く別のことだ.
+<0393> \{Yukito}"O que você disse pra Kano não foi nenhuma bobagem."
+// \{Yukito}「あんたが佳乃に教えたことだが、出鱈目じゃないだろ」
+<0394> Hijiri obviamente não tinha ideia do que eu queria dizer. Ela tava me dando um olhar vazio.
+// 意味がわからなかったんだろう.きょとんとした顔で見返してくる.
+<0395> Mas eu continuei. 
+// だが、俺は構わず続ける.
+<0396> \{Yukito}"Existe alguém no céu."
+// \{Yukito}「空に誰かがいる」
+<0397> \{Yukito}"Foi isso que me ensinaram também."
+// \{Yukito}「俺もずっと、そう言い聞かされてきた」
+<0398> \{Hijiri}"Quem diabos te ensinou essa bobagem?"
+// \{聖}「誰だ、そんな戯言を君に教えたのは」
+<0399> \{Yukito}"Minha mãe."
+// \{Yukito}「俺の母親だ」
+<0400> \{Hijiri}"........."
+// \{聖}「………」
+<0401> \{Yukito}"........."
+// \{Yukito}「………」
+<0402> \{Hijiri}"Sua mãe é uma sonhadora com uma imaginação fértil."
+// \{聖}「君のお母さんは、澄んだ心を持った永遠の夢追い人なんだなあ」
+<0403> Talvez já seja tarde demais para insistir nesse absurdo.
+// 今さら意味不明なフォローしても、遅い.
+<0404> \{Hijiri}"Não, estou falando sério. Apresente-me à sua mãe se tiver uma chance."
+// \{聖}「いや本当だ.機会があったらぜひ紹介してほしいぐらいだぞ」
+<0405> \{Yukito}"Não vai ser possível."
+// \{Yukito}「それは無理だな」
+<0406> \{Yukito}"Ela morreu quando eu era uma criança."
+// \{Yukito}「俺が小さい頃に死んだ」
+<0407> \{Hijiri}"Entendi..."
+// \{聖}「そうか…」
+<0408> Ela ficou em silêncio.
+// それきり、黙り込む.
+<0409> Tanto Hijiri quanto Kano deveriam entender.
+// 聖も佳乃も、知っているのだろう.
+<0410> Nenhuma palavra de consolo é eficaz pra alguém que perdeu um parente próximo.
+// 肉親を失った者にかける言葉など存在しないのだ.
+<0411> Olhamos pro céu vermelho de verão emoldurado pela janela.
+// 窓枠に切り取られた、茜色の夏空を仰ぐ.
+<0412> O que minha mãe me disse tantas vezes tava voltando à minha mente.
+// 幼い頃に何度も何度も聞かされた、母親の言葉が耳に戻ってくる.
+<0413> 'No céu, há uma garota com asas...'
+// 『この空の向こうには、翼を持った少女がいる』
+<0414> 'Ela está lá há muito tempo...'
+// 『それは、ずっと昔から』
+<0415> 'Ela está lá, mesmo agora...'
+// 『そして、今、この時も』
+<0416> E foi por isso que iniciei minha jornada.
+// だから俺は、今も旅をしている.
+<0417> Junto com o pequeno boneco que minha mãe me deixou.
+// 母親が遺した、ちっぽけな人形だけを連れて.
+<0418> \{Hijiri}"Ah, sim. Lembrei que Kunisaki-kun tem algum tipo de poder misterioso, não é?"
+// \{聖}「そうそう、Kunisaki君も不思議な力を持っているのだったな」
+<0419> Ela parecia ter realmente se esquecido disso.
+// 突然、思い出したように言ってきた.
+<0420> \{Yukito}"Antes que você fale qualquer coisa, já adianto que não há nenhum truque por trás disso."
+// \{Yukito}「断っておくが、あれには本当に種も仕掛けもない」
+<0421> \{Hijiri}"Uau... isso é incrível."
+// \{聖}「ほお、それはすごいな」
+<0422> Seu rosto me disse que ela não tava nem um pouco surpresa.
+// 全くすごいと思っていない顔で言う.
+<0423> \{Hijiri}"Se isso for verdade, então você está destinado a se tornar a grande estrela deste século."
+// \{聖}「それが本当なら、君は今頃世紀の大スターだ」
+<0424> \{Yukito}"Meu poder é apenas uma habilidade especial sem utilidade pra esta sociedade."
+// \{Yukito}「俺の力は、社会には貢献できないお茶目な特殊技能なんだ」
+<0425> \{Hijiri}"Não, isso não é verdade."
+// \{聖}「いや、そんなことはないぞ」
+<0426> Ela deu um tapinha no meu ombro.
+// 力強く言いながら、俺の肩をぽんぽんと叩いてくる.
+<0427> \{Hijiri}"Saiba que há muitas pessoas por aí que adorariam dissecar você. Como médica, posso te garantir isso."
+// \{聖}「君を解剖したいと思う奴は山ほどいる.医者の私が保証するぞ」
+<0428> \{Yukito}"Por que você acha que eu ficaria feliz em saber disso?"
+// \{Yukito}「そんなことを医者に保証してもらって、嬉しいと思うか？」
+<0429> \{Hijiri}"Foi só uma brincadeira. Não se preocupe com isso."
+// \{聖}「冗談だよ.心配するな」
+<0430> \{Hijiri}"Pena que sou apenas a médica de uma cidade pequena. Não tenho a habilidade nem os recursos para dissecar seu cérebro."
+// \{聖}「あいにく私は堅気の町医者だからな.脳を切開する技術も設備もない」
+<0431> Então é sério que você me dissecaria se tivesse habilidade e recursos?
+// …技術と設備があったら本気でやるんか、あんた？
+<0432> \{Yukito}"Por favor, diga que você não tem interesse em me dissecar."
+// \{Yukito}「せめて、『興味はない』と言ってほしいんだが」
+<0433> \{Hijiri}"Ah, não posso. Eu realmente estou interessada!"
+// \{聖}「興味は大ありだ」
+<0434> \{Hijiri}"Você já pensou em oferecer seu corpo para o avanço da ciência médica?"
+// \{聖}「君のこの魅力的な身体で、医学の進歩に貢献してみないか？」
+<0435> \{Yukito}"........."
+// \{Yukito}「………」
+<0436> \{Hijiri}"........."
+// \{聖}「………」
+<0437> Nós olhamos um pro outro.
+// 無言のまま、熱く見つめ合う女医と患者.
+<0438> Era definitivamente desconfortável ter meu corpo desejado dessa maneira.
+// こんな身体の求められ方は、いくらなんでも嫌すぎる.
+<0439> \{Hijiri}"Bem, vamos deixar a ciência médica de lado por enquanto."
+// \{聖}「まあ、医学の進歩はこっちに置いといてだ」
+<0440> Ela fez um gesto de "colocar de lado" com ambas as mãos.
+// 両手で『置いといて』のポーズをする.
+<0441> \{Hijiri}"O problema agora é a Kano."
+// \{聖}「今の問題は、佳乃のことだ」
+<0442> \{Yukito}"Você tem razão."
+// \{Yukito}「そうだな」
+<0443> \{Yukito}"Posso te perguntar uma coisa?"
+// \{Yukito}「…ひとつだけ、訊いていいか？」
+<0444> \{Hijiri}"Sim, vá em frente."
+// \{聖}「ああ、何でも訊いてくれ」
+<0445> \{Yukito}"O que você sentiu quando tocou naquela pena?"
+// \{Yukito}「羽根に触った時、どんな感じだったんだ？」
+<0446> Ela normalmente era calma e controlada, mas naquele momento seus olhos se arregalaram.
+// どんな時にも冷静な聖が、めずらしく目を丸くした.
+<0447> Mas a reação dela não foi inesperada.
+// 無理もない.
+<0448> Eu mesmo não sabia por que perguntei isso a ela.
+// 俺自身、なぜそんな質問をしたのかよくわからなかった.
+<0449> Hijiri colocou a mão no queixo e respondeu lentamente.
+// 顎に手を当てて考えた後、ゆっくりと聖は言った.
+<0450> \{Hijiri}"Para ser sincera, não me lembro muito daquela noite."
+// \{聖}「正直に言うと、あの晩のことはもうよく覚えていない」
+<0451> \{Hijiri}"Mas ainda me lembro do momento em que levantei aquela pena."
+// \{聖}「だが、あの羽根を持ち上げた時の印象は、まだ覚えているよ」
+<0452> Ela olhou pros dedos, como se estivesse revivendo aquele instante.
+// その瞬間を思い出すように、自分の指先を見つめる.
+<0453> \{Hijiri}"Tristeza."
+// \{聖}「悲しい」
+<0454> \{Hijiri}"Foi isso que senti quando toquei naquela pena."
+// \{聖}「羽根に触れた時、私はそう感じた」
+<0455> \{Yukito}"Tristeza, huh...?"
+// \{Yukito}「悲しい、か…」
+<0456> \{Hijiri}"Foi isso."
+// \{聖}「だが、それだけの話だ」
+<0457> \{Hijiri}"A pena não emitiu nenhuma luz. Nada de anormal aconteceu comigo também."
+// \{聖}「羽根は光りはしなかったし、私にも特に異状はない」
+<0458> \{Hijiri}"De acordo com o zelador, outras pessoas já tocaram naquela pena, mas Kano foi a primeira a sentir algo."
+// \{聖}「神社の管理人によると、羽根に触れた者は他にもいるが、佳乃のような例は聞いたこともないそうだ」
+<0459> Era o que o senso comum diria em uma situação como essa.
+// 常識的に考えれば、そうなのだろう.
+<0460> No entanto, ainda tava curioso pra saber mais.
+// しかし俺は、こう訊かずにはいられなかった.
+<0461> \{Yukito}"Afinal, o que é essa pena?"
+// \{Yukito}「結局、その羽根は何なんだ？」
+<0462> \{Hijiri}"Algum tipo de relíquia antiga. Não sei os detalhes."
+// \{聖}「神社に古くから祀(まつ)られている御神体、ということだが、詳しいところはわからない」
+<0463> \{Yukito}"Entendi..."
+// \{Yukito}「そうか…」
+<0464> Tinha algo me incomodando.
+// 俺の頭の中で、何かが引っかかっている.
+<0465> Uma pena branca brilhante.
+// 白く輝く羽根.
+<0466> Uma pena que tava ali há eras.
+// 昔からそこにある羽根.
+<0467> Uma pena que poderia levar alguém ao céu.
+// 空に連れていってくれる羽根.
+<0468> De onde veio...?
+// それは、もともと…
+<0469> \{Hijiri}"Há algo que me preocupa mais."
+// \{聖}「それより、気になっていることがある」
+<0470> O tom sério da voz de Hijiri me trouxe de volta à realidade.
+// 真剣な聖の声が、俺を現実に引き戻した.
+<0471> \{Hijiri}"A outra Kano está aparecendo com mais frequência ultimamente."
+// \{聖}「最近、『彼女』が現れる頻度が多くなっている」
+<0472> \{Hijiri}"Sua presença também está se tornando mais distinta."
+// \{聖}「『彼女』の現れ方も、今までにないぐらいはっきりとしている」
+<0473> \{Hijiri}"Agora ela está até dando poderes incomuns a Kano."
+// \{聖}「常識ではありえない力を、佳乃に与えてしまうほどに」
+<0474> Não consegui entender o que ela quis dizer com isso.
+// 最後の言葉の意味がわからなかった.
+<0475> Hijiri apontou pro meu pescoço.
+// 無言のままでいると、聖は俺の首を指し示した.
+<0476> \{Hijiri}"Essa lesão não poderia ser causada apenas com a força de Kano."
+// \{聖}「その傷だが、ただ手で絞めただけではそんな風に跡は残らない」
+<0477> \{Hijiri}"Não saberei exatamente até fazer um exame detalhado, mas parece que já está inflamando."
+// \{聖}「詳しく検査してみなければわからないが、炎症に近いものだと思う」
+<0478> \{Hijiri}"O que quero dizer é que não são apenas danos à pele. Há também ferimentos internos."
+// \{聖}「つまりそれは外傷ではなく、内的な症状が誘発されているということなんだ」
+<0479> \{Yukito}"........."
+// \{Yukito}「………」
+<0480> Levei algum tempo pra compreender o que ela tava dizendo.
+// 何を言っているのか理解するのに、かなりの時間がかかった.
+<0481> Mais uma vez, tracei aquelas cicatrizes no meu pescoço.
+// もう一度、首の傷痕をなぞってみた.
+<0482> Não foram os dedos de Kano que me feriram dessa maneira.
+// 実際に俺を傷つけたのは、佳乃の指ではない.
+<0483> Os poderes desconhecidos de Kano causaram feridas internas no meu pescoço.
+// 得体の知れない佳乃の『力』が、俺の首に内側から傷痕をつけた…
+<0484> \{Yukito}"Como isso aconteceu?"
+// \{Yukito}「なぜそんなことになるんだ？」
+<0485> \{Hijiri}"Eu também não sei."
+// \{聖}「わからない」
+<0486> Hijiri disse.
+// あっさりと、聖は言い捨てた.
+<0487> Como médica, essa incapacidade de poder fornecer um diagnóstico preciso devia ser um fardo pra ela.
+// 曖昧な表現を許さないその態度が、医師という立場の重さなのだろうと思った.
+<0488> \{Hijiri}"Estou realmente preocupada."
+// \{聖}「私は不安なんだ」
+<0489> \{Hijiri}"O que vai acontecer com Kano nesse ritmo?"
+// \{聖}「このままでは、佳乃はどうなってしまうのか…」
+<0490> Sentada na cadeira, ela abaixou a cabeça.
+// 椅子に座ったまま、うなだれる.
+<0491> Essa foi a primeira vez que vi Hijiri parecer tão insegura de si mesma.
+// 初めて聞く、聖の弱音.
+<0492> A gola do seu jaleco surrado brilhou momentaneamente.
+// 着古した白衣の襟に、残光が染み入っていく.
+<0493> Após alguns segundos de silêncio, Hijiri levantou a cabeça.
+// 何秒かの沈黙の後、聖は顔を上げた.
+<0494> Ela se espreguiçou e então se virou pra mim.
+// いつものように背筋を伸ばし、真っ直ぐ俺に向き直る.
+<0495> \{Hijiri}"Kunisaki-kun."
+// \{聖}「Kunisaki君」
+<0496> \{Hijiri}"Eu tenho um pedido."
+// \{聖}「君に頼みがある」
+<0497> \{Yukito}"Não tenho certeza se posso ajudar você."
+// \{Yukito}「頼まれても、聞くかどうかはわからないぞ」
+<0498> \{Hijiri}"Proteja Kano, por favor."
+// \{聖}「佳乃のことを守ってやってくれ」
+<0499> Ela abaixou a cabeça novamente.
+// そのまま頭を下げる.
+<0500> Olhei pra porta da sala de exames sem dizer uma palavra.
+// 俺は何も言わず、診察室の扉に視線を巡らした.
+<0501> Então pensei na escuridão e na pequena cidade litorânea que ficava do outro lado da porta.
+// その向こうにある薄闇と、ちっぽけな海辺の町のことを想った.
+<0502> Esta clínica se tornou meu reduto.
+// いつの間にか、俺の根城になってしまった診療所.
+<0503> Aqui e ali havia vestígios da vida dessas irmãs próximas.
+// 仲のいい姉妹の営みが、そこかしこに刻まれている.
+<0504> Eu olhei pro teto.
+// 天井を見上げる.
+<0505> Essas palavras ainda atormentavam meus ouvidos como um sussurro incessante.
+// 耳の奧、絶えず俺に囁いているあの言葉があった.
+<0506> No céu, há uma garota com asas...
+// …この空の向こうには、翼を持った少女がいる.
+<0507> Ela está lá há muito tempo...
+// …それは、ずっと昔から.
+<0508> Ela está lá, mesmo agora...
+// …そして、今、この時も.
+<0509> Isso mesmo.
+// そうだ.
+<0510> Estou em uma jornada e sou apenas um andarilho.
+// 俺は旅の途中で、俺は余所者でしかない.
+<0511> Não havia nada que eu pudesse fazer por Kano.
+// 俺が佳乃にしてやれることなんて、何もないのだろう.
+<0512> Era nisso que eu acreditava. Mas não foi isso que disse a Hijiri.
+// そう思ったのに、俺は別の言葉を伝えていた.
+<0513> \{Yukito}"Me dê algum tempo pra pensar sobre isso."
+// \{Yukito}「せめて期限を決めてくれ」
+<0514> \{Hijiri}"Tudo bem. Nesse caso..."
+// \{聖}「そうだな.なら…」
+<0515> \{Hijiri}"Você tem até o dia em que ela tirar a bandana."
+// \{聖}「あの子がバンダナを外せる日まで」
+<0516> \{Hijiri}"Embora esse dia possa nunca chegar."
+// \{聖}「そんな日は、来ないのかもしれないが」
+<0517> Ela acrescentou brincando.
+// 冗談めかして付け加えた.
+<0518> Seu sorriso calmo não conseguiu esconder sua melancolia.
+// 淋しげと言うには、あまりにも冷静な笑顔だった.
+<0519> Naquela noite...
+// その夜.
+<0520> Eu tava sentado sozinho no sofá da sala de recepção.
+// 俺は一人、待合室のソファーに腰を下ろしていた.
+<0521> Tudo tava em silêncio.
+// 静かだった.
+<0522> As janelas fechadas e o ar condicionado desligado.
+// 窓は閉め切り、クーラーもついていない.
+<0523> Havia um frio estranho no ar.
+// 空気の底を漂うような、不思議な冷たさがあった.
+<0524> Se eu apurasse os ouvidos, conseguia ouvir o som dos insetos à distância.
+// 耳を澄ませば、遠くから虫の鳴き声が聞こえてくる.
+<0525> \{Kano}"Yukito-kun..."
+// \{佳乃}「…Yukitoくん」
+<0526> \{Yukito}"Hmm?"
+// \{Yukito}「ん？」
+<0527> Kano tava parada na escuridão.
+// 薄闇の中、佳乃がぽつんと立っていた.
+<0528> \{Kano}"O que há de errado? Por que você não acendeu as luzes?"
+// \{佳乃}「どうしたのぉ、電気もつけないで」
+<0529> Ela parecia preocupada.
+// 心配そうな顔.
+<0530> \{Yukito}"Ah... Eu tava apenas pensando em algo."
+// \{Yukito}「…いや、少し考えごとをしてただけだ」
+<0531> \{Kano}"Sério?"
+// \{佳乃}「そうなの？」
+<0532> \{Yukito}"Sim."
+// \{Yukito}「ああ」
+<0533> Observei atentamente o rosto de Kano.
+// 佳乃の顔をじっと見つめた.
+<0534> Eu ainda precisava de algum tempo para reconhecer o que vi.
+// 見たことを、見たままに受け止めるには、まだ時間が足りなかった.
+<0535> Essa garota que tava diante de mim.
+// 俺の目の前にいる少女.
+<0536> Kano Kirishima.
+// 霧島佳乃.
+<0537> \{Yukito}"Você tá se sentindo bem?"
+// \{Yukito}「…体、大丈夫か」
+<0538> \{Kano}"Sim. Estou bem agora."
+// \{佳乃}「うん.もう大丈夫だよぉ」
+<0539> \{Kano}"Desculpe por fazer você se preocupar."
+// \{佳乃}「ごめんね、心配ばっかりかけて」
+<0540> O sorriso de Kano parecia distante esta noite.
+// そう答える佳乃の笑顔が、今夜はやけに遠いものに思えた.
+<0541> \{Yukito}"Sem problemas."
+// \{Yukito}「…大したことじゃない」
+<0542> Estendi minha mão direita.
+// 右手を伸ばす.
+<0543> Meus dedos encontraram sua cabeça e bagunçaram seu cabelo.
+// 佳乃の頭に指を置き、くしゃっと撫でた.
+<0544> \{Kano}"Ok..."
+// \{佳乃}「うん…」
+<0545> Ela assentiu, com minha mão ainda em sua cabeça.
+// 俺の手を頭の上に乗せたまま、小さく頷く.
+<0546> Kano não se lembrava de nada do que aconteceu ontem à noite.
+// 昨夜に起きたことを、佳乃は何ひとつ覚えていなかった.
+<0547> Tudo o que restou pra ela foi uma lacuna em sua memória.
+// 佳乃に残っているのは、ただ、空白の時間だけだった.
+<0548> Eu não podia perguntar nada pra ela sobre isso.
+// 俺はなにも訊くことができないでいた.
+<0549> Se eu fizesse isso, tudo poderia desabar.
+// 訊いてしまえば、すべてが音をたてて崩れてしまいそうな気がした.
+<0550> \{Kano}"Ei, Yukito-kun."
+// \{佳乃}「…ねえ、Yukitoくん」
+<0551> \{Kano}"Como está sua lesão? Dói?"
+// \{佳乃}「けが、だいじょうぶ？ 痛くない？」
+<0552> Ela olhou com preocupação para os arranhões azul-escuros no meu pescoço.
+// 首筋に青黒く残った爪痕をまじまじと見つめながら、心配そうな顔をする.
+<0553> Foi isso que Hijiri lhe contou ontem à noite.
+// 昨夜のことを、聖はこう説明していた.
+<0554> Kano teve novamente um caso de perda de memória no santuário.
+// 佳乃は神社でまた『記憶喪失』になった.
+<0555> Quando tentei segurá-la, caí da escada e bati o pescoço.
+// ふらついたところを助けようとして、俺は階段を転がり落ち、首を打ち付けた.
+<0556> Não era uma explicação realmente convincente.
+// かなり無理がある説明だ.
+<0557> Mesmo assim, Kano não duvidou de sua irmã mais velha.
+// だが、姉の言葉に佳乃が疑問を抱くはずがなかった.
+<0558> \{Yukito}"Não foi nada. Já tô bem."
+// \{Yukito}「なんともない、大丈夫だ」
+<0559> \{Kano}"........."
+// \{佳乃}「………」
+<0560> \{Kano}"Hmm... Yukito-kun."
+// \{佳乃}「…あのね、Yukitoくん」
+<0561> \{Yukito}"Sim?"
+// \{Yukito}「ん？」
+<0562> \{Kano}"Não, esquece."
+// \{佳乃}「ううん、なんでもない」
+<0563> \{Yukito}"Tem certeza?"
+// \{Yukito}「…そっか」
+<0564> \{Kano}"Sim."
+// \{佳乃}「うん」
+<0565> \{Yukito}"Tá ficando tarde. É melhor você ir dormir."
+// \{Yukito}「じゃあ、もう遅いから、さっさと寝ろよ」
+<0566> \{Yukito}"Você ainda tá se recuperando."
+// \{Yukito}「いちおう、おまえは病み上がりなんだからな」
+<0567> \{Kano}"Ok... vou fazer isso."
+// \{佳乃}「うん…わかったよぉ」
+<0568> Ela respondeu com um sorriso tranquilo.
+// 安らかな笑顔を返す.
+<0569> Eu vi meu reflexo nos olhos de Kano.
+// 佳乃の瞳の中に、俺自身が映っている.
+<0570> \{Kano}"Você pode me dar boa noite?"
+// \{佳乃}「…じゃあ、おやすみなさいって言ってもらえるかなぁ」
+<0571> \{Yukito}"Claro."
+// \{Yukito}「よし」
+<0572> \{Yukito}"Boa noite. Ok?"
+// \{Yukito}「おやすみなさい、だ」
+<0573> \{Kano}"Você não precisa adicionar esse 'ok'."
+// \{佳乃}「だ、は余分だよぉ」
+<0574> \{Yukito}"Boa noite."
+// \{Yukito}「おやすみ」
+<0575> Dei outro tapinha na cabeça dela.
+// 言いながら、俺はもう一度、佳乃の頭を撫でた.
+<0576> \{Yukito}"Você realmente deveria ir dormir agora."
+// \{Yukito}「本当に早く寝ろよ」
+<0577> \{Kano}"Obrigada. Boa noite."
+// \{佳乃}「ありがとっ.じゃ、おやすみなさ～い」
+<0578> *Clique!*
+// ぱたんっ.
+<0579> A porta da sala de recepção se fechou com um clique suave.
+// 居間につながる扉が、小さな音をたてて閉まった.
