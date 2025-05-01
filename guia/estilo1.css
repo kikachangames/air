@@ -41,8 +41,8 @@ nav {
 
 main {
   color: #666;
-	padding-left:25px;
-	padding-right: 25px;
+	padding-left: 0px;
+	padding-right: 0px;
 	padding-bottom: 50px;
 	text-align: justify;
 }
