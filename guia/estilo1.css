@@ -19,7 +19,7 @@ header {
   display: flex;
   text-align: left;
   justify-content: left;
-  align-items: center;
+  align-items: left;
 }
 
 nav {
