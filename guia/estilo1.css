@@ -5,6 +5,11 @@ body {
 	font-family: Helvetica, Arial, sans-serif;
 }
 
+#thumb {
+    heigh:260px;
+    width:260px;
+}
+
 #container {
 	margin:0 auto;
 	width:80%;
