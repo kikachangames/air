@@ -18,13 +18,13 @@ header {
   color: #666;
   display: flex;
   text-align: left;
-  justify-content: center;
+  justify-content: left;
   align-items: center;
 }
 
 nav {
   color: #666;
-	font-size:0.9rem;
+  font-size:0.9rem;
   display: flex;
   justify-content: center;
 }
