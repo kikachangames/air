@@ -38,11 +38,15 @@ main {
 }
 
 a {
-   color:#000000;
-   text-decoration: underline;
+   color:#000;
+   text-decoration: none;
    /*display:block;
    padding: 20px;*/
  }
+
+a:hover {
+  text-decoration: underline;
+}
  
 ul {
   list-style-type: none;
