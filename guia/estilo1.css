@@ -10,6 +10,11 @@ body {
     width:260px;
 }
 
+img {
+  max-width: 100%;
+  height: auto;
+}
+
 #container {
 	margin:0 auto;
 	width:80%;
