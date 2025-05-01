@@ -17,9 +17,9 @@ header {
   font-size: 1rem;
   color: #666;
   display: flex;
-  /*text-align: center;
+  text-align: left;
   justify-content: center;
-  align-items: center;*/
+  align-items: center;
 }
 
 nav {
